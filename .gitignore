@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Google Drive para Desktop (arquivos temporários de sincronização)
+.tmp.drive*
+*.gdownload
+desktop.ini
+
+# Claude Code (config local da máquina)
+.claude/settings.local.json
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
