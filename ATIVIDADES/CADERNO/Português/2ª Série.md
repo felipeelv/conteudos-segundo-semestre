@@ -138,7 +138,11 @@ b) Não me diga isso.
 
 **3.** Elabore uma tabela com as três colocações pronominais.
 
-Para cada uma, inclua a condição que a exige, um exemplo próprio e um caso em que ela seria incorreta.
+A tabela precisa trazer, para cada uma das três colocações:
+
+- a condição que a exige;
+- um exemplo próprio;
+- um caso em que ela seria incorreta.
 
 ---
 
@@ -183,13 +187,24 @@ d) *nunca haviam / enviado* + **nos** — palavra atrativa e particípio
 
 **2.** Elabore um fluxograma do procedimento de decisão da colocação do pronome átono em locução verbal.
 
-O fluxograma precisa partir da leitura da frase, chegar às posições aceitas, e trazer todas as setas rotuladas com a condição que leva a cada caminho. Nomeie as entradas — a frase e a locução — e as saídas — as posições aceitas e as recusadas.
+O fluxograma precisa trazer:
+
+- a leitura da frase como ponto de partida e as posições aceitas como chegada;
+- todas as setas rotuladas com a condição que leva a cada caminho;
+- as entradas nomeadas — a frase e a locução;
+- as saídas nomeadas — as posições aceitas e as recusadas.
 
 ---
 
 **3.** Elabore uma tabela de contraste entre as três combinações de locução verbal: auxiliar com infinitivo, auxiliar com gerúndio e auxiliar com particípio.
 
-Compare, em cada uma, as posições aceitas para o pronome, as posições recusadas e um exemplo próprio. A última linha da tabela precisa dizer onde as três se comportam do mesmo modo.
+Compare as três por três critérios:
+
+- as posições aceitas para o pronome;
+- as posições recusadas;
+- um exemplo próprio.
+
+A última linha da tabela precisa dizer onde as três se comportam do mesmo modo.
 
 ---
 
@@ -197,7 +212,11 @@ Compare, em cada uma, as posições aceitas para o pronome, as posições recusa
 
 *"Eu vou te mandar o arquivo hoje. Não tinha te avisado antes porque estava esperando o retorno. A gente já estava te procurando."*
 
-Ao lado da versão reescrita, monte um quadro de três colunas — a forma original, a forma reescrita e a razão gramatical da mudança.
+Ao lado da versão reescrita, monte um quadro de três colunas:
+
+- a forma original;
+- a forma reescrita;
+- a razão gramatical da mudança.
 
 **Responda, na linha final do quadro:** qual das formas originais já circula na escrita contemporânea?
 

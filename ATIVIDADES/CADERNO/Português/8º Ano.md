@@ -75,18 +75,22 @@ d) Ela permaneceu calada.
 
 **2.** Explique o critério que decide em qual das duas frases abaixo o verbo é de ligação.
 
-As duas têm o mesmo verbo. Escreva também um terceiro exemplo, seu, com o mesmo verbo nas duas funções.
+As duas têm o mesmo verbo.
 
 a) Ele ficou em casa.
 b) Ele ficou nervoso.
 
-**Responda:** em qual das duas o verbo é de ligação, e qual critério decide?
+**Responda:** em qual das duas o verbo é de ligação, e qual critério decide? E que terceiro exemplo, de sua autoria, traz o mesmo verbo nas duas funções?
 
 ---
 
 **3.** Elabore uma tabela com os três tipos de predicado.
 
-Além do núcleo de cada um, inclua uma coluna com o gênero textual em que ele predomina e outra explicando por quê.
+A tabela precisa trazer, para cada um dos três tipos:
+
+- o núcleo;
+- o gênero textual em que ele predomina;
+- a razão desse predomínio.
 
 ---
 
@@ -133,7 +137,11 @@ Escreva de sua autoria uma oração de cada gênero para sustentar o que você a
 
 **3.** Elabore uma tabela que relacione três gêneros textuais aos tipos de sujeito e predicado predominantes em cada um.
 
-Inclua uma coluna com o efeito que essa escolha produz no leitor.
+A tabela precisa trazer, para cada um dos três gêneros:
+
+- o tipo de sujeito predominante;
+- o tipo de predicado predominante;
+- o efeito que essa escolha produz no leitor.
 
 ---
 

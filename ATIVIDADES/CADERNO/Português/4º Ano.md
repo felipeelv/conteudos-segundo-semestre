@@ -47,7 +47,7 @@ As colunas precisam permitir saber qual dos dois usar em cada situação.
 
 Um estudante escreveu: *"Para eu não é errado, porque eu sou quem faz a ação."*
 
-**Responda:** qual é o erro da afirmação, e qual é a regra certa? Escreva um exemplo que mostre a regra funcionando.
+**Responda:** qual é o erro da afirmação, e qual é a regra certa? E que exemplo mostra a regra funcionando?
 
 ---
 
@@ -82,7 +82,7 @@ b) Pedro encontrou João e disse a ele que estava atrasado.
 
 Procure o texto em livro, revista, jornal, página da internet ou no acervo da escola. Copie um parágrafo dele e circule todos os pronomes que retomam algum nome. No fim, escreva de onde veio o texto.
 
-**Responda:** ao lado de cada pronome circulado, a quem ele se refere?
+**Responda, ao lado de cada pronome circulado:** a quem ele se refere?
 
 ---
 
@@ -137,7 +137,11 @@ b) O menino é rápido.
 
 **3.** Elabore uma tabela com advérbios de tempo e de lugar.
 
-Além dos advérbios, a tabela precisa ter uma coluna com a pergunta que cada um responde e outra com uma frase sua em que ele apareça.
+A tabela precisa ter:
+
+- os advérbios de tempo e de lugar;
+- a pergunta que cada um responde;
+- uma frase sua em que ele apareça.
 
 ---
 
@@ -221,7 +225,7 @@ Um estudante escreveu: *"As atletas treinaram muitas."*
 
 Procure o texto em livro, revista, jornal, página da internet ou no acervo da escola. Copie três frases dele que tenham advérbio de modo, de intensidade ou de negação, sem repetir o mesmo tipo nas três. No fim, escreva de onde veio o texto.
 
-**Responda:** ao lado de cada uma das três frases, qual pergunta o advérbio responde?
+**Responda, ao lado de cada uma das três frases:** que pergunta o advérbio responde?
 
 ---
 

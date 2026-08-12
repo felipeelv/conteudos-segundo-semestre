@@ -31,7 +31,11 @@ b) Fomos ao cinema.
 
 **3.** Elabore uma tabela com os três tipos de sujeito estudados.
 
-Além do número de núcleos, a tabela precisa ter uma coluna com o teste que reconhece o tipo em uma frase nova e outra com a pista que o verbo dá.
+A tabela precisa ter, para cada um dos três tipos:
+
+- o número de núcleos;
+- o teste que reconhece o tipo em uma frase nova;
+- a pista que o verbo dá.
 
 ---
 
@@ -87,7 +91,11 @@ b) Ele ficou triste.
 
 **3.** Elabore uma tabela com os três tipos de predicado.
 
-Além da informação central de cada um, a tabela precisa ter uma coluna com o teste que classifica uma frase nova e outra com um exemplo seu.
+A tabela precisa ter, para cada um dos três tipos:
+
+- a informação central que ele traz;
+- o teste que classifica uma frase nova;
+- um exemplo seu.
 
 ---
 
@@ -142,7 +150,11 @@ b) A caixa de bombons acabaram.
 
 **3.** Elabore uma tabela com os casos de concordância estudados.
 
-Além do caso, a tabela precisa ter uma coluna com um exemplo seu e outra com o erro que costuma aparecer nesse caso.
+A tabela precisa ter, para cada caso:
+
+- o caso de concordância;
+- um exemplo seu;
+- o erro que costuma aparecer nesse caso.
 
 ---
 
@@ -167,4 +179,4 @@ Um estudante escreveu: *"A gente vamos ao parque."*
 
 Procure o texto em livro, revista, jornal, página da internet ou no acervo da escola. Copie três frases dele e, em cada uma, sublinhe o sujeito e circule o verbo. No fim, escreva de onde veio o texto.
 
-**Responda:** em cada uma das três frases, o que no verbo mostra que ele acompanha o sujeito sublinhado?
+**Responda, ao lado de cada uma das três frases:** o que no verbo mostra que ele acompanha o sujeito sublinhado?

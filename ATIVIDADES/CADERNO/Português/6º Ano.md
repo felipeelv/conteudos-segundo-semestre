@@ -78,7 +78,11 @@ Procure o texto em jornal, revista, livro, página da internet ou no acervo da e
 
 **3.** Elabore uma tabela que distinga anáfora e catáfora, preenchida a partir dos três casos abaixo.
 
-Em cada linha, registre o pronome, o termo a que ele se liga e se a retomada é anafórica ou catafórica.
+Cada linha precisa registrar:
+
+- o pronome;
+- o termo a que ele se liga;
+- se a retomada é anafórica ou catafórica.
 
 a) *O diretor chegou. **Ele** pediu silêncio.*
 b) *Só peço **isto**: que ninguém saia antes do fim.*
@@ -136,7 +140,11 @@ b) vender
 
 **3.** Elabore uma tabela com as três conjugações.
 
-Além da vogal temática e de exemplos, inclua uma coluna com uma forma em que as três se distinguem claramente.
+A tabela precisa trazer, para cada uma das três conjugações:
+
+- a vogal temática;
+- exemplos;
+- uma forma em que as três se distinguem claramente.
 
 ---
 
@@ -191,7 +199,13 @@ b) Amanhã eu **viajarei**.
 
 ---
 
-**3.** Elabore uma tabela que contraste o futuro do presente e o futuro do pretérito, comparando a terminação, o sentido e um exemplo próprio de cada um.
+**3.** Elabore uma tabela que contraste o futuro do presente e o futuro do pretérito.
+
+Compare os dois por três critérios:
+
+- a terminação;
+- o sentido;
+- um exemplo próprio de cada um.
 
 A última linha da tabela precisa dizer onde os dois se parecem.
 

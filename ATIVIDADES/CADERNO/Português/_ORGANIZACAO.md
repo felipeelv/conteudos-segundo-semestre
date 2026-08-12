@@ -446,3 +446,25 @@ Duas notas sobre o banco, para a próxima revisão do §6:
 
 - **`EX`/R1 continua sem verbo próprio fora do cálculo.** `calcule` resolveu o exercício de conta, mas não o exercício metalinguístico, que é o `EX` desta disciplina inteira. As 56 questões de `EX` foram abertas com `Classifique`, `Explique`, `Reescreva`, `Decida`, `Analise` e `Elabore` — todos do banco, nenhum listado como compatível com R1. É a mesma lacuna já registrada no `CLAUDE.md` da raiz, agora medida: **56 questões**.
 - **`ERR` em EF1 exige a perífrase.** *"Explique o que está errado"* mantém `Explique` (banco, R11) e evita `diagnostique` no 4º e no 5º Ano. Vale acrescentar a perífrase ao §6 como forma canônica de `ERR` em EF1, já que ela é a mesma usada em Estudos Sociais.
+
+### Refino §7.1 v2 — 12/08
+
+Português entrou nesta rodada como a única disciplina com as **oito folhas já no molde** — a reformatação de `4865cfd` fechou aqui, e a passada de agora é refino puro. Foi também a que menos mudou: **23 das 174 questões**, quase todas de forma.
+
+Contagem inalterada: **8 arquivos-ano · 28 capítulos · 174 questões**. Verificação determinística contra `git HEAD`, folha a folha: nenhum número perdido, nenhuma citação de estudante perdida e **nenhum trecho em itálico perdido** — a disciplina é a que mais depende deles (as frases-exemplo `*"Beto encontrou Lucas na praça"*`, `*Far-se-á o pagamento*`, `*Apenas R$ 99,90*`), e qualquer um que sumisse deixaria a questão sem objeto. Comando corrido: **0**, como já estava. Checagem 2: **174 de 174** com verbo do banco §6 no comando.
+
+**Marcador de caso (b): 18 questões — e o padrão é quase perfeito.** Dezesseis das dezoito são a **Q3 de cada capítulo**, que em Português é sempre a `TAB`: a disciplina montou os capítulos com a tabela sempre na terceira posição, e a especificação das colunas vinha invariavelmente encadeada na fórmula *"Além de X, inclua uma coluna com Y e outra com Z"*. São três requisitos paralelos numa frase só — exatamente o caso que o marcador resolve. As outras duas são o fluxograma de decisão da colocação pronominal (2ª Série Cap. 4 Q2, quatro requisitos) e o quadro de três colunas do Cap. 4 Q4.
+
+Onde a `TAB` tinha **dois** requisitos, ficou em prosa: 6º Cap. 1 Q2, 7º Cap. 2 Q3, 8º Cap. 1 Q3, 9º — nenhuma —, 1ª Cap. 1 Q2 e Cap. 3 Q3, 2ª Cap. 1 Q3 e Cap. 2 Q3. O critério é o mesmo das outras disciplinas: três ou mais.
+
+**Complemento de localização: 3 questões.** 4º Cap. 2 Q3 (`ao lado de cada pronome circulado`), 4º Cap. 4 Q6 e 5º Cap. 3 Q6 (`ao lado de cada uma das três frases`) traziam a localização **dentro** do corpo da pergunta, onde ela se perde. Subiu para o rótulo. A 2ª Série já usava o recurso em dois pontos (`Responda, na linha final do quadro:` e `Responda, embaixo das duas versões:`) desde antes de a regra existir.
+
+**Uma divergência folha × grade, encontrada e corrigida.** `8º Ano · Cap. 2 · Q2` (`EX.d`/R1): a grade diz *"o terceiro exemplo é o que discrimina"*, e a folha pedia esse terceiro exemplo **na execução** — *"Escreva também um terceiro exemplo, seu, com o mesmo verbo nas duas funções"* —, enquanto o `Responda:` cobrava só qual das duas frases tem verbo de ligação e o critério. O item que decide a nota estava fora da entrega. Passou para o `Responda:`. Tipo, rubrica e critério preservados; **nenhuma linha da grade mudou**.
+
+É o mesmo padrão que a checagem de 12/08 encontrou em 39 questões, e sobreviveu a ela aqui porque naquela passagem se comparou o `Responda:` com o critério — e neste caso a exigência **existia** na questão, só estava no bloco errado. Fica registrado para as próximas: conferir se o que a grade mede está no `Responda:`, não apenas se está em algum lugar da questão.
+
+**Um imperativo virou pergunta:** 4º Cap. 1 Q5, *"Escreva um exemplo que mostre a regra funcionando"* → *"E que exemplo mostra a regra funcionando?"*.
+
+**Blocos ao final:** `Responda:` **105** · `Confira você mesmo:` **42** · `Antes de começar, responda por escrito:` e `Registre:` **0** — a disciplina não tem `INV` no pool, e nenhum bloco foi criado ou removido nesta passada.
+
+**As pendências registradas nas seções anteriores continuam abertas**, todas de escopo ou de tipo, nenhuma de formulação: as três exceções de trava da seção 4 (T3, T6, T5); as duas `RET.b` de mudança de registro sem destinatário nomeado (6º Cap. 1 Q3 e 1ª Série Cap. 1 Q4); o insumo repetido do 7º ano (*o cano rompido na quadra*) no Cap. 2 Q6 e no Cap. 4 Q4; e a `RED.b` do 7º Cap. 2 Q6, que entrega duas versões contrastantes em vez de um ciclo versão 1 → versão 2, deixando 2 pontos de R6 sem o que medir. Fechar qualquer uma exige re-sortear tipo ou reescrever a tarefa.

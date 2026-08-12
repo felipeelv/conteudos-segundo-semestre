@@ -86,7 +86,11 @@ b) Cem funcionários foram demitidos.
 
 **3.** Elabore uma tabela com as classificações verbais estudadas.
 
-Além da definição de cada uma, inclua uma coluna com um verbo exemplar e outra com a forma que revela a classificação.
+A tabela precisa trazer, para cada classificação:
+
+- a definição;
+- um verbo exemplar;
+- a forma que revela a classificação.
 
 ---
 

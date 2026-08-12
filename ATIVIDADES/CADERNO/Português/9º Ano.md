@@ -31,7 +31,11 @@ b) Mais de um aluno chegou atrasado.
 
 **3.** Elabore uma tabela com os casos especiais de concordância verbal estudados.
 
-Além da regra, inclua uma coluna com um caso em que duas concordâncias são aceitáveis e o que muda entre elas.
+A tabela precisa trazer, para cada caso especial:
+
+- a regra;
+- um caso em que duas concordâncias são aceitáveis;
+- o que muda entre as duas.
 
 ---
 
@@ -85,7 +89,11 @@ b) Ela está meio cansada.
 
 **3.** Elabore uma tabela com as palavras de concordância variável estudadas.
 
-Para cada uma, inclua um exemplo em que ela varia e outro em que não varia, e o critério que decide.
+A tabela precisa trazer, para cada palavra:
+
+- um exemplo em que ela varia;
+- um exemplo em que ela não varia;
+- o critério que decide entre os dois.
 
 ---
 

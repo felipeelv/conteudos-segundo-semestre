@@ -31,7 +31,11 @@ b) O trabalho foi feito por mim.
 
 **3.** Elabore uma tabela com as três formas nominais.
 
-Além da terminação de cada uma, inclua uma coluna com a classe de palavra de que ela se aproxima e outra com um teste de identificação.
+A tabela precisa trazer, para cada uma das três formas nominais:
+
+- a terminação;
+- a classe de palavra de que ela se aproxima;
+- um teste de identificação.
 
 ---
 
@@ -131,7 +135,11 @@ b) A maioria dos alunos passaram.
 
 **3.** Elabore uma tabela com os casos de concordância nominal estudados.
 
-Além da regra, inclua uma coluna com um exemplo em que a palavra varia e outro em que não varia.
+A tabela precisa trazer, para cada caso:
+
+- a regra;
+- um exemplo em que a palavra varia;
+- um exemplo em que ela não varia.
 
 ---
 
