@@ -179,6 +179,7 @@ Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fu
 - **Não acrescentar camada devocional às atividades.** Os capítulos tratam temas religiosos **como conteúdo** (hebreus e monoteísmo, Tomás de Aquino, cristianismo em Roma, religião em Marx). As atividades os tratam analiticamente. Decisão explícita — `05-REGRAS-DE-APLICACAO.md` §6.
 - **Não usar `v1-ATIVIDADES/` nem `v1-CADERNO/` como modelo.** Aquele material foi rejeitado. `v2-plano-CADERNO/` é caso diferente: serve para **minerar conteúdo já aprovado**, não para copiar formato — o formato vigente é o dos arquivos-ano.
 - **Não pôr grade, rubrica, tipo, seed ou instrução ao professor no arquivo-ano.** A folha do aluno tem título, cabeçalho e questões. Todo o resto vai para o `_ORGANIZACAO.md`.
+- **Não rotular tempo nem lugar na folha** — nada de *"⏱ 50 min"*, nada de *"🏠 em casa"* (`06-PRODUCAO.md` §7.4). Duração é gestão de aula e vai para a grade; o conjunto já está no caminho do arquivo. **Linha de material só quando há material a declarar**, e nunca para listar o que o §8.2 já garante.
 - **Não tocar em `Física/`, `Operações/`, `Conteudo_docs/`.**
 - **Não criar arquivo sem aprovação prévia.** Apresente o resumo do que será criado e aguarde. Aprovado o plano, um workflow pode escrever o lote inteiro — o que a regra veda é começar a escrever sem o plano aprovado.
 - **Não gerar exemplos ou documentos não solicitados.**

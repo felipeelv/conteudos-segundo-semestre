@@ -350,6 +350,9 @@ Três proibições no enunciado:
 | Instrução de andaime — *"você escolhe"*, *"pode ser qualquer um"*, *"não precisa ser"* | conversa sobre a tarefa, não é a tarefa. O enunciado exige; não negocia |
 | Artefato pronto para preencher — tabela com cabeçalho dado, esquema com caixas vazias | o aluno **constrói** a tabela e o esquema. Entregá-los prontos rebaixa TAB e ESQ a preenchimento |
 | *"peça que o aluno…"*, *"o professor entrega…"* | o texto é lido pelo aluno; instrução ao professor vai para a grade |
+| Rótulo de tempo — *"⏱ 50 min"*, *"30 min"* | tempo estimado é gestão de aula, não tarefa. Vai para a grade, se for para algum lugar |
+| Rótulo de lugar — *"🏠 em casa"* | o arquivo já diz de que conjunto é. Dizer ao aluno onde ele está é ruído |
+| Lista de material quando o material é o garantido do §8.2 | régua, compasso, transferidor, lápis e calculadora comum são pressupostos. Listá-los sugere que poderiam faltar |
 
 ### 7.2 Grade de correção
 
@@ -371,13 +374,23 @@ Uma linha por capítulo, depois da grade:
 
 **Integradora do ano** usa o mesmo molde, acrescentando uma questão de `POR`.
 
-### 7.4 Variante do conjunto de sala
+### 7.4 Linha de material
 
-A folha do aluno é a mesma: questões numeradas, sem campo, sem andaime. O conjunto de sala acrescenta **uma única linha** antes da questão 1, porque a tarefa depende de três coisas que a casa não tem:
+Uma folha **pode** trazer uma linha antes da questão 1, e ela carrega **só material**:
 
-`**Formato:** duplas · **Tempo:** 50 min · **O professor entrega:** <insumo>`
+`**Material:** <o que o aluno precisa ter na mesa>`
 
-Nada mais de instrução ao professor entra no corpo das questões — o resto vai para a grade de correção. E `DEB` e `ORA`, que T7 exclui da casa, voltam ao pool.
+Três condições, todas obrigatórias:
+
+1. **Só quando há material a declarar.** Se a tarefa roda com o que o §8.2 garante — capítulo, caderno, lápis, régua, compasso, transferidor, calculadora comum — **a linha não existe**. Listar o garantido sugere que poderia faltar.
+2. **Sem tempo e sem lugar.** Nada de *"⏱ 50 min"*, nada de *"🏠 em casa"*. Duração é gestão de aula e vai para a grade de correção; o conjunto a que a folha pertence já está no caminho do arquivo.
+3. **O material declarado tem de ser possível para todo aluno** (§8.2). A linha não é licença para exigir tesoura, papel-cartão, papelão, cola, barbante ou papel quadriculado impresso. Se o material não é garantido e não é fornecido pela escola, **o item está errado, não a linha** — troque o item.
+
+### 7.5 Variante do conjunto de sala
+
+A folha do aluno é a mesma: questões numeradas, sem campo, sem andaime, e a linha de material de §7.4 sob as mesmas três condições.
+
+O que a sala tem e a casa não: **`DEB` e `ORA` voltam ao pool**, porque T7 só os exclui da casa. E o insumo que o professor entrega, o formato de agrupamento e a duração prevista **vão para a grade de correção** — não para o corpo da folha. O aluno lê a tarefa; o professor lê a logística.
 
 ---
 
