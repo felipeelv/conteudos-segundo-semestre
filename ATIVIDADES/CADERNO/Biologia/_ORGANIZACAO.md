@@ -144,3 +144,42 @@ Os capítulos de Bloco 2 da produção anterior — *Núcleo e metabolismo energ
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (10 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.
+
+### Reformatação §7.1 — 12/08
+
+As três folhas foram reescritas no formato do §7.1 de `06-PRODUCAO.md`, com `CADERNO/Geometria/8º Ano.md` como calibre. Reformatação pura: tipo, rubrica, critério, numeração, títulos, cabeçalhos e todas as especificações (medidas, quantidades, condições, nomes) preservados. Contagem final inalterada: 3 arquivos · 5 capítulos · 40 questões.
+
+**Blocos rotulados:**
+
+| Bloco | Questões | Onde |
+|---|---:|---|
+| **Responda:** | 21 | as 5 `CASO.a`, as 5 `FON.a`, as 5 `FON.c`, as 5 `ERR` e a `ESQ.a` do 9º Ano cap. 1 (a refutação da escada, que já era entrega da questão, virou a pergunta) |
+| **Confira você mesmo:** | 0 | nenhum item do bloco tem conferência embutida — o pool não usa itens ✓conf |
+| **Antes de começar, responda por escrito:** | 0 | não há `INV` no bloco (decisão de pool registrada na seção 3) |
+| **Registre:** | 0 | não há registro contínuo ou periódico em nenhum item |
+
+As 19 questões restantes (`ESQ` de comando único, `TAB`, `ESC.b`, `ESC.c`) são comando limpo: a síntese já é a entrega e o bloco `Responda:` não foi forçado. Nas `CASO.a` e `ERR`, o caso e a citação desceram para o corpo e a síntese passou a abrir a questão — o verbo operativo (`Decida`, e `Diagnostique` no lugar de `Identifique`) agora abre a primeira frase.
+
+**Trocas de verbo de abertura (de → para):**
+
+| Ano | Cap | Q | De | Para |
+|---|---:|---:|---|---|
+| 1ª Série | 1 | 2 | Construa | Elabore |
+| 1ª Série | 1 | 3 | Escreva | Redija |
+| 1ª Série | 1 | 7 | Identifique | Diagnostique |
+| 1ª Série | 2 | 2 | Construa | Elabore |
+| 1ª Série | 2 | 3 | Escreva | Redija |
+| 1ª Série | 2 | 6 | Identifique | Diagnostique |
+| 2ª Série | 1 | 2 | Construa | Elabore |
+| 2ª Série | 1 | 3 | Escreva | Redija |
+| 2ª Série | 1 | 7 | Identifique | Diagnostique |
+| 9º Ano | 1 | 2 | Construa | Elabore |
+| 9º Ano | 1 | 3 | Escreva | Redija |
+| 9º Ano | 1 | 7 | Identifique | Diagnostique |
+| 9º Ano | 2 | 1 | Construa | Elabore |
+| 9º Ano | 2 | 3 | Escreva | Redija |
+| 9º Ano | 2 | 6 | Identifique | Diagnostique |
+
+`Construa` → `Elabore` nas 5 `TAB` (tabela é artefato sem instrumento); `Escreva` → `Redija` nas 5 `ESC.b` (verbo prescrito de ESC/RET, destinatário e extensão mantidos); `Identifique` → `Diagnostique` nas 5 `ERR` (todos os anos da disciplina são 9º ou acima). As 5 `ESC.c` já abriam em `Redija`; `Pesquise`, `Localize` e `Decida` permanecem.
+
+**Checagem 2 (verbo × rubrica), critério estrito:** a seção 4 não tinha linha própria para essa checagem — fica registrada aqui: **40 de 40** sínteses abrem com verbo do banco §6 compatível com a rubrica da grade (Elabore·R4/R10 · Redija·R5 · Decida·R12 · Pesquise·R7 · Localize·R7 · Diagnostique·R11). Não há `EX` na disciplina, então a lacuna do verbo de cálculo não se aplica a este bloco.

@@ -123,7 +123,7 @@ Notas de leitura dos marcadores:
 | Distribuição de tipos | CASO 7× · ERR 6× · ESC 5× · INV 4× · MOD 4× · EX 3× · TAB 3× · FON 2× · VIS 2× |
 | Independência §8.1 | 36 de 36 |
 | Acessibilidade §8.2 | 36 de 36 |
-| Verbos fora do banco do §6 | **cinco ocorrências**, todas de `ESC` — 1ª Q4 · 2ª Q3 · 7º Q4 · 8º Q3 · 9º Q4 abrem em *Escreva … um verbete*, e `escreva` não consta do §6, cujo verbo de `ESC`/`RET` é `redija`, mantido em zero por instrução desta rodada. As cinco fixam destinatário e extensão (checagem 3 passa) e nenhuma perde a rubrica; a migração para `redija` vale as doze disciplinas e é decisão da coordenação. **Zero "desenhe" e zero "redija" nas seis folhas.** Verbo × rubrica pelo critério estrito: **31 de 36** |
+| Verbos fora do banco do §6 | Atualizado na reformatação §7.1 de 12/08 (ver seção ao final): as cinco `ESC` que abriam em *Escreva* passaram a `redija` — que entrou no banco como o verbo prescrito de `ESC`/`RET` — e as aberturas sem verbo ganharam, no enunciado-síntese, o verbo do banco compatível com a rubrica da grade. Permanecem **cinco aberturas não conformes pelo critério estrito**: 1ª Q3, 6º Q2 e 8º Q1 (EX/R1 — o banco não tem verbo de cálculo) e 7º Q3 e 9º Q1 (MOD.b/R12 abrindo em `elabore`, que o §6 só admite em R4/R10) — é a lacuna registrada na quarta passagem, sem verbo a inventar. Verbo × rubrica pelo critério estrito: **31 de 36** |
 | `construa` só onde há instrumento nomeado | sim — uma única ocorrência (6º Q3: régua, compasso e transferidor). As outras dez passaram a `elabore` ou a `registre` |
 | Dependência de tecla financeira | zero em 36 — nenhuma questão pede valor presente, valor futuro ou prestação resolvidos num passo |
 
@@ -234,3 +234,48 @@ Pendências registradas, não corrigidas:
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (4 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.
+
+### Reformatação §7.1 — 12/08
+
+Passada de reformatação pura para o formato novo do §7.1 do [`06`](../../METODOLOGIA/06-PRODUCAO.md) (enunciado-síntese + execução em prosa compacta + blocos rotulados), calibrada pelo protótipo aprovado `CADERNO/Geometria/8º Ano.md`. Mesma tarefa, mesmas especificações, mesmos números — nenhum tipo, item, rubrica, critério ou seed alterado. Contagem intacta: **6 arquivos-ano · 6 capítulos · 36 questões**.
+
+**Blocos rotulados nas 36 questões:**
+
+| Bloco | Questões | Onde |
+|---|---:|---|
+| **Responda:** | 25 | 1ª Q1, Q2, Q5, Q6 · 2ª Q2, Q4, Q5, Q6 · 6º Q1, Q3, Q5, Q6 · 7º Q1, Q2, Q3, Q5, Q6 · 8º Q4, Q5, Q6 · 9º Q1, Q2, Q3, Q5, Q6 |
+| **Confira você mesmo:** | 6 | 1ª Q3 · 2ª Q1 · 6º Q2 · 8º Q1, Q2 · 9º Q1 — as seis conferências que as questões já tinham, agora com o que o erro significa |
+| **Antes de começar, responda por escrito:** | 4 | 1ª Q1 · 6º Q1 · 7º Q1 · 8º Q4 — as quatro INV com previsão |
+| **Registre:** | 0 | nenhuma questão da disciplina tem registro contínuo ou periódico |
+
+As 11 questões sem **Responda:** são as que o §7.1 manda não forçar: os blocos de cálculo com subitens e conferência (1ª Q3 · 6º Q2 · 8º Q1, Q2), os verbetes com subitens em que a síntese já é a entrega (1ª Q4 · 2ª Q3 · 7º Q4 · 8º Q3 · 9º Q4), a tabela de dupla entrada com conferência (2ª Q1) e a tabela comparativa direta (6º Q4).
+
+**Trocas de verbo de abertura** (o verbo da síntese, aferido pela checagem 2 — imperativos internos da execução seguem livres):
+
+| Ano | Cap | Q | De | Para |
+|---|---:|---:|---|---|
+| 1ª Série | 1 | 4 | escreva | redija |
+| 2ª Série | 1 | 2 | (abertura sem verbo do banco) | justifique |
+| 2ª Série | 1 | 3 | escreva | redija |
+| 2ª Série | 1 | 4 | (abertura sem verbo do banco) | diagnostique |
+| 2ª Série | 1 | 6 | (abertura sem verbo do banco) | decida |
+| 6º Ano | 1 | 1 | escreva (previsão na abertura) | registre |
+| 6º Ano | 1 | 3 | (abertura sem verbo do banco) | construa |
+| 6º Ano | 1 | 5 | (abertura sem verbo do banco) | diagnostique |
+| 6º Ano | 1 | 6 | (abertura sem verbo do banco) | decida |
+| 7º Ano | 1 | 1 | escreva (previsão na abertura) | meça |
+| 7º Ano | 1 | 2 | (abertura sem verbo do banco) | decida |
+| 7º Ano | 1 | 4 | escreva | redija |
+| 7º Ano | 1 | 5 | (abertura sem verbo do banco) | diagnostique |
+| 7º Ano | 1 | 6 | (abertura sem verbo do banco) | decida |
+| 8º Ano | 1 | 3 | escreva | redija |
+| 8º Ano | 1 | 4 | escreva (execução na abertura) | registre |
+| 8º Ano | 1 | 5 | (abertura sem verbo do banco) | diagnostique |
+| 8º Ano | 1 | 6 | (abertura sem verbo do banco) | decida |
+| 9º Ano | 1 | 2 | calcule | elabore |
+| 9º Ano | 1 | 5 | identifique | diagnostique |
+| 9º Ano | 1 | 6 | (abertura sem verbo do banco) | decida |
+
+As cinco `ESC` migraram de *Escreva* para *Redija* — verbo prescrito de `ESC`/`RET` no banco atual —, mantidos destinatário e extensão. Os dois `ERR` que não abriam no verbo passaram a abrir em *Diagnostique* (a disciplina não tem 4º/5º ano). Aberturas mantidas de propósito: 1ª Q3 (*Considere* — EX/R1, sem verbo de cálculo no banco), 6º Q2 (contexto — EX/R1), 8º Q1 e 9º Q1 (*Elabore* — EX/R1 e MOD.b/R12, mesma lacuna) e 7º Q3 (*Elabore* — MOD.b/R12). **Checagem 2 pelo critério estrito segue em 31 de 36**, mas com composição diferente: as cinco não conformes deixaram de ser as `ESC` em *Escreva* e passaram a ser as cinco aritméticas da lacuna do banco (1ª Q3 · 6º Q2 · 7º Q3 · 8º Q1 · 9º Q1) — a linha da seção 4 foi atualizada.
+
+Nota de execução: a folha da 1ª Série já estava no formato §7.1 no início desta conferência (reformatada em execução anterior desta mesma passada) — foi verificada questão a questão contra o §7.1 e a grade, e mantida sem alteração. As outras cinco folhas foram reformatadas nesta execução.

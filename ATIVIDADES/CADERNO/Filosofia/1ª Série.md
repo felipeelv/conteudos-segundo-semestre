@@ -7,9 +7,21 @@
 
 ## Capítulo 1 — Aristóteles — metafísica e ética
 
-**1.** A sequência *ação repetida → hábito → virtude de caráter* omite uma etapa: sem ela, o percurso descreve apenas um hábito adquirido, e não uma virtude. Elabore o esquema completo do percurso, inserindo no lugar correto a etapa que falta, nomeando todas as etapas e rotulando cada seta com o que ela acrescenta à anterior. Explique, em uma frase, por que a etapa inserida é indispensável.
+**1.** Elabore o esquema completo do percurso que forma a virtude de caráter, inserindo no lugar correto a etapa que falta.
 
-**2.** Construa uma tabela que aplique as quatro causas aristotélicas a três objetos concretos: dois produzidos pelo trabalho humano — nenhum deles a mesa usada como exemplo no capítulo — e um existente na natureza. A tabela deve evidenciar em qual das quatro causas os três casos mais se distinguem entre si.
+A sequência *ação repetida → hábito → virtude de caráter* omite uma etapa: sem ela, o percurso descreve apenas um hábito adquirido, e não uma virtude. Monte o esquema nomeando todas as etapas e rotulando cada seta com o que ela acrescenta à anterior.
+
+**Responda, em uma frase:** por que a etapa inserida é indispensável?
+
+---
+
+**2.** Elabore uma tabela que aplique as quatro causas aristotélicas a três objetos concretos e evidencie em qual das causas eles mais se distinguem.
+
+Os três objetos: dois produzidos pelo trabalho humano — nenhum deles a mesa usada como exemplo no capítulo — e um existente na natureza. Aplique a cada um as quatro causas.
+
+**Responda, destacando na própria tabela:** em qual das quatro causas os três casos mais se distinguem entre si?
+
+---
 
 **3.** Explique cada um dos conceitos a seguir em um verbete de três a cinco linhas, escrito para quem faltou à aula, indicando a que pergunta o conceito responde e sem repetir a formulação do capítulo. Cada verbete deve empregar os três termos indicados entre parênteses:
 
@@ -18,12 +30,38 @@ b) ato (potência, forma, movimento)
 c) virtude (hábito, escolha, meio-termo)
 d) eudaimonia (finalidade, função, prudência)
 
-**4.** Uma pessoa presencia um assalto do outro lado da rua. Intervir sozinha pode interromper o crime ou resultar em duas vítimas. Decida o que a coragem aristotélica recomenda, indicando os dois extremos entre os quais o meio-termo se situa e o dado da situação que determina onde ele está. Explique em seguida por que a resposta se altera conforme quem delibera, sem que isso torne a ética de Aristóteles relativista.
+---
 
-**5.** Pesquise uma definição contemporânea de virtude em fonte impressa, digital ou do acervo da biblioteca da escola — dicionário de filosofia, enciclopédia ou texto acadêmico. Registre a referência — autor, obra e ano — e compare essa definição com a de Aristóteles, indicando um elemento presente em uma e ausente na outra.
+**4.** Decida o que a coragem aristotélica recomenda no caso a seguir e explique por que a resposta depende de quem delibera.
 
-**6.** Localize, em fonte impressa, digital ou do acervo da biblioteca da escola, um texto de opinião publicado nos últimos cinco anos que defenda uma posição sobre o que é uma vida bem vivida. Registre a referência e analise o texto identificando o critério de vida boa que adota, o argumento com que o sustenta e o ponto em que esse critério se afasta da eudaimonia aristotélica. Formule, ao final, uma pergunta sobre a vida boa que o texto levanta e não responde.
+Uma pessoa presencia um assalto do outro lado da rua. Intervir sozinha pode interromper o crime ou resultar em duas vítimas.
 
-**7.** Um estudante escreveu: *"O argumento é válido, portanto sua conclusão é verdadeira."* Explique por que a afirmação é errada, apresentando a distinção entre validade e verdade, e construa um exemplo de argumento válido cuja conclusão seja falsa.
+**Responda:** o que a coragem aristotélica recomenda, entre quais dois extremos o meio-termo se situa e qual dado da situação determina onde ele está? E por que a resposta se altera conforme quem delibera, sem que isso torne a ética de Aristóteles relativista?
+
+---
+
+**5.** Pesquise uma definição contemporânea de virtude e compare-a com a de Aristóteles.
+
+Consulte fonte impressa, digital ou do acervo da biblioteca da escola — dicionário de filosofia, enciclopédia ou texto acadêmico — e registre a referência: autor, obra e ano.
+
+**Responda:** comparando as duas definições, qual elemento está presente em uma e ausente na outra?
+
+---
+
+**6.** Localize um texto de opinião que defenda uma posição sobre o que é uma vida bem vivida e analise-o diante da eudaimonia aristotélica.
+
+O texto deve ter sido publicado nos últimos cinco anos, em fonte impressa, digital ou do acervo da biblioteca da escola. Registre a referência.
+
+**Responda:** qual critério de vida boa o texto adota, com que argumento o sustenta e em que ponto esse critério se afasta da eudaimonia aristotélica? Formule, ao final, uma pergunta sobre a vida boa que o texto levanta e não responde.
+
+---
+
+**7.** Diagnostique o erro na afirmação a seguir e construa o exemplo que o revela.
+
+Um estudante escreveu: *"O argumento é válido, portanto sua conclusão é verdadeira."* Construa um exemplo de argumento válido cuja conclusão seja falsa.
+
+**Responda:** qual é o erro da afirmação, e em que consiste a distinção entre validade e verdade que ele ignora?
+
+---
 
 **8.** Justifique, em um texto de seis a dez linhas dirigido a um leitor que sustenta a posição contrária, a sua resposta à seguinte questão: o meio-termo aristotélico é aplicável a toda virtude? Enuncie a posição na primeira linha, sustente-a com dois exemplos e responda à objeção de que existem ações para as quais não há excesso nem falta admissíveis.

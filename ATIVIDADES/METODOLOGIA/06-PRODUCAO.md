@@ -309,13 +309,19 @@ Marcados com **✓conf** os itens que trazem conferência embutida — os único
 | avalie | julgar sob critério dado | R7, R13 | elogiar ou reprovar sem critério |
 | pesquise | buscar dado fora do capítulo e registrar a referência | R7, R8 | entregar o dado sem dizer de onde veio |
 | localize | encontrar uma fonte que atenda a critérios dados | R7 | trazer o primeiro resultado que apareceu |
+| leia | tomar conhecimento de fonte **entregue** — Anexo, trecho no enunciado | R7 | parar na leitura, sem o que extrair dela |
 | analise | separar, na fonte, a afirmação, a prova e a lacuna | R7 | resumir a fonte em vez de examiná-la |
+| calcule | executar a operação e apresentar o resultado com as etapas | R1 | entregar só o resultado, sem o caminho |
 | elabore | produzir o artefato inteiro, do zero | R4, R10 | preencher um modelo já pronto |
 | redija | produzir texto próprio, na extensão e para o destinatário que o comando fixa | R5, R6 | comando sem destinatário nem extensão, que rebaixa a tarefa a "escreva sobre" |
 
 **Três verbos produzem, e o objeto decide qual.** `construa` produz figura **com instrumento** — compasso, transferidor, régua. `elabore` produz o artefato que dispensa instrumento — esquema, tabela, linha do tempo, história em quadrinhos. `redija` produz **texto**. Trocar um pelo outro descaracteriza o tipo, e os dois erros são simétricos: escrever *"desenhe"* onde cabe `construa` é exatamente o que a linha de `construa` nomeia como erro comum, e escrever *"escreva sobre"* onde cabe `redija` apaga o destinatário e a extensão sem os quais [`03`](03-REPERTORIO.md) §1 manda **não usar** `ESC` — a mesma exigência que a checagem 3 do §8 cobra.
 
 `redija` é o verbo de `ESC` e de `RET`, e é ele que sustenta a substituição prescrita para a casa: onde o conteúdo pedia `DEB` e T7 o exclui, entra `ESC` com objeção obrigatória e leitor contrário nomeado **no texto** ([`03`](03-REPERTORIO.md) §3, destinatário conforme §8.3).
+
+**`leia` e `localize` não são o mesmo verbo.** `localize` manda o aluno **encontrar** uma fonte que ele ainda não tem, e é o que `FON` usa nas onze disciplinas sem anexo. `leia` só cabe quando a fonte **já está na mão** — o Anexo de Estudos Sociais (M5), um trecho transcrito no próprio enunciado. Nesse caso, mandar *analisar* uma biografia no 4º ano cobra do aluno de nove anos um verbo de outra idade; `leia` abre a tarefa e o `Responda:` cobra o que extrair dela.
+
+**Quando o dado precisa vir antes do comando.** Em questão de cálculo ou de leitura de tabela, o enunciado às vezes tem de apresentar a série, o caso ou a fonte **antes** de dizer o que fazer com eles. Aí a síntese pode abrir pelo dado — *"Considere a série 12, 15, 15, 18, 20 e 22"* — desde que o verbo do banco apareça no `Responda:` que fecha a questão. A checagem 2 do §8 se afere no verbo do comando, esteja ele na primeira frase ou no bloco de entrega.
 
 ---
 

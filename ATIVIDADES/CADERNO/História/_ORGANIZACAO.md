@@ -148,3 +148,31 @@ Segunda passagem sobre as folhas já revisadas. Tipo e rubrica foram preservados
 | 2ª Série | 2 | 7 | *identifique* → *diagnostique* | §8 checagem 2 |
 
 Também retirada, do cabeçalho das duas folhas, a frase "cada questão é independente e pode ser usada isoladamente": é informação para quem monta a prova, não para o aluno, e a folha do aluno não carrega nota ao professor (§7.1).
+
+### Reformatação §7.1 — 12/08
+
+Reformatação pura para o formato novo de §7.1 (calibre: `CADERNO/Geometria/8º Ano.md`). Mesmas tarefas, especificações e números; nenhum tipo, item ou rubrica re-sorteado. Contagens inalteradas: 2 arquivos-ano · 4 capítulos · 30 questões.
+
+**Blocos rotulados:**
+
+| Bloco | Questões | Onde |
+|---|---:|---|
+| **Responda:** | 17 | 1ª Série: cap. 1 Q1, Q5–Q7 · cap. 2 Q1, Q5–Q7 (8) — 2ª Série: cap. 1 Q1, Q2, Q5–Q7 · cap. 2 Q1, Q5–Q7 (9) |
+| **Confira você mesmo:** | 0 | História não tem item **✓conf** no bloco (sem EX, INV ou CONS) — nenhuma conferência existia e nenhuma foi inventada |
+| **Antes de começar, responda por escrito:** | 0 | sem questão INV com previsão |
+| **Registre:** | 0 | sem registro contínuo ou periódico |
+
+As 13 questões sem `Responda:` são os comandos únicos limpos — verbetes `ESC.b` com subitens, tabelas `TAB`, esquemas `ESQ.a` e os textos de posição `ESC.c` —, em que a síntese já é a entrega e forçar o bloco seria decoração.
+
+**Trocas de verbo de abertura** (banco §6: `construa` só para figura com instrumento; artefato sem instrumento abre com `elabore`):
+
+| Ano | Cap | Q | Tipo | De → para |
+|---|---:|---:|---|---|
+| 1ª Série | 1 | 4 | TAB.a | construa → elabore |
+| 1ª Série | 2 | 4 | TAB.a | construa → elabore |
+| 2ª Série | 1 | 4 | TAB.a | construa → elabore |
+| 2ª Série | 2 | 2 | TAB.b | construa → elabore |
+
+A linha de checagem 2 (verbo × rubrica) da seção 4 **não muda de número**: `construa` e `elabore` são ambos compatíveis com R10, então as 4 trocas saem de conforme para conforme — 30 de 30 segue valendo. Não há EX na disciplina, logo a lacuna de verbo de cálculo do banco não se aplica.
+
+Reorganizações sem troca de verbo: nas questões de citação (`ERR` da 2ª Série, `CASO.a` 2ª/cap. 1/Q6 e `ESQ.b` 2ª/cap. 1/Q2), a citação e o caso desceram para o corpo e a síntese passou a abrir com o verbo que o comando já tinha (*diagnostique*, *decida*, *explique*); nas `FON`, a lista de fontes aceitas e o registro da referência viraram execução em prosa e a entrega foi para `Responda:` em forma de pergunta. Nenhuma medida, quantidade, condição ou nome próprio foi removido.

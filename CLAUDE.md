@@ -98,7 +98,7 @@ Três pendências abertas, todas registradas nos `_ORGANIZACAO.md` de cada disci
 
 - **T8 é inverificável hoje.** A trava compara os tipos de sala e casa do mesmo capítulo, e o conjunto de sala não existe. É a trava de maior prioridade do §4.3 e está aberta nos 95 capítulos. Ao produzir sala, confrontar tipo a tipo com a seção 2 de cada `_ORGANIZACAO.md`.
 - **Travas de distribuição violadas e herdadas** — T6 (mesmo item em capítulos consecutivos), T2/T1 (teto da questão principal), T3 (piso de cobertura), T5. Fechá-las exige **re-sortear tipo**, o que nenhuma revisão fez até agora por decisão explícita: revisão preserva tipo e rubrica.
-- **O banco de verbos do §6 tem lacunas.** Não há verbo para exercício de cálculo (`EX`/R1 — só `prove`, inviável em EF1), nem verbo de produção visual ou de leitura de fonte calibrado para EF1. Por isso 68 questões abrem em *"Escreva"* e 13 de `ERR` em *"Descubra"/"Identifique"*, fora do banco. Os `_ORGANIZACAO.md` declaram isso pelo critério estrito — **não "corrija" o número para cima sem acrescentar o verbo ao §6**.
+- **O banco de verbos do §6 fechou em 22** com `redija` (texto), `leia` (fonte entregue) e `calcule` (`EX`/R1). Restava só produção visual em EF1 sem verbo próprio — `elabore` cobre. Se aparecer nova lacuna, **acrescente o verbo ao §6 antes de reescrever questão**: as três rodadas anteriores mostraram que reescrever para caber num banco incompleto piora o enunciado.
 
 ---
 

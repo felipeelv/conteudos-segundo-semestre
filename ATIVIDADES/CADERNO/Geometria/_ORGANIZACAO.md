@@ -107,7 +107,7 @@ M1 e M10 estão presentes nos seis capítulos e **proíbem EX espelhado** no exe
 | Distribuição de tipos | CONS 12× · ERR 6× · CASO 6× · ESC 5× · INV 5× · MOD 1× · TAB 1× |
 | Independência §8.1 | 36 de 36 questões |
 | Acessibilidade §8.2 | 36 de 36 questões, já pela versão atual da regra — compasso, transferidor e calculadora comum entre os recursos garantidos. Nenhuma questão pede calculadora financeira, tesoura, cola, barbante, alfinete, fita métrica, trena, balança, termômetro, cronômetro, celular, computador, recorte, entrevista ou visita |
-| Verbo do comando × rubrica (§6 · §8 #2) | **35 de 36**, contadas pelo critério estrito: o comando traz ao menos um verbo do banco do §6, compatível com a rubrica da questão. Onze das doze questões de CONS abrem em **construa** (R10), sempre com o instrumento nomeado no próprio comando; a décima segunda é 2ª Série Q1 (CONS.b), que abre em **elabore** — o cilindro de papel enrolado não se produz com instrumento, e §8.2 reserva *construa* ao que se produz com ele. ESC abre em **explique** (R5) · CASO e MOD em **decida** (R12) · INV em **preveja** ou **meça** (R8) · TAB em **elabore** (R10). *Marque*, que abria 7º Ano Q1 (INV.a, R8), **não consta do banco**: a abertura passou a **preveja**, que §6 vincula a R8 e que a própria questão já exigia por escrito. **Falha 1 de 36:** 7º Ano Q4 (ESC.b, R5) abre em "escreva um verbete" — o verbo de banco para ESC é *redija*, mantido em zero por instrução desta rodada; conflito de regra registrado ao fim da seção 5. As seis questões de ERR abrem em "descubra"/"identifique", também fora do banco, mas **trazem explique (R11) no mesmo comando** e por isso não contam como falha do critério estrito; a troca por *diagnostique* segue pendente. **Zero ocorrências de "desenhe"**, que não consta do banco do §6 e é nomeado ali como o erro comum de *construa* |
+| Verbo do comando × rubrica (§6 · §8 #2) | **36 de 36**, contadas pelo critério estrito: o enunciado-síntese abre com verbo do banco do §6 compatível com a rubrica da questão — desde a reformatação §7.1 de 12/08, a checagem se afere na síntese. Onze das doze questões de CONS abrem em **construa** (R10); a décima segunda é 2ª Série Q1 (CONS.b), que abre em **elabore** — o cilindro de papel enrolado não se produz com instrumento, e §8.2 reserva *construa* ao que se produz com ele. ESC abre em **explique** (R5), exceto 7º Ano Q4 (ESC.b), que abre em **redija** (R5) — era a falha única da contagem anterior ("escreva um verbete") · ERR abre em **diagnostique** (R11), fechando a pendência das aberturas em "descubra"/"identifique" · CASO e MOD em **decida** (R12) · INV em **preveja** (R8) · TAB em **elabore** (R10). Geometria não tem EX no Bloco 1 (exceção T3 registrada abaixo), logo a lacuna de verbo de cálculo do banco não alcança esta contagem — nada foi inflado. **Zero ocorrências de "desenhe"**, que não consta do banco do §6 e é nomeado ali como o erro comum de *construa* |
 | Resposta não impressa no capítulo (§8 #1) | 35 de 36 — depois das correções de 1ª Série Q6 e 7º Ano Q3, que espelhavam exemplos resolvidos (seção 5). Falha em 6º Ano Q2: o diagrama de inclusão dos quadriláteros pedido ao aluno está impresso no capítulo (`fig-02-inclusao-dos-paralelogramos`), e M10 proíbe espelhar a figura — pendência registrada na seção 5, porque corrigir exige mudar a tarefa |
 
 **Exceções registradas, na ordem de prioridade de §4.3.**
@@ -244,3 +244,31 @@ Zero ocorrências de *desenhe* e de *redija* nas seis folhas, reconferidas por c
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (5 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos. O 8º Ano foi adicionalmente reformatado como protótipo do §7.1 novo (enunciado-síntese · execução em prosa · `Responda:` · `Confira você mesmo:`) — conteúdo, tipos e rubricas inalterados.
+
+### Reformatação §7.1 — 12/08
+
+Sexta passagem: os cinco arquivos-ano restantes (6º, 7º, 9º, 1ª Série, 2ª Série) reescritos no formato novo do §7.1, com o 8º Ano — protótipo aprovado pela coordenação — como calibre. Reformatação pura: mesmos tipos, itens, rubricas e critérios da grade da seção 2, mesmos números, medidas, condições e nomes próprios. Contagem reconferida e intacta: **6 arquivos-ano · 6 capítulos · 36 questões**, numeração e ordem preservadas.
+
+**Blocos no estado final da disciplina (protótipo incluído):**
+
+| Bloco | Questões | Detalhe |
+|---|---:|---|
+| `Responda:` | 33 de 36 | 27 ganharam o bloco nesta passagem (as 6 do 8º Ano já o tinham); as 3 sem ele são comandos únicos limpos em que a síntese já é a entrega — 6º Q4 (explicação curta), 7º Q4 (verbete com subitens), 2ª Série Q3 (tabela comparativa direta) |
+| `Confira você mesmo:` | 18 de 36 | só onde o item já tinha conferência declarada; o texto do bloco diz o que o erro significa |
+| `Antes de começar, responda por escrito:` | 5 de 36 | só INV com previsão — 6º Q3, 7º Q1, 8º Q6, 9º Q3, 2ª Série Q2. A previsão de 9º Q1 (CONS.c) permanece em prosa dentro da execução, porque o bloco é exclusivo de INV |
+| `Registre:` | 0 de 36 | nenhuma questão da disciplina tem registro contínuo ou periódico |
+
+**Trocas de verbo de abertura (de → para):**
+
+| Onde | De | Para |
+|---|---|---|
+| 6º Ano · cap 1 · Q5 | descubra | diagnostique |
+| 7º Ano · cap 1 · Q4 | escreva | redija |
+| 7º Ano · cap 1 · Q5 | identifique | diagnostique |
+| 9º Ano · cap 1 · Q5 | descubra | diagnostique |
+| 1ª Série · cap 1 · Q5 | descubra | diagnostique |
+| 2ª Série · cap 1 · Q5 | descubra | diagnostique |
+
+A troca equivalente do 8º Ano Q5 (descubra → diagnostique) já havia entrado com o protótipo, na revisão de 12/08 acima. Com as seis trocas desta passagem, a linha de checagem 2 da seção 4 passou de 35 para **36 de 36** — 7º Q4 era a falha única do critério estrito, e as aberturas de ERR fora do banco estavam registradas como pendência.
+
+**O que esta passagem não fez.** Não re-sorteou tipo, item nem rubrica, não mexeu na contagem da seção 1 nem nos seeds da seção 3, e não tocou nos capítulos-fonte nem no 8º Ano. Continuam abertas as exceções de trava da seção 4 (T2, T1, T6, T3, T5) e as pendências herdadas que exigem re-sorteio ou reformulação de tarefa, fora do alcance de uma reformatação: 6º Q2 (CONS.c sem malha e diagrama espelhado na figura do capítulo, que M10 proíbe), 6º Q3 (INV.b sem medição repetida 3×) e o CONS.b residual de 1ª Série Q4 e 8º Ano Q4 (verificação de medida sem planificação).

@@ -110,3 +110,35 @@ Segunda passagem sobre as folhas já escritas. Tipo e rubrica preservados em tod
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (5 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.
+
+### Reformatação §7.1 — 12/08
+
+Reformatação pura para o molde novo de §7.1: enunciado-síntese com verbo do banco §6, execução em prosa compacta e entrega em blocos rotulados. Tipo, rubrica, critério, numeração, títulos e todas as especificações técnicas preservados — 3 arquivos-ano, 3 capítulos, 22 questões, contagens inalteradas.
+
+| Bloco | Questões |
+|---|---:|
+| **Responda:** | 15 |
+| **Confira você mesmo:** | 0 |
+| **Antes de começar, responda por escrito:** | 1 |
+
+Nenhuma questão da disciplina usa item com conferência embutida (✓conf), logo nenhum bloco **Confira você mesmo:** — não se inventou conferência sem lastro. O único **Antes de começar** é o da INV.c (9º Ano Q1), cuja previsão já existia e passou ao bloco rotulado, antes da execução. As 7 questões sem **Responda:** são as de comando único limpo — os três verbetes com subitens (1ª Q3, 2ª Q3, 9º Q3), os dois esquemas de entrega direta (1ª Q2, 9º Q4) e os dois textos de posição ESC.c (1ª Q8, 9º Q8) —, em que a síntese já é a entrega.
+
+Trocas de verbo de abertura (inclui as da primeira passada, na 1ª Série, recuperadas do diff):
+
+| Ano | Cap | Q | De | Para |
+|---|---:|---:|---|---|
+| 1ª Série | 1 | 1 | construa | elabore |
+| 1ª Série | 1 | 3 | escreva | redija |
+| 1ª Série | 1 | 4 | (abertura narrativa; "decida" interno) | decida |
+| 1ª Série | 1 | 7 | identifique | diagnostique |
+| 2ª Série | 1 | 2 | construa | elabore |
+| 2ª Série | 1 | 3 | escreva | redija |
+| 2ª Série | 1 | 4 | (abertura narrativa; "calcule"/"decida" internos) | decida |
+| 2ª Série | 1 | 6 | (abertura narrativa; "diagnostique" interno) | diagnostique |
+| 9º Ano | 1 | 1 | escolha | preveja |
+| 9º Ano | 1 | 2 | construa | elabore |
+| 9º Ano | 1 | 3 | escreva | redija |
+| 9º Ano | 1 | 5 | (abertura narrativa; "decida" interno) | decida |
+| 9º Ano | 1 | 7 | (abertura narrativa; "diagnostique" interno) | diagnostique |
+
+Checagem 2 (verbo × rubrica) após a reformatação, pelo critério estrito: **22 de 22 aberturas conformes** — todas com verbo do banco §6 compatível com a rubrica da grade. A disciplina não tem questão EX, então a lacuna conhecida do verbo de cálculo não gera não-conformidade aqui. A seção 4 não tinha linha própria de checagem 2, portanto nada foi alterado nela.

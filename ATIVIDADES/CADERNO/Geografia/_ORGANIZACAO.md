@@ -144,3 +144,35 @@ Tipos e rubricas preservados; corrigida só a formulação.
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (2 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.
+
+### Reformatação §7.1 — 12/08
+
+Reformatação pura para o formato de §7.1 (calibre: `CADERNO/Geometria/8º Ano.md`): mesma tarefa, mesmas especificações e mesmos números, sem re-sorteio de tipo ou rubrica.
+
+- **Responda:** — 16 das 32 questões. As outras 16 são comando único limpo (verbete com subitens, tabela comparativa direta, escrita curta com destinatário e extensão já na síntese, ou artefato cuja síntese já é a entrega) e ficaram sem bloco forçado.
+- **Confira você mesmo:** — 0 questões. Nenhum item do Bloco 1 tem conferência embutida no texto anterior, e nenhuma foi inventada.
+- **Antes de começar, responda por escrito:** — 2 questões, as duas INV com previsão (1ª Série Cap. 2 Q8 · 2ª Série Cap. 2 Q8).
+- **Registre:** — 0 questões. Nenhuma tem registro contínuo ou periódico; a observação pontual permaneceu na execução.
+
+Trocas de verbo de abertura (de → para):
+
+| Ano | Cap | Q | De | Para | Motivo |
+|---|---:|---:|---|---|---|
+| 1ª Série | 1 | 1 | Consulte | Elabore | VIS.d/R10 — climograma é artefato sem instrumento |
+| 1ª Série | 1 | 2 | Construa | Elabore | tabela dispensa instrumento |
+| 1ª Série | 1 | 5 | Escreva | Redija | verbo prescrito de ESC |
+| 1ª Série | 2 | 2 | Construa | Elabore | croqui dispensa instrumento |
+| 1ª Série | 2 | 4 | Escreva | Redija | verbo prescrito de ESC |
+| 1ª Série | 2 | 5 | Consulte | Pesquise | FON.a/R7 — verbo do banco |
+| 1ª Série | 2 | 6 | Construa | Elabore | tabela dispensa instrumento |
+| 1ª Série | 2 | 7 | Identifique | Diagnostique | ERR.a/R11 |
+| 1ª Série | 2 | 8 | Escreva | Preveja | INV.a/R8 — previsão antes de observar |
+| 2ª Série | 1 | 1 | Construa | Ordene | LT.a/R3 — `elabore` não é compatível com R3 no banco §6; `ordene` cobre exatamente o critério da grade (sequência com nexo) |
+| 2ª Série | 1 | 2 | Construa | Elabore | tabela dispensa instrumento |
+| 2ª Série | 1 | 3 | Escreva | Redija | verbo prescrito de ESC |
+| 2ª Série | 2 | 1 | Construa | Elabore | tabela dispensa instrumento |
+| 2ª Série | 2 | 2 | Consulte | Elabore | VIS.a/R10 — mapa esquemático sem instrumento |
+| 2ª Série | 2 | 4 | Escreva | Redija | verbo prescrito de ESC |
+| 2ª Série | 2 | 8 | Escreva | Preveja | INV.c/R8 — previsão antes do levantamento |
+
+As questões cujo verbo apenas subiu para a primeira frase, sem mudar (Explique, Decida, Diagnostique, Redija, Localize), não constam da tabela. Verbo × rubrica (checagem 2), pelo critério estrito, após as trocas: **32 de 32 conformes** — Geografia não tem questão EX, então a lacuna do banco para exercício de cálculo não incide. A seção 4 não tinha linha de checagem 2, portanto nada foi alterado lá; o número fica registrado nesta seção.

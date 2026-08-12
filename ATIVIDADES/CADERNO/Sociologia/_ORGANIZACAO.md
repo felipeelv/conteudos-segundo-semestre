@@ -100,3 +100,30 @@ Questões mantidas sem qualquer alteração desde a produção anterior: 1ª sé
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (3 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.
+
+### Reformatação §7.1 — 12/08
+
+Reformatação pura para o molde novo de §7.1 (enunciado-síntese + execução em prosa compacta + blocos rotulados), calibrada pelo protótipo aprovado de Geometria 8º Ano. Nenhum tipo, rubrica, critério, número, condição ou nome próprio alterado; contagem inalterada — 2 arquivos-ano, 2 capítulos, 16 questões.
+
+| Bloco rotulado | Questões |
+|---|---:|
+| `Responda:` | 11 — 1ª série Q1, Q2, Q5, Q6, Q7 · 2ª série Q1, Q2, Q4, Q5, Q6, Q7 |
+| `Confira você mesmo:` | 0 — nenhum item da disciplina tem conferência embutida (nenhum ✓conf na grade) |
+| `Antes de começar, responda por escrito:` | 1 — 1ª série Q2 (INV.c, previsão antes do levantamento) |
+| `Registre:` | 0 — não há registro contínuo ou periódico na disciplina |
+
+As 5 questões sem `Responda:` são comando único limpo, conforme §7.1: verbete com subitens (1ª Q4, 2ª Q3), esquema cuja síntese já é a entrega (1ª Q3) e escrita curta sem fase de execução (1ª Q8, 2ª Q8).
+
+Trocas de verbo de abertura:
+
+| Onde | De | Para | Regra |
+|---|---|---|---|
+| 1ª Série · cap 1 · Q1 | construa | elabore | tabela é artefato sem instrumento (§6) |
+| 1ª Série · cap 1 · Q2 | escreva | registre | a questão abria sem síntese ("Antes de percorrer… escreva"); ganhou enunciado-síntese com verbo de R8 do banco |
+| 1ª Série · cap 1 · Q4 | escreva | redija | verbo prescrito de ESC no banco (§6) |
+| 2ª Série · cap 1 · Q1 | construa | elabore | tabela é artefato sem instrumento (§6) |
+| 2ª Série · cap 1 · Q3 | escreva | redija | verbo prescrito de ESC no banco (§6) |
+
+Reordenações sem troca de verbo: 1ª Q5 e 2ª Q4 (*decida* subiu do meio da questão para a síntese, o caso desceu para o corpo) e 2ª Q7 (*diagnostique* subiu para a síntese, a citação desceu para o corpo).
+
+Checagem 2 (verbo × rubrica) após a reformatação, pelo critério estrito: **16 de 16 conformes** — todas as sínteses abrem com verbo do banco compatível com a rubrica da grade (elabore×R10, registre×R8, elabore×R4, redija×R5, decida×R12, pesquise×R7, localize×R7, diagnostique×R11). A disciplina não tem EX, único tipo sem verbo de banco. A tabela da seção 4 não trazia linha própria de checagem 2, portanto nada foi renumerado lá; o resultado fica registrado aqui. As pendências da seção 4 (T3 violado na 2ª série; ERR fora do pool na 2ª série Q7) permanecem como estavam — reformatação não re-sorteia tipo.
