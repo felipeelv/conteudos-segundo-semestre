@@ -26,7 +26,14 @@ d) soberania
 
 ---
 
-**4.** Elabore um mapa esquemático de uma das regiões em conflito tratadas no capítulo, indicando as partes envolvidas, os limites em disputa e os recursos ou acessos que estão em jogo. Legenda e título são obrigatórios.
+**4.** Elabore um mapa esquemático de uma das regiões em conflito tratadas no capítulo.
+
+O mapa precisa trazer:
+
+- título e legenda;
+- as partes envolvidas no conflito;
+- os limites em disputa;
+- os recursos ou acessos que estão em jogo.
 
 ---
 
@@ -60,13 +67,25 @@ Dois estudantes definiram terrorismo. O primeiro escreveu: *"Terrorismo é a vio
 
 ## Capítulo 2 — Potências mundiais e disputas por recursos
 
-**1.** Elabore uma tabela que compare Estados Unidos e China. Inclua uma linha para a posição econômica de cada um, tal como o capítulo a descreve, uma linha para cada forma de poder discutida no capítulo, e um critério que permita avaliar em qual dessas formas a distância entre os dois países é menor.
+**1.** Elabore uma tabela que compare Estados Unidos e China.
+
+A tabela precisa trazer:
+
+- uma linha para a posição econômica de cada um, tal como o capítulo a descreve;
+- uma linha para cada forma de poder discutida no capítulo;
+- um critério que permita avaliar em qual dessas formas a distância entre os dois países é menor.
 
 ---
 
 **2.** Elabore um mapa da distribuição mundial dos principais produtores de um mineral estratégico, a partir de dados que você mesmo pesquisar.
 
-Consulte um atlas, um livro didático ou uma fonte digital e identifique os principais países produtores de um destes minerais: lítio, cobalto, terras raras ou nióbio. Represente essa distribuição com título, legenda e símbolos de tamanho proporcional à importância de cada produtor na ordem em que a fonte os apresenta — o maior símbolo para o principal produtor — e registre a fonte e o ano dos dados.
+Consulte um atlas, um livro didático ou uma fonte digital e identifique os principais países produtores de um destes minerais: lítio, cobalto, terras raras ou nióbio.
+
+Represente essa distribuição em um mapa, com:
+
+- título e legenda;
+- um símbolo sobre cada país produtor, de tamanho proporcional à importância dele na ordem em que a fonte os apresenta — o maior símbolo para o principal produtor;
+- a fonte e o ano dos dados.
 
 ---
 
@@ -91,7 +110,7 @@ d) poder cultural
 
 Um país europeu depende de gás importado de um único fornecedor, que responde por 55% do seu consumo. Uma crise política ameaça o fornecimento. Estão disponíveis três respostas: buscar fornecedores alternativos a preço mais alto, acelerar a transição para fontes renováveis, ou negociar mantendo a dependência.
 
-**Responda:** qual das três respostas deve ser adotada? Apresente o dado e o critério de segurança energética que fundamentam a escolha e indique o custo que a alternativa escolhida impõe.
+**Responda:** qual das três respostas deve ser adotada, que dado e que critério de segurança energética fundamentam a escolha, e que custo a alternativa escolhida impõe?
 
 ---
 

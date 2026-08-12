@@ -17,7 +17,7 @@
 
 | Cap | Q | Tipo | Rubrica | Critério que decide a nota |
 |---|---:|---|---|---|
-| 1 — Clima | 1 | VIS.d | R10 | mesmas escalas nos dois climogramas; título, unidades e fonte obrigatórios; o fator do clima apontado abaixo dos gráficos |
+| 1 — Clima | 1 | VIS.d | R10 | mesmas escalas nos dois climogramas; título, unidades e fonte obrigatórios; a maior diferença entre os dois climogramas **e** o fator do clima que a explica, apontados abaixo dos gráficos |
 | 1 — Clima | 2 | TAB.c | R10 | os **dois** critérios por cidade; sigla de Köppen sem critério não pontua; a coluna final registra o que a sigla não diz |
 | 1 — Clima | 3 | ESC.a | R5 | atribuir a diferença de chuva à latitude, sendo as latitudes iguais, zera o item |
 | 1 — Clima | 4 | ESQ.a | R4 | as três fases distintas e rotuladas; a ligação marcada com interrogação justificada |
@@ -192,3 +192,25 @@ Duas observações que **não** foram tratadas como divergência de nota, por n�
 
 - **2ª Série Cap. 1 Q1 (`LT.a`).** O item `LT.a` do §5 descreve *"marcos dados"*, e a folha manda o aluno escolher pelo menos seis. O critério da grade — nexo causal entre cada par — está integralmente pedido, e R3 tem critério próprio de *seleção pertinente dos marcos* (peso 2), que só existe se o aluno seleciona. Fica registrado como desvio de item, não de formulação.
 - **1ª Série Cap. 1 Q7 (`FON.c`).** O item `FON.c` fala em gráfico ou tabela, e o insumo aqui é reportagem. O critério da grade (*a série histórica ausente no texto*) está pedido, e a folha ainda cobra veículo e data. Mesma situação da revisão anterior, que preservou o tipo.
+
+### Refino §7.1 v2 — 12/08
+
+Passe posterior à reformatação: o §7.1 ganhou três recursos que a rodada anterior não tinha — **marcador de caso (b)** para especificações paralelas de um produto, **complemento de localização** no rótulo `Responda:`, e **pergunta em dois tempos** quando o comando comprime dois raciocínios. Geografia é a disciplina-calibre: a Q1 do Cap. 1 da 1ª Série entrou como segundo exemplo calibrado do `06-PRODUCAO.md` §7.1.
+
+Reformatação pura de novo: tipo, item, rubrica, numeração, títulos e todas as especificações preservados. Contagem inalterada — **2 arquivos-ano · 4 capítulos · 32 questões**. Verificação determinística contra `git HEAD`: nenhum número perdido na compactação, nenhum resíduo de rótulo, sigla ou "colega".
+
+**11 das 32 questões mudaram de forma.**
+
+| Recurso | Questões | Onde |
+|---|---:|---|
+| Marcador de caso (b) | 7 | 1ª: 1·1 climogramas · 1·2 tabela de Köppen · 1·4 esquema do ENSO · 2·1 ciclo hidrológico · 2·2 croqui da bacia — 2ª: 1·4 mapa do conflito · 2·1 tabela EUA × China · 2·2 mapa dos minerais |
+| Execução em dois parágrafos | 2 | 1ª 1·1 e 2ª 2·2 — reunir o dado e montar o produto são ações de natureza distinta |
+| `Responda:` com localização | 2 | 1ª 1·1 (`abaixo dos gráficos`, já existia) e 1ª 1·4 (`ao lado da ligação marcada com interrogação`, novo) |
+| `Responda:` em dois tempos | 1 | 1ª 1·1 — *apontar o fator que explica a maior diferença* cobrava a identificação da diferença sem nunca pedi-la |
+| Imperativo → pergunta no `Responda:` | 3 | 1ª 1·6 e 2·3 · 2ª 2·5 — *Apresente… e indique…* virou pergunta, como o §7.1 manda |
+
+Contagem final dos blocos, contada nos arquivos: `Responda:` **17** (era 16 — entrou a do ENSO) · `Antes de começar, responda por escrito:` **2** · `Registre:` **0** · `Confira você mesmo:` **0**.
+
+**Onde o marcador NÃO entrou, e por quê.** O critério aplicado foi: marcador de caso (b) só quando o produto tem **três ou mais requisitos paralelos** hoje encadeados numa mesma frase. Ficaram em prosa, deliberadamente: a `TAB.a` de 2ª 1·2 (dois requisitos por linha, mais um critério avulso); as seis `ESC.b` de verbete, que já têm a lista `a) b) c) d)` e ganhariam uma segunda lista aninhada; e as quatro `ESC.c` de redação, em que a lista quebra o texto corrido que a tarefa pede. Transformar tudo em lista é o efeito checklist que o próprio §7.1 veta.
+
+**Uma linha da grade acompanhou a folha.** `1ª Série · Cap. 1 · Q1` dizia *"o fator do clima apontado abaixo dos gráficos"*. Com o segundo tempo aberto, a folha passou a pedir também **qual é a maior diferença**, e R10 não teria o que medir nela. O critério passa a nomear as duas entregas. `VIS.d` · R10 preservados; nenhuma outra linha da seção 2 mudou, porque nenhuma outra questão alterou o que entrega.

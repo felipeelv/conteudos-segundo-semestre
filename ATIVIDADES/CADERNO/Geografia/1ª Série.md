@@ -7,15 +7,31 @@
 
 ## Capítulo 1 — Clima
 
-**1.** Elabore dois climogramas de cidades brasileiras de climas contrastantes, com dados que você mesmo reunir, e aponte o fator do clima que explica a maior diferença entre eles.
+**1.** Elabore dois climogramas de cidades brasileiras de climas contrastantes, com dados que você mesmo reunir, e identifique a maior diferença entre eles e o fator do clima que a explica.
 
-Consulte um atlas, um livro didático ou uma fonte digital e reúna a temperatura média e a precipitação de cada um dos doze meses de duas cidades — uma da Amazônia ou do litoral, outra do interior do Nordeste, do planalto do Sudeste ou do Sul. Se a fonte já trouxer o climograma pronto, transcreva dela os valores mês a mês. Monte um climograma para cada cidade, com título que nomeie a cidade, barras de precipitação em milímetros e linha de temperatura em graus Celsius, mantendo as mesmas escalas nos dois gráficos, e registre a fonte dos dados.
+Consulte um atlas, um livro didático ou uma fonte digital e reúna a temperatura média e a precipitação de cada um dos doze meses de duas cidades — uma da Amazônia ou do litoral, outra do interior do Nordeste, do planalto do Sudeste ou do Sul. Se a fonte já trouxer o climograma pronto, transcreva dela os valores mês a mês.
 
-**Responda, abaixo dos gráficos:** qual fator do clima explica a maior diferença entre as duas cidades?
+Monte um climograma para cada cidade, com:
+
+- título que nomeie a cidade;
+- barras de precipitação em milímetros;
+- linha de temperatura em graus Celsius;
+- as mesmas escalas nos dois gráficos;
+- a indicação da fonte dos dados.
+
+**Responda, abaixo dos gráficos:** qual é a maior diferença entre os dois climogramas, e que fator do clima a explica?
 
 ---
 
-**2.** Elabore uma tabela que classifique três cidades brasileiras — Manaus, Petrolina (no interior de Pernambuco) e Curitiba — em um dos grupos de Köppen e que registre, para cada cidade, os dois critérios — um de temperatura e um de precipitação — que decidiram a classificação. Acrescente uma última coluna com uma diferença entre as três cidades que a sigla de Köppen, sozinha, não registra.
+**2.** Elabore uma tabela que classifique Manaus, Petrolina (no interior de Pernambuco) e Curitiba em um dos grupos de Köppen e registre o que a sigla, sozinha, não diz sobre elas.
+
+A tabela precisa trazer, para cada uma das três cidades:
+
+- o grupo de Köppen em que ela se enquadra;
+- o critério de temperatura que decidiu a classificação;
+- o critério de precipitação que decidiu a classificação.
+
+Acrescente uma última coluna com uma diferença entre as três cidades que a sigla de Köppen, sozinha, não registra.
 
 ---
 
@@ -29,7 +45,15 @@ Duas cidades do Nordeste oriental estão praticamente na mesma latitude: uma fic
 
 **4.** Elabore um esquema do ENSO que ligue cada fase do fenômeno aos efeitos mais frequentes sobre as chuvas no Brasil.
 
-Organize o esquema em três faixas — fase neutra, El Niño e La Niña — e indique, em cada faixa, se a água da superfície do Pacífico equatorial está mais quente, mais fria ou próxima do habitual. Ligue cada fase, por setas rotuladas, ao efeito mais frequente no Sul do Brasil e ao efeito mais frequente em partes do Norte e do Nordeste. Marque com interrogação a ligação menos previsível e escreva ao lado o que torna esse efeito incerto.
+Organize o esquema em três faixas — fase neutra, El Niño e La Niña. Cada faixa precisa trazer:
+
+- se a água da superfície do Pacífico equatorial está mais quente, mais fria ou próxima do habitual;
+- uma seta rotulada até o efeito mais frequente no Sul do Brasil;
+- uma seta rotulada até o efeito mais frequente em partes do Norte e do Nordeste.
+
+Marque com interrogação a ligação menos previsível de todo o esquema.
+
+**Responda, ao lado da ligação marcada com interrogação:** o que torna esse efeito incerto?
 
 ---
 
@@ -46,7 +70,7 @@ d) mPa
 
 Uma onda de calor de mesma intensidade atinge dois bairros da mesma cidade: um com 40% de cobertura arbórea e ruas largas, outro com 3% de cobertura e telhado metálico predominante.
 
-**Responda:** qual dos dois bairros exige ação prioritária? Apresente os dois percentuais de cobertura arbórea e o critério que você aplicou para decidir. Classifique, em seguida, cada diferença de impacto que você identificar como consequência do clima ou da desigualdade urbana.
+**Responda:** qual dos dois bairros exige ação prioritária, quais são os dois percentuais de cobertura arbórea e que critério você aplicou para decidir? E cada diferença de impacto que você identificar entre os dois bairros é consequência do clima ou da desigualdade urbana?
 
 ---
 
@@ -66,15 +90,26 @@ Procure, em jornal ou revista impressos, em site de notícias ou no acervo da bi
 
 **1.** Elabore um esquema completo do ciclo hidrológico, marque onde a ação humana interfere nele e antecipe o efeito da interrupção de uma das etapas.
 
-Nomeie todos os processos e identifique a entrada e a saída de água de cada etapa. Acrescente, em traço tracejado, três setas que marquem onde a ação humana interfere no ciclo, com o efeito de cada interferência escrito ao lado.
+O esquema precisa trazer:
+
+- todos os processos do ciclo nomeados;
+- a entrada e a saída de água de cada etapa;
+- três setas em traço tracejado, marcando onde a ação humana interfere no ciclo, com o efeito de cada interferência escrito ao lado.
 
 **Responda:** o que acontece com as etapas seguintes do ciclo quando a infiltração é interrompida numa área inteiramente pavimentada?
 
 ---
 
-**2.** Elabore um croqui de uma bacia hidrográfica com dois vales, com título e legenda obrigatórios.
+**2.** Elabore um croqui de uma bacia hidrográfica com dois vales.
 
-Trace o rio principal e três afluentes, delimite o divisor de águas, marque a foz — a saída da água da bacia — e hachure a área drenada. Marque também um ponto que esteja fora da bacia e a menos de um quilômetro do rio principal.
+O croqui precisa trazer:
+
+- título e legenda;
+- o rio principal e três afluentes traçados;
+- o divisor de águas delimitado;
+- a foz — a saída da água da bacia — marcada;
+- a área drenada hachurada;
+- um ponto que esteja fora da bacia e a menos de um quilômetro do rio principal.
 
 ---
 
@@ -82,7 +117,7 @@ Trace o rio principal e três afluentes, delimite o divisor de águas, marque a 
 
 Numa bacia hidrográfica, uma indústria despeja efluente no curso principal, no terço superior. Um sítio capta água no terço inferior desse mesmo curso. Um segundo sítio está a 800 metros do rio principal, mas do outro lado do divisor de águas.
 
-**Responda:** qual dos dois sítios corre risco de receber o efluente da indústria? Justifique pelo caminho que a água percorre e indique qual informação sobre o relevo sustentou a sua decisão.
+**Responda:** qual dos dois sítios corre risco de receber o efluente da indústria, que caminho a água percorre até ele, e que informação sobre o relevo sustentou a sua decisão?
 
 ---
 

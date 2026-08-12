@@ -339,9 +339,9 @@ Estrutura, nesta ordem — os blocos 2, 4 e 6 só existem quando o item os tem:
 
 1. **Enunciado-síntese.** A primeira frase, com o verbo do banco do §6, dando o arco completo da questão (construir → transformar → registrar) sem detalhar o como. **A checagem 2 do §8 se afere aqui** — os imperativos internos da execução (*trace*, *marque*, *percorra*) não são verbos de comando. Se a questão pede previsão, a síntese não pode revelar o resultado esperado.
 2. **`Antes de começar, responda por escrito:`** — só quando o item tem previsão (INV). Em forma de pergunta e **antes da execução**: o palpite nasce antes do dado (R8).
-3. **Execução.** Prosa corrida compacta: ações simples fundidas na mesma frase; marcadores apenas quando existe sub-sequência técnica cuja ordem importa. Todas as especificações técnicas preservadas — medidas, quantidades, condições. A síntese resume; a execução carrega os números.
+3. **Execução.** Prosa corrida compacta: ações simples fundidas na mesma frase. Quando há duas ações de natureza distinta — reunir o dado e montar o produto com ele —, dois parágrafos curtos separam melhor que um só. Todas as especificações técnicas preservadas — medidas, quantidades, condições. A síntese resume; a execução carrega os números. **Marcador só em dois casos:** (a) sub-sequência técnica cuja ordem importa — as transformações aplicadas em sequência; (b) especificações paralelas de um mesmo produto — os requisitos verificáveis daquilo que o aluno constrói, como os elementos que o gráfico precisa ter. No caso (b) o marcador lista **o que conferir no produto pronto**, não o artefato montado: enumerar requisito continua sendo exigência, entregar cabeçalho de tabela ou caixa vazia é o artefato pronto que a tabela de proibições veta.
 4. **`Registre:`** — só quando há registro contínuo ou periódico. Observação é dado bruto que o aluno produz, separado da conclusão.
-5. **`Responda:`** — a entrega central, em forma de pergunta sempre que a pergunta funciona. Carrega extensão e destinatário quando o tipo os exige (ESC/RET — checagem 3), com destinatário conforme §8.3.
+5. **`Responda:`** — a entrega central, em forma de pergunta sempre que a pergunta funciona. Carrega extensão e destinatário quando o tipo os exige (ESC/RET — checagem 3), com destinatário conforme §8.3, e admite **complemento de localização** quando a questão gera produto na página: `Responda, abaixo dos gráficos:`. **Pergunta que comprime dois raciocínios abre nos dois tempos.** *Aponte o fator que explica a maior diferença* cobra duas coisas e pergunta uma só: o aluno tem de identificar a diferença antes de explicá-la, e quem responde direto o fator pula a etapa que a questão existe para exercitar. Escreve-se `qual é a maior diferença entre os dois climogramas, e que fator do clima a explica?`. Ao abrir o segundo tempo, **confira a linha da questão na grade**: se o critério só nomeia o fator, ele passa a nomear os dois — a folha e a grade mudam na mesma passada, sem tocar em tipo nem em rubrica.
 6. **`Confira você mesmo:`** — só quando o item tem conferência embutida. Diz o que o erro **significa**, não apenas que ele existe.
 
 ```markdown
@@ -374,6 +374,24 @@ Exemplo calibrado — a questão de transformações do 8º ano de Geometria:
 
 Note: montar a malha e traçar o triângulo são uma frase de prosa, não "Etapa 1" e "Etapa 2"; os marcadores sobrevivem só na sequência de transformações, porque ali a ordem importa; o registro virou `Responda:` em pergunta; a conferência diz o que o erro significa.
 
+Segundo exemplo calibrado — a questão dos climogramas da 1ª série de Geografia, que mostra os outros três recursos: execução em dois parágrafos, marcador do caso (b) e `Responda:` em dois tempos.
+
+> **1.** Elabore dois climogramas de cidades brasileiras de climas contrastantes, com dados que você mesmo reunir, e identifique a maior diferença entre eles e o fator do clima que a explica.
+>
+> Consulte um atlas, um livro didático ou uma fonte digital e reúna a temperatura média e a precipitação de cada um dos doze meses de duas cidades — uma da Amazônia ou do litoral, outra do interior do Nordeste, do planalto do Sudeste ou do Sul. Se a fonte já trouxer o climograma pronto, transcreva dela os valores mês a mês.
+>
+> Monte um climograma para cada cidade, com:
+>
+> - título que nomeie a cidade;
+> - barras de precipitação em milímetros;
+> - linha de temperatura em graus Celsius;
+> - as mesmas escalas nos dois gráficos;
+> - a indicação da fonte dos dados.
+>
+> **Responda, abaixo dos gráficos:** qual é a maior diferença entre os dois climogramas, e que fator do clima a explica?
+
+Note: reunir os dados e montar o gráfico são ações de natureza distinta e ficam em parágrafos separados; os cinco marcadores não têm ordem obrigatória entre si — são o que se confere no climograma pronto, e é isso que os autoriza pelo caso (b); o `Responda:` ganhou localização porque o produto está na página, e abriu os dois tempos porque *apontar o fator que explica a diferença* cobrava a identificação da diferença sem nunca pedi-la.
+
 **Seis a oito questões por capítulo**, sem repetir o par tipo+item. Um mesmo tipo pode voltar uma segunda vez se o item for outro — `FON.a` (pesquisar a fonte) e `FON.c` (analisar o que a fonte não diz) são tarefas distintas.
 
 Três proibições no enunciado:
@@ -389,6 +407,7 @@ Três proibições no enunciado:
 | Etapas rotuladas — *"Etapa 1 — a malha"* — ou a questão inteira em lista numerada plana | efeito checklist: a pergunta central fica com o mesmo peso visual da instrução mecânica, e o aluno executa sem pensar |
 | Previsão ou conferência inventada, que o item sorteado não tem | conteúdo sem lastro no sorteio. Os blocos rotulados existem quando o item os tem — não por decoração |
 | Imperativo no `Responda:` quando a forma de pergunta funciona | a pergunta define a entrega melhor que a ordem |
+| `Responda:` que cobra dois raciocínios e pergunta um só | *o fator que explica a maior diferença* faz o aluno identificar a diferença sem nunca pedir que ele a declare. Os dois tempos, explícitos |
 | Perder especificação técnica ao compactar a execução | a síntese resume; quem carrega medidas, quantidades e condições é a execução |
 
 ### 7.2 Grade de correção
