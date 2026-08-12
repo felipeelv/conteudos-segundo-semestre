@@ -23,7 +23,7 @@ Os três objetos: dois produzidos pelo trabalho humano — nenhum deles a mesa u
 
 ---
 
-**3.** Explique cada um dos conceitos a seguir em um verbete de três a cinco linhas, escrito para quem faltou à aula, indicando a que pergunta o conceito responde e sem repetir a formulação do capítulo. Cada verbete deve empregar os três termos indicados entre parênteses:
+**3.** Redija, para quem faltou à aula, um verbete de três a cinco linhas sobre cada um dos conceitos a seguir, indicando a que pergunta o conceito responde e sem repetir a formulação do capítulo. Cada verbete precisa empregar os três termos indicados entre parênteses:
 
 a) potência (matéria, mudança, ato)
 b) ato (potência, forma, movimento)
@@ -52,7 +52,7 @@ Consulte fonte impressa, digital ou do acervo da biblioteca da escola — dicion
 
 O texto deve ter sido publicado nos últimos cinco anos, em fonte impressa, digital ou do acervo da biblioteca da escola. Registre a referência.
 
-**Responda:** qual critério de vida boa o texto adota, com que argumento o sustenta e em que ponto esse critério se afasta da eudaimonia aristotélica? Formule, ao final, uma pergunta sobre a vida boa que o texto levanta e não responde.
+**Responda:** qual critério de vida boa o texto adota, com que argumento o sustenta e em que ponto esse critério se afasta da eudaimonia aristotélica? E que pergunta sobre a vida boa o texto levanta e não responde?
 
 ---
 
@@ -64,4 +64,4 @@ Um estudante escreveu: *"O argumento é válido, portanto sua conclusão é verd
 
 ---
 
-**8.** Justifique, em um texto de seis a dez linhas dirigido a um leitor que sustenta a posição contrária, a sua resposta à seguinte questão: o meio-termo aristotélico é aplicável a toda virtude? Enuncie a posição na primeira linha, sustente-a com dois exemplos e responda à objeção de que existem ações para as quais não há excesso nem falta admissíveis.
+**8.** Redija, em seis a dez linhas, para um leitor que sustenta a posição contrária, uma resposta à pergunta: o meio-termo aristotélico é aplicável a toda virtude? Enuncie a posição na primeira linha, sustente-a com dois exemplos e responda à objeção de que existem ações para as quais não há excesso nem falta admissíveis.

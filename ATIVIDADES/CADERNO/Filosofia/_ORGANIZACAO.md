@@ -117,3 +117,30 @@ Conferência das 16 questões, uma a uma, confrontando o texto da folha com a li
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (4 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.
+
+### Refino §7.1 v2 — 12/08
+
+A disciplina entrou nesta rodada com as duas folhas em estados diferentes, e o registro anterior omitia isso: a **1ª Série** foi reformatada no commit `812c490` e a **2ª Série ficou de fora** — as 8 questões seguiam em comando corrido, sem enunciado-síntese, execução e `Responda:` separados. As duas folhas agora estão no mesmo molde, já com os três recursos que o §7.1 ganhou nesta rodada (marcador de caso (b), complemento de localização no `Responda:`, pergunta em dois tempos).
+
+Contagem inalterada: **2 arquivos-ano · 2 capítulos · 16 questões**. Verificação determinística contra `git HEAD`: nenhum número perdido, **nenhuma citação perdida** — as três transcrições da 2ª Série (os dois lemas da campanha e a frase do estudante) foram conferidas uma a uma —, e as especificações de extensão (*três a cinco linhas*, *seis a dez linhas*, *últimos cinco anos*, *três termos*, *dois problemas*) todas de pé.
+
+**2ª Série — molde completo nas 8 questões.**
+
+| Q | Tipo · Rubr. | O que mudou |
+|---:|---|---|
+| 1 | `ESQ.a` · R4 | *Explique em seguida em que etapa…* era a entrega e estava no fim da prosa; virou **`Responda, abaixo do esquema:`**, com o segundo tempo (*por que não pode ser antes nem depois*) explícito |
+| 2 | `TAB.a` · R10 | `Construa` → `Elabore` (§6 — tabela é artefato sem instrumento; **fecha a pendência registrada na seção anterior**) e os três requisitos da tabela viraram marcador de caso (b) |
+| 3 | `ESC.b` · R5 | `Explique … em um verbete` → `Redija`, o verbo prescrito de ESC/RET. Destinatário, extensão e os três termos por verbete preservados |
+| 4 | `CASO.c` · R12 | síntese com `Decida` na primeira frase, os dois lemas descem para o corpo, entrega em `Responda:` nos dois tempos (classificação + resposta da avaliação cristã) |
+| 5 | `FON.a` · R7 | síntese + execução (localizar e transcrever) + `Responda:`; obra, ano e passagem transcrita continuam cobrados, agora na entrega |
+| 6 | `FON.c` · R7 | idem; *Formule, ao final, uma pergunta…* virou pergunta — imperativo no `Responda:` onde a forma de pergunta funciona é proibição do §7.1 |
+| 7 | `ERR.c` · R11 | síntese com `Diagnostique`, a citação do estudante desce para o corpo, os **dois** problemas cobrados no `Responda:` |
+| 8 | `ESC.c` · R5 | `Justifique` → `Redija`, alinhando com as outras `ESC.c` das doze disciplinas. Posição, duas passagens e resposta à objeção preservadas |
+
+**1ª Série — 3 ajustes de refino.** Q3 e Q8 abriam em `Explique` e `Justifique`, ambos no banco §6 e compatíveis com R5, mas o verbo prescrito de `ESC`/`RET` é `redija` — trocados, como já se fez nas outras onze disciplinas. Q6 tinha *Formule, ao final, uma pergunta…* dentro do `Responda:`; virou pergunta. As outras cinco já estavam conformes, inclusive os dois complementos de localização que a folha já usava (`Responda, em uma frase:` e `Responda, destacando na própria tabela:`) — eles são a prática que o §7.1 desta rodada passou a registrar como regra.
+
+Blocos ao final, contados nos arquivos: `Responda:` **11** (6 na 1ª Série, 5 na 2ª) · `Antes de começar:`, `Registre:` e `Confira você mesmo:` **0** nos dois anos — nenhum inventado, porque o pool da disciplina não tem `INV` nem item com conferência embutida.
+
+**Marcador de caso (b): entrou uma vez só**, na `TAB.a` da 2ª Série. As quatro `ESC.b` de verbete já trazem a lista `a) b) c) d)` e ganhariam uma segunda lista aninhada; as duas `ESC.c` são redação corrida; as duas `ESQ` têm dois requisitos, não três. Critério aplicado: marcador só com **três ou mais requisitos paralelos** hoje encadeados numa mesma frase.
+
+**Nenhuma linha da grade mudou.** Conferidas as 16 contra a seção 2 depois da reescrita: nenhuma questão alterou o que entrega, só como pede. A pendência de R7 registrada na seção anterior — *finalidade* medida pela rubrica e não cobrada em nenhuma das quatro `FON` — **continua aberta**, e esta passada não a tocou: fechá-la é decisão de coordenação sobre o critério, não de formulação.
