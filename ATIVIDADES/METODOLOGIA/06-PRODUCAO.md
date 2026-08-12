@@ -411,17 +411,22 @@ Duas questões **podem** tratar do mesmo conteúdo. O que não podem é comparti
 
 ### 8.2 Acessibilidade do recurso
 
-Os únicos recursos garantidos a todo aluno são: **o capítulo, o caderno, lápis ou caneta, régua, e a própria observação e raciocínio**. Uma questão que exija qualquer coisa além disso exclui parte da turma e precisa ser trocada.
+Os recursos garantidos a todo aluno são: **o capítulo, o caderno, lápis ou caneta, o material escolar de geometria — régua, compasso e transferidor —, calculadora comum, e a própria observação e raciocínio**. Uma questão que exija qualquer coisa além disso exclui parte da turma e precisa ser trocada.
 
 | Não exigir | Por quê | Substituir por |
 |---|---|---|
-| Termômetro, balança, trena, fita métrica, cronômetro | instrumento de medida não é material escolar | comparação qualitativa, estimativa justificada, ou dado fornecido no enunciado |
+| Termômetro, balança, trena, fita métrica, cronômetro | instrumento de medida que a escola não pede na lista | comparação qualitativa, estimativa justificada, ou dado fornecido no enunciado |
+| **Calculadora financeira** (teclas PV, FV, PMT, i, n) | não está na lista de material | calculadora comum, com o roteiro de cálculo explicitado no enunciado |
 | Celular, computador, internet, aplicativo, câmera | acesso desigual | fonte impressa **ou** digital **ou** o acervo da escola, à escolha |
-| Impressora, recorte de revista ou jornal | consumível que a família paga | o aluno desenha ou transcreve |
+| Impressora, recorte de revista ou jornal | consumível que a família paga | o aluno constrói o artefato ou transcreve |
 | Visita a local, entrevista com especialista, compra | custo, deslocamento e disponibilidade | observação do próprio cotidiano ou caso descrito no enunciado |
-| Item específico dentro de casa | nem toda casa tem | objeto de uma lista ampla, ou dado dado no enunciado |
+| Item específico dentro de casa | nem toda casa tem | objeto de uma lista ampla, ou dado fornecido no enunciado |
 
-`INV` continua válido: o aluno prevê e depois **observa** — sem instrumento. `FON` continua válido, desde que o enunciado aceite fonte impressa, digital ou do acervo da escola, sem exigir uma delas.
+Três consequências que decidem a redação do comando:
+
+- **Construção geométrica usa instrumento.** Com compasso e transferidor garantidos, o verbo é `construa` — que §6 define como *produzir com instrumento* e cujo erro comum é justamente *desenhar à mão livre*. Circunferência traçada a compasso, ângulo medido a transferidor. Reserve `elabore` para o artefato que não pede instrumento: esquema, tabela, história em quadrinhos.
+- **Aritmética pesada é aceitável, roteiro obrigatório.** Com calculadora comum, uma questão pode pedir potências sucessivas ou raiz. O que o enunciado precisa dar é o **roteiro**: qual conta, em que ordem, quantas vezes. O que ele não pode pressupor é tecla financeira que resolva o problema num passo.
+- **`INV` e `FON` seguem válidos.** `INV`: o aluno prevê e depois **observa** — instrumento só se for régua, compasso ou transferidor. `FON`: o enunciado aceita fonte impressa, digital ou do acervo da escola, sem exigir uma delas.
 
 ---
 
