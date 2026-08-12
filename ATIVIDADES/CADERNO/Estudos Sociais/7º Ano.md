@@ -60,7 +60,9 @@ Um estudante escreveu: *"O Brasil é urbano porque a maior parte do território 
 
 **Antes de começar, responda por escrito:** em que categorias você vai registrar os problemas urbanos?
 
-Percorra o trajeto observando da calçada, sem anotar nome nem descrição de nenhuma pessoa, e anote quantos problemas de cada categoria encontrou.
+Percorra o trajeto observando da calçada, sem anotar nome nem descrição de nenhuma pessoa.
+
+**Registre:** quantos problemas de cada categoria você encontrou ao longo do trajeto.
 
 **Responda:** qual é a contagem por categoria, e qual problema você esperava encontrar e não apareceu?
 

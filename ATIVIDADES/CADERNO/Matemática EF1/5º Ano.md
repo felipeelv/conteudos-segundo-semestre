@@ -36,7 +36,9 @@ Escreva embaixo de cada momento o que aconteceu, ligue os três momentos com set
 
 **4.** Explique o que está errado na regra a seguir.
 
-Rafael escreveu: *"Se eu somar 5 de um lado da igualdade, posso subtrair 5 do outro que continua igual."* Mostre com um exemplo numérico por que ele está errado.
+Rafael escreveu: *"Se eu somar 5 de um lado da igualdade, posso subtrair 5 do outro que continua igual."*
+
+Mostre com um exemplo numérico por que ele está errado.
 
 **Responda:** qual é o erro, e qual é a regra certa?
 
@@ -44,7 +46,11 @@ Rafael escreveu: *"Se eu somar 5 de um lado da igualdade, posso subtrair 5 do ou
 
 **5.** Elabore uma tabela com quatro igualdades verdadeiras, uma para cada operação — adição, subtração, multiplicação e divisão —, todas com o resultado 24 nos dois lados.
 
-Em cada linha, escreva a igualdade, o resultado do lado esquerdo e o resultado do lado direito.
+Cada linha precisa ter:
+
+- a igualdade;
+- o resultado do lado esquerdo;
+- o resultado do lado direito.
 
 ---
 
@@ -111,7 +117,13 @@ Bruno resolveu assim: *"▢ × 5 = 35, então ▢ = 35 × 5 = 175."*
 
 **5.** Elabore uma tabela com três sequências numéricas, todas começando no número 6.
 
-Uma delas cresce somando o mesmo número a cada termo, outra cresce multiplicando pelo mesmo número a cada termo e a terceira diminui. Para cada uma, escreva os cinco primeiros termos e a regra.
+As três sequências são:
+
+- uma que cresce somando o mesmo número a cada termo;
+- uma que cresce multiplicando pelo mesmo número a cada termo;
+- uma que diminui.
+
+Para cada uma, escreva os cinco primeiros termos e a regra.
 
 ---
 
@@ -173,7 +185,15 @@ Com a régua, construa no caderno uma malha quadriculada de 8 por 8 quadradinhos
 
 **6.** Elabore no caderno uma tabela de cinco linhas que passe de passos para pares ordenados e de pares ordenados para passos.
 
-Numa escola, o portão de entrada é o ponto (0, 0): um passo para o lado vale uma unidade do eixo horizontal e um passo para a frente vale uma unidade do eixo vertical. A secretaria fica a 4 passos para o lado e 2 passos para a frente; a cantina, a 9 passos para o lado e 3 para a frente; a sala de aula, a 6 passos para o lado e 6 para a frente; a biblioteca está no ponto (2, 7); a quadra está no ponto (8, 10). Cada linha da tabela traz o nome do lugar, quantos passos ele fica para o lado, quantos passos para a frente e o par ordenado correspondente.
+Numa escola, o portão de entrada é o ponto (0, 0): um passo para o lado vale uma unidade do eixo horizontal e um passo para a frente vale uma unidade do eixo vertical. Os cinco lugares são:
+
+- a secretaria, a 4 passos para o lado e 2 passos para a frente;
+- a cantina, a 9 passos para o lado e 3 para a frente;
+- a sala de aula, a 6 passos para o lado e 6 para a frente;
+- a biblioteca, no ponto (2, 7);
+- a quadra, no ponto (8, 10).
+
+Cada linha da tabela traz o nome do lugar, quantos passos ele fica para o lado, quantos passos para a frente e o par ordenado correspondente.
 
 ---
 
@@ -221,7 +241,13 @@ c) Depois de uma ampliação em que todos os lados dobraram, um retângulo ficou
 
 **4.** Construa três figuras em malha, aplique a regra da redução à metade às três e decida em quais delas a figura reduzida cabe sem partir quadrado.
 
-A regra da redução à metade manda dividir todos os lados por 2. Com a régua, construa no caderno três malhas quadriculadas de 8 por 8 quadradinhos e construa uma figura em cada uma: um retângulo de 8 por 6 quadrados, um retângulo de 5 por 4 quadrados e um quadrado de 7 quadrados de lado. Aplique a regra às três e escreva, para cada uma, as medidas que a regra produz.
+A regra da redução à metade manda dividir todos os lados por 2. Com a régua, construa no caderno três malhas quadriculadas de 8 por 8 quadradinhos e, em cada uma, uma destas figuras:
+
+- um retângulo de 8 por 6 quadrados;
+- um retângulo de 5 por 4 quadrados;
+- um quadrado de 7 quadrados de lado.
+
+Aplique a regra às três e escreva, para cada uma, as medidas que a regra produz.
 
 **Responda:** em quais das três a figura reduzida cabe na malha sem partir quadrado? Justifique cada decisão e escreva até onde a regra da metade vale.
 
@@ -229,7 +255,13 @@ A regra da redução à metade manda dividir todos os lados por 2. Com a régua,
 
 **5.** Elabore o esquema completo de uma reflexão na malha, em ordem, acrescentando a etapa que falta.
 
-Estas três etapas estão fora de ordem, e falta uma etapa entre elas: ligar os novos vértices na mesma ordem em que estavam · escolher o eixo de reflexão · contar quantos quadrados cada vértice está do eixo. Escreva a etapa que falta, ligue as etapas com setas e escreva sobre cada seta o que a etapa anterior garante à etapa seguinte.
+Estas três etapas estão fora de ordem, e falta uma etapa entre elas:
+
+- ligar os novos vértices na mesma ordem em que estavam;
+- escolher o eixo de reflexão;
+- contar quantos quadrados cada vértice está do eixo.
+
+Escreva a etapa que falta, ligue as etapas com setas e escreva sobre cada seta o que a etapa anterior garante à etapa seguinte.
 
 ---
 

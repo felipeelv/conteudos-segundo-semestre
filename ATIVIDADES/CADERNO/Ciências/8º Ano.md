@@ -69,7 +69,9 @@ Procure em um livro, numa revista, no acervo da biblioteca da escola ou na inter
 
 **1.** Registre, em quatro categorias, o que encontrar nas plantas de um trecho perto de onde você mora, e identifique o agente polinizador que uma dessas flores indica.
 
-Antes de observar, escreva as quatro categorias em que vai separar o que encontrar: flores abertas, flores fechadas, frutos e sementes. Depois observe, da calçada ou do pátio, as plantas de um mesmo trecho perto de onde você mora, sem colher nada, e anote em cada categoria quantas encontrou e em que planta estavam.
+Antes de observar, escreva as quatro categorias em que vai separar o que encontrar: flores abertas, flores fechadas, frutos e sementes. Depois observe, da calçada ou do pátio, as plantas de um mesmo trecho perto de onde você mora, sem colher nada.
+
+**Registre:** em cada categoria, quantas você encontrou e em que planta estavam.
 
 **Responda:** qual característica visível de uma dessas flores — cor, formato ou cheiro — indica o agente polinizador que a visita?
 

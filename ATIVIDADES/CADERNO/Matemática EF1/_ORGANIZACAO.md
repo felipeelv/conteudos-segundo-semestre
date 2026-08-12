@@ -255,3 +255,30 @@ Três observações que **não** viraram correção, por não serem exigência q
 - **`VIS.a` sem título e legenda em 4º cap. 1 q. 6 (reta numérica) e 5º cap. 3 q. 1 (plano cartesiano).** O item `VIS.a` traz *legenda e título obrigatórios*, mas o critério das duas questões é a coincidência de 1/4 e 2/8 e a nomeação A–D, e R10 condiciona o peso 3 a *quando cabe* — em reta numérica e em plano com quatro pontos nomeados, não cabe. A terceira `VIS.a` da disciplina (5º cap. 3 q. 5, planta), onde cabe, os exige.
 - **5º cap. 2 q. 6 (`INV.a`) não tem bloco `Confira você mesmo:`.** O item é ✓conf, e a conferência que ele prevê — previsão contra resultado — está no `Responda:` (*"qual das duas regras bateu com a sua previsão"*). Inventar um bloco aqui violaria a proibição de conferência sem lastro no sorteio (§7.1).
 - **4º cap. 2 q. 6 (`MOD.c`) não tem `Responda:`.** É bloco de cálculo com comando único, caso que o §7.1 dispensa, e os dois critérios da grade estão na execução e na conferência.
+
+### Refino §7.1 v2 — 12/08
+
+As duas folhas já estavam no molde. Refino: **12 das 56 questões**, todas de forma. **Nenhum bloco foi criado nem removido** e nenhuma entrega mudou de mão.
+
+Contagem inalterada: **2 arquivos-ano · 8 capítulos · 56 questões**. Verificação determinística contra `git HEAD`: nenhum número perdido, nenhuma citação perdida, **nenhuma fração perdida** (1/2, 2/5, 5/6, 45/100, 1/12…) e **nenhum par ordenado perdido** ((2, 5), (5, 2), (8, 10)…) — são o objeto de metade das questões, e um par trocado inviabiliza a resposta.
+
+**O marcador rendeu aqui mais do que a contagem sugere, porque a faixa etária é a que menos tolera prosa longa.** Onze das doze questões ganharam lista curta, em três situações recorrentes:
+
+- **Etapas fora de ordem para o aluno ordenar** — `4º Cap. 4 Q5` (as quatro etapas da medição de massa) e `5º Cap. 4 Q5` (as três etapas da reflexão na malha) vinham separadas por `·` dentro do parágrafo. A tarefa é justamente **reordenar**, e a lista deixa cada etapa visível como peça a mover. É caso (b): os itens não estão em ordem, e não podem estar.
+- **Colunas de tabela** — `4º Cap. 2 Q5` e `Cap. 3 Q3`, `5º Cap. 1 Q5`. Mesmo padrão das outras disciplinas.
+- **Dados de referência e figuras a construir** — `4º Cap. 4 Q3` (palmo 15 cm · passo 60 cm · porta 2 m), `5º Cap. 3 Q6` (os cinco lugares da escola com seus passos) e `5º Cap. 4 Q4` (as três figuras a construir na malha). Em `5º Cap. 3 Q6` são cinco lugares com dois números cada, encadeados por ponto-e-vírgula numa frase de cinco linhas — a questão mais difícil de ler de toda a disciplina antes da mudança.
+
+**Duas execuções saíram de dentro do parágrafo do caso** — `4º Cap. 1 Q4` (*"Faça no caderno um desenho que compare as duas frações"*, colada à resolução errada de Pedro) e `5º Cap. 1 Q4` (*"Mostre com um exemplo numérico por que ele está errado"*, colada à regra de Rafael).
+
+**Uma duplicação corrigida.** O `Registre:` do `4º Cap. 4 Q7` mandava anotar *"os três números — a previsão, a contagem de palmos e a medida em centímetros"*, mas a previsão já estava escrita no bloco `Antes de começar`. Pedir de novo o mesmo número é ruído, e sugere ao aluno que ele pode escrevê-la depois. Ficaram os dois números que a execução de fato produz.
+
+**Blocos ao final:** `Responda:` **29** · `Antes de começar:` **6** · `Registre:` **5** · `Confira você mesmo:` **19** — todos idênticos aos de antes. Checagem 2: **56 de 56**. Comando corrido: **1** (comando único legítimo).
+
+**Nenhuma linha da grade mudou.**
+
+**Pendência de regra levantada nesta passada, para a coordenação decidir.** O §7.1 admite `Registre:` *"só quando há registro contínuo ou periódico"*. Os cinco `Registre:` desta disciplina são coletas em **uma única sessão** — cinco lugares observados, cinco objetos medidos, os trechos de um caminho contados. Não são periódicos no tempo; são repetidos no número de observações. Na mesma rodada, dois blocos equivalentes foram **desfeitos** em Ciências (8º Cap. 2 Q1) e em Estudos Sociais (7º Cap. 2 Q1), pelo critério estrito. Estes cinco não foram tocados, porque já estavam aprovados e o mandato da passada é de forma. **O material carrega hoje as duas leituras**, e fechar isso é decidir qual vale:
+
+| Leitura | O que implica |
+|---|---|
+| **Estrita** — `Registre:` só com repetição **no tempo** (dias, semanas) | desfazer os cinco desta disciplina; sobram os de Ciências (germinação, três dias de resíduo) e de Estatística |
+| **Ampla** — `Registre:` para qualquer coleta de dado bruto separada da conclusão | refazer os dois desfeitos em Ciências e Estudos Sociais; o §7.1 §4 passa a dizer *"registro de várias observações"* em vez de *"contínuo ou periódico"* |

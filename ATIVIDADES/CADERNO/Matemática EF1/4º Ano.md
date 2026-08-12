@@ -38,7 +38,9 @@ Com a régua, construa no caderno dois retângulos iguais, um embaixo do outro, 
 
 **4.** Explique o que está errado na resolução a seguir, mostrando o erro em um desenho.
 
-Pedro resolveu assim: *"1/3 é maior que 1/2, porque 3 é maior que 2."* Faça no caderno um desenho que compare as duas frações.
+Pedro resolveu assim: *"1/3 é maior que 1/2, porque 3 é maior que 2."*
+
+Faça no caderno um desenho que compare as duas frações.
 
 **Responda:** onde está o erro de Pedro, e qual é a explicação certa?
 
@@ -107,7 +109,11 @@ Lucas resolveu assim: *"2/5 + 1/5 = 3/10."*
 
 **5.** Elabore no caderno uma tabela de cinco linhas que relacione partes de uma hora a minutos.
 
-Use as frações 1/12, 1/6, 1/3, 2/3 e 5/6 de hora. Em cada linha, escreva a fração, quantos minutos ela vale e a conta que mostra esse valor.
+Use as frações 1/12, 1/6, 1/3, 2/3 e 5/6 de hora. Cada linha precisa ter:
+
+- a fração;
+- quantos minutos ela vale;
+- a conta que mostra esse valor.
 
 **Confira você mesmo:** 1/6 de hora mais 1/6 de hora precisa dar o mesmo número de minutos que 1/3 de hora. Se der um número diferente, uma dessas três linhas está com a conta errada.
 
@@ -150,7 +156,13 @@ b) 0,7 ou 0,75
 
 ---
 
-**3.** Elabore uma tabela com cinco números decimais diferentes, com a leitura por extenso e a fração correspondente de cada um.
+**3.** Elabore uma tabela com cinco números decimais diferentes.
+
+Cada linha precisa ter:
+
+- o número decimal;
+- a leitura dele por extenso;
+- a fração correspondente.
 
 Pelo menos um dos cinco precisa ser maior que 1 e pelo menos um precisa ter centésimos. Nenhum dos cinco pode ser um dos números que aparecem no capítulo.
 
@@ -212,7 +224,13 @@ Rafael somou a massa de um saco de arroz de 5 kg com a de um pacote de açúcar 
 
 **3.** Calcule quantos passos e quantos palmos percorrem a largura de uma sala e justifique qual das duas contagens erra menos.
 
-Três medidas de referência valem, mais ou menos, o seguinte: um palmo mede 15 cm, um passo mede 60 cm e a altura de uma porta mede 2 m. A sala tem 6 m de largura. Mostre as duas contas.
+Três medidas de referência valem, mais ou menos, o seguinte:
+
+- um palmo mede 15 cm;
+- um passo mede 60 cm;
+- a altura de uma porta mede 2 m.
+
+A sala tem 6 m de largura. Mostre as duas contas.
 
 **Responda:** qual das duas contagens erra menos quando a pessoa se distrai e conta uma unidade a mais? Justifique com a diferença em centímetros que essa unidade a mais provoca.
 
@@ -228,7 +246,14 @@ Escreva a conta que sustenta a sua decisão.
 
 **5.** Elabore o esquema completo de uma medição de massa, em ordem, acrescentando a etapa que falta.
 
-Estas quatro etapas estão fora de ordem, e falta uma etapa antes de todas elas: ler o número que aparece no visor · comparar o resultado com o que se esperava · conferir se a balança marca zero · colocar o objeto sobre o prato. Escreva a etapa que falta, ligue as etapas com setas e escreva sobre cada seta o que a etapa anterior garante à etapa seguinte.
+Estas quatro etapas estão fora de ordem, e falta uma etapa antes de todas elas:
+
+- ler o número que aparece no visor;
+- comparar o resultado com o que se esperava;
+- conferir se a balança marca zero;
+- colocar o objeto sobre o prato.
+
+Escreva a etapa que falta, ligue as etapas com setas e escreva sobre cada seta o que a etapa anterior garante à etapa seguinte.
 
 ---
 
@@ -244,7 +269,7 @@ Use no bilhete dois exemplos em que o mesmo número quer dizer quantidades bem d
 
 Conte quantos palmos realmente cabem e, em seguida, meça essa mesma largura com a régua, em centímetros.
 
-**Registre:** os três números — a previsão, a contagem de palmos e a medida em centímetros.
+**Registre:** a contagem de palmos e a medida em centímetros.
 
 **Responda:** quantos centímetros mede o seu palmo, mais ou menos, e quantos palmos seus caberiam em 1 metro?
 
