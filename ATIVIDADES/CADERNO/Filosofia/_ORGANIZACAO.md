@@ -70,7 +70,7 @@
 | Ano | Cap | Q | O que foi corrigido | Regra |
 |---|---:|---:|---|---|
 | 1ª Série | 1 | 2 | acrescentada a exigência de que o objeto produzido pelo trabalho humano seja diferente da mesa que o capítulo já resolve nas quatro causas | §8 checagem 1 |
-| 1ª Série | 1 | 3 | verbo *descreva* (R8/R10) trocado por *explique*; acrescentados destinatário (colega que faltou) e extensão (verbete de três a cinco linhas); vedada a repetição da formulação do capítulo | §8 checagens 1, 2 e 3 |
+| 1ª Série | 1 | 3 | verbo *descreva* (R8/R10) trocado por *explique*; acrescentados destinatário (quem faltou) e extensão (verbete de três a cinco linhas); vedada a repetição da formulação do capítulo | §8 checagens 1, 2 e 3 |
 | 1ª Série | 1 | 5 | a consulta passou a aceitar fonte impressa, digital ou do acervo da biblioteca da escola, sem exigir nenhuma delas | §8.2 acessibilidade |
 | 1ª Série | 1 | 6 | idem, mais o registro obrigatório da referência localizada | §8.2 acessibilidade |
 | 1ª Série | 1 | 7 | *identifique o erro* trocado por *explique por que a afirmação é errada*, alinhando o verbo ao critério de R11 | §8 checagem 2 |
@@ -99,3 +99,7 @@ Nenhuma questão da produção anterior violava §8.1 — as 16 já eram autossu
 | 2ª Série | 1 | 6 | acrescentada a pergunta que o texto levanta e não responde | §5 catálogo `FON.c` · R7 |
 
 **O que continua pendente.** A ausência de `MC` (T3) e o pool fora da fórmula de §3 — `TAB` proibido por M8, `ERR` sem M1, `FON` sem M5 — não são corrigíveis por reformulação de enunciado. Dependem de re-sorteio autorizado sobre o pool legítimo `ESC · CASO · MC · ESQ`, que fecharia as duas pendências de uma vez. Ver seção 4.
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (4 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.

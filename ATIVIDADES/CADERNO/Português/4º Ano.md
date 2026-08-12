@@ -29,7 +29,7 @@ Escreva qual está certa e explique o que mudou de uma para a outra.
 
 *"Beto encontrou Lucas na praça. Beto disse a Lucas que Beto tinha achado a bola de Lucas."*
 
-**5.** Um colega escreveu: *"Para eu não é errado, porque eu sou quem faz a ação."* Descubra o erro e escreva a regra certa, com um exemplo.
+**5.** Um estudante escreveu: *"Para eu não é errado, porque eu sou quem faz a ação."* Descubra o erro e escreva a regra certa, com um exemplo.
 
 **6.** Escreva um bilhete de cinco linhas para alguém da sua casa, pedindo uma coisa. Use pelo menos dois pronomes oblíquos e sublinhe cada um. Depois releia o bilhete e confira cada pronome sublinhado: quem pratica a ação fica no caso reto, quem recebe fica no oblíquo. Escreva uma segunda versão do bilhete corrigindo o que a conferência apontou e entregue as duas.
 
@@ -58,7 +58,7 @@ a) *A Marina chegou primeiro. **Ela** trouxe o bolo.*
 b) *Comprei os cadernos e guardei-**os** na mochila.*
 c) *O Tiago perdeu a chave. Meu pai deu outra a **ele**.*
 
-**5.** Um colega escreveu um texto em que usou *ele* seis vezes seguidas, e no final ninguém entendeu de quem ele falava. Escreva duas coisas que esse colega poderia fazer para resolver o problema.
+**5.** Um estudante escreveu um texto em que usou *ele* seis vezes seguidas, e no final ninguém entendeu de quem ele falava. Escreva duas coisas que esse estudante poderia fazer para resolver o problema.
 
 **6.** Escreva um parágrafo de seis linhas contando algo que aconteceu com duas pessoas. Você não pode repetir o nome de nenhuma delas mais de uma vez, e precisa ficar claro quem fez o quê. Depois releia e pergunte, em cada pronome, a quem ele se refere: onde a resposta admitir as duas pessoas, há dúvida. Escreva uma segunda versão que desfaça cada dúvida encontrada e entregue as duas.
 
@@ -87,9 +87,9 @@ Escreva em qual delas *rápido* é advérbio e em qual é adjetivo. Explique com
 
 Confira: pergunte *onde?* a cada uma das três versões. Se as três derem a mesma resposta, o sentido se manteve; se alguma der outra, é ali que a posição mudou o sentido.
 
-**5.** Um colega escreveu: *"'Ontem' e 'aqui' são a mesma coisa, os dois são advérbios."* Descubra o que falta nessa frase e escreva qual é a diferença entre os dois.
+**5.** Um estudante escreveu: *"'Ontem' e 'aqui' são a mesma coisa, os dois são advérbios."* Descubra o que falta nessa frase e escreva qual é a diferença entre os dois.
 
-**6.** Escreva um bilhete de cinco linhas combinando um encontro com um colega. Seu bilhete precisa ter pelo menos um advérbio de tempo e um de lugar, e o colega tem de saber exatamente quando e onde. Depois releia e pergunte ao bilhete *quando?* e *onde?*: se alguma das duas respostas depender de algo que vocês combinaram fora do papel, ela está faltando. Escreva uma segunda versão que responda às duas perguntas sozinha e entregue as duas.
+**6.** Escreva um bilhete de cinco linhas combinando um encontro. Seu bilhete precisa ter pelo menos um advérbio de tempo e um de lugar, e quem ler tem de saber exatamente quando e onde. Depois releia e pergunte ao bilhete *quando?* e *onde?*: se alguma das duas respostas depender de algo combinado fora do papel, ela está faltando. Escreva uma segunda versão que responda às duas perguntas sozinha e entregue as duas.
 
 ---
 
@@ -119,8 +119,8 @@ Escreva em qual delas a palavra acompanha o verbo e em qual acompanha o nome. De
 
 Depois monte um quadro de duas colunas: numa você escreve a forma que estava no recado, na outra a forma que você usou. No fim, escreva qual das duas versões se parece mais com um texto de livro.
 
-**5.** Um colega escreveu: *"As atletas treinaram muitas."* Escreva onde está o erro, escreva a frase certa e explique por que, ao lado do verbo, essa palavra não muda.
+**5.** Um estudante escreveu: *"As atletas treinaram muitas."* Escreva onde está o erro, escreva a frase certa e explique por que, ao lado do verbo, essa palavra não muda.
 
 **6.** Localize um texto curto de até dez linhas em livro, revista, jornal, página da internet ou no acervo da escola. Copie três frases dele que tenham advérbio de modo, de intensidade ou de negação. Ao lado de cada frase, escreva qual pergunta o advérbio responde. No fim, escreva de onde veio o texto.
 
-**7.** Escreva, em até seis linhas, uma explicação para um colega que faltou à aula, contando a diferença entre um advérbio de modo e um advérbio de intensidade. Use um exemplo de cada um dentro da explicação.
+**7.** Escreva, em até seis linhas, uma explicação para quem faltou à aula, contando a diferença entre um advérbio de modo e um advérbio de intensidade. Use um exemplo de cada um dentro da explicação.

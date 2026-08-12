@@ -150,7 +150,7 @@ Notas da checagem:
 | 1ª Série | 1 | 1 | Coleta de "tempos, medidas, preços" exigia cronômetro, loja ou internet, e "podem ser" era andaime. Passou a contagem de palavras por linha em duas páginas do próprio caderno, com previsão escrita antes | §8.2 acessibilidade |
 | 1ª Série | 1 | 2 | Dependia dos dois conjuntos coletados na Q1. Passou a trazer as próprias duas séries e ganhou o teste de limite do coeficiente com média 0,3 | §8.1 independência |
 | 1ª Série | 1 | 3 | Pedia a tabela "de um dos seus conjuntos", da Q1. Passou a trazer a própria série (12, 15, 15, 18, 20, 22) em três níveis, com a soma dos desvios como conferência | §8.1 independência |
-| 1ª Série | 1 | 4 | ESC sem destinatário nem extensão. Passou a verbete de cinco linhas para colega do 9º ano, com três termos obrigatórios e a situação em que a medida engana | outra checagem |
+| 1ª Série | 1 | 4 | ESC sem destinatário nem extensão. Passou a verbete de cinco linhas para quem ainda não estudou dispersão, com três termos obrigatórios e a situação em que a medida engana | outra checagem |
 | 1ª Série | 1 | 5 | "cinco dados à sua escolha" era andaime, e o cálculo duplo com cinco dados está resolvido no capítulo. Passou a dado fornecido (soma dos quadrados 56, $$n=8$$), com o percentual de subestimação e o efeito de $$n$$ maior | outra checagem |
 | 2ª Série | 1 | 1 | A tabela pedida era exatamente a do capítulo (1.000 casos, 10%, 90%, 5%, total 135). Parâmetros trocados para 2.000 casos, 5%, 95% e 8%, com conferência de soma | outra checagem |
 | 2ª Série | 1 | 2 | Partia "da sua tabela", da Q1. A premissa foi reescrita no próprio enunciado e acrescentou-se o teste de limite com prevalência de 40% | §8.1 independência |
@@ -165,7 +165,7 @@ Notas da checagem:
 | 7º Ano | 1 | 1 | Coleta de preços "presencialmente ou em sites" exigia visita a loja ou internet, e "pode ser" era andaime. Passou a medição com régua, em centímetros inteiros, de oito objetos ao alcance, com previsão antes | §8.2 acessibilidade |
 | 7º Ano | 1 | 2 | Partia "dos seus dados", da Q1. Passou a trazer os oito preços hipotéticos no enunciado, mantendo a decisão sob dois critérios | §8.1 independência |
 | 7º Ano | 1 | 3 | Faltava o teste de limite que o item MOD.b exige. Acrescentada a pergunta sobre até quanto a média ponderada pode subir e o que impõe esse limite | outra checagem |
-| 7º Ano | 1 | 4 | ESC sem destinatário nem extensão. Passou a verbete de cinco linhas para colega que faltou, com três termos obrigatórios e o caso em que a medida engana | outra checagem |
+| 7º Ano | 1 | 4 | ESC sem destinatário nem extensão. Passou a verbete de cinco linhas para quem faltou, com três termos obrigatórios e o caso em que a medida engana | outra checagem |
 | 7º Ano | 1 | 5 | A média de R$ 3.300,00 e o efeito do extremo estão resolvidos no capítulo. Números trocados (R$ 4.140,00 sobre dez salários) e acrescentada a comparação com a mediana | outra checagem |
 | 8º Ano | 1 | 1 | "Pelo menos uma cara em três moedas" está resolvido no capítulo, com 87,50% impresso. O evento passou a "pelo menos uma cara e pelo menos uma coroa", mantendo os dois caminhos e a conferência | outra checagem |
 | 8º Ano | 1 | 3 | Exigia baralho comum, item que não está em toda casa e cuja composição o capítulo não descreve, e não definia destinatário nem extensão. Passou a verbete de cinco linhas com exemplos de dois dados | §8.2 acessibilidade |
@@ -230,3 +230,7 @@ Pendências registradas, não corrigidas:
 
 - **T3 por ano** — ver seção 4. Exigiria re-sorteio de tipo.
 - **2ª Série concentra quatro das seis questões (Q1, Q2, Q4, Q6) na mesma conta de 2×2 com prevalência, sensibilidade e falso positivo.** Nenhuma trava proíbe, porque tipo e item diferem em todas, mas o bloco lido de ponta a ponta é repetitivo. Aliviar exigiria re-sortear item em uma delas.
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (4 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.

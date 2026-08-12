@@ -29,7 +29,7 @@
 
 **2.** Elabore uma tabela com três sistemas do corpo humano em que fique visível a dependência entre eles: o que cada um fornece aos outros dois e o que recebe deles.
 
-**3.** Explique a um colega que faltou à aula, em um parágrafo de até seis linhas, todos os níveis de organização envolvidos no ato de levantar o braço, do tecido ao sistema.
+**3.** Explique a quem faltou à aula, em um parágrafo de até seis linhas, todos os níveis de organização envolvidos no ato de levantar o braço, do tecido ao sistema.
 
 **4.** Escreva um verbete de até cinco linhas explicando por que subir de nível de organização não é apenas juntar mais peças, usando obrigatoriamente os termos **tecido**, **órgão** e **sistema**. Em cada um dos três, diga o que passa a ser possível nesse nível e não era possível no nível anterior.
 

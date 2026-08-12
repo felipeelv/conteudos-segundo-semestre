@@ -13,7 +13,7 @@
 
 **3.** Elabore uma tabela de notas com pesos diferentes que produza uma média ponderada de exatamente 7,0, mas cuja média simples seja diferente de 7,0. Mostre os dois cálculos. Depois altere apenas os pesos, mantendo as mesmas notas, e escreva até quanto a média ponderada pode subir e o que impõe esse limite.
 
-**4.** Escreva, para um colega que faltou à aula, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "valor extremo", "ordenar" e "peso", e feche com um caso em que usar aquela medida daria uma ideia errada do conjunto:
+**4.** Escreva, para quem faltou à aula, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "valor extremo", "ordenar" e "peso", e feche com um caso em que usar aquela medida daria uma ideia errada do conjunto:
 
 a) média simples
 b) média ponderada

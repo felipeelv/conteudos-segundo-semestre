@@ -65,7 +65,7 @@ Confira: em cada palavra que você ajustou, troque-a por um adjetivo comum. Se o
 
 **5.** Um estudante escreveu: *"'Obrigado' é invariável, é sempre 'obrigado'."* Identifique o erro, explique a regra e apresente os dois casos.
 
-**6.** Escreva, para cada regra a seguir, um verbete de até quatro linhas que um colega da sua turma possa consultar, com um exemplo próprio em cada:
+**6.** Escreva, para cada regra a seguir, um verbete de até quatro linhas que outro estudante possa consultar, com um exemplo próprio em cada:
 
 a) um adjetivo para vários substantivos
 b) vários adjetivos para um substantivo

@@ -129,7 +129,7 @@ Seeds preservados do rodapé da produção anterior. Nenhum capítulo do Bloco 1
 | todos | — | — | removida do cabeçalho das três folhas a frase "cada questão é independente e pode ser usada isoladamente" — informação de produção, dirigida ao professor | §7.1 folha do aluno |
 | 1ª Série | 1 | 2 | a tabela pedida reproduzia a tabela de §3.2 do capítulo (meio hipo/iso/hipertônico × fluxo × efeito) com os mesmos critérios. Reescrita como contraste de dois casos concretos, com critério ausente do capítulo (que alteração do meio reverte cada efeito) e linha final do que há em comum | §8 #1 · M2 proíbe TAB com os mesmos critérios |
 | 1ª Série | 1 | 3 | item **a) parede celular** trocado por **a) glicocálix**: parede celular não aparece neste capítulo (só "parede de bactérias", em outro sentido), e o critério da grade cobrava conteúdo inexistente na fonte | §8 #4 insumo |
-| 1ª Série | 1 | 3 | acrescentados destinatário ("colega que faltou às três aulas") e extensão ("verbete de até cinco linhas"), além dos três termos obrigatórios que caracterizam `ESC.b` | §8 #3 destinatário e extensão |
+| 1ª Série | 1 | 3 | acrescentados destinatário ("quem faltou às três aulas") e extensão ("verbete de até cinco linhas"), além dos três termos obrigatórios que caracterizam `ESC.b` | §8 #3 destinatário e extensão |
 | 1ª Série | 2 | 3 | idem: destinatário, extensão e três termos obrigatórios | §8 #3 |
 | 2ª Série | 1 | 2 | o "critério novo" pedido (decidir soro em acidente peçonhento) já está no capítulo, em §5.1 e no parágrafo seguinte. Trocado pelo paciente imunossuprimido, que exige inferir a partir de "quem produz a defesa" | §8 #1 · `TAB.a` exige critério ausente do capítulo |
 | 2ª Série | 1 | 3 | destinatário, extensão e três termos obrigatórios | §8 #3 |
@@ -137,6 +137,10 @@ Seeds preservados do rodapé da produção anterior. Nenhum capítulo do Bloco 1
 | 9º Ano | 1 | 1 | pedia a característica compartilhada em cada ramificação entre peixes, anfíbios, répteis e mamíferos — insumo ausente do capítulo e do bloco. Reescrita para ramificar inseto, peixe, morcego, baleia e ser humano pelas evidências do próprio capítulo (plano de ossos, estrutura embrionária, semelhança de DNA) | §8 #4 insumo |
 | 9º Ano | 1 | 3 | destinatário, extensão e três termos obrigatórios | §8 #3 |
 | 9º Ano | 2 | 3 | destinatário, extensão e três termos obrigatórios | §8 #3 |
-| todos | — | 8 | as cinco questões `ESC.c` ganharam destinatário nomeado ("colega que sustenta a posição contrária"), coerente com a objeção obrigatória do item. A extensão já estava fixada | §8 #3 |
+| todos | — | 8 | as cinco questões `ESC.c` ganharam destinatário nomeado ("um leitor que sustenta a posição contrária"), coerente com a objeção obrigatória do item. A extensão já estava fixada | §8 #3 |
 
 Os capítulos de Bloco 2 da produção anterior — *Núcleo e metabolismo energético*, *Mecanismos da evolução*, *Reprodução humana*, *Saúde reprodutiva e bioética* — não foram tocados. Duas das suas questões violam §8.1 ("a partir do esquema que você construiu", "a partir da sua tabela") e precisarão de revisão quando o Bloco 2 entrar em produção.
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (10 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.

@@ -13,7 +13,7 @@
 
 **3.** Elabore um esquema da divisão técnica do trabalho na produção de um objeto de uso diário — um caderno, uma camiseta, um pão ou um par de sapatos. Nomeie cada etapa, indique quem executa e assinale o ponto em que o produto deixa de ser reconhecível como obra de uma pessoa só.
 
-**4.** Escreva, para cada conceito a seguir, um verbete de até cinco linhas dirigido a um colega que faltou às aulas, explicando o que aquele conceito permite entender que os outros três não permitem:
+**4.** Escreva, para cada conceito a seguir, um verbete de até cinco linhas dirigido a quem faltou às aulas, explicando o que aquele conceito permite entender que os outros três não permitem:
 
 a) divisão técnica do trabalho
 b) divisão social do trabalho

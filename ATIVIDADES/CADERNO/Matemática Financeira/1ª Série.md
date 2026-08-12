@@ -19,7 +19,7 @@ c) Some 10 a cada um dos seis valores e refaça a sequência inteira sobre a nov
 
 Confira os três itens pela soma da coluna dos desvios: ela tem de dar zero em cada um. Se não der, o erro está no cálculo da média.
 
-**4.** Escreva, para um colega do 9º ano que ainda não estudou dispersão, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "unidade", "média" e "espalhamento", e feche com uma situação em que aquela medida sozinha levaria a uma conclusão errada:
+**4.** Escreva, para quem ainda não estudou dispersão, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "unidade", "média" e "espalhamento", e feche com uma situação em que aquela medida sozinha levaria a uma conclusão errada:
 
 a) amplitude
 b) variância

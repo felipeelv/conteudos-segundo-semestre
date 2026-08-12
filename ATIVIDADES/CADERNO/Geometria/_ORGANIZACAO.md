@@ -240,3 +240,7 @@ Quinta passagem, de conferência por comando sobre as quatro anteriores. Contage
 | Seção 4 · linha verbo × rubrica | declarava *36 de 36* e apresentava `marque` como verbo de banco para R8. Reescrita com o critério estrito explicitado e o resultado real: **35 de 36**, com 7º Q4 como única falha | §8 #2 |
 
 Zero ocorrências de *desenhe* e de *redija* nas seis folhas, reconferidas por comando. §8.1 fecha em 36 de 36 e §8.2 em 36 de 36: nenhuma questão pede calculadora financeira (PV, FV, PMT, i, n), termômetro, balança, trena, fita métrica, cronômetro, celular, aplicativo, internet obrigatória, impressão, foto, entrevista, visita ou compra. Nenhuma sigla de tipo, rubrica, seed, gabarito ou instrução ao professor vazou para os arquivos-ano.
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (5 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos. O 8º Ano foi adicionalmente reformatado como protótipo do §7.1 novo (enunciado-síntese · execução em prosa · `Responda:` · `Confira você mesmo:`) — conteúdo, tipos e rubricas inalterados.

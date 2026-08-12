@@ -38,7 +38,7 @@ Dois capítulos que existiam na produção anterior **saíram** desta pasta por 
 | 2 | 3 | FON.a | R7 | leitura do Anexo; a importância do trabalho dele |
 | 2 | 4 | VIS.b | R10 | três palavras com significado correto |
 | 2 | 5 | ESC.b | R5 | exemplo vivo hoje em cada herança |
-| 2 | 6 | INV.d | R8 | autorização pedida; nenhum nome escrito |
+| 2 | 6 | ESC.d | R5 | três informações do capítulo; herança corretamente identificada |
 
 ### 5º Ano
 
@@ -281,3 +281,7 @@ Em sete das doze linhas do tempo a reescrita moveu a quantidade de marcos para d
 **Nada mais mudou.** As duas liberações do §8.2 não produziram nenhuma reescrita de conteúdo: sem construção geométrica e sem cálculo financeiro, a disciplina não tinha enunciado escrito para contornar a falta de compasso, transferidor ou calculadora, e nenhuma questão passou a mencionar instrumento ou a exigir aritmética com roteiro. As 17 questões de `FON` sobre biografia continuam intocadas. Contagem ao fim da rodada, contada nos arquivos: **6 arquivos-ano · 17 capítulos · 102 questões** — idêntica à do início e à seção 1 e às 102 linhas da grade da seção 2. Reconferidos e limpos: nenhuma dependência nova entre questões (§8.1), nenhum recurso proibido (§8.2), nenhum andaime nem artefato pronto para preencher (§7.1), e nenhuma sigla de tipo, rubrica, seed, grade ou instrução ao professor nos seis arquivos-ano.
 
 **Pendência que sobra na checagem 2.** As 6 questões de `ESC.b` (4º·1·5 · 4º·2·5 · 5º·1·5 · 5º·2·6 · 6º·3·5 · 8º·2·5) abrem com *descreva*, que o §6 põe em R8 e R10, enquanto `ESC` corre em R5 — o verbo de R5 é `explique`. Não foram trocadas porque *"Explique os grupos a seguir"* não é português corrente e a correção legítima exigiria reformular o objeto de cada uma, o que muda o item. Duas saídas para a coordenação: reescrever o objeto (*"Explique de onde veio cada grupo a seguir e como chegou"*), ou acrescentar R5 às rubricas compatíveis de `descreva` no §6 — o verbete pede *enumerar o observável*, que é o que o item `ESC.b` faz. Fora da checagem 2, seguem abertas as pendências herdadas já registradas na seção 4: `ERR` em 10 capítulos sem o marcador M1, par tipo+item repetido em 6 capítulos, e T6 violada nas 15 fronteiras de capítulo — todas exigem re-sorteio de tipo ou item.
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (4 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos. **Exceção com troca de item:** a Q6 do cap. 2 do 4º Ano era `INV.d` (entrevista com adulto do convívio), item que o §8.3 restringe ao conjunto de sala; foi trocada por `ESC.d` · R5 (relato em 1ª pessoa com três fatos verificáveis no capítulo), grade atualizada.

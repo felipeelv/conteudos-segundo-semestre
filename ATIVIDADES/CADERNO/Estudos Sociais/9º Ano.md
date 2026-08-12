@@ -67,6 +67,6 @@ a) O conflito da região não pode ser reduzido a dois lados em disputa.
 b) Houve dirigente israelense que defendeu o acordo político, e não apenas a força militar, como caminho de segurança.
 c) A maior parte da população da região considerou os Acordos de Oslo um erro.
 
-**5.** Escreva um parágrafo de 12 a 15 linhas para um colega da sua turma que faltou às aulas deste capítulo, explicando por que o fundamentalismo religioso não explica sozinho os conflitos do Oriente Médio. O parágrafo precisa citar três fatores diferentes apontados pelo capítulo e conter uma objeção na forma *"alguém poderia dizer que… mas…"*.
+**5.** Escreva um parágrafo de 12 a 15 linhas para quem faltou às aulas deste capítulo, explicando por que o fundamentalismo religioso não explica sozinho os conflitos do Oriente Médio. O parágrafo precisa citar três fatores diferentes apontados pelo capítulo e conter uma objeção na forma *"alguém poderia dizer que… mas…"*.
 
 **6.** Um país importador de petróleo estuda assinar um contrato de dez anos com um produtor do golfo Pérsico. Sabe-se que o produtor detém grandes reservas, exporta quase toda a sua produção e escoa a carga pelo estreito de Ormuz. Decida se essas informações bastam para assinar o contrato, apresentando o critério que aplicou; liste em seguida três informações que faltam e explique, para cada uma, como ela poderia mudar a decisão.

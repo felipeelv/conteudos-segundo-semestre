@@ -11,7 +11,7 @@
 
 **2.** Construa uma tabela que compare a resposta de dois equilíbrios gasosos a três perturbações: aumento da pressão por redução de volume, aumento da temperatura e adição de catalisador. Os equilíbrios são a formação de trióxido de enxofre, 2 SO₂(g) + O₂(g) ⇌ 2 SO₃(g), exotérmica no sentido direto, e a reação CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g). Inclua uma coluna, ausente do capítulo, com o número de mols gasosos de cada lado de cada equação, e uma coluna final que indique, para cada perturbação, se o valor da constante de equilíbrio se altera. Escreva depois da tabela uma frase que explique por que o aumento de pressão desloca um dos dois equilíbrios e não desloca o outro.
 
-**3.** Escreva, para cada conceito a seguir, um verbete de até cinco linhas dirigido a um colega que faltou à aula, indicando o que esse conceito informa que os outros três não informam:
+**3.** Escreva, para cada conceito a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, indicando o que esse conceito informa que os outros três não informam:
 
 a) constante de equilíbrio Kc
 b) quociente de reação Q

@@ -13,7 +13,7 @@
 
 **3.** Decida quantas voltas completas a roda de uma bicicleta de adulto, de 60 cm de diâmetro, precisaria dar para percorrer sem escorregar um trecho medido pelos seus próprios passos. Meça com a régua o tamanho de um passo seu, marcando no chão onde o pé sai e onde ele chega, e registre a medida em centímetros. Depois estime o comprimento de um trecho reto que você possa percorrer a pé — um corredor, uma calçada, o pátio da escola —, contando os passos e multiplicando pelo tamanho do seu passo; registre a estimativa junto com a conta que a sustenta. Apresente o cálculo das voltas e o dado que o sustenta. Confira multiplicando o número de voltas pelo avanço de uma volta: o produto tem de voltar à distância estimada; se não voltar, o erro está no arredondamento ou na conversão de unidade.
 
-**4.** Escreva um verbete de até cinco linhas para cada elemento a seguir, destinado a um colega que precisa identificá-los num desenho sem legenda. Cada verbete tem de empregar os termos *centro*, *extremidade* e *distância*, e terminar com o teste que distingue aquele elemento dos outros três:
+**4.** Escreva um verbete de até cinco linhas para cada elemento a seguir, destinado a quem precisa identificá-los num desenho sem legenda. Cada verbete tem de empregar os termos *centro*, *extremidade* e *distância*, e terminar com o teste que distingue aquele elemento dos outros três:
 
 a) raio
 b) corda

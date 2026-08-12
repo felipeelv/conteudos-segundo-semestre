@@ -36,7 +36,7 @@ Os dois conjuntos de atividades cobrem os **mesmos 193 capítulos** e **não se 
 | `03-REPERTORIO.md` | Os **18 tipos** com código, quando usar e quando **não** usar · a distribuição dos tipos dominantes por disciplina | Ao desenhar ou trocar uma atividade |
 | `04-RUBRICAS.md` | As **13 rubricas-modelo** (R1–R13), com critérios e pesos, total 10 | Ao corrigir, e ao entregar a rubrica ao aluno |
 | `05-REGRAS-DE-APLICACAO.md` | Quantidade por bimestre · peso na nota · rubrica antes e não depois · comando verbatim · conteúdo religioso · correção amostral | Antes de aplicar o bimestre |
-| `06-PRODUCAO.md` | **O arquivo operacional.** Marcadores · pool · sorteio com semente · travas · **banco de 20 verbos** (§6) · catálogo de 56 itens em 18 tipos (§5) · molde da folha do aluno (§7) · as **12 checagens** (§8), sendo §8.1 independência da questão e §8.2 acessibilidade do recurso | Ao gerar qualquer atividade. É o único que se abre com o teclado na mão |
+| `06-PRODUCAO.md` | **O arquivo operacional.** Marcadores · pool · sorteio com semente · travas · **banco de 20 verbos** (§6) · catálogo de 56 itens em 18 tipos (§5) · molde da folha do aluno (§7, com o formato síntese → execução → `Responda:` → `Confira você mesmo:`) · as **13 checagens** (§8): §8.1 independência da questão · §8.2 acessibilidade do recurso · §8.3 execução individual | Ao gerar qualquer atividade. É o único que se abre com o teclado na mão |
 
 ---
 

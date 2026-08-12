@@ -11,7 +11,7 @@
 
 **2.** Três cidades brasileiras: Manaus, Petrolina (no interior de Pernambuco) e Curitiba. Construa uma tabela que classifique cada uma delas em um dos grupos de Köppen e que registre, para cada cidade, os dois critérios — um de temperatura e um de precipitação — que decidiram a classificação. Acrescente uma última coluna com uma diferença entre as três cidades que a sigla de Köppen, sozinha, não registra.
 
-**3.** Duas cidades do Nordeste oriental estão praticamente na mesma latitude: uma fica na encosta atlântica e recebe chuva com regularidade, a outra fica no interior próximo e enfrenta estiagem. Explique, em um parágrafo de até dez linhas dirigido a um colega que faltou à aula, por que essa diferença de chuva não pode ser atribuída à latitude, e nomeie o fator do clima que a explica.
+**3.** Duas cidades do Nordeste oriental estão praticamente na mesma latitude: uma fica na encosta atlântica e recebe chuva com regularidade, a outra fica no interior próximo e enfrenta estiagem. Explique, em um parágrafo de até dez linhas dirigido a quem faltou à aula, por que essa diferença de chuva não pode ser atribuída à latitude, e nomeie o fator do clima que a explica.
 
 **4.** Elabore um esquema do ENSO em três faixas — fase neutra, El Niño e La Niña. Em cada faixa, indique se a água da superfície do Pacífico equatorial está mais quente, mais fria ou próxima do habitual, e ligue a fase, por setas rotuladas, ao efeito mais frequente no Sul do Brasil e ao efeito mais frequente em partes do Norte e do Nordeste. Marque com interrogação a ligação menos previsível e escreva ao lado o que torna esse efeito incerto.
 

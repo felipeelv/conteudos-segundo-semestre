@@ -148,7 +148,7 @@ Nunca comece a gerar sem ter lido, nesta ordem:
 |---|---|---|
 | 1 | `ATIVIDADES/METODOLOGIA/03-REPERTORIO.md` | os 18 tipos, quando **não** usar cada um, e os tipos dominantes da disciplina |
 | 2 | `ATIVIDADES/METODOLOGIA/04-RUBRICAS.md` | R1–R13, total sempre 10 |
-| 3 | `ATIVIDADES/METODOLOGIA/06-PRODUCAO.md` | **o arquivo operacional**: marcadores, pool, sorteio, travas, banco de verbos (§6), catálogo de **56 itens em 18 tipos** (§5), molde de saída (§7), as **12 checagens** (§8) — com §8.1 independência e §8.2 acessibilidade |
+| 3 | `ATIVIDADES/METODOLOGIA/06-PRODUCAO.md` | **o arquivo operacional**: marcadores, pool, sorteio, travas, banco de verbos (§6), catálogo de **56 itens em 18 tipos** (§5), molde de saída (§7), as **13 checagens** (§8) — com §8.1 independência, §8.2 acessibilidade e §8.3 execução individual |
 | 4 | `ATIVIDADES/METODOLOGIA/05-REGRAS-DE-APLICACAO.md` | quando o pedido envolver peso na nota, quantidade ou aplicação |
 
 Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fundamentação — leia quando o pedido for justificar uma escolha, não para produzir.
@@ -168,8 +168,10 @@ Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fu
 7. **Nenhum dado inventado.** Se um item exige dado real e ele não existe, troque o item.
 8. **Cada questão é independente** (`06-PRODUCAO.md` §8.1). O professor seleciona o que entra na folha, e nem tudo entra — uma questão que dependa de outra quebra quando a outra é descartada. Proibido *"a tabela que você construiu na questão 2"*.
 9. **Só recurso que todo aluno tem** (§8.2): capítulo, caderno, lápis, material de geometria (régua, compasso, transferidor), calculadora comum, observação e raciocínio. Nada de termômetro, balança, cronômetro, celular, internet, impressora, deslocamento, compra ou **calculadora financeira**.
-10. **O verbo do comando sai do banco do §6.** `construa` produz figura com instrumento · `elabore`, artefato sem instrumento · `redija`, texto. Escrever *"desenhe"* onde cabe `construa` é o erro que o próprio banco nomeia.
-11. **Rode as 12 checagens de `06-PRODUCAO.md` §8** antes de passar ao capítulo seguinte.
+10. **Casa se faz sozinho** (§8.3). Nenhuma questão exige ação, resposta ou presença de outra pessoa — conversar, perguntar, entrevistar, pedir que confiram. `INV.d` (entrevista) só em sala, como `DEB` e `ORA`. Destinatário de escrita é **leitor hipotético** (*quem faltou à aula*, *um leitor que discorda*) e a palavra **"colega" não entra na folha de casa**.
+11. **O verbo do comando sai do banco do §6 e é aferido no enunciado-síntese** (§7.1). `construa` produz figura com instrumento · `elabore`, artefato sem instrumento · `redija`, texto. Os imperativos internos da execução (*trace*, *marque*, *percorra*) não são verbos de comando.
+12. **A folha separa fazer de entregar** (§7.1). Enunciado-síntese → execução em prosa compacta → `Responda:` em pergunta → `Confira você mesmo:`. Nunca etapas rotuladas ("Etapa 1 — a malha"), nunca a questão inteira em lista plana.
+13. **Rode as 13 checagens de `06-PRODUCAO.md` §8** antes de passar ao capítulo seguinte.
 
 ---
 
@@ -202,6 +204,7 @@ Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fu
 2. Apresentar plano **breve**
 3. Aguardar aprovação
 4. Executar
+5. **Todo ajuste de regra, formato ou estrutura atualiza, na mesma entrega, toda a documentação que o cita** — este `CLAUDE.md`, o `00-LEIA-ME.md`, o `06-PRODUCAO.md` e os `_ORGANIZACAO.md` afetados — e termina com commit e push. Regra que vive só na conversa não existe: a próxima sessão produz pelo que está escrito.
 
 Respostas diretas: problema → análise → solução. Sintético sem perder profundidade. Aponte limitação, trade-off e alternativa melhor — não concorde por padrão. Se faltar informação para avaliar algo, **diga em vez de presumir**.
 

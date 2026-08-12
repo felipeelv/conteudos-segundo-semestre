@@ -11,7 +11,7 @@
 
 **2.** Três situações do cotidiano: o estômago de uma pessoa produz suco gástrico; um mecânico verifica o líquido de uma bateria automotiva; uma pessoa toma leite de magnésia. Construa uma tabela que registre, para cada uma das três situações, a substância responsável pelo caráter e sua fórmula, o caráter da solução na escala de pH e — como critério que o capítulo não aplica às bases — quantos íons H⁺ ou OH⁻ cada fórmula é capaz de fornecer por unidade, contados na própria fórmula. Escreva depois da tabela uma frase que responda se esse número, isolado, permite prever a força da substância em água.
 
-**3.** Escreva, para cada substância a seguir, um verbete de até cinco linhas dirigido a um colega que faltou à aula, informando a fórmula, explicando o que acontece com a substância quando ela é colocada em água e por que o pH da solução resultante fica acima ou abaixo de 7. Empregue obrigatoriamente os termos ionização ou dissociação, íon e pH:
+**3.** Escreva, para cada substância a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, informando a fórmula, explicando o que acontece com a substância quando ela é colocada em água e por que o pH da solução resultante fica acima ou abaixo de 7. Empregue obrigatoriamente os termos ionização ou dissociação, íon e pH:
 
 a) ácido clorídrico
 b) ácido acético
@@ -26,4 +26,4 @@ d) hidróxido de magnésio
 
 **7.** Dois estudantes testaram a mesma amostra de vinagre. O primeiro escreveu: *"A fenolftaleína continuou incolor, então não há íons na solução e o vinagre é neutro."* O segundo escreveu: *"A fenolftaleína continuou incolor e o tornassol azul ficou vermelho, então o vinagre é ácido e a solução contém íons."* Diagnostique qual das duas conclusões se sustenta, nomeie o erro conceitual do outro estudante e explique o que a fenolftaleína incolor permite concluir e o que não permite.
 
-**8.** Redija um texto de seis a dez linhas dirigido a um colega que afirma evitar todo alimento de pH abaixo de 7, defendendo uma posição sobre a seguinte questão: um material de pH 6 é perigoso? Enuncie a posição na primeira linha, sustente-a com dois exemplos de materiais nessa faixa e responda à objeção de que qualquer valor abaixo de 7 indica risco.
+**8.** Redija um texto de seis a dez linhas dirigido a um leitor que afirma evitar todo alimento de pH abaixo de 7, defendendo uma posição sobre a seguinte questão: um material de pH 6 é perigoso? Enuncie a posição na primeira linha, sustente-a com dois exemplos de materiais nessa faixa e responda à objeção de que qualquer valor abaixo de 7 indica risco.

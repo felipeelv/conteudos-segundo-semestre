@@ -22,7 +22,7 @@ b) portugueses
 c) africanos
 d) imigrantes europeus
 
-**6.** Um colega escreveu: *"Os africanos vieram para o Brasil procurar trabalho, igual aos italianos."* Descubra o erro e escreva qual foi a diferença mais importante entre as duas chegadas.
+**6.** Um estudante escreveu: *"Os africanos vieram para o Brasil procurar trabalho, igual aos italianos."* Descubra o erro e escreva qual foi a diferença mais importante entre as duas chegadas.
 
 ---
 
@@ -42,4 +42,4 @@ a) herança indígena
 b) herança africana
 c) herança portuguesa
 
-**6.** Converse com uma pessoa adulta com quem você convive e pergunte qual comida, festa ou costume vem da história da família dela ou do lugar onde ela cresceu. Anote o que ela contou e escreva de qual das heranças estudadas esse costume parece vir. Pergunte antes se pode levar isso para a escola e não escreva o nome dela.
+**6.** Escreva, em primeira pessoa e em até dez linhas, o relato de uma criança que vive um costume herdado de um dos povos estudados — uma festa, uma comida ou uma palavra. Seu texto precisa dizer de qual herança o costume vem e precisa conter três informações que aparecem no capítulo.

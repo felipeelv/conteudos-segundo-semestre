@@ -36,7 +36,7 @@ d) soberania
 
 **2.** Consulte um atlas, um livro didático ou uma fonte digital e identifique os principais países produtores de um destes minerais estratégicos: lítio, cobalto, terras raras ou nióbio. Construa um mapa que represente essa distribuição, com título, legenda e símbolos de tamanho proporcional à importância de cada produtor na ordem em que a fonte os apresenta — o maior símbolo para o principal produtor —, e registre a fonte e o ano dos dados.
 
-**3.** O capítulo informa que o cobalto está concentrado no Congo e que as terras raras são processadas sobretudo na China. Explique, em um parágrafo de até dez linhas dirigido a um colega que faltou à aula, por que a concentração geográfica de um recurso confere poder político a quem o detém, e indique uma circunstância em que essa vantagem deixaria de existir.
+**3.** O capítulo informa que o cobalto está concentrado no Congo e que as terras raras são processadas sobretudo na China. Explique, em um parágrafo de até dez linhas dirigido a quem faltou à aula, por que a concentração geográfica de um recurso confere poder político a quem o detém, e indique uma circunstância em que essa vantagem deixaria de existir.
 
 **4.** Escreva, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada forma de poder a seguir. Cada verbete precisa dizer em que consiste essa forma de poder, um instrumento pelo qual ela se exerce e um exemplo tratado no capítulo:
 

@@ -195,7 +195,7 @@ Marcados com **✓conf** os itens que trazem conferência embutida — os único
 ### ESC — escrita curta
 | Código | Formato |
 |---|---|
-| ESC.a | Explicação a destinatário nomeado (colega que faltou, irmão de 8 anos), extensão fixa |
+| ESC.a | Explicação a destinatário-leitor nomeado (quem faltou à aula, um leitor de 8 anos), extensão fixa — destinatário conforme §8.3 |
 | ESC.b | Verbete de 5 linhas com 3 termos obrigatórios |
 | ESC.c | Parágrafo com **objeção obrigatória**: "alguém poderia dizer que… mas…" |
 | ESC.d | Texto em 1ª pessoa de um personagem, com 3 fatos verificáveis no capítulo |
@@ -226,7 +226,7 @@ Marcados com **✓conf** os itens que trazem conferência embutida — os único
 | INV.a | Experimento com **controle** e previsão escrita antes de medir **✓conf** |
 | INV.b | Medição repetida 3× + registro da variação **✓conf** |
 | INV.c | Levantamento no ambiente (rua, casa, feed, conta de luz) com categorias fechadas antes |
-| INV.d | Entrevista com roteiro fechado — sujeita às regras de privacidade de [`05`](05-REGRAS-DE-APLICACAO.md) |
+| INV.d | Entrevista com roteiro fechado — **só no conjunto de sala** (§8.3); sujeita às regras de privacidade de [`05`](05-REGRAS-DE-APLICACAO.md) |
 
 ### ERR — análise de erro
 | Código | Formato |
@@ -315,7 +315,7 @@ Marcados com **✓conf** os itens que trazem conferência embutida — os único
 
 **Três verbos produzem, e o objeto decide qual.** `construa` produz figura **com instrumento** — compasso, transferidor, régua. `elabore` produz o artefato que dispensa instrumento — esquema, tabela, linha do tempo, história em quadrinhos. `redija` produz **texto**. Trocar um pelo outro descaracteriza o tipo, e os dois erros são simétricos: escrever *"desenhe"* onde cabe `construa` é exatamente o que a linha de `construa` nomeia como erro comum, e escrever *"escreva sobre"* onde cabe `redija` apaga o destinatário e a extensão sem os quais [`03`](03-REPERTORIO.md) §1 manda **não usar** `ESC` — a mesma exigência que a checagem 3 do §8 cobra.
 
-`redija` é o verbo de `ESC` e de `RET`, e é ele que sustenta a substituição prescrita para a casa: onde o conteúdo pedia `DEB` e T7 o exclui, entra `ESC` com objeção obrigatória e interlocutor nomeado ([`03`](03-REPERTORIO.md) §3).
+`redija` é o verbo de `ESC` e de `RET`, e é ele que sustenta a substituição prescrita para a casa: onde o conteúdo pedia `DEB` e T7 o exclui, entra `ESC` com objeção obrigatória e leitor contrário nomeado **no texto** ([`03`](03-REPERTORIO.md) §3, destinatário conforme §8.3).
 
 ---
 
@@ -325,21 +325,48 @@ O arquivo de um capítulo tem **três partes, nesta ordem**: a folha do aluno, a
 
 ### 7.1 Folha do aluno
 
-Questões numeradas, na voz do aluno. **Sem campo de resposta, sem linha pontilhada, sem moldura** — o espaço para escrever é da folha impressa, não do arquivo. Cada questão é um enunciado fechado que já diz o que entregar.
+Questões numeradas, na voz do aluno. **Sem campo de resposta, sem linha pontilhada, sem moldura** — o espaço para escrever é da folha impressa, não do arquivo.
+
+A questão separa o que o aluno **faz** do que o aluno **pensa e entrega**. A execução vai em prosa compacta; a entrega intelectual vai em blocos rotulados em negrito — ela é o centro da questão e não pode ficar escondida entre instruções mecânicas, com o mesmo peso visual de "pegue a régua". Os dois extremos falham: o checklist de etapas rotuladas faz o aluno executar sem pensar, e o parágrafo único corrido mistura ação, registro e pergunta.
+
+Estrutura, nesta ordem — os blocos 2, 4 e 6 só existem quando o item os tem:
+
+1. **Enunciado-síntese.** A primeira frase, com o verbo do banco do §6, dando o arco completo da questão (construir → transformar → registrar) sem detalhar o como. **A checagem 2 do §8 se afere aqui** — os imperativos internos da execução (*trace*, *marque*, *percorra*) não são verbos de comando. Se a questão pede previsão, a síntese não pode revelar o resultado esperado.
+2. **`Antes de começar, responda por escrito:`** — só quando o item tem previsão (INV). Em forma de pergunta e **antes da execução**: o palpite nasce antes do dado (R8).
+3. **Execução.** Prosa corrida compacta: ações simples fundidas na mesma frase; marcadores apenas quando existe sub-sequência técnica cuja ordem importa. Todas as especificações técnicas preservadas — medidas, quantidades, condições. A síntese resume; a execução carrega os números.
+4. **`Registre:`** — só quando há registro contínuo ou periódico. Observação é dado bruto que o aluno produz, separado da conclusão.
+5. **`Responda:`** — a entrega central, em forma de pergunta sempre que a pergunta funciona. Carrega extensão e destinatário quando o tipo os exige (ESC/RET — checagem 3), com destinatário conforme §8.3.
+6. **`Confira você mesmo:`** — só quando o item tem conferência embutida. Diz o que o erro **significa**, não apenas que ele existe.
 
 ```markdown
 ### Capítulo N — <título do capítulo>
 
-**1.** <enunciado, verbo do banco §6>
+**1.** <enunciado-síntese, verbo do banco §6>
 
-**2.** <enunciado>
+<execução em prosa compacta; marcadores só onde a ordem importa>
 
-**3.** <enunciado, com subitens quando a mesma tarefa se repete sobre vários objetos:>
+**Responda:** <a pergunta central — com extensão e destinatário quando ESC/RET>
 
-a) <objeto>
-b) <objeto>
-c) <objeto>
+**Confira você mesmo:** <a verificação, e o que o erro significa>
 ```
+
+Subitens `a) b) c)` continuam valendo quando a mesma tarefa se repete sobre vários objetos.
+
+Exemplo calibrado — a questão de transformações do 8º ano de Geometria:
+
+> **1.** Construa uma malha quadriculada, aplique a um triângulo três transformações em sequência e registre o que muda e o que permanece em cada uma.
+>
+> Trace no caderno uma malha de 1 cm — pelo menos doze quadrados de lado — e, nela, um triângulo com os três vértices sobre pontos da malha. Aplique nesta ordem:
+>
+> - translação de 4 quadrados à direita e 2 para cima;
+> - reflexão por um eixo vertical da malha;
+> - rotação de 90° em torno de um dos vértices.
+>
+> **Responda, em uma tabela que você mesmo elaborar:** o que mudou e o que permaneceu na figura em cada uma das três transformações?
+>
+> **Confira você mesmo:** meça os lados do triângulo inicial e os da última imagem — as três medidas têm de coincidir. Se não coincidirem, uma das transformações foi aplicada errado.
+
+Note: montar a malha e traçar o triângulo são uma frase de prosa, não "Etapa 1" e "Etapa 2"; os marcadores sobrevivem só na sequência de transformações, porque ali a ordem importa; o registro virou `Responda:` em pergunta; a conferência diz o que o erro significa.
 
 **Seis a oito questões por capítulo**, sem repetir o par tipo+item. Um mesmo tipo pode voltar uma segunda vez se o item for outro — `FON.a` (pesquisar a fonte) e `FON.c` (analisar o que a fonte não diz) são tarefas distintas.
 
@@ -353,6 +380,10 @@ Três proibições no enunciado:
 | Rótulo de tempo — *"⏱ 50 min"*, *"30 min"* | tempo estimado é gestão de aula, não tarefa. Vai para a grade, se for para algum lugar |
 | Rótulo de lugar — *"🏠 em casa"* | o arquivo já diz de que conjunto é. Dizer ao aluno onde ele está é ruído |
 | Lista de material quando o material é o garantido do §8.2 | régua, compasso, transferidor, lápis e calculadora comum são pressupostos. Listá-los sugere que poderiam faltar |
+| Etapas rotuladas — *"Etapa 1 — a malha"* — ou a questão inteira em lista numerada plana | efeito checklist: a pergunta central fica com o mesmo peso visual da instrução mecânica, e o aluno executa sem pensar |
+| Previsão ou conferência inventada, que o item sorteado não tem | conteúdo sem lastro no sorteio. Os blocos rotulados existem quando o item os tem — não por decoração |
+| Imperativo no `Responda:` quando a forma de pergunta funciona | a pergunta define a entrega melhor que a ordem |
+| Perder especificação técnica ao compactar a execução | a síntese resume; quem carrega medidas, quantidades e condições é a execução |
 
 ### 7.2 Grade de correção
 
@@ -396,7 +427,7 @@ O que a sala tem e a casa não: **`DEB` e `ORA` voltam ao pool**, porque T7 só 
 
 ## 8. Critérios de rejeição
 
-Antes de aceitar um capítulo gerado, doze checagens. Qualquer **não** manda re-sortear ou reescrever.
+Antes de aceitar um capítulo gerado, treze checagens. Qualquer **não** manda re-sortear ou reescrever.
 
 | # | Pergunta | Se falhar |
 |---|---|---|
@@ -412,6 +443,7 @@ Antes de aceitar um capítulo gerado, doze checagens. Qualquer **não** manda re
 | 10 | O artefato pedido — tabela, esquema, linha do tempo — vem pronto para preencher? | reescrever: quem constrói é o aluno (§7.1) |
 | 11 | A questão depende de outra questão para ser respondida? | reescrever autossuficiente (§8.1) |
 | 12 | A questão exige recurso que não todo aluno tem? | trocar o item (§8.2) |
+| 13 | **Casa:** a questão exige ação, resposta ou presença de outra pessoa? | reescrever para execução solitária, ou trocar o item (§8.3) |
 
 Checagem em lote, por disciplina, ao final: nenhum tipo acima do teto de T2; todos os dominantes de [`03`](03-REPERTORIO.md) §3 presentes ao menos 1×.
 
@@ -445,6 +477,16 @@ Três consequências que decidem a redação do comando:
 - **Construção geométrica usa instrumento.** Com compasso e transferidor garantidos, o verbo é `construa` — que §6 define como *produzir com instrumento* e cujo erro comum é justamente *desenhar à mão livre*. Circunferência traçada a compasso, ângulo medido a transferidor. Reserve `elabore` para o artefato que não pede instrumento: esquema, tabela, história em quadrinhos.
 - **Aritmética pesada é aceitável, roteiro obrigatório.** Com calculadora comum, uma questão pode pedir potências sucessivas ou raiz. O que o enunciado precisa dar é o **roteiro**: qual conta, em que ordem, quantas vezes. O que ele não pode pressupor é tecla financeira que resolva o problema num passo.
 - **`INV` e `FON` seguem válidos.** `INV`: o aluno prevê e depois **observa** — instrumento só se for régua, compasso ou transferidor. `FON`: o enunciado aceita fonte impressa, digital ou do acervo da escola, sem exigir uma delas.
+
+### 8.3 Execução individual
+
+O caderno de casa é feito **sozinho**. Nenhuma questão pode exigir ação, resposta, presença ou permissão de outra pessoa — conversar, perguntar, entrevistar, pedir que alguém confira, ler para alguém ouvir, medir alguém. A dinâmica entre alunos existe, mas pertence à sala, onde o professor a conduz; embutida numa questão de casa, ela compromete a execução de quem não tem o interlocutor disponível na hora de fazer.
+
+Três consequências:
+
+- **`INV.d` (entrevista com roteiro) sai do pool da casa.** Só no conjunto de sala — mesmo regime de `DEB` e `ORA` (T7).
+- **O destinatário de `ESC`/`RET` continua obrigatório (checagem 3), mas é leitor hipotético do texto, nunca tarefa de comunicação real.** Escreve-se *para quem faltou à aula*, *para um leitor que sustenta a posição contrária*, *para quem ainda não estudou o assunto*. Ninguém precisa existir nem estar presente para a questão ser feita.
+- **A palavra "colega" não entra na folha de casa.** No enunciado de erro (`ERR`), o personagem é *um estudante*. Pessoa como objeto de análise ou personagem de problema — *"Alguém deixou a porta aberta"*, *"uma pessoa que cuida de um familiar doente"* — não é interação e segue permitida, assim como a pergunta metalinguística (*"pergunte ao verbo: quem?"*).
 
 ---
 

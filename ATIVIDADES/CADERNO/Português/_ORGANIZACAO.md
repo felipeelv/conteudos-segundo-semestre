@@ -320,25 +320,25 @@ Notas ao rodapé:
 | 5º Ano | 1 | 6 | *"um livro que você tenha em casa"* → lista de suportes, com registro da fonte | §8.2 |
 | 5º Ano | 3 | 6 | *"um texto curto que você tenha em casa"* → lista de suportes, com registro da fonte | §8.2 |
 | 6º Ano | 1 | 4 | *"Pesquise"* sem suporte definido → consulta a gramática, dicionário ou manual de redação oficial, impresso, digital ou do acervo da escola | §8.2 |
-| 6º Ano | 1 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para um colega da turma | §8 nº 3 |
+| 6º Ano | 1 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para outro estudante da turma | §8 nº 3 |
 | 6º Ano | 2 | 2 | *"que você tenha acesso"* → jornal, revista, livro, página da internet ou acervo da escola | §8.2 |
 | 6º Ano | 2 | 3 | a tabela dependia do texto analisado na questão 2; três casos concretos passaram ao enunciado | §8.1 |
-| 6º Ano | 3 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para um colega da turma | §8 nº 3 |
+| 6º Ano | 3 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para outro estudante da turma | §8 nº 3 |
 | 7º Ano | 1 | 6 | *"um texto que você tenha em casa"* → lista de suportes | §8.2 |
 | 7º Ano | 2 | 4 | *"em um jornal ou site"* → jornal impresso, página da internet ou acervo da escola | §8.2 |
 | 7º Ano | 2 | 6 | *"a mesma notícia"* remetia à manchete localizada na questão 4; a informação a reescrever passou ao enunciado | §8.1 |
-| 7º Ano | 3 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para um colega da turma | §8 nº 3 |
+| 7º Ano | 3 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para outro estudante da turma | §8 nº 3 |
 | 8º Ano | 1 | 6 | *"que você tenha acesso"* → lista de suportes | §8.2 |
-| 8º Ano | 2 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para um colega da turma | §8 nº 3 |
+| 8º Ano | 2 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para outro estudante da turma | §8 nº 3 |
 | 8º Ano | 3 | 1 | *"que você tenha acesso"* → material impresso, página da internet ou acervo da escola | §8.2 |
 | 8º Ano | 3 | 2 | *"A partir do que você copiou"* dependia da questão 1; a questão passou a localizar as próprias fontes e ganhou destinatário e extensão | §8.1 |
 | 8º Ano | 3 | 4 | *"a mesma informação"* dependia das questões 1 e 2; a informação e a extensão passaram ao enunciado | §8.1 |
 | 8º Ano | 3 | 6 | acrescentada a lista de suportes à busca da manchete | §8.2 |
 | 9º Ano | 1 | 6 | *"em um texto publicado"* → texto impresso, página da internet ou acervo da escola | §8.2 |
-| 9º Ano | 2 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para um colega da turma | §8 nº 3 |
+| 9º Ano | 2 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para outro estudante da turma | §8 nº 3 |
 | 1ª Série | 1 | 4 | *"Reescreva um bilhete informal"* → *"o bilhete informal abaixo"*, para amarrar o enunciado ao insumo que ele já traz | §8 nº 3 |
 | 1ª Série | 1 | 6 | *"em um texto publicado"* → impresso, digital ou do acervo da escola | §8.2 |
-| 1ª Série | 2 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para um colega da turma | §8 nº 3 |
+| 1ª Série | 2 | 6 | `ESC.b` sem extensão nem destinatário → verbete de até quatro linhas para outro estudante da turma | §8 nº 3 |
 | 1ª Série | 3 | 6 | *"a mesma frase publicitária"* dependia das questões 2 e 4; a frase passou ao enunciado | §8.1 |
 | 2ª Série | 1 | 6 | a transcrição de fala exigia legenda ou postagem (acesso digital); passou a admitir conversa ouvida e registrada pelo aluno, e o texto jornalístico ganhou lista de suportes | §8.2 |
 | 2ª Série | 2 | 6 | acrescentada a lista de suportes à busca da mesóclise em texto publicado | §8.2 |
@@ -378,3 +378,7 @@ Correções aplicadas na conferência das folhas depois de escritas. Também aqu
 **O que continua pendente e não foi corrigido aqui.** As três exceções da seção 4 (T3, T6, T5) seguem valendo — são de escopo e de prioridade entre travas, não de formulação, e corrigi-las exigiria re-sortear tipos aprovados. Duas outras ficam registradas para a coordenação decidir: em `RET.b` de mudança de registro (6º cap. 1 Q3 e 1ª Série cap. 1 Q4) o comando fixa a extensão pelo insumo, mas não nomeia o destinatário do texto reescrito, o que a checagem nº 3 pede; e o 7º Ano usa o mesmo insumo — *um cano rompeu-se e alagou a quadra da escola na segunda-feira* — no cap. 2 Q6 e no cap. 4 Q4, com tarefas diferentes, mas com repetição visível se as duas folhas circularem juntas.
 
 **Uma observação de escopo, para a coordenação.** A produção anterior cobria 3 capítulos por ano; o Bloco 1 real varia de 2 a 5. Isso teve três efeitos: 5 capítulos foram produzidos do zero (2ª Série caps. 4 e 5, 4º cap. 4, 6º cap. 4, 7º cap. 4); o capítulo *Próclise* do 9º Ano, que existia na produção anterior, **saiu** desta folha porque pertence ao Bloco 2; e os anos com 2 ou 3 capítulos ficaram sem `RED`, como registrado na seção 4.
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (21 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos. Também reescrita a Q6 do cap. 3 do 4º Ano (bilhete combinando encontro): o leitor do bilhete deixou de ser 'um colega' e a conferência passou a 'quem ler tem de saber quando e onde'.

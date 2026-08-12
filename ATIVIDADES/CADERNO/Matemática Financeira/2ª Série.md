@@ -11,7 +11,7 @@
 
 **2.** Numa população hipotética de 2.000 casos, o grupo menor reúne 5% do total. Um teste sinaliza 95% dos casos do grupo menor e, por engano, 8% dos casos do grupo maior. Calcule a probabilidade de um caso sinalizado pertencer de fato ao grupo menor, compare esse valor com os 95% de acerto do teste e explique por que os dois números são tão diferentes. Depois teste o limite do modelo: recalcule a probabilidade supondo que o grupo menor reunisse 40% dos casos e escreva o que a prevalência faz com o resultado.
 
-**3.** Escreva, para um colega que faltou às três aulas, um verbete de cinco linhas sobre cada conceito a seguir. Em cada verbete apresente a fórmula, use obrigatoriamente os termos "interseção", "universo" e "condição", e feche com uma situação em que aplicar o conceito errado produziria um valor maior que o verdadeiro:
+**3.** Escreva, para quem faltou às três aulas, um verbete de cinco linhas sobre cada conceito a seguir. Em cada verbete apresente a fórmula, use obrigatoriamente os termos "interseção", "universo" e "condição", e feche com uma situação em que aplicar o conceito errado produziria um valor maior que o verdadeiro:
 
 a) regra da união
 b) probabilidade condicional

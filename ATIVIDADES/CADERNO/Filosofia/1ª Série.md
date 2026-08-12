@@ -11,7 +11,7 @@
 
 **2.** Construa uma tabela que aplique as quatro causas aristotélicas a três objetos concretos: dois produzidos pelo trabalho humano — nenhum deles a mesa usada como exemplo no capítulo — e um existente na natureza. A tabela deve evidenciar em qual das quatro causas os três casos mais se distinguem entre si.
 
-**3.** Explique cada um dos conceitos a seguir em um verbete de três a cinco linhas, escrito para um colega da turma que faltou à aula, indicando a que pergunta o conceito responde e sem repetir a formulação do capítulo. Cada verbete deve empregar os três termos indicados entre parênteses:
+**3.** Explique cada um dos conceitos a seguir em um verbete de três a cinco linhas, escrito para quem faltou à aula, indicando a que pergunta o conceito responde e sem repetir a formulação do capítulo. Cada verbete deve empregar os três termos indicados entre parênteses:
 
 a) potência (matéria, mudança, ato)
 b) ato (potência, forma, movimento)
@@ -26,4 +26,4 @@ d) eudaimonia (finalidade, função, prudência)
 
 **7.** Um estudante escreveu: *"O argumento é válido, portanto sua conclusão é verdadeira."* Explique por que a afirmação é errada, apresentando a distinção entre validade e verdade, e construa um exemplo de argumento válido cuja conclusão seja falsa.
 
-**8.** Justifique, em um texto de seis a dez linhas dirigido a um colega da turma que sustenta a posição contrária, a sua resposta à seguinte questão: o meio-termo aristotélico é aplicável a toda virtude? Enuncie a posição na primeira linha, sustente-a com dois exemplos e responda à objeção de que existem ações para as quais não há excesso nem falta admissíveis.
+**8.** Justifique, em um texto de seis a dez linhas dirigido a um leitor que sustenta a posição contrária, a sua resposta à seguinte questão: o meio-termo aristotélico é aplicável a toda virtude? Enuncie a posição na primeira linha, sustente-a com dois exemplos e responda à objeção de que existem ações para as quais não há excesso nem falta admissíveis.

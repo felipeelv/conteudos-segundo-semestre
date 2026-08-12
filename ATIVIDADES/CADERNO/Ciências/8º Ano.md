@@ -27,7 +27,7 @@
 
 **1.** Antes de observar, escreva as quatro categorias em que vai separar o que encontrar: flores abertas, flores fechadas, frutos e sementes. Depois observe, da calçada ou do pátio, as plantas de um mesmo trecho perto de onde você mora e anote em cada categoria quantas encontrou e em que planta estavam. Sem colher nada, registre também qual característica visível de uma dessas flores — cor, formato ou cheiro — indica o agente polinizador que a visita.
 
-**2.** Explique a um colega que faltou à aula, em um parágrafo de até oito linhas, como a cor, o formato e o cheiro de uma flor tubular indicam que ela é visitada por beija-flores, e por que essa correspondência entre flor e visitante não é uma escolha da planta.
+**2.** Explique a quem faltou à aula, em um parágrafo de até oito linhas, como a cor, o formato e o cheiro de uma flor tubular indicam que ela é visitada por beija-flores, e por que essa correspondência entre flor e visitante não é uma escolha da planta.
 
 **3.** Elabore uma tabela a partir de três sementes ou frutos que você já tenha visto — no prato, na rua ou numa planta do bairro —, um para cada agente de dispersão. Em cada linha, registre a característica que você observou naquela semente, o agente que essa característica indica e o que aconteceria com a dispersão dela se esse agente desaparecesse do lugar.
 

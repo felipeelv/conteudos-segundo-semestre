@@ -21,7 +21,7 @@ a) ferrovia
 b) telégrafo
 c) iluminação a gás
 
-**6.** Um colega escreveu: *"O café enriqueceu o Brasil inteiro."* Descubra o que falta nessa frase e escreva quem de fato ficou rico com o café.
+**6.** Um estudante escreveu: *"O café enriqueceu o Brasil inteiro."* Descubra o que falta nessa frase e escreva quem de fato ficou rico com o café.
 
 ---
 
@@ -35,7 +35,7 @@ c) iluminação a gás
 
 **4.** Elabore uma tabela comparando a situação de uma família imigrante e a de uma pessoa liberta em 1888. Use os mesmos critérios para as duas: viagem, moradia, trabalho e apoio recebido.
 
-**5.** Um colega escreveu: *"Depois da Lei Áurea, as pessoas libertas ficaram livres e puderam recomeçar a vida."* Descubra o que essa frase esconde e escreva o que faltou para os libertos.
+**5.** Um estudante escreveu: *"Depois da Lei Áurea, as pessoas libertas ficaram livres e puderam recomeçar a vida."* Descubra o que essa frase esconde e escreva o que faltou para os libertos.
 
 **6.** Descreva as leis a seguir, dizendo o que cada uma prometia e o que de fato acontecia. Escreva, para cada uma, um texto de três a quatro linhas, como a explicação de um dicionário feito pela sua turma:
 

@@ -11,7 +11,7 @@
 
 **2.** Construa uma tabela que contraste o que acontece com uma hemácia colocada em água pura e com uma hemácia colocada em água com muito sal. Além do sentido do fluxo de água e do efeito sobre o volume da célula, inclua um critério ausente do capítulo: que alteração do meio reverteria cada um dos dois efeitos. Encerre com uma linha que registre o que os dois casos têm em comum.
 
-**3.** Escreva, para um colega que faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das estruturas celulares a seguir, indicando a função que desempenha e em que tipo de célula ocorre. Os termos *permeabilidade seletiva*, *procarionte* e *eucarionte* precisam aparecer no conjunto dos quatro verbetes:
+**3.** Escreva, para quem faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das estruturas celulares a seguir, indicando a função que desempenha e em que tipo de célula ocorre. Os termos *permeabilidade seletiva*, *procarionte* e *eucarionte* precisam aparecer no conjunto dos quatro verbetes:
 
 a) glicocálix
 b) membrana plasmática
@@ -26,7 +26,7 @@ d) mitocôndria
 
 **7.** Um estudante registrou em seu relatório: *"Deixei a batata submersa em água com sal por quarenta minutos e ela murchou, porque o sal entrou nas células."* Identifique o erro conceitual dessa explicação e reescreva-a corretamente, nomeando o processo envolvido e o sentido do fluxo de água.
 
-**8.** Redija, para um colega que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a mitocôndria já foi um organismo independente? Enuncie a posição defendida na primeira linha, sustente-a com dois fatos verificáveis e responda à objeção de que um organismo outrora independente deveria ser capaz de sobreviver isoladamente.
+**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a mitocôndria já foi um organismo independente? Enuncie a posição defendida na primeira linha, sustente-a com dois fatos verificáveis e responda à objeção de que um organismo outrora independente deveria ser capaz de sobreviver isoladamente.
 
 ---
 
@@ -36,7 +36,7 @@ d) mitocôndria
 
 **2.** Construa uma tabela que compare o retículo endoplasmático rugoso e o liso. Além dos ribossomos e da função de cada um, inclua um critério que permita prever qual dos dois predomina em um tipo celular específico.
 
-**3.** Escreva, para um colega que faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das organelas a seguir, indicando o que ela processa e o que aconteceria com a célula na ausência dela. Os termos *compartimentação*, *vesícula* e *enzima* precisam aparecer no conjunto dos quatro verbetes:
+**3.** Escreva, para quem faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das organelas a seguir, indicando o que ela processa e o que aconteceria com a célula na ausência dela. Os termos *compartimentação*, *vesícula* e *enzima* precisam aparecer no conjunto dos quatro verbetes:
 
 a) complexo golgiense
 b) lisossomo
@@ -51,4 +51,4 @@ d) mitocôndria
 
 **7.** Localize, em fonte impressa, digital ou do acervo da escola, um texto de divulgação científica publicado nos últimos cinco anos sobre mitocôndrias e envelhecimento. Analise-o identificando a hipótese que sustenta, a evidência apresentada, e uma limitação do estudo que o texto não discute.
 
-**8.** Redija, para um colega que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a compartimentação em organelas foi uma vantagem decisiva para as células eucariontes? Enuncie a posição na primeira linha, sustente-a com dois exemplos de organela e responda à objeção de que as procariontes realizam as mesmas funções vitais sem compartimentos.
+**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a compartimentação em organelas foi uma vantagem decisiva para as células eucariontes? Enuncie a posição na primeira linha, sustente-a com dois exemplos de organela e responda à objeção de que as procariontes realizam as mesmas funções vitais sem compartimentos.

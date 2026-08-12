@@ -30,7 +30,7 @@ Depois de responder, escreva qual palavra ou número mudou de um problema para o
 
 **6.** Com a régua, construa uma reta numérica de 0 até 1, com 8 cm entre o 0 e o 1. Marque nela 1/4, 1/2, 3/4 e 2/8. Duas dessas marcas vão cair no mesmo lugar: escreva quais são e explique por quê.
 
-**7.** Escreva um bilhete de cinco linhas para um colega que faltou à aula, explicando como saber se duas frações são equivalentes. Seu bilhete precisa ter um exemplo.
+**7.** Escreva um bilhete de cinco linhas para quem faltou à aula, explicando como saber se duas frações são equivalentes. Seu bilhete precisa ter um exemplo.
 
 ---
 
@@ -88,7 +88,7 @@ Depois escreva por que, no par a, o número com menos algarismos é o maior — 
 
 **6.** Uma lista de compras tem três itens com estes preços: R$ 12,05, R$ 3,50 e R$ 0,25. Some os três preços e escreva quanto sobra de uma nota de R$ 20,00 depois de pagar. Depois teste até onde o troco vai: escreva quantas vezes o item de R$ 3,50 ainda poderia ser comprado com esse troco e quanto sobraria no fim. Confira a soma dos preços somando primeiro os reais e depois os centavos, e comparando com o total que você encontrou na primeira vez.
 
-**7.** Escreva um bilhete de cinco linhas para um colega explicando por que 0,5 e 0,50 são o mesmo número, mas 0,5 e 0,05 não são.
+**7.** Escreva um bilhete de cinco linhas para outro estudante explicando por que 0,5 e 0,50 são o mesmo número, mas 0,5 e 0,05 não são.
 
 ---
 
@@ -110,6 +110,6 @@ Confira o item a somando os quatro lados outra vez. Se no item c você encontrou
 
 **5.** Estas quatro etapas de uma medição de massa estão fora de ordem, e falta uma etapa antes de todas elas: ler o número que aparece no visor · comparar o resultado com o que se esperava · conferir se a balança marca zero · colocar o objeto sobre o prato. Escreva a etapa que falta, elabore o esquema completo em ordem com setas e escreva sobre cada seta o que a etapa anterior garante à etapa seguinte.
 
-**6.** Escreva um bilhete de cinco linhas para um colega que faltou à aula, explicando por que um número sozinho não informa uma medida. Use no bilhete dois exemplos em que o mesmo número quer dizer quantidades bem diferentes: um exemplo de comprimento e um de capacidade. Use as palavras *unidade* e *medida*.
+**6.** Escreva um bilhete de cinco linhas para quem faltou à aula, explicando por que um número sozinho não informa uma medida. Use no bilhete dois exemplos em que o mesmo número quer dizer quantidades bem diferentes: um exemplo de comprimento e um de capacidade. Use as palavras *unidade* e *medida*.
 
 **7.** Escreva primeiro a sua previsão: quantos palmos seus cabem na largura do seu caderno fechado? Depois conte quantos palmos realmente cabem e, em seguida, meça essa mesma largura com a régua, em centímetros. Registre os três números — previsão, palmos e centímetros. Use os dois últimos para descobrir quantos centímetros mede o seu palmo, mais ou menos, e escreva quantos palmos seus caberiam em 1 metro. Ao final, escreva por que a régua serve de conferência para a contagem de palmos.

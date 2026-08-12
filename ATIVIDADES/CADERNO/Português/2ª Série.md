@@ -94,7 +94,7 @@ Confira: em cada verbo ajustado, verifique se há palavra atrativa antes dele. H
 
 **5.** Um estudante escreveu: *"A ênclise é a colocação natural do português, e a próclise é influência do falar brasileiro."* Identifique o que a afirmação acerta e o que ignora, e reescreva-a considerando a diferença entre a norma portuguesa e a brasileira.
 
-**6.** Escreva o mesmo pedido — a liberação da quadra para um treino no sábado — em dois registros: um bilhete informal de até cinco linhas para um colega e um ofício formal de até dez linhas para a direção da escola. Cada versão precisa conter pelo menos dois pronomes átonos, e justifique a colocação escolhida em cada uma.
+**6.** Escreva o mesmo pedido — a liberação da quadra para um treino no sábado — em dois registros: um bilhete informal de até cinco linhas para outro estudante e um ofício formal de até dez linhas para a direção da escola. Cada versão precisa conter pelo menos dois pronomes átonos, e justifique a colocação escolhida em cada uma.
 
 ---
 
@@ -140,12 +140,12 @@ Escreva qual das duas a norma escrita admite e nomeie o fator que decide. Depois
 
 **3.** Um autor escreve um romance ambientado em 1890 e precisa decidir a colocação do pronome em uma fala de personagem que, em português atual, seria *"eu te contaria tudo"*. Decida a colocação sob dois critérios diferentes: primeiro sob o critério da verossimilhança de época, depois sob o critério da leitura fluente para o público de hoje. Apresente a forma resultante em cada caso e escreva por que as duas decisões são defensáveis.
 
-**4.** Escreva, em até cinco linhas cada, o mesmo pedido de reagendamento de uma prova em duas versões: uma mensagem para um colega de turma e um requerimento à secretaria da escola. Cada versão precisa conter pelo menos dois pronomes átonos. Coloque as duas lado a lado e escreva, embaixo, a colocação empregada em cada pronome e a razão da escolha.
+**4.** Escreva, em até cinco linhas cada, o mesmo pedido de reagendamento de uma prova em duas versões: uma mensagem para outro estudante e um requerimento à secretaria da escola. Cada versão precisa conter pelo menos dois pronomes átonos. Coloque as duas lado a lado e escreva, embaixo, a colocação empregada em cada pronome e a razão da escolha.
 
 **5.** Dois revisores receberam a frase *"Me parece que resolver-se-á tudo até sexta"*. O primeiro devolveu *"Parece-me que se resolverá tudo até sexta"*. O segundo devolveu *"Me parece que se resolverá tudo até sexta"*. Escreva qual dos dois atende à norma escrita em toda a frase, aponte o que cada um alterou, e explique por que a mesóclise foi descartada nas duas correções.
 
 **6.** Localize duas fontes: um texto formal publicado — edital, contrato, decisão judicial ou reportagem — e uma fala transcrita, que você registre a partir de uma conversa ouvida ou copie de uma legenda ou de uma postagem. As duas podem ser impressas, digitais ou do acervo da escola. Copie de cada uma duas ocorrências de pronome átono. Decida qual das fontes sustenta a afirmação *"no Brasil a próclise predomina"* e qual sustenta *"a escrita formal conserva a ênclise e a mesóclise"*, e registre as duas fontes.
 
-**7.** Escreva, em até oito linhas, uma explicação para um colega do 9º ano sobre o que é hipercorreção. Use um exemplo de colocação pronominal e mostre, nesse exemplo, qual regra foi desrespeitada por quem tentou ser mais formal.
+**7.** Escreva, em até oito linhas, uma explicação para um estudante do 9º ano sobre o que é hipercorreção. Use um exemplo de colocação pronominal e mostre, nesse exemplo, qual regra foi desrespeitada por quem tentou ser mais formal.
 
 **8.** Escreva um parágrafo dissertativo de oito a dez linhas sobre o acesso à leitura, empregando três pronomes átonos em posições diferentes: uma próclise por atração, uma ênclise em início de oração e um pronome junto ao auxiliar de uma locução verbal. Depois confira cada colocação pela pista gramatical que a justifica e reescreva o parágrafo inteiro corrigindo o que a conferência apontou. Entregue as duas versões.

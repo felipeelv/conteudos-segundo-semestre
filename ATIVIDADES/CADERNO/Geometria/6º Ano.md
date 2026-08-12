@@ -13,7 +13,7 @@
 
 **3.** Preveja, por escrito, quantas vezes o raio de uma circunferência cabe sobre ela como corda. Depois trace com o compasso uma circunferência de 5 cm de raio e, sem alterar a abertura do compasso, marque sobre a curva, a partir de um ponto qualquer e uma após a outra, cordas de medida igual a esse raio; registre quantas cordas fecharam a volta e compare o resultado com a sua previsão. Escreva, por fim, o que essas cordas mostram sobre a razão entre o contorno e o diâmetro. Se a última corda não terminar no ponto de partida, refaça as marcações mantendo a abertura do compasso fixa.
 
-**4.** Explique a um colega que faltou à aula, em até dez linhas, por que a divisão do contorno pelo diâmetro de objetos redondos diferentes quase nunca dá exatamente 3,14, e por que essa variação não significa que a razão mude de um objeto para outro. Diga também, na explicação, qual é a diferença entre o valor exato dessa razão e o valor aproximado usado nas contas.
+**4.** Explique a quem faltou à aula, em até dez linhas, por que a divisão do contorno pelo diâmetro de objetos redondos diferentes quase nunca dá exatamente 3,14, e por que essa variação não significa que a razão mude de um objeto para outro. Diga também, na explicação, qual é a diferença entre o valor exato dessa razão e o valor aproximado usado nas contas.
 
 **5.** Um estudante afirmou: *"Todo losango é quadrado, porque os dois têm os quatro lados iguais."* Descubra o erro, trace com régua e compasso um contraexemplo e explique por que quatro lados congruentes não bastam para que um losango seja quadrado, indicando a condição que falta.
 

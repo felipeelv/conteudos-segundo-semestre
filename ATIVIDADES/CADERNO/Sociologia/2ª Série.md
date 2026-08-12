@@ -11,7 +11,7 @@
 
 **2.** Elabore um esquema que represente o percurso de uma reivindicação, desde a identificação de um problema coletivo até a sua conversão em política pública ou norma legal. Assinale a etapa em que a maioria das reivindicações se interrompe e explique por quê.
 
-**3.** Escreva um verbete de até cinco linhas sobre cada movimento a seguir, dirigido a um colega que faltou às aulas. Em cada verbete, empregue obrigatoriamente os termos *identidade coletiva*, *adversário* e *projeto*, e explique por que a reivindicação central daquele movimento precisou de mobilização para avançar em vez de ser simplesmente concedida, citando um marco da sua trajetória:
+**3.** Escreva um verbete de até cinco linhas sobre cada movimento a seguir, dirigido a quem faltou às aulas. Em cada verbete, empregue obrigatoriamente os termos *identidade coletiva*, *adversário* e *projeto*, e explique por que a reivindicação central daquele movimento precisou de mobilização para avançar em vez de ser simplesmente concedida, citando um marco da sua trajetória:
 
 a) movimento negro
 b) movimento feminista

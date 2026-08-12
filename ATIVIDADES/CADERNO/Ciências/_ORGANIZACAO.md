@@ -273,3 +273,7 @@ Passagem de conferência por comando sobre as anteriores. Contagem reconferida e
 | Seção 4 · linha da distribuição de verbos | afirmava *"todos do banco §6"*, verdadeiro só dos verbos de produção. Qualificada | §6 |
 
 Zero ocorrências de *desenhe* e de *redija* nas cinco folhas, reconferidas por comando. Nenhuma questão depende de tecla financeira, de instrumento de medida fora do material escolar, de internet obrigatória, de impressão, de foto, de entrevista, de visita ou de compra — as questões de `FON` aceitam fonte impressa, digital ou do acervo. Nenhuma sigla de tipo, rubrica, seed, gabarito ou instrução ao professor vazou para os arquivos-ano.
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (6 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.

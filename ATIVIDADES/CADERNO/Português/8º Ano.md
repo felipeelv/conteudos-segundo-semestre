@@ -62,7 +62,7 @@ Escreva em qual o verbo é de ligação e explique o critério que decide, apres
 
 **5.** Um estudante escreveu: *"Predicativo do objeto não existe, porque predicativo é sempre do sujeito."* Identifique o erro, apresente um exemplo com predicativo do objeto e explique como distinguir os dois.
 
-**6.** Escreva, para cada elemento a seguir, um verbete de até quatro linhas que um colega da sua turma possa consultar, indicando a que termo ele se refere:
+**6.** Escreva, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando a que termo ele se refere:
 
 a) predicativo do sujeito
 b) predicativo do objeto
@@ -75,7 +75,7 @@ d) núcleo do predicado
 
 **1.** Localize uma notícia e um trecho de narrativa literária — em material impresso, em página da internet ou no acervo da escola. Copie três orações de cada e classifique sujeito e predicado em todas. Registre as duas fontes.
 
-**2.** Escreva, em até dez linhas para um colega da sua turma, qual dos dois gêneros usa mais sujeito explícito e qual usa mais sujeito oculto: a notícia ou a narrativa literária. Escreva de sua autoria uma oração de cada gênero para sustentar o que você afirmar, e explique a razão dessa diferença.
+**2.** Escreva, em até dez linhas para outro estudante, qual dos dois gêneros usa mais sujeito explícito e qual usa mais sujeito oculto: a notícia ou a narrativa literária. Escreva de sua autoria uma oração de cada gênero para sustentar o que você afirmar, e explique a razão dessa diferença.
 
 **3.** Construa uma tabela que relacione três gêneros textuais aos tipos de sujeito e predicado predominantes em cada um. Inclua uma coluna com o efeito que essa escolha produz no leitor.
 

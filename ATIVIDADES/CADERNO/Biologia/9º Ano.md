@@ -11,7 +11,7 @@
 
 **2.** Construa uma tabela que distinga estruturas homólogas de estruturas análogas. Além da origem e da função, a tabela deve trazer um terceiro critério, ausente do capítulo, capaz de classificar corretamente um par de estruturas não mencionado em aula.
 
-**3.** Escreva, para um colega que faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das evidências da evolução relacionadas a seguir, indicando o que ela permite concluir e qual é o seu limite. Os termos *ancestralidade comum*, *linhagem* e *homologia* precisam aparecer no conjunto dos quatro verbetes:
+**3.** Escreva, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das evidências da evolução relacionadas a seguir, indicando o que ela permite concluir e qual é o seu limite. Os termos *ancestralidade comum*, *linhagem* e *homologia* precisam aparecer no conjunto dos quatro verbetes:
 
 a) registro fóssil
 b) anatomia comparada
@@ -26,7 +26,7 @@ d) comparação de sequências de DNA
 
 **7.** Um estudante escreveu em seu caderno: *"A asa do morcego e a asa do inseto mostram que os dois tiveram um ancestral comum recente."* Identifique o erro conceitual, nomeie corretamente a relação entre as duas estruturas e apresente um par de estruturas que exemplifique o caso oposto.
 
-**8.** Redija, para um colega que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: o fato de bactérias e seres humanos utilizarem o mesmo código genético prova que ambos descendem de um ancestral comum? Enuncie a posição defendida na primeira linha, sustente-a com dois argumentos e responda à objeção de que semelhanças podem surgir de modo independente em linhagens distintas.
+**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: o fato de bactérias e seres humanos utilizarem o mesmo código genético prova que ambos descendem de um ancestral comum? Enuncie a posição defendida na primeira linha, sustente-a com dois argumentos e responda à objeção de que semelhanças podem surgir de modo independente em linhagens distintas.
 
 ---
 
@@ -36,7 +36,7 @@ d) comparação de sequências de DNA
 
 **2.** Elabore, em paralelo, um esquema da explicação de Lamarck e outro da explicação de Darwin para o pescoço longo da girafa, partindo em ambos de uma população ancestral de girafas de pescoço curto até a população atual. Cada seta precisa de um rótulo que nomeie o mecanismo proposto.
 
-**3.** Escreva, para um colega que faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos conceitos a seguir, indicando a quem pertence e o que ele afirma. Os termos *variabilidade*, *hereditário* e *população* precisam aparecer no conjunto dos quatro verbetes:
+**3.** Escreva, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos conceitos a seguir, indicando a quem pertence e o que ele afirma. Os termos *variabilidade*, *hereditário* e *população* precisam aparecer no conjunto dos quatro verbetes:
 
 a) lei do uso e desuso
 b) herança dos caracteres adquiridos
@@ -51,4 +51,4 @@ d) seleção natural
 
 **7.** Localize, em fonte impressa, digital ou do acervo da escola, um texto de divulgação científica publicado nos últimos cinco anos que use a expressão *"o organismo se adaptou"*. Analise-o identificando se o uso é compatível com a explicação darwinista, a evidência apresentada, e o risco de interpretação lamarckista que a formulação carrega.
 
-**8.** Redija, para um colega que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a seleção natural tem um objetivo? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que estruturas muito bem ajustadas à função sugerem planejamento prévio.
+**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a seleção natural tem um objetivo? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que estruturas muito bem ajustadas à função sugerem planejamento prévio.

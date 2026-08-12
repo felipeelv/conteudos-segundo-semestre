@@ -15,7 +15,7 @@
 
 **4.** Escreva um verbete de até cinco linhas sobre o solo do lugar onde você mora, usando obrigatoriamente as palavras **minhoca**, **raiz** e **predador**. O verbete precisa mostrar, numa única cadeia, como uma dessas três afeta as outras duas.
 
-**5.** Um colega escreveu: *"Se as minhocas sumissem, não mudaria nada, porque elas não comem nem são comidas por ninguém importante."* Identifique dois erros nessa frase e explique o que aconteceria com o solo e com as plantas se as minhocas desaparecessem daquele lugar.
+**5.** Um estudante escreveu: *"Se as minhocas sumissem, não mudaria nada, porque elas não comem nem são comidas por ninguém importante."* Identifique dois erros nessa frase e explique o que aconteceria com o solo e com as plantas se as minhocas desaparecessem daquele lugar.
 
 **6.** Antes de sair, escreva as três categorias em que vai separar o que encontrar num pedaço de terra: seres vivos, restos de seres vivos e partes não vivas. Depois observe um pedaço de terra perto da sua casa — um vaso, um canteiro ou o chão de uma praça — e registre em cada categoria tudo o que conseguir ver sem cavar. Termine escrevendo quais desses itens não existiriam ali se o chão fosse de cimento. Observe da calçada, sem mexer nos bichos.
 
@@ -29,7 +29,7 @@
 
 **3.** Elabore um mapa simples do Brasil e marque os cinco ecossistemas, cada um com um traçado diferente — pontinhos, listras, quadradinhos. Faça uma legenda dizendo qual traçado é qual e escreva o título do mapa.
 
-**4.** Um colega escreveu: *"A Caatinga é uma Amazônia que deu errado, porque tem poucas árvores e pouca água."* Identifique o erro e explique que ideia errada sobre *ambiente bom* está por trás dessa comparação, usando uma planta ou um animal da Caatinga para mostrar por que essa ideia não se sustenta.
+**4.** Um estudante escreveu: *"A Caatinga é uma Amazônia que deu errado, porque tem poucas árvores e pouca água."* Identifique o erro e explique que ideia errada sobre *ambiente bom* está por trás dessa comparação, usando uma planta ou um animal da Caatinga para mostrar por que essa ideia não se sustenta.
 
 **5.** Escreva um verbete de até cinco linhas sobre o cuidado com o ambiente no lugar onde você mora, usando obrigatoriamente as palavras **desmatamento**, **queimada** e **lixo**. O verbete precisa mostrar como um desses três problemas faz outro deles piorar.
 

@@ -58,7 +58,7 @@ Escreva o que a segunda construção apaga e explique em que situação um texto
 
 **5.** Um estudante escreveu: *"Verbo defectivo é o mesmo que verbo irregular."* Identifique o erro, apresente um exemplo de cada e explique a diferença.
 
-**6.** Escreva, para cada classificação a seguir, um verbete de até quatro linhas que um colega da sua turma possa consultar, indicando um verbo exemplar em cada:
+**6.** Escreva, para cada classificação a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando um verbo exemplar em cada:
 
 a) regular
 b) irregular

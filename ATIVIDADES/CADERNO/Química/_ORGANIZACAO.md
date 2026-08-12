@@ -106,3 +106,7 @@ Segunda passagem sobre as folhas já escritas. Tipo e rubrica preservados em tod
 | 2ª Série | 1 | 3 | o enunciado não trazia os três termos obrigatórios que o item ESC.b exige; o rótulo da grade passou a ESC.a, que é o que o enunciado de fato é (destinatário nomeado + extensão fixa) | grade × enunciado |
 | 2ª Série | 1 | 4 | o caso não tinha dado numérico e a resposta — pressão sim, temperatura e catalisador não — está impressa em §6.1. Passou a exigir o cálculo de Q e a comparação com o Kc = 16 do capítulo, sobre uma composição instantânea diferente da resolvida em §2.2 | §8 #1 · item incompatível |
 | 2ª Série | 1 | 6 | "no equilíbrio as concentrações ficam iguais" tem correção impressa palavra por palavra em §1.2 ("as concentrações ficam constantes, mas não precisam ser iguais"). Reescrito como afirmação de conclusão correta e justificativa errada. Item ERR.a → ERR.c | §8 #1 · T6 |
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (5 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.

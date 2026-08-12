@@ -11,7 +11,7 @@
 
 **2.** Construa uma tabela que compare a imunização por vacina e a imunização por soro. Além do que cada uma contém e do tempo até o início da proteção, inclua um critério ausente do capítulo: qual das duas é adequada a uma pessoa cujo sistema de defesa está suprimido por tratamento médico, e por quê.
 
-**3.** Escreva, para um colega que faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos componentes do sistema imunológico relacionados a seguir, indicando o que ele reconhece e como age. Os termos *antígeno*, *inespecífico* e *memória imunológica* precisam aparecer no conjunto dos quatro verbetes:
+**3.** Escreva, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos componentes do sistema imunológico relacionados a seguir, indicando o que ele reconhece e como age. Os termos *antígeno*, *inespecífico* e *memória imunológica* precisam aparecer no conjunto dos quatro verbetes:
 
 a) barreira química
 b) célula fagocitária
@@ -26,4 +26,4 @@ d) linfócito T
 
 **7.** Um estudante escreveu: *"Tomei o soro antitetânico, então agora estou imunizado contra o tétano e não preciso mais me preocupar."* Identifique o erro conceitual, explique a diferença entre o que o soro e a vacina deixam no organismo e reescreva a frase de modo correto.
 
-**8.** Redija, para um colega que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a vacinação deve ser obrigatória? Enuncie a posição defendida na primeira linha, sustente-a com o conceito de imunidade de rebanho e responda à objeção de quem alega que a decisão de se vacinar afeta apenas quem a toma.
+**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a vacinação deve ser obrigatória? Enuncie a posição defendida na primeira linha, sustente-a com o conceito de imunidade de rebanho e responda à objeção de quem alega que a decisão de se vacinar afeta apenas quem a toma.

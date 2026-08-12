@@ -30,7 +30,7 @@ Descubra qual é a falsa, escreva por que ela é falsa e mostre o que mudar no l
 
 **6.** Escreva primeiro a sua previsão: você espera achar fácil ou difícil encontrar, num dia comum, duas coisas diferentes que valem o mesmo? Depois observe o seu dia de ontem e procure duas situações desse tipo: uma em que dois usos diferentes do seu tempo tiveram a mesma duração, e uma em que uma mesma quantidade foi repartida de dois modos diferentes. Escreva cada situação em uma linha, transforme cada uma em uma igualdade matemática e confira se os dois lados dão o mesmo resultado. Ao final, compare o resultado da busca com a sua previsão.
 
-**7.** Escreva um bilhete de cinco linhas explicando a um colega o que significa o sinal de igual. Seu bilhete precisa deixar claro que ele **não** quer dizer "aqui vem a resposta".
+**7.** Escreva um bilhete de cinco linhas explicando a outro estudante o que significa o sinal de igual. Seu bilhete precisa deixar claro que ele **não** quer dizer "aqui vem a resposta".
 
 ---
 
@@ -73,7 +73,7 @@ Escreva também, em uma frase, a regra de cada uma das três sequências. Confir
 
 **1.** Com a régua, construa um plano cartesiano com os dois eixos numerados de 0 a 8. Marque os pontos (2, 5), (5, 2), (4, 4) e (0, 6), nomeie-os com as letras A, B, C e D nessa ordem e escreva a letra ao lado de cada marca.
 
-**2.** Com a régua, construa um plano cartesiano com os dois eixos numerados de 0 a 8 e marque nele os pontos (2, 5) e (5, 2). Depois explique, em cinco linhas e para um colega que faltou à aula, por que esses dois pontos caem em lugares diferentes mesmo tendo os mesmos dois números.
+**2.** Com a régua, construa um plano cartesiano com os dois eixos numerados de 0 a 8 e marque nele os pontos (2, 5) e (5, 2). Depois explique, em cinco linhas e para quem faltou à aula, por que esses dois pontos caem em lugares diferentes mesmo tendo os mesmos dois números.
 
 **3.** Partindo do ponto (2, 5), escreva o caminho até (5, 2) usando apenas duas instruções: uma para o eixo horizontal e uma para o vertical. Depois escreva o caminho de volta, de (5, 2) até (2, 5), também em duas instruções. Confira: as instruções da ida e as da volta precisam ter os mesmos números e os sentidos contrários; se não tiverem, há erro em uma delas.
 

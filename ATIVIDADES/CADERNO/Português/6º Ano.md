@@ -28,7 +28,7 @@ Depois registre em um quadro o que mudou e por quê.
 
 **5.** Um estudante escreveu: *"Vossa Excelência é muito gentil, e você merece nosso respeito."* Identifique o problema, explique a regra de concordância dos pronomes de tratamento e reescreva a frase corretamente.
 
-**6.** Escreva, para cada classe a seguir, um verbete de até quatro linhas que um colega da sua turma possa consultar, indicando o que o pronome localiza ou indica:
+**6.** Escreva, para cada classe a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando o que o pronome localiza ou indica:
 
 a) possessivo
 b) demonstrativo
@@ -88,7 +88,7 @@ Confira: devolva cada verbo reescrito à primeira pessoa do singular. Se você n
 
 **5.** Um estudante escreveu: *"O radical de 'partir' é 'parti', porque é o que sobra tirando o -r."* Identifique o erro, apresente a separação correta e explique o que é a vogal temática.
 
-**6.** Escreva, para cada elemento a seguir, um verbete de até quatro linhas que um colega da sua turma possa consultar, indicando o que ele informa:
+**6.** Escreva, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando o que ele informa:
 
 a) radical
 b) vogal temática
@@ -127,4 +127,4 @@ Depois monte um quadro com o que mudou em cada verbo e escreva por que a versão
 
 **6.** Localize uma manchete de notícia com verbo no presente do indicativo — em jornal impresso, em página da internet ou no acervo da escola. Registre quem publicou e quando. Depois escreva se o fato noticiado já aconteceu e qual informação a manchete não dá sobre o momento em que ele ocorreu.
 
-**7.** Escreva, em até oito linhas, uma explicação para um colega que faltou à aula sobre a diferença entre o pretérito perfeito e o pretérito imperfeito. Use um exemplo de cada tempo e mostre os dois dentro de uma mesma frase.
+**7.** Escreva, em até oito linhas, uma explicação para quem faltou à aula sobre a diferença entre o pretérito perfeito e o pretérito imperfeito. Use um exemplo de cada tempo e mostre os dois dentro de uma mesma frase.

@@ -140,3 +140,7 @@ Tipos e rubricas preservados; corrigida só a formulação.
 | 2ª Série | 1 | 7 | uma única frase errada é o insumo de `ERR.a`, não de `ERR.b`, que exige duas versões plausíveis com apenas uma correta. Passou a duas definições de terrorismo, com diagnóstico de qual se sustenta, os casos que a outra exclui e o critério que separa terrorismo de insurgência e de crime organizado | §5 (item `ERR.b`) |
 | 2ª Série | 2 | 2 | símbolo proporcional "à participação de cada produtor" exige percentual de produção, que atlas e livro didático raramente trazem — reintroduzia a dependência de base on-line. Passou a proporcional à ordem de importância que a própria fonte apresenta | §8.2 · checagem 4 |
 | 2ª Série | 2 | 8 | o enunciado mandava "definir três categorias fechadas" e já as entregava prontas (eletrônico, vestuário, utensílio) — artefato pronto para preencher, e `INV.c` exige que as categorias sejam do aluno. Agora o aluno define e escreve as três definições antes de começar | checagem 10 · §7.1 |
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (2 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.

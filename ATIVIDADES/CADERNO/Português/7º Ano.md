@@ -91,7 +91,7 @@ Confira: em cada trecho corrigido, localize o sujeito e passe-o para o singular 
 
 **5.** Um estudante escreveu: *"'Meio' sempre concorda com o substantivo, então é 'meia cansada'."* Identifique o erro, explique quando *meio* varia e quando não varia, e apresente os dois casos.
 
-**6.** Escreva, para cada regra a seguir, um verbete de até quatro linhas que um colega da sua turma possa consultar, com um exemplo próprio em cada:
+**6.** Escreva, para cada regra a seguir, um verbete de até quatro linhas que outro estudante possa consultar, com um exemplo próprio em cada:
 
 a) concordância com sujeito composto antes do verbo
 b) concordância com sujeito composto depois do verbo
@@ -115,7 +115,7 @@ Confira: tente recolocar o agente em (c) e em (d). Se a frase não permitir dize
 
 **3.** Construa um mapa conceitual das escolhas verbais do texto usando estes dez conceitos: *infinitivo, gerúndio, particípio, voz ativa, voz passiva, voz reflexiva, agente, paciente, omissão do agente, gênero textual*. Toda linha do mapa precisa trazer escrito sobre ela o nome da relação que representa, e o conceito mais geral precisa ficar no topo.
 
-**4.** Escreva, em até quatro linhas cada, duas versões da mesma informação — *um cano rompeu-se e alagou a quadra da escola na segunda-feira*: uma como comunicado oficial da escola aos responsáveis e outra como relato para um colega de outra turma. Coloque as duas lado a lado e escreva, embaixo, qual voz verbal você empregou em cada uma e por quê.
+**4.** Escreva, em até quatro linhas cada, duas versões da mesma informação — *um cano rompeu-se e alagou a quadra da escola na segunda-feira*: uma como comunicado oficial da escola aos responsáveis e outra como relato para um estudante de outra turma. Coloque as duas lado a lado e escreva, embaixo, qual voz verbal você empregou em cada uma e por quê.
 
 **5.** Um estudante escreveu: *"Em 'O evento foi cancelado' a voz é passiva, e isso mostra que o autor não sabia quem cancelou."* A identificação da voz está correta, mas a conclusão não. Escreva por que a conclusão está errada e apresente duas razões diferentes que levam um texto a omitir o agente.
 

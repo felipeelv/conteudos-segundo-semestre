@@ -11,7 +11,7 @@
 
 **2.** Elabore uma tabela de dupla entrada para o lançamento de dois dados, registrando em cada célula a soma dos pontos. Use a tabela para calcular a probabilidade de a soma ser maior que 9. Confira a tabela pelas contagens que o capítulo registra: a soma 7 tem de aparecer em 6 células e a soma 2, em 1 — se não aparecerem, há célula trocada ou faltando.
 
-**3.** Escreva, para um colega que faltou à aula, um verbete de cinco linhas sobre cada conceito a seguir. Em cada verbete use obrigatoriamente os termos "resultado favorável", "total de resultados possíveis" e "ao mesmo tempo", e dê um exemplo tirado do lançamento de dois dados:
+**3.** Escreva, para quem faltou à aula, um verbete de cinco linhas sobre cada conceito a seguir. Em cada verbete use obrigatoriamente os termos "resultado favorável", "total de resultados possíveis" e "ao mesmo tempo", e dê um exemplo tirado do lançamento de dois dados:
 
 a) espaço amostral
 b) evento simples

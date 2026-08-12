@@ -73,11 +73,11 @@ ERR na 2ª Série entrou fora do pool derivado dos marcadores (o capítulo não 
 |---|---:|---:|---|---|
 | 1ª Série | 1 | 2 | O trajeto genérico virou o caminho casa–escola, que todo aluno já percorre, e entrou a previsão escrita antes da observação, com comparação previsão × contagem no fecho. Retirada a menção a imagens de pessoas | §8.2 acessibilidade + checagem 6 (INV precisa de previsão escrita antes) |
 | 1ª Série | 1 | 3 | *"um item que você tenha em casa"* virou objeto de uma lista ampla — caderno, camiseta, pão ou par de sapatos | §8.2 acessibilidade (item específico dentro de casa) |
-| 1ª Série | 1 | 4 | Ganhou destinatário (colega que faltou) e extensão (até cinco linhas por verbete); *"descreva"* virou *"explique o que aquele conceito permite entender que os outros três não permitem"* | checagens 2 e 3 (verbo compatível com R5; ESC define destinatário e extensão) |
+| 1ª Série | 1 | 4 | Ganhou destinatário (quem faltou) e extensão (até cinco linhas por verbete); *"descreva"* virou *"explique o que aquele conceito permite entender que os outros três não permitem"* | checagens 2 e 3 (verbo compatível com R5; ESC define destinatário e extensão) |
 | 1ª Série | 1 | 6 | Passou a aceitar fonte impressa, digital ou do acervo da biblioteca da escola | §8.2 acessibilidade (internet não é recurso garantido) |
 | 1ª Série | 1 | 7 | Passou a aceitar jornal impresso, site de notícias ou acervo da biblioteca da escola | §8.2 acessibilidade |
 | 1ª Série | 1 | 8 | Ganhou destinatário: leitor que não estudou o capítulo | checagem 3 (ESC define destinatário) |
-| 2ª Série | 1 | 3 | *"Descreva os movimentos… indicando reivindicação central e um marco"* reproduzia a tabela do capítulo. Virou verbete de até cinco linhas para um colega que faltou, com os três termos obrigatórios de ESC.b (*identidade coletiva*, *adversário*, *projeto*) e a exigência de explicar por que a reivindicação precisou de mobilização — marco mantido | checagens 1, 2 e 3 |
+| 2ª Série | 1 | 3 | *"Descreva os movimentos… indicando reivindicação central e um marco"* reproduzia a tabela do capítulo. Virou verbete de até cinco linhas para outro estudante que faltou, com os três termos obrigatórios de ESC.b (*identidade coletiva*, *adversário*, *projeto*) e a exigência de explicar por que a reivindicação precisou de mobilização — marco mantido | checagens 1, 2 e 3 |
 | 2ª Série | 1 | 5 | Passou a aceitar fonte impressa, digital ou do acervo da biblioteca da escola | §8.2 acessibilidade |
 | 2ª Série | 1 | 6 | Passou a aceitar jornal impresso, site de notícias ou acervo da biblioteca da escola | §8.2 acessibilidade |
 | 2ª Série | 1 | 7 | *"Identifique os dois problemas"* virou *"Diagnostique os dois problemas, explicando em cada caso por que se trata de erro"* — o critério de maior peso de R11 não estava sendo pedido | checagem 2 (verbo compatível com R11) |
@@ -96,3 +96,7 @@ Nenhuma questão da produção anterior dependia de outra — §8.1 já estava s
 | 2ª Série | 1 | 7 | Rótulo de item corrigido na grade: `ERR.b` → `ERR.a`. O enunciado traz **uma** afirmação alheia a diagnosticar, não duas resoluções concorrentes. Enunciado não alterado | §5, fidelidade de item. Tipo ERR e rubrica R11 inalterados |
 
 Questões mantidas sem qualquer alteração desde a produção anterior: 1ª série Q5; 2ª série Q2 (só o rótulo), Q4.
+
+### Revisão de 12/08 — §8.3 execução individual
+
+Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (3 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.

@@ -11,7 +11,7 @@
 
 **2.** Elabore um esquema que explique por que o raio atômico diminui ao longo de um período, partindo da carga nuclear até o efeito sobre a camada de valência. Cada seta do esquema precisa de um rótulo.
 
-**3.** Escreva, para cada família a seguir, um verbete de até cinco linhas dirigido a um colega que faltou à aula, informando o número de elétrons de valência e explicando por que esse número produz a tendência de reatividade da família. Empregue obrigatoriamente os termos camada de valência, energia de ionização e cátion ou ânion:
+**3.** Escreva, para cada família a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, informando o número de elétrons de valência e explicando por que esse número produz a tendência de reatividade da família. Empregue obrigatoriamente os termos camada de valência, energia de ionização e cátion ou ânion:
 
 a) metais alcalinos
 b) alcalino-terrosos
@@ -26,4 +26,4 @@ d) gases nobres
 
 **7.** Um estudante escreveu: *"O flúor tem raio atômico menor que o lítio porque tem menos elétrons."* Identifique o erro conceitual, explique o que determina de fato o raio atômico ao longo de um período e reescreva a explicação corretamente.
 
-**8.** Redija um texto de seis a dez linhas dirigido a um colega que sustenta que a tabela periódica só poderia ter a forma que tem, defendendo uma posição sobre a seguinte questão: a tabela periódica poderia ter sido organizada por outro critério? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que o número atômico é a única ordenação possível.
+**8.** Redija um texto de seis a dez linhas dirigido a um leitor que sustenta que a tabela periódica só poderia ter a forma que tem, defendendo uma posição sobre a seguinte questão: a tabela periódica poderia ter sido organizada por outro critério? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que o número atômico é a única ordenação possível.

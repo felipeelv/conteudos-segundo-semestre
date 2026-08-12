@@ -29,7 +29,7 @@ Escreva qual é qual e explique como você descobriu o sujeito da segunda.
 
 Confira: pergunte ao verbo de cada frase *quem?* ou *o quê?*. Nas duas primeiras a resposta tem de estar sublinhada; na terceira ela tem de vir só da forma do verbo — se estiver escrita na frase, o sujeito não está oculto.
 
-**5.** Um colega escreveu: *"Em 'Saímos cedo' não tem sujeito, porque ninguém aparece na frase."* Descubra o erro e explique como o verbo mostra quem é o sujeito.
+**5.** Um estudante escreveu: *"Em 'Saímos cedo' não tem sujeito, porque ninguém aparece na frase."* Descubra o erro e explique como o verbo mostra quem é o sujeito.
 
 **6.** Localize um parágrafo em livro, revista, jornal, página da internet ou no acervo da escola. Copie três frases dele e identifique o sujeito de cada uma, dizendo o tipo. No fim, escreva de onde veio o texto.
 
@@ -60,7 +60,7 @@ Escreva em qual delas *ficou* é verbo de ligação e explique como você descob
 a) O cachorro latiu.
 b) A menina correu.
 
-**5.** Um colega escreveu: *"Todo predicado tem verbo de ação."* Descubra o erro e escreva um exemplo que prove que ele está errado.
+**5.** Um estudante escreveu: *"Todo predicado tem verbo de ação."* Descubra o erro e escreva um exemplo que prove que ele está errado.
 
 **6.** Escreva um parágrafo de cinco linhas descrevendo uma pessoa. Use pelo menos dois predicados nominais e sublinhe as características que você atribuiu. Depois releia e confira: em cada predicado que você chamou de nominal, o verbo tem de indicar estado, não ação. Escreva uma segunda versão corrigindo os predicados que não passaram na conferência e entregue as duas.
 
@@ -93,6 +93,6 @@ b) Os livros e os cadernos sumiram.
 
 Confira: volte cada frase à ordem direta, com o sujeito antes do verbo. Se a forma verbal continuar a mesma nas duas ordens, a concordância está ajustada.
 
-**5.** Um colega escreveu: *"A gente vamos ao parque."* Descubra o erro, escreva a frase certa e explique por que *a gente* pede verbo no singular.
+**5.** Um estudante escreveu: *"A gente vamos ao parque."* Descubra o erro, escreva a frase certa e explique por que *a gente* pede verbo no singular.
 
 **6.** Localize um texto curto em livro, revista, jornal, página da internet ou no acervo da escola. Copie três frases dele e, em cada uma, sublinhe o sujeito e circule o verbo, mostrando que os dois combinam. No fim, escreva de onde veio o texto.

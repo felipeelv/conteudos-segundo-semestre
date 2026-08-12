@@ -15,7 +15,7 @@
 
 **4.** Escreva um verbete de até cinco linhas sobre uma refeição equilibrada, usando obrigatoriamente as palavras **carboidrato**, **proteína** e **vitamina**. O verbete precisa dizer o que o corpo deixa de conseguir fazer quando um desses três falta na refeição.
 
-**5.** Um colega escreveu: *"Gordura faz mal, então o certo é não comer nada com gordura."* Identifique o erro e explique por que comer menos gordura não é a mesma coisa que não comer nenhuma, dizendo o que o corpo deixaria de fazer sem ela.
+**5.** Um estudante escreveu: *"Gordura faz mal, então o certo é não comer nada com gordura."* Identifique o erro e explique por que comer menos gordura não é a mesma coisa que não comer nenhuma, dizendo o que o corpo deixaria de fazer sem ela.
 
 **6.** Elabore o desenho de um prato dividido mostrando como seria um almoço equilibrado. Escreva o nome de um alimento em cada parte e diga qual nutriente ele traz. Termine escrevendo, embaixo do desenho, uma frase que explique por que esse prato está equilibrado.
 
@@ -31,6 +31,6 @@
 
 **4.** Elabore um esquema que mostre como comida, movimento e sono se ligam entre si. Cada seta precisa de uma frase curta, e no fim escreva o que acontece com os outros dois quando o sono falta.
 
-**5.** Um colega escreveu: *"Quem é magro é saudável e quem é gordo não é."* Identifique dois erros nessa frase e explique o que a desnutrição e a obesidade têm em comum.
+**5.** Um estudante escreveu: *"Quem é magro é saudável e quem é gordo não é."* Identifique dois erros nessa frase e explique o que a desnutrição e a obesidade têm em comum.
 
 **6.** Uma criança da sua idade dorme cinco horas, pula o café da manhã e passa o dia sentada. Decida qual das três coisas ela deveria mudar primeiro, escreva o motivo da sua decisão e diga o que continuaria errado mesmo depois dessa mudança.
