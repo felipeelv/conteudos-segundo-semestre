@@ -1,82 +1,140 @@
-# Proposta de atividades — Biologia
+# Caderno de atividades — Biologia
 
-> 9º ano EF · 1ª e 2ª séries EM · 3º bimestre · conjunto **SALA**
-> **Amostra:** 1 capítulo por ano (o Cap. 1 do Bloco 1), para avaliar o tipo do conteúdo antes da produção completa.
-> Molde: [`06-PRODUCAO.md`](../METODOLOGIA/06-PRODUCAO.md) §7 · rubricas: [`04-RUBRICAS.md`](../METODOLOGIA/04-RUBRICAS.md) · tipos: [`03-REPERTORIO.md`](../METODOLOGIA/03-REPERTORIO.md)
+> 9º ano EF · 1ª e 2ª séries EM · 3º bimestre
+> **Amostra:** o Cap. 1 do Bloco 1 de cada ano, para avaliar o padrão antes da produção completa.
+> Molde: [`06-PRODUCAO.md`](../METODOLOGIA/06-PRODUCAO.md) §7
 
 ---
 
 # 9º Ano
 
-### Cap. 1 — Evidências da evolução
+### Capítulo 1 — Evidências da evolução
 
-**Marcadores:** M2, M4  ·  **Pool:** CASO, ESC, ESQ, FON, MC  ·  **Seed:** 26c776f0
+**1.** Elabore um diagrama ramificado que represente o parentesco entre peixes, anfíbios, répteis e mamíferos. Assinale, em cada ponto de ramificação, a característica compartilhada que surge ali, e explique ao final por que esse parentesco não pode ser representado como uma escada.
 
-#### Principal · MC.a · Rubrica R2 · 45 min
+**2.** Construa uma tabela que distinga estruturas homólogas de estruturas análogas. Além da origem e da função, a tabela deve trazer um terceiro critério, ausente do capítulo, capaz de classificar corretamente um par de estruturas não mencionado em aula.
 
-> "Vocês receberam onze conceitos do capítulo. **Relacionem** todos em um único mapa, ligando cada par com uma seta e escrevendo **sobre cada seta** a expressão que nomeia a ligação — por exemplo *'é datado por'*, *'contradiz'*, *'é evidência de'*. Nenhuma seta pode ficar sem rótulo, e pelo menos três precisam partir de **ancestralidade comum**."
+**3.** Descreva as evidências da evolução relacionadas a seguir, indicando em cada caso o que ela permite concluir e qual é o seu limite:
 
-**Insumos:** lista fechada de onze conceitos, entregue impressa — evolução · ancestralidade comum · fixismo · fóssil · datação relativa · datação absoluta · forma transicional · estrutura homóloga · estrutura análoga · estrutura vestigial · código genético universal. Uma folha A3 ou cartolina por dupla.
-**Produto:** mapa com os onze conceitos posicionados e todas as setas rotuladas.
-**Rubrica:** R2 — ajuste: ligar **estrutura análoga** a **ancestralidade comum** por uma seta de parentesco zera os 4 pontos de ligações nomeadas. Analogia é exatamente a semelhança **sem** ancestral comum recente, e o mapa que erra isso inverte a tese do capítulo.
+a) registro fóssil
+b) anatomia comparada
+c) desenvolvimento embrionário
+d) comparação de sequências de DNA
 
-#### Complementar 1 · CASO.c · 25 min
-> "Pesquisadores precisam decidir a que grupo pertence um animal recém-descrito. Pelo **critério anatômico** — forma do corpo e nadadeiras — ele se agrupa com os tubarões; pelo **critério molecular** — sequência de DNA — com os mamíferos. **Decidam** qual critério deve prevalecer, citando o que cada tipo de evidência mede. Depois respondam: em que situação o outro critério seria o mais adequado?"
+**4.** Sobre a mesma camada geológica foram obtidas duas informações: a datação relativa estabelece que ela é anterior à camada imediatamente acima; a datação absoluta atribui a ela 3,2 milhões de anos. Um pesquisador precisa afirmar que o fóssil ali encontrado é anterior ao surgimento de determinado grupo. Decida qual das duas informações sustenta essa afirmação, justificando pelo que cada método mede, e indique o que nenhum dos dois é capaz de estabelecer.
 
-#### Complementar 2 · FON.c · 25 min
-> "A tabela entregue traz a similaridade entre sequências de DNA de cinco espécies. **Avaliem** o que ela sustenta sobre o parentesco desses grupos, usando o critério *quanto maior a similaridade, mais recente o ancestral comum*. Depois escrevam **uma pergunta sobre a evolução desses grupos que esta tabela não responde** — e por que não responde."
+**5.** Pesquise uma espécie fóssil reconhecida como forma transicional entre dois grupos. Registre a referência consultada — autor, veículo e data de publicação — e apresente duas características do grupo mais antigo e duas do grupo mais recente presentes nessa espécie.
+
+**6.** Localize uma reportagem ou artigo de divulgação científica, publicado nos últimos cinco anos, sobre a descoberta de um fóssil. Analise o texto identificando a afirmação evolutiva que ele sustenta, a evidência apresentada como prova dessa afirmação e uma limitação da descoberta que o texto não menciona.
+
+**7.** Um estudante escreveu em seu caderno: *"A asa do morcego e a asa do inseto mostram que os dois tiveram um ancestral comum recente."* Identifique o erro conceitual, nomeie corretamente a relação entre as duas estruturas e apresente um par de estruturas que exemplifique o caso oposto.
+
+**8.** Redija um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: o fato de bactérias e seres humanos utilizarem o mesmo código genético prova que ambos descendem de um ancestral comum? Enuncie a posição defendida na primeira linha, sustente-a com dois argumentos e responda à objeção de que semelhanças podem surgir de modo independente em linhagens distintas.
 
 ---
 
 # 1ª Série
 
-### Cap. 1 — Introdução e membrana plasmática
+### Capítulo 1 — Introdução e membrana plasmática
 
-**Marcadores:** M2, M4, M6, M8  ·  **Pool:** CASO, ESC, ESQ, FON, INV, MC  ·  **Seed:** 0871d8ec
+**1.** Elabore um esquema que represente o trajeto de uma molécula de oxigênio e de uma molécula de glicose, ambas partindo do meio extracelular até alcançar o citoplasma. Indique, em cada trajeto, a estrutura atravessada, o tipo de transporte envolvido e se há consumo de energia.
 
-#### Principal · INV.a · Rubrica R8 · 90 min
+**2.** Construa uma tabela comparativa dos três meios em que uma célula pode ser imersa — hipotônico, isotônico e hipertônico. A tabela deve permitir que um leitor identifique, sem recorrer ao texto do capítulo, o sentido do fluxo de água e o efeito resultante sobre o volume celular.
 
-> "**Prevejam** por escrito, **antes de montar qualquer coisa**, o que vai acontecer com três pedaços iguais de batata: um em água pura, um em água com duas colheres de sal, e o terceiro em um copo seco — este é o controle. Montem os três, **meçam** massa e comprimento antes e depois de 40 minutos e registrem os números na tabela. Ao final, expliquem cada resultado pelo **sentido em que a água atravessou a membrana**, e digam o que o copo de controle permitiu descartar."
+**3.** Descreva as estruturas celulares a seguir, indicando em cada caso a função que desempenha e em que tipo de célula ocorre:
 
-**Insumos:** uma batata (ou cenoura), sal de cozinha, três copos, régua, balança de cozinha, relógio. Tabela de registro impressa com as colunas *antes* e *depois*.
-**Produto:** previsão escrita e assinada antes da montagem · tabela com as seis medidas · parágrafo final de conclusão.
-**Rubrica:** R8 — ajuste: a previsão vale como **registro**, não como acerto — quem previu errado e explicou por que errou pontua igual a quem acertou. Nos 4 pontos de conclusão sustentada, concluir que *"o sal desidrata"* sem dizer para que lado a água foi não pontua.
+a) parede celular
+b) membrana plasmática
+c) nucleoide
+d) mitocôndria
 
-#### Complementar 1 · FON.b · 30 min
-> "Vocês receberam o rótulo de um soro fisiológico e o de uma bebida isotônica de esporte. **Avaliem**, pela concentração impressa em cada um, qual dos dois é de fato isotônico em relação ao sangue. Escrevam qual afirmação cada rótulo sustenta — e uma afirmação sobre hidratação que **nenhum dos dois** sustenta."
+**4.** Uma pessoa em quadro de desidratação chega a um posto de saúde. Estão disponíveis duas soluções para administração intravenosa: uma com 0,9% de cloreto de sódio e outra com 5%. Decida qual deve ser utilizada, apresentando o dado numérico e o critério fisiológico que fundamentam a escolha, e explique o que ocorreria com as hemácias caso a outra solução fosse aplicada.
 
-#### Complementar 2 · CASO.a · 30 min
-> "Uma pessoa desidratada chega ao posto de saúde. Há duas soluções na prateleira: uma a 0,9% de NaCl e outra a 5%. **Decidam** qual deve ser aplicada na veia, citando o número e o critério — *a solução não pode fazer a água sair das hemácias*. Em duas linhas, digam o que aconteceria com as hemácias se a outra fosse escolhida."
+**5.** Pesquise, em fonte impressa ou digital, dois fatos que sustentem a hipótese de que as mitocôndrias descendem de bactérias incorporadas por células ancestrais. Registre cada fato acompanhado da referência consultada — autor, veículo e data de publicação — e classifique-o como evidência morfológica, genética ou bioquímica.
+
+**6.** Localize uma reportagem ou artigo de divulgação científica, publicado nos últimos cinco anos, que trate da teoria da endossimbiose. Analise o texto identificando a afirmação central que ele sustenta, o dado apresentado como prova dessa afirmação e uma informação necessária à compreensão do fenômeno que o texto não fornece.
+
+**7.** Um estudante registrou em seu relatório: *"Deixei a batata submersa em água com sal por quarenta minutos e ela murchou, porque o sal entrou nas células."* Identifique o erro conceitual dessa explicação e reescreva-a corretamente, nomeando o processo envolvido e o sentido do fluxo de água.
+
+**8.** Redija um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a mitocôndria já foi um organismo independente? Enuncie a posição defendida na primeira linha, sustente-a com dois fatos verificáveis e responda à objeção de que um organismo outrora independente deveria ser capaz de sobreviver isoladamente.
 
 ---
 
 # 2ª Série
 
-### Cap. 1 — Defesa e movimento (imunológico e locomotor)
+### Capítulo 1 — Defesa e movimento (imunológico e locomotor)
 
-**Marcadores:** M2, M4, M8  ·  **Pool:** CASO, ESC, ESQ, FON, MC  ·  **Seed:** bd9da7ae
+**1.** Elabore um fluxograma da resposta inflamatória, do momento em que a barreira física é rompida até a chegada das células fagocitárias. Assinale, ao lado de cada etapa, o sinal clínico que ela produz.
 
-#### Principal · ESC.d · Rubrica R5 · 60 min
+**2.** Construa uma tabela que compare a imunização por vacina e a imunização por soro. Além do que cada uma contém e do tempo até o início da proteção, inclua um critério que permita decidir qual das duas aplicar diante de um acidente com animal peçonhento.
 
-> "Escrevam em primeira pessoa, como se vocês fossem um **linfócito B de memória**, um texto de 12 a 15 linhas dirigido a um estudante do 8º ano que nunca ouviu falar de vacina. **Expliquem** o que aconteceu na primeira vez que encontraram o antígeno e o que vai acontecer na segunda. O texto precisa trazer três fatos verificáveis no capítulo: o tempo de resposta em cada exposição, o que o anticorpo faz com o invasor, e o que a vacina deixa para trás e o soro não deixa."
+**3.** Descreva os componentes do sistema imunológico relacionados a seguir, indicando em cada caso o que ele reconhece e como age:
 
-**Insumos:** o capítulo. Nada além dele.
-**Produto:** texto de 12 a 15 linhas, em primeira pessoa, com os três fatos assinalados na margem pelo próprio aluno.
-**Rubrica:** R5 — ajuste: os 4 pontos de precisão conceitual medem os três fatos. Atribuir memória ao soro, ou dizer que o anticorpo *mata* o invasor — ele neutraliza, marca ou agrega —, zera esse critério por mais bem escrito que esteja o texto.
+a) barreira química
+b) célula fagocitária
+c) linfócito B
+d) linfócito T
 
-#### Complementar 1 · ESQ.b · 30 min
-> "O esquema entregue mostra a resposta inflamatória com **uma etapa apagada**. **Ordenem** as etapas restantes, identifiquem qual falta, insiram-na no lugar certo e escrevam ao lado dela o sinal clínico que ela produz."
+**4.** Um município tem 62% da população infantil vacinada contra o sarampo e registra os primeiros casos da doença em vinte anos. A secretaria de saúde dispõe de recursos para uma única campanha: ampliar a cobertura vacinal ou distribuir soro aos casos já confirmados. Decida qual campanha deve ser realizada, apresentando o dado que fundamenta a escolha e o critério de imunidade coletiva aplicado, e explique o que a outra alternativa deixaria de resolver.
 
-#### Complementar 2 · FON.a · 30 min
-> "Vocês receberam uma carteira de vacinação em branco do Ministério da Saúde. **Avaliem** o documento pelo roteiro: quem o emite · de que ano é a versão · para que serve · e **o que ele não informa** sobre a proteção de quem o carrega."
+**5.** Pesquise o calendário nacional de vacinação vigente e identifique duas vacinas que exigem mais de uma dose. Registre a referência consultada — órgão emissor e ano — e explique, para cada uma, por que a dose única seria insuficiente, recorrendo ao conceito de memória imunológica.
+
+**6.** Localize uma notícia publicada nos últimos cinco anos sobre queda da cobertura vacinal no Brasil. Analise o texto identificando a causa que ele aponta para a queda, o dado numérico que apresenta como prova e uma consequência epidemiológica que o texto não discute.
+
+**7.** Um estudante escreveu: *"Tomei o soro antitetânico, então agora estou imunizado contra o tétano e não preciso mais me preocupar."* Identifique o erro conceitual, explique a diferença entre o que o soro e a vacina deixam no organismo e reescreva a frase de modo correto.
+
+**8.** Redija um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a vacinação deve ser obrigatória? Enuncie a posição defendida na primeira linha, sustente-a com o conceito de imunidade de rebanho e responda à objeção de quem alega que a decisão de se vacinar afeta apenas quem a toma.
+
+---
+
+## Grade de correção
+
+*Para o professor. Não entra na folha do aluno.*
+
+### 9º Ano — Evidências da evolução
+| Questão | Tipo | Rubrica | Critério que decide a nota |
+|---|---|---|---|
+| 1 | ESQ.a | R4 | ramificações na ordem correta; a escada refutada explicitamente |
+| 2 | TAB.a | R10 | o terceiro critério é o que se avalia — origem e função são cópia |
+| 3 | ESC.b | R5 | precisão conceitual; o **limite** de cada evidência vale tanto quanto a conclusão |
+| 4 | CASO.a | R12 | citar o dado **e** o critério; decidir sem o número não pontua |
+| 5 | FON.a | R7 | referência registrada; fato sem fonte não conta |
+| 6 | FON.c | R7 | a limitação não mencionada — os 3 pontos de *o que a fonte não diz* |
+| 7 | ERR.a | R11 | explicar **por que** é erro; corrigir sem explicar vale metade |
+| 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição escolhida |
+
+### 1ª Série — Introdução e membrana plasmática
+| Questão | Tipo | Rubrica | Critério que decide a nota |
+|---|---|---|---|
+| 1 | ESQ.a | R4 | os dois trajetos distinguidos; gasto de energia correto no transporte ativo |
+| 2 | TAB.b | R10 | a tabela se sustenta sozinha, sem o capítulo ao lado |
+| 3 | ESC.b | R5 | precisão conceitual; parede celular atribuída a célula animal zera o item |
+| 4 | CASO.a | R12 | citar o dado **e** o critério |
+| 5 | FON.a | R7 | referência registrada e classificação do tipo de evidência |
+| 6 | FON.c | R7 | a informação ausente — os 3 pontos de *o que a fonte não diz* |
+| 7 | ERR.a | R11 | nomear a osmose e o sentido do fluxo |
+| 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição escolhida |
+
+### 2ª Série — Defesa e movimento
+| Questão | Tipo | Rubrica | Critério que decide a nota |
+|---|---|---|---|
+| 1 | ESQ.a | R4 | etapas completas e na ordem; sinal clínico correto em cada uma |
+| 2 | TAB.a | R10 | o critério de decisão é o que se avalia |
+| 3 | ESC.b | R5 | precisão conceitual; a distinção B/T é o item que mais discrimina |
+| 4 | CASO.a | R12 | citar os 62% **e** o critério de imunidade coletiva |
+| 5 | FON.a | R7 | referência registrada; a explicação precisa recorrer à memória imunológica |
+| 6 | FON.c | R7 | a consequência não discutida |
+| 7 | ERR.a | R11 | explicar por que o soro não deixa memória |
+| 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição escolhida |
 
 ---
 
 ## Rodapé de produção
 
-**Exceções registradas** ([`06-PRODUCAO.md`](../METODOLOGIA/06-PRODUCAO.md) §4.3):
+**9º Ano · Cap. 1** · Marcadores: M2, M4 · Pool: CASO, ESC, ESQ, FON, MC · Seed: `26c776f0`
+**1ª Série · Cap. 1** · Marcadores: M2, M4, M6, M8 · Pool: CASO, ESC, ESQ, FON, INV, MC · Seed: `0871d8ec`
+**2ª Série · Cap. 1** · Marcadores: M2, M4, M8 · Pool: CASO, ESC, ESQ, FON, MC · Seed: `bd9da7ae`
 
-- **1ª Série** — o sorteio devolveu `INV.d` (entrevista com roteiro fechado). Reprovado na checagem §8 #4: não há interlocutor possível para transporte pela membrana. Item trocado para `INV.a` dentro do mesmo tipo, preservando o sorteio de nível 1.
-- **9º Ano** — `INV` foi retirado do pool antes do sorteio. É tipo dominante da disciplina em [`03`](../METODOLOGIA/03-REPERTORIO.md) §3, mas o capítulo não tem fenômeno observável com material simples (M6 ausente): fósseis, homologia e embriologia não se medem em sala. Aplicação da §8 #4 na montagem do pool.
+**Fontes a providenciar.** As questões 6 dos três anos pedem que o aluno **localize** o texto, porque escrever uma notícia ou trecho de livro fictício violaria a regra de não inventar dado. Se a preferência for imprimir o texto na folha, os três itens passam a depender de curadoria editorial.
 
-**Checagem em lote — não aplicável a esta amostra.** As travas T2 (teto de 40% por tipo) e T3 (todo dominante aparece 1× por ano) são estatísticas sobre a disciplina inteira. Com um capítulo por ano, os três principais desta amostra são MC, INV e ESC — nenhum dominante repetido, mas `ESQ`, `CASO` e `FON` aparecem só como complementares. Na produção completa dos 10 capítulos as duas travas passam a valer.
+**Checagem em lote — não aplicável.** T2 e T3 são estatísticas sobre a disciplina inteira; com um capítulo por ano não há base. `MC` está no pool dos três anos e não foi sorteado em nenhum — na produção completa dos 10 capítulos, T3 obriga sua entrada.

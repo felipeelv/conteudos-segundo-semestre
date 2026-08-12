@@ -1,61 +1,104 @@
-# Proposta de atividades — Filosofia
+# Caderno de atividades — Filosofia
 
-> 1ª e 2ª séries EM · 3º bimestre · conjunto **SALA**
-> **Amostra:** 1 capítulo por ano (o Cap. 1 do Bloco 1), para avaliar o tipo do conteúdo antes da produção completa.
-> Molde: [`06-PRODUCAO.md`](../METODOLOGIA/06-PRODUCAO.md) §7 · rubricas: [`04-RUBRICAS.md`](../METODOLOGIA/04-RUBRICAS.md) · tipos: [`03-REPERTORIO.md`](../METODOLOGIA/03-REPERTORIO.md)
+> 1ª e 2ª séries EM · 3º bimestre
+> **Amostra:** o Cap. 1 do Bloco 1 de cada ano, para avaliar o padrão antes da produção completa.
+> Molde: [`06-PRODUCAO.md`](../METODOLOGIA/06-PRODUCAO.md) §7
 
-> ⚠️ **Nesta disciplina:** os dois capítulos tratam religião **como conteúdo** — a avaliação cristã de Aristóteles e a crítica de Nietzsche ao cristianismo. As atividades abaixo avaliam **uso de evidência textual e reconstrução de argumento**, não adesão. Nenhuma rubrica pontua a posição do aluno ([`05-REGRAS-DE-APLICACAO.md`](../METODOLOGIA/05-REGRAS-DE-APLICACAO.md) §6).
+> Os dois capítulos tratam religião como conteúdo. As questões avaliam reconstrução de argumento e uso de evidência textual, não adesão — nenhuma rubrica pontua a posição defendida ([`05-REGRAS-DE-APLICACAO.md`](../METODOLOGIA/05-REGRAS-DE-APLICACAO.md) §6).
 
 ---
 
 # 1ª Série
 
-### Cap. 1 — Aristóteles: metafísica e ética
+### Capítulo 1 — Aristóteles: metafísica e ética
 
-**Marcadores:** M2, M4, M9  ·  **Pool:** CASO, DEB, ESC, ESQ, MC  ·  **Seed:** 90db695b
+**1.** Elabore um esquema que represente o percurso pelo qual, segundo Aristóteles, uma ação isolada se converte em virtude de caráter. Nomeie cada etapa e assinale aquela sem a qual o percurso descreveria apenas um hábito adquirido.
 
-#### Principal · ESQ.b · Rubrica R4 · 60 min
+**2.** Construa uma tabela que aplique as quatro causas aristotélicas a dois objetos de natureza distinta: um produzido pelo trabalho humano e outro existente na natureza. A tabela deve evidenciar em qual das quatro causas os dois casos mais se distinguem.
 
-> "O esquema entregue mostra como, em Aristóteles, uma ação isolada se torna virtude de caráter — mas **uma etapa foi retirada**. **Ordenem** as etapas que sobraram, identifiquem qual falta e escrevam-na no lugar certo. Ao lado da etapa que vocês inseriram, expliquem em uma frase por que, sem ela, o esquema descreveria apenas um hábito adquirido, e não uma virtude."
+**3.** Descreva os conceitos a seguir, indicando em cada caso a que pergunta ele responde:
 
-**Insumos:** esquema impresso em cinco caixas ligadas por setas — *percepção da situação particular* → *deliberação* → **[caixa vazia]** → *ação* → *repetição ao longo do tempo* → *disposição estável de caráter*. A etapa suprimida é a **escolha do meio-termo relativa a nós**.
-**Produto:** esquema completo, com a caixa preenchida e a frase de justificativa ao lado.
-**Rubrica:** R4 — ajuste: os 4 pontos de *etapas completas e na ordem* exigem que a caixa seja preenchida com a escolha deliberada do meio-termo. Preencher com *"recompensa"*, *"prazer"* ou *"punição"* descreve condicionamento e não pontua: a diferença entre hábito e virtude, no capítulo, está exatamente na escolha racional.
+a) potência
+b) ato
+c) virtude
+d) eudaimonia
 
-#### Complementar 1 · CASO.c · 30 min
-> "Uma pessoa vê um assalto em curso do outro lado da rua. Intervir sozinha pode salvar a vítima ou custar duas vidas. **Decidam** o que a coragem aristotélica recomenda, primeiro tomando **a covardia como o extremo a evitar**, depois tomando **a temeridade** como o extremo a evitar. Vocês vão chegar a duas respostas defensáveis: expliquem por que o meio-termo depende de quem delibera e da situação — e por que isso não transforma a ética de Aristóteles em relativismo."
+**4.** Uma pessoa presencia um assalto do outro lado da rua. Intervir sozinha pode interromper o crime ou resultar em duas vítimas. Decida o que a coragem aristotélica recomenda, indicando os dois extremos entre os quais o meio-termo se situa e o dado da situação que determina onde ele está. Explique em seguida por que a resposta se altera conforme quem delibera, sem que isso torne a ética de Aristóteles relativista.
 
-#### Complementar 2 · ESC.b · 25 min
-> "Escrevam um verbete de exatamente cinco linhas para a palavra **eudaimonia**, do tipo que apareceria num dicionário de filosofia para estudantes do 1º ano. O verbete precisa conter os termos *finalidade*, *atividade* e *virtude*, e não pode usar a palavra *felicidade* como sinônimo simples."
+**5.** Pesquise uma definição contemporânea de virtude em dicionário de filosofia ou texto acadêmico. Registre a referência — autor, obra e ano — e compare essa definição com a de Aristóteles, indicando um elemento presente em uma e ausente na outra.
+
+**6.** Localize um texto de opinião publicado nos últimos cinco anos que defenda uma posição sobre o que é uma vida bem vivida. Analise-o identificando o critério de vida boa que adota, o argumento com que o sustenta e o ponto em que esse critério se afasta da eudaimonia aristotélica.
+
+**7.** Um estudante escreveu: *"O argumento é válido, portanto sua conclusão é verdadeira."* Identifique o erro, explique a distinção entre validade e verdade e construa um exemplo de argumento válido cuja conclusão seja falsa.
+
+**8.** Redija um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: o meio-termo aristotélico é aplicável a toda virtude? Enuncie a posição na primeira linha, sustente-a com dois exemplos e responda à objeção de que existem ações para as quais não há excesso nem falta admissíveis.
 
 ---
 
 # 2ª Série
 
-### Cap. 1 — Nietzsche e a morte de Deus
+### Capítulo 1 — Nietzsche e a morte de Deus
 
-**Marcadores:** M2, M3, M4, M9  ·  **Pool:** CASO, DEB, ESC, ESQ, LT, MC  ·  **Seed:** ea640c8e
+**1.** Elabore um esquema do diagnóstico de Nietzsche sobre a cultura europeia, da perda de autoridade da fé até a formulação do além-do-homem. Assinale em que etapa se situa o niilismo e justifique a posição escolhida.
 
-#### Principal · ESC.a · Rubrica R5 · 60 min
+**2.** Construa uma tabela que compare a moral de senhores e a moral de escravos. Além da origem de cada uma e do que cada uma chama de bom, inclua um critério capaz de classificar valores que Nietzsche não examinou.
 
-> "Escrevam 15 linhas dirigidas a um colega que faltou à aula e ouviu de terceiros apenas a frase *'Deus está morto'*. **Expliquem** por que, para Nietzsche, isso é um **diagnóstico sobre a cultura europeia** e não uma declaração sobre a existência de Deus. O texto precisa dizer o que é o niilismo e apresentar a tese central do capítulo: a Europa secularizada manteve a moral cristã depois de abandonar o fundamento que a sustentava."
+**3.** Descreva os conceitos a seguir, indicando em cada caso o problema a que Nietzsche o apresenta como resposta:
 
-**Insumos:** o capítulo. Nada além dele.
-**Produto:** texto de 15 linhas, com destinatário identificado na primeira linha.
-**Rubrica:** R5 — ajuste: os 4 pontos de precisão conceitual medem a distinção entre **diagnóstico** e **adesão**. Texto que apresenta a frase como opinião pessoal de Nietzsche sobre a existência de Deus perde esse critério inteiro — o capítulo a apresenta como constatação sobre a autoridade cultural da fé, e é essa leitura que está sendo avaliada.
+a) niilismo
+b) ressentimento
+c) vontade de poder
+d) eterno retorno
 
-#### Complementar 1 · DEB.a · 40 min
-> "Júri simulado sobre a tese: *a crítica de Nietzsche à moral do ressentimento alcança o cristianismo tal como o capítulo o descreve*. Cada grupo preenche a ficha de evidência **antes** de falar, com duas passagens do capítulo por argumento. **Justifiquem** cada ponto citando a passagem — argumento sem citação na ficha não é pontuado, defenda ele qual lado for."
+**4.** Uma organização precisa escolher entre dois lemas para uma campanha de doação: *"doe porque quem tem mais deve ao que tem menos"* e *"doe porque construir algo maior que si mesmo é a forma mais alta de afirmar a própria força"*. Decida qual dos dois Nietzsche classificaria como moral de escravos, indicando o critério de origem que fundamenta a classificação, e explique o que a avaliação cristã apresentada no capítulo responderia a essa leitura.
 
-#### Complementar 2 · CASO.c · 30 min
-> "Uma organização decide entre dois lemas para uma campanha de doação: *'doe porque quem tem mais deve ao que tem menos'* e *'doe porque construir algo maior que você é a melhor forma de afirmar a própria força'*. **Decidam** qual dos dois Nietzsche classificaria como moral de escravos e qual como moral de senhores, citando o critério de origem que o capítulo usa. Depois digam o que a tabela de avaliação cristã do capítulo responderia a essa classificação."
+**5.** Pesquise a passagem em que Nietzsche formula o enunciado *"Deus está morto"*. Registre a obra, o ano de publicação e o contexto em que a frase aparece, e explique por que o capítulo a apresenta como diagnóstico cultural, e não como declaração sobre a existência de Deus.
+
+**6.** Localize um artigo ou reportagem publicado nos últimos cinco anos que empregue o termo *niilismo* para descrever um fenômeno atual. Analise o texto identificando o sentido que atribui ao termo, o fenômeno que pretende explicar com ele e a diferença entre esse uso e o de Nietzsche.
+
+**7.** Um estudante escreveu: *"Nietzsche disse que Deus está morto porque era ateu e queria ofender os cristãos."* Identifique os dois problemas dessa leitura e reescreva a frase de modo que exprima o que o capítulo apresenta como tese do autor.
+
+**8.** Redija um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a crítica de Nietzsche à moral do ressentimento alcança o cristianismo tal como o capítulo o descreve? Enuncie a posição na primeira linha, sustente-a com duas passagens do capítulo e responda à objeção registrada na avaliação cristã, segundo a qual o amor sacrificial também é uma forma de força.
+
+---
+
+## Grade de correção
+
+*Para o professor. Não entra na folha do aluno.*
+
+### 1ª Série — Aristóteles: metafísica e ética
+| Questão | Tipo | Rubrica | Critério que decide a nota |
+|---|---|---|---|
+| 1 | ESQ.b | R4 | a etapa assinalada tem de ser a escolha deliberada do meio-termo |
+| 2 | TAB.c | R10 | a distinção decisiva está na causa eficiente — objeto natural sem agente externo |
+| 3 | ESC.b | R5 | precisão conceitual; eudaimonia traduzida como *felicidade* sem qualificação zera o item |
+| 4 | CASO.c | R12 | as duas respostas são aceitas; o que se avalia é o critério que separa relativismo de deliberação situada |
+| 5 | FON.a | R7 | referência registrada; comparação sem o elemento ausente não pontua |
+| 6 | FON.c | R7 | o afastamento em relação à eudaimonia |
+| 7 | ERR.a | R11 | o exemplo construído é o que discrimina — explicar sem exemplificar vale metade |
+| 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição escolhida |
+
+### 2ª Série — Nietzsche e a morte de Deus
+| Questão | Tipo | Rubrica | Critério que decide a nota |
+|---|---|---|---|
+| 1 | ESQ.a | R4 | o niilismo situado entre a perda de autoridade e a criação de valores |
+| 2 | TAB.a | R10 | o terceiro critério é o que se avalia — origem e definição de bom são cópia |
+| 3 | ESC.b | R5 | precisão conceitual; vontade de poder reduzida a *desejo de dominar* zera o item |
+| 4 | CASO.c | R12 | citar o critério de origem; a resposta da avaliação cristã tratada como argumento, não como adesão |
+| 5 | FON.a | R7 | obra e ano registrados; a distinção diagnóstico × declaração |
+| 6 | FON.c | R7 | a diferença entre o uso atual e o do autor |
+| 7 | ERR.c | R11 | os **dois** problemas; apontar só um vale metade |
+| 8 | ESC.c | R5 | as duas passagens citadas e a resposta à objeção; a posição em si não pontua |
 
 ---
 
 ## Rodapé de produção
 
-**Sem exceções.** Os dois sorteios passaram nas oito checagens da [`06-PRODUCAO.md`](../METODOLOGIA/06-PRODUCAO.md) §8 sem re-sorteio.
+**1ª Série · Cap. 1** · Marcadores: M2, M4, M9 · Pool: CASO, DEB, ESC, ESQ, MC · Seed: `90db695b`
+**2ª Série · Cap. 1** · Marcadores: M2, M3, M4, M9 · Pool: CASO, DEB, ESC, ESQ, LT, MC · Seed: `ea640c8e`
 
-**Nota sobre o pool da 2ª Série.** `LT` entrou por M3 — o capítulo traz uma tabela datada da vida de Nietzsche (1844, 1869, 1879–1887, 1889). Não foi sorteada, e vale registrar que seria o tipo mais fraco do pool: as datas ali são biográficas, sem cadeia causal entre elas, exatamente o caso em que [`03`](../METODOLOGIA/03-REPERTORIO.md) desaconselha LT.
+**DEB fora.** Os dois pools trazem `DEB` por M9, mas o conjunto é o caderno de casa: T7 e [`03`](../METODOLOGIA/03-REPERTORIO.md) §4 o excluem. Onde o conteúdo pedia debate, a questão 8 usa `ESC.c` com objeção obrigatória — a substituição que o próprio repertório prescreve.
 
-**Checagem em lote — não aplicável a esta amostra.** Com dois capítulos, T2 e T3 não têm base estatística. `MC` é dominante da disciplina e não apareceu nem como complementar; na produção completa T3 obriga sua entrada.
+**Fontes a providenciar.** As questões 6 pedem que o aluno localize o texto. Escrever um artigo de opinião fictício violaria a regra de não inventar dado. Se a preferência for imprimir o texto na folha, os dois itens passam a depender de curadoria editorial.
+
+**Checagem em lote — não aplicável.** T2 e T3 são estatísticas sobre a disciplina inteira; com dois capítulos não há base. `MC` é dominante e não foi sorteado — na produção completa, T3 obriga sua entrada.
