@@ -498,7 +498,7 @@ Três consequências:
 
 ## 9. Prompt de produção
 
-Para rodar no Claude Code, uma disciplina por vez.
+O recorte é **um agente por disciplina**, e esse agente percorre os capítulos um a um. Validação e auditoria vêm depois, em agentes separados, e **não podem re-sortear tipo nem rubrica** — corrigem formulação.
 
 ```
 Você vai produzir o arquivo de atividades de <DISCIPLINA>, conjunto <SALA|CASA>.
@@ -507,28 +507,46 @@ LEIA ANTES, NESTA ORDEM:
   METODOLOGIA/03-REPERTORIO.md   (tipos e distribuição da disciplina)
   METODOLOGIA/04-RUBRICAS.md     (R1–R13)
   METODOLOGIA/06-PRODUCAO.md     (este arquivo — obedeça §3 a §8)
+  o arquivo-ano de referência já aprovado, como calibre de registro
 
 PARA CADA CAPÍTULO, NESTA ORDEM:
   1. Leia o capítulo e marque os marcadores M1–M11 (§3).
   2. Monte o pool. Se ficar com menos de 3 tipos, pare e me pergunte.
   3. Sorteie tipo, itens e verbo com a semente de §4.1 e as travas de §4.3.
-  4. Escreva 6 a 8 questões no molde de §7.1, uma por tipo sorteado.
+  4. Escreva 6 a 8 questões no molde de §7.1 — enunciado-síntese com verbo do
+     banco §6 · execução em prosa compacta · Responda: em pergunta · e os blocos
+     Antes de começar / Registre / Confira você mesmo SÓ quando o item os tem.
   5. Monte a grade de correção (§7.2) e o rodapé de produção (§7.3).
-  6. Rode as 10 checagens de §8 e corrija antes de passar ao próximo.
+  6. Rode as 13 checagens de §8 e corrija antes de passar ao próximo.
 
 REGRAS RÍGIDAS:
-  - Um capítulo por vez. Não gere o arquivo inteiro de uma vez.
+  - Um capítulo por vez dentro do agente. Não trate a disciplina inteira num só
+    passe de raciocínio.
   - O enunciado é o texto final do aluno. Não escreva "peça que o aluno...".
   - Sem campo de resposta, sem linha pontilhada, sem moldura: só o enunciado.
   - Sem instrução de andaime ("você escolhe", "pode ser qualquer").
+  - Sem etapas rotuladas ("Etapa 1 — a malha") e sem a questão em lista plana.
   - Tabela, esquema e linha do tempo são CONSTRUÍDOS pelo aluno, nunca entregues prontos.
   - Não invente dado numérico nem texto-fonte: se a questão exige uma notícia ou um
     trecho de livro, ou o aluno localiza a fonte, ou o item entra na lista de fontes a
     providenciar. Nunca escreva uma fonte fictícia.
   - Não acrescente camada devocional (05 §6).
-  - CASA: sem gabarito, sem DEB, sem ORA, EX só com item ✓conf.
+  - CASA: sem gabarito, sem DEB, sem ORA, sem INV.d, EX só com item ✓conf,
+    e nada que exija outra pessoa (§8.3).
   - Ao final da disciplina, imprima a tabela de checagem em lote (§8).
 ```
+
+### 9.1 O que a produção por agente não pega sozinha
+
+Quatro rodadas de produção mostraram que o agente que escreve e o agente que valida erram nos mesmos pontos cegos. Três verificações precisam vir **de fora** do par produtor/validador:
+
+| Verificação | Por que escapa | Como fazer |
+|---|---|---|
+| **Contagem e integridade** — arquivos, capítulos, questões, medidas, restrições, conferências, ordem dos blocos, rótulos, resíduos | o validador confia no relato do produtor, e a auditoria costuma amostrar | script determinístico comparando cada arquivo com sua versão em `git HEAD`. Roda em segundos, cobre 100% e não depende de orçamento |
+| **Folha × grade** — o `Responda:` ainda pede o que o "Critério que decide a nota" mede? | exige ler as duas fontes lado a lado; ninguém faz por iniciativa | agente dedicado, uma disciplina por vez, com a seção 2 do `_ORGANIZACAO.md` na mão |
+| **A própria ferramenta de verificação** | regex com falso positivo produz alarme que consome mais tempo que o defeito real | conferir cada achado no texto antes de agir. Alarme falso comum: contagem em vez de presença, regex sem `re.I`, parser que junta capítulos homônimos |
+
+O caso que justifica a segunda linha: na reformatação de 2026-08-12, **39 de 624 questões** tinham deixado de pedir o que a rubrica media — o padrão mais frequente foi `ESQ` sem exigir seta rotulada, com R4 reservando 3 dos 10 pontos exatamente a isso.
 
 ---
 
