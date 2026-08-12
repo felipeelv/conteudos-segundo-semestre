@@ -86,7 +86,7 @@ b) 0,7 ou 0,75
 
 Depois escreva por que, no par a, o número com menos algarismos é o maior — e no par b, não é.
 
-**3.** Construa uma tabela com cinco números decimais que você escolher. Para cada um, escreva a leitura por extenso e a fração correspondente.
+**3.** Construa uma tabela com cinco números decimais diferentes, sendo pelo menos um maior que 1 e pelo menos um com centésimos. Para cada um, escreva a leitura por extenso e a fração correspondente.
 
 **4.** Sofia escreveu: *"1/4 é 0,4."* Descubra o erro e escreva a resposta certa. Depois explique como Sofia poderia ter percebido sozinha que estava errada, usando dinheiro como exemplo.
 

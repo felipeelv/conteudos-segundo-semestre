@@ -17,7 +17,7 @@
 
 **2.** A partir dos climogramas que você construiu, classifique cada cidade em um tipo de Köppen e indique os dois critérios que decidiram cada classificação.
 
-**3.** Duas das cidades que você escolheu provavelmente estão em latitudes próximas com regimes de chuva diferentes. Explique essa diferença recorrendo aos fatores do clima, e indique qual fator não pode ser responsável por ela.
+**3.** Entre as três cidades da questão 1, identifique o par com latitudes mais próximas e regimes de chuva mais diferentes. Explique essa diferença recorrendo aos fatores do clima, e indique qual fator não pode ser responsável por ela.
 
 **4.** Elabore um esquema em corte do Pacífico equatorial em três situações — neutra, El Niño e La Niña —, indicando em cada uma a temperatura da superfície e o sentido dos ventos. Ao lado, registre o efeito esperado em duas regiões brasileiras por fase, marcando com interrogação a região em que o efeito é menos previsível.
 

@@ -199,7 +199,7 @@ d) nano
 
 **3.** Construa uma tabela que compare o cilindro reto e o cilindro oblíquo. Além da posição do eixo e da relação entre geratriz e altura, inclua uma coluna indicando qual das fórmulas estudadas deixa de valer no caso oblíquo.
 
-**4.** Duas latas têm o mesmo volume: uma é alta e estreita, outra é baixa e larga. Decida qual das duas gasta menos material de embalagem, apresentando o cálculo da área total das duas com medidas que você escolher, e explique por que a indústria nem sempre escolhe a mais econômica.
+**4.** Duas latas têm o mesmo volume: uma é alta e estreita, outra é baixa e larga. Decida qual das duas gasta menos material de embalagem, apresentando o cálculo da área total das duas — arbitre as medidas e registre-as antes de calcular — e explique por que a indústria nem sempre escolhe a mais econômica.
 
 **5.** Um estudante escreveu: *"Se eu dobrar o raio de um cilindro, o volume dobra."* Descubra o erro, calcule o que de fato acontece com o volume e explique por que o raio e a altura não têm o mesmo peso na fórmula.
 

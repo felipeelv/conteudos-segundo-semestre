@@ -1,10 +1,9 @@
 # Caderno de atividades — Filosofia
 
-> 1ª e 2ª séries EM · 3º bimestre
-> **Amostra:** o Cap. 1 do Bloco 1 de cada ano, para avaliar o padrão antes da produção completa.
-> Molde: [`06-PRODUCAO.md`](../METODOLOGIA/06-PRODUCAO.md) §7
+> 1ª e 2ª séries EM · 3º bimestre · **todos os capítulos do bimestre** (2 por ano)
+> Molde: [`06-PRODUCAO.md`](../METODOLOGIA/06-PRODUCAO.md) §7 · tipos dominantes de casa: ESC · CASO · DEB · MC
 
-> Os dois capítulos tratam religião como conteúdo. As questões avaliam reconstrução de argumento e uso de evidência textual, não adesão — nenhuma rubrica pontua a posição defendida ([`05-REGRAS-DE-APLICACAO.md`](../METODOLOGIA/05-REGRAS-DE-APLICACAO.md) §6).
+> Os quatro capítulos tratam religião como conteúdo. As questões avaliam reconstrução de argumento e uso de evidência textual, não adesão — nenhuma rubrica pontua a posição defendida ([`05-REGRAS-DE-APLICACAO.md`](../METODOLOGIA/05-REGRAS-DE-APLICACAO.md) §6).
 
 ---
 
@@ -35,6 +34,31 @@ d) eudaimonia
 
 ---
 
+### Capítulo 2 — Tomás de Aquino: síntese entre fé e razão
+
+**1.** Construa uma tabela que organize as cinco vias. Para cada uma, registre o ponto de partida na experiência, o passo central do argumento e o termo a que ela conclui. Acrescente uma coluna indicando qual das cinco depende de uma observação empírica mais forte.
+
+**2.** Elabore um esquema da estrutura lógica de uma das cinco vias, à sua escolha, partindo da premissa observacional até a conclusão. Cada seta precisa de um rótulo que nomeie o passo inferencial.
+
+**3.** Descreva as virtudes cardeais a seguir, indicando em cada caso a função que Tomás lhe atribui e uma situação concreta em que ela é exigida:
+
+a) prudência
+b) justiça
+c) fortaleza
+d) temperança
+
+**4.** Um tribunal precisa julgar um caso em que a lei escrita levaria a um resultado que a maioria considera injusto. Decida se a lei positiva deve prevalecer sobre o critério de justiça, apresentando o conceito de lei natural tal como o capítulo o define, e explique o risco que a sua decisão introduz.
+
+**5.** Pesquise a distinção que Tomás estabelece entre verdades acessíveis à razão e verdades de revelação. Registre a referência consultada e apresente um exemplo de cada categoria conforme o autor.
+
+**6.** Um estudante escreveu: *"Tomás de Aquino provou que Deus existe, então quem estuda as cinco vias é obrigado a concordar."* Identifique os dois problemas dessa afirmação — um sobre o alcance de um argumento filosófico e outro sobre o que Tomás pretendia demonstrar — e reescreva-a corretamente.
+
+**7.** Localize um texto publicado nos últimos cinco anos que discuta a relação entre ciência e religião. Analise-o identificando a posição que sustenta, o argumento que oferece, e em que ponto ela se aproxima ou se afasta da tese tomista de que as duas ordens de verdade não competem.
+
+**8.** Redija um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: um argumento sobre a existência de Deus pertence à filosofia ou à teologia? Enuncie a posição na primeira linha, sustente-a com a distinção entre as duas ordens de verdade e responda à objeção de que um argumento que conclui por Deus já pressupõe a fé.
+
+---
+
 # 2ª Série
 
 ### Capítulo 1 — Nietzsche e a morte de Deus
@@ -62,43 +86,78 @@ d) eterno retorno
 
 ---
 
+### Capítulo 2 — Existencialismo: angústia e liberdade
+
+**1.** Construa uma tabela que compare os três estágios da existência descritos por Kierkegaard. Além do centro de cada um e do seu limite, inclua uma coluna com uma decisão concreta que caracterizaria uma pessoa em cada estágio.
+
+**2.** Elabore um esquema do argumento de Sartre que vai da ausência de natureza humana prévia até a responsabilidade integral pela própria escolha. Cada seta precisa de um rótulo.
+
+**3.** Descreva os conceitos a seguir, indicando em cada caso a quem pertence e o problema que ele nomeia:
+
+a) angústia
+b) má-fé
+c) absurdo
+d) revolta
+
+**4.** Um funcionário justifica uma decisão dizendo que apenas cumpriu ordens e que, em sua posição, não havia alternativa. Decida se Sartre aceitaria essa justificativa, apresentando o conceito de má-fé, e explique o que ele responderia a quem alegasse que as circunstâncias eram de fato coercitivas.
+
+**5.** Pesquise a formulação em que Camus apresenta o mito de Sísifo como imagem da condição humana. Registre a obra e o ano, e explique por que ele conclui que Sísifo deve ser imaginado feliz.
+
+**6.** Construa uma tabela que registre, para cada um dos três pensadores estudados, a contribuição que o capítulo lhe reconhece e o limite que a avaliação cristã lhe aponta. Acrescente uma coluna indicando qual desses limites decorre de uma discordância sobre fatos e qual decorre de uma discordância sobre valores.
+
+**7.** Um estudante escreveu: *"O existencialismo é ateu, então Kierkegaard não é existencialista."* Identifique o erro, explique o que reúne os três autores apesar da divergência sobre Deus, e reescreva a afirmação corretamente.
+
+**8.** Redija um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a liberdade total aumenta ou reduz a possibilidade de uma vida com sentido? Enuncie a posição na primeira linha, sustente-a com dois autores do capítulo e responda à objeção de que uma vida sem qualquer critério externo torna toda escolha equivalente.
+
+---
+
 ## Grade de correção
 
 *Para o professor. Não entra na folha do aluno.*
 
-### 1ª Série — Aristóteles: metafísica e ética
-| Questão | Tipo | Rubrica | Critério que decide a nota |
-|---|---|---|---|
-| 1 | ESQ.b | R4 | a etapa assinalada tem de ser a escolha deliberada do meio-termo |
-| 2 | TAB.c | R10 | a distinção decisiva está na causa eficiente — objeto natural sem agente externo |
-| 3 | ESC.b | R5 | precisão conceitual; eudaimonia traduzida como *felicidade* sem qualificação zera o item |
-| 4 | CASO.c | R12 | as duas respostas são aceitas; o que se avalia é o critério que separa relativismo de deliberação situada |
-| 5 | FON.a | R7 | referência registrada; comparação sem o elemento ausente não pontua |
-| 6 | FON.c | R7 | o afastamento em relação à eudaimonia |
-| 7 | ERR.a | R11 | o exemplo construído é o que discrimina — explicar sem exemplificar vale metade |
-| 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição escolhida |
-
-### 2ª Série — Nietzsche e a morte de Deus
-| Questão | Tipo | Rubrica | Critério que decide a nota |
-|---|---|---|---|
-| 1 | ESQ.a | R4 | o niilismo situado entre a perda de autoridade e a criação de valores |
-| 2 | TAB.a | R10 | o terceiro critério é o que se avalia — origem e definição de bom são cópia |
-| 3 | ESC.b | R5 | precisão conceitual; vontade de poder reduzida a *desejo de dominar* zera o item |
-| 4 | CASO.c | R12 | citar o critério de origem; a resposta da avaliação cristã tratada como argumento, não como adesão |
-| 5 | FON.a | R7 | obra e ano registrados; a distinção diagnóstico × declaração |
-| 6 | FON.c | R7 | a diferença entre o uso atual e o do autor |
-| 7 | ERR.c | R11 | os **dois** problemas; apontar só um vale metade |
-| 8 | ESC.c | R5 | as duas passagens citadas e a resposta à objeção; a posição em si não pontua |
+| Ano | Cap. | Q | Tipo | Rubrica | Critério que decide a nota |
+|---|---|---|---|---|---|
+| 1ª | 1 | 1 | ESQ.b | R4 | a etapa inserida é a escolha deliberada do meio-termo |
+| 1ª | 1 | 2 | TAB.c | R10 | a distinção decisiva está na causa eficiente |
+| 1ª | 1 | 3 | ESC.b | R5 | eudaimonia traduzida como *felicidade* sem qualificação zera o item |
+| 1ª | 1 | 4 | CASO.c | R12 | as duas respostas são aceitas; avalia-se o critério |
+| 1ª | 1 | 5 | FON.a | R7 | referência registrada; o elemento ausente |
+| 1ª | 1 | 6 | FON.c | R7 | o afastamento em relação à eudaimonia |
+| 1ª | 1 | 7 | ERR.a | R11 | o exemplo construído é o que discrimina |
+| 1ª | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1ª | 2 | 1 | TAB.a | R10 | a coluna sobre a força empírica de cada via |
+| 1ª | 2 | 2 | ESQ.a | R4 | cada passo inferencial rotulado |
+| 1ª | 2 | 3 | ESC.b | R5 | função e situação concreta em cada virtude |
+| 1ª | 2 | 4 | CASO.c | R12 | as duas decisões aceitas; o risco introduzido é obrigatório |
+| 1ª | 2 | 5 | FON.a | R7 | referência; um exemplo de cada ordem de verdade |
+| 1ª | 2 | 6 | ERR.b | R11 | os **dois** problemas; apontar só um vale metade |
+| 1ª | 2 | 7 | FON.c | R7 | aproximação ou afastamento em relação à tese tomista |
+| 1ª | 2 | 8 | ESC.c | R5 | a resposta à objeção; a posição em si não pontua |
+| 2ª | 1 | 1 | ESQ.a | R4 | o niilismo situado entre a perda de autoridade e a criação de valores |
+| 2ª | 1 | 2 | TAB.a | R10 | o critério novo aplicado a valores não examinados |
+| 2ª | 1 | 3 | ESC.b | R5 | vontade de poder reduzida a *desejo de dominar* zera o item |
+| 2ª | 1 | 4 | CASO.c | R12 | o critério de origem; a avaliação cristã tratada como argumento |
+| 2ª | 1 | 5 | FON.a | R7 | obra e ano; a distinção diagnóstico × declaração |
+| 2ª | 1 | 6 | FON.c | R7 | a diferença entre o uso atual e o do autor |
+| 2ª | 1 | 7 | ERR.c | R11 | os **dois** problemas; apontar só um vale metade |
+| 2ª | 1 | 8 | ESC.c | R5 | as duas passagens citadas; a posição em si não pontua |
+| 2ª | 2 | 1 | TAB.a | R10 | a coluna da decisão concreta por estágio |
+| 2ª | 2 | 2 | ESQ.a | R4 | a inferência da existência à responsabilidade |
+| 2ª | 2 | 3 | ESC.b | R5 | autoria correta e problema nomeado |
+| 2ª | 2 | 4 | CASO.a | R12 | má-fé aplicada; a resposta à coerção é o que discrimina |
+| 2ª | 2 | 5 | FON.a | R7 | obra e ano; a conclusão sobre Sísifo |
+| 2ª | 2 | 6 | TAB.b | R10 | separar discordância de fato de discordância de valor |
+| 2ª | 2 | 7 | ERR.a | R11 | o que reúne os três é o ponto de partida na existência |
+| 2ª | 2 | 8 | ESC.c | R5 | dois autores citados; a resposta à objeção |
 
 ---
 
 ## Rodapé de produção
 
-**1ª Série · Cap. 1** · Marcadores: M2, M4, M9 · Pool: CASO, DEB, ESC, ESQ, MC · Seed: `90db695b`
-**2ª Série · Cap. 1** · Marcadores: M2, M3, M4, M9 · Pool: CASO, DEB, ESC, ESQ, LT, MC · Seed: `ea640c8e`
+**1ª Série** Seeds `90db695b` / `90db695b|c2` · **2ª Série** `ea640c8e` / `ea640c8e|c2`
 
-**DEB fora.** Os dois pools trazem `DEB` por M9, mas o conjunto é o caderno de casa: T7 e [`03`](../METODOLOGIA/03-REPERTORIO.md) §4 o excluem. Onde o conteúdo pedia debate, a questão 8 usa `ESC.c` com objeção obrigatória — a substituição que o próprio repertório prescreve.
+**DEB fora do caderno de casa.** M9 está presente nos quatro capítulos e liberaria `DEB`, que é inclusive dominante da disciplina. T7 o exclui da casa, e a substituição prescrita por [`03`](../METODOLOGIA/03-REPERTORIO.md) §4 — `ESC.c` com objeção obrigatória — ocupa a questão 8 dos quatro capítulos.
 
-**Fontes a providenciar.** As questões 6 pedem que o aluno localize o texto. Escrever um artigo de opinião fictício violaria a regra de não inventar dado. Se a preferência for imprimir o texto na folha, os dois itens passam a depender de curadoria editorial.
+**Religião como conteúdo, em todos os quatro capítulos.** Aristóteles traz a avaliação cristã em tabela; Tomás de Aquino é integralmente sobre a relação fé-razão; Nietzsche critica o cristianismo; o existencialismo se divide entre um autor cristão e dois ateus. As questões avaliam **reconstrução de argumento e uso de evidência textual**, e nenhuma rubrica pontua a posição defendida pelo aluno. Onde o capítulo apresenta uma avaliação cristã, ela entra nas questões como **argumento a ser examinado** — não como conclusão a ser adotada ([`05`](../METODOLOGIA/05-REGRAS-DE-APLICACAO.md) §6).
 
-**Checagem em lote — não aplicável.** T2 e T3 são estatísticas sobre a disciplina inteira; com dois capítulos não há base. `MC` é dominante e não foi sorteado — na produção completa, T3 obriga sua entrada.
+**Checagem em lote.** 32 questões: ESC 11×, FON 8×, TAB 5×, CASO 4×, ERR 4×, ESQ 4×. Os dominantes de casa ESC e CASO aparecem nos dois anos. `MC` é dominante e não foi sorteado em nenhum dos quatro capítulos — T3 violada e registrada; na produção completa da disciplina, que tem apenas estes quatro capítulos no bimestre, a lacuna permanece.
