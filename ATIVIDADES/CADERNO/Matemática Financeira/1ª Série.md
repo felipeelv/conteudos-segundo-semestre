@@ -27,7 +27,16 @@ Uma série hipotética de preços tem média R$ 1.200,00 e desvio padrão R$ 96,
 
 **3.** Considere a série hipotética 12, 15, 15, 18, 20 e 22.
 
-a) Elabore a tabela do cálculo do desvio padrão amostral, com as colunas de valor, desvio e desvio ao quadrado. Na calculadora comum, siga esta ordem: some os seis valores e divida a soma por 6 para achar a média; subtraia a média de cada um dos seis valores; multiplique cada desvio por si mesmo; some as seis parcelas obtidas; divida essa soma por 5; extraia a raiz quadrada do quociente. Apresente o resultado com duas casas decimais.
+a) Elabore a tabela do cálculo do desvio padrão amostral, com as colunas de valor, desvio e desvio ao quadrado. Na calculadora comum, siga esta ordem:
+
+- some os seis valores e divida a soma por 6, para achar a média;
+- subtraia a média de cada um dos seis valores;
+- multiplique cada desvio por si mesmo;
+- some as seis parcelas obtidas;
+- divida essa soma por 5;
+- extraia a raiz quadrada do quociente.
+
+Apresente o resultado com duas casas decimais.
 b) Refaça o cálculo para a mesma série de seis valores, tratando-a agora como população inteira: muda uma única conta — divida a soma dos quadrados dos desvios por 6 em vez de 5 antes de extrair a raiz. Apresente o resultado com duas casas decimais e escreva qual dos dois é maior e por quê.
 c) Some 10 a cada um dos seis valores e refaça a sequência inteira sobre a nova série — média, seis desvios, seis quadrados, soma, divisão por 5 e raiz quadrada: explique o que aconteceu com a média e por que o desvio padrão não mudou.
 
@@ -46,7 +55,9 @@ d) coeficiente de variação
 
 **5.** Diagnostique o efeito do erro de um estudante que trocou o divisor no cálculo da variância de uma amostra.
 
-Um estudante calculou a variância de uma amostra de oito dados dividindo a soma dos quadrados dos desvios por 8 em vez de 7. Essa soma era 56. Calcule as duas variâncias e em quantos por cento o resultado do estudante subestimou a variância.
+Um estudante calculou a variância de uma amostra de oito dados dividindo a soma dos quadrados dos desvios por 8 em vez de 7. Essa soma era 56.
+
+Calcule as duas variâncias e em quantos por cento o resultado do estudante subestimou a variância.
 
 **Responda:** qual das duas variâncias é maior, e por que o divisor $$n-1$$ é o correto para uma amostra? Por que o mesmo erro pesaria muito menos numa amostra de oitenta dados?
 

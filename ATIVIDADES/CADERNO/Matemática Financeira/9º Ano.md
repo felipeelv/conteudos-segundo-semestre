@@ -9,7 +9,13 @@
 
 **1.** Elabore a tabela mês a mês da evolução de R$ 1.000,00 aplicados a 1% ao mês, dos meses 1 a 12, nos dois regimes de juros, e encontre o mês em que a diferença entre eles passa de R$ 1,00.
 
-A tabela tem três colunas: montante em juros simples, montante em juros compostos e diferença entre os dois. Na calculadora comum, obtenha a coluna de juros simples somando R$ 10,00 ao montante da linha anterior, doze vezes. Obtenha a coluna de juros compostos multiplicando por 1,01 doze vezes, cada multiplicação feita sobre o resultado da anterior: mantenha na calculadora o resultado completo de cada passo e arredonde a duas casas decimais só o número que você escreve na tabela. A terceira coluna é a subtração das duas primeiras, linha por linha.
+A tabela precisa ter três colunas:
+
+- montante em juros simples — some R$ 10,00 ao montante da linha anterior, doze vezes;
+- montante em juros compostos — multiplique por 1,01 doze vezes, cada multiplicação feita sobre o resultado da anterior;
+- diferença entre os dois — a subtração das duas primeiras, linha por linha.
+
+Na calculadora comum, mantenha o resultado completo de cada passo e arredonde a duas casas decimais só o número que você escreve na tabela.
 
 **Responda:** em que mês a diferença passa de R$ 1,00, e por que ela cresce a cada mês em vez de ficar constante?
 
@@ -19,7 +25,9 @@ A tabela tem três colunas: montante em juros simples, montante em juros compost
 
 **2.** Elabore um único gráfico com as curvas dos dois regimes de juros para R$ 1.000,00 aplicados a 1% ao mês, calculando os montantes antes de traçar.
 
-Calcule os montantes nos dois regimes, nos meses 0, 3, 6, 9 e 12. Na calculadora comum, obtenha cada montante composto multiplicando R$ 1.000,00 por 1,01 tantas vezes quantos são os meses do prazo — três, seis, nove e doze multiplicações sucessivas, cada uma feita sobre o resultado da anterior, sem arredondar no meio do caminho — e obtenha cada montante simples somando R$ 10,00 por mês decorrido; arredonde a duas casas decimais só os dez valores que você anota. Trace as duas curvas no mesmo par de eixos, com título, escala e legenda.
+Calcule os montantes nos dois regimes, nos meses 0, 3, 6, 9 e 12. Na calculadora comum, obtenha cada montante composto multiplicando R$ 1.000,00 por 1,01 tantas vezes quantos são os meses do prazo — três, seis, nove e doze multiplicações sucessivas, cada uma feita sobre o resultado da anterior, sem arredondar no meio do caminho — e obtenha cada montante simples somando R$ 10,00 por mês decorrido; arredonde a duas casas decimais só os dez valores que você anota.
+
+Trace as duas curvas no mesmo par de eixos, com título, escala e legenda.
 
 **Responda:** o que o formato de cada curva revela sobre o regime que ela representa, e por que, num prazo tão curto, as duas quase se sobrepõem?
 

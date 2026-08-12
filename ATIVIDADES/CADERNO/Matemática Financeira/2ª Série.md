@@ -34,7 +34,9 @@ d) teorema de Bayes
 
 **4.** Diagnostique o erro na conclusão de um estudante sobre o resultado de um exame.
 
-Numa cidade hipotética, 2 em cada 100 pessoas têm determinada condição. Um exame aponta positivo em 90% de quem tem a condição e em 10% de quem não tem. Um estudante escreveu: *"o exame acerta 90%, então quem deu positivo tem 90% de chance de ter a condição."* Apresente o cálculo correto para uma população de 10.000 pessoas.
+Numa cidade hipotética, 2 em cada 100 pessoas têm determinada condição. Um exame aponta positivo em 90% de quem tem a condição e em 10% de quem não tem. Um estudante escreveu: *"o exame acerta 90%, então quem deu positivo tem 90% de chance de ter a condição."*
+
+Apresente o cálculo correto para uma população de 10.000 pessoas.
 
 **Responda:** onde a afirmação do estudante falha, e qual é o papel da prevalência no resultado?
 
@@ -50,6 +52,8 @@ Busque os dois valores em fonte impressa, digital ou do acervo da biblioteca da 
 
 **6.** Decida qual de dois filtros de spam uma empresa deve adotar.
 
-Um dos filtros sinaliza 95% dos spams e erra em 10% das mensagens legítimas; o outro sinaliza 85% dos spams e erra em 2%. Apresente o cálculo para uma caixa com 100 spams e 900 mensagens legítimas.
+Um dos filtros sinaliza 95% dos spams e erra em 10% das mensagens legítimas; o outro sinaliza 85% dos spams e erra em 2%.
+
+Apresente o cálculo para uma caixa com 100 spams e 900 mensagens legítimas.
 
 **Responda:** qual filtro adotar, e de que depende a escolha?

@@ -29,13 +29,24 @@ c) Numa terceira contagem, a categoria caminhada aparece com 35% de um total de 
 
 **3.** Construa dois gráficos — um de barras e um de setores — para uma mesma contagem hipotética e compare o que cada um deixa enxergar.
 
-Numa contagem hipotética de 40 respostas sobre a bebida escolhida no intervalo, registraram-se suco 20, água 10, leite 5 e chá 5. Construa os dois gráficos com esses quatro valores, cada um com título e legenda. No de barras, meça as alturas com a régua e faça todas as barras partirem da mesma linha de início. No de setores, trace a circunferência com o compasso, calcule o ângulo de cada fatia antes de traçá-la — o percentual da categoria multiplicado por 360° — e marque cada ângulo com o transferidor, registrando ao lado de cada fatia o ângulo que ela recebeu.
+Numa contagem hipotética de 40 respostas sobre a bebida escolhida no intervalo, registraram-se suco 20, água 10, leite 5 e chá 5. Construa os dois gráficos com esses quatro valores, cada um com título e legenda:
+
+- no de barras, meça as alturas com a régua e faça todas as barras partirem da mesma linha de início;
+- no de setores, trace a circunferência com o compasso, calcule o ângulo de cada fatia antes de traçá-la — o percentual da categoria multiplicado por 360° — e marque cada ângulo com o transferidor, registrando ao lado de cada fatia o ângulo que ela recebeu.
 
 **Responda, embaixo de cada gráfico:** que conclusão só aquele gráfico deixa enxergar?
 
 ---
 
-**4.** Elabore uma tabela que relacione cada tipo de dado ao gráfico adequado a ele, cobrindo dado de categoria, contagem, parte do total e evolução no tempo. Acrescente duas colunas que o capítulo não traz: um exemplo de pergunta que produziria aquele tipo de dado e o que se perde ao representar aquele dado no gráfico errado.
+**4.** Elabore uma tabela que relacione cada tipo de dado ao gráfico adequado a ele, cobrindo dado de categoria, contagem, parte do total e evolução no tempo.
+
+A tabela precisa trazer, para cada um dos quatro tipos de dado:
+
+- o gráfico adequado a ele;
+- um exemplo de pergunta que produziria aquele tipo de dado;
+- o que se perde ao representar aquele dado no gráfico errado.
+
+As duas últimas colunas o capítulo não traz.
 
 ---
 

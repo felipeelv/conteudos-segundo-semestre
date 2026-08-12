@@ -301,3 +301,25 @@ Divergência **não** encontrada, apesar de procurada: nenhuma linha da grade ci
 Pendência de redação da grade, sem efeito na folha e não corrigida:
 
 - **6º Q1 — "faixas fechadas e previsão escritas antes de contar".** A folha dá as quatro faixas no bloco de previsão em vez de mandar o aluno escrevê-las. É o certo: mandar o aluno fixar as próprias faixas abriria andaime (§7.1) e tornaria a contagem inconferível. O critério está apenas frouxamente redigido — o que ele mede é que as faixas estejam **fechadas antes** da contagem, e estão. Reescrever a linha da grade é alteração de critério e ficou para decisão da coordenação.
+
+### Refino §7.1 v2 — 12/08
+
+As seis folhas já estavam no molde desde `812c490`. Refino: **10 das 36 questões**, todas de forma — **nenhum bloco foi criado nem removido** e nenhuma entrega mudou de mão.
+
+Contagem inalterada: **6 arquivos-ano · 6 capítulos · 36 questões**. Verificação determinística contra `git HEAD`: nenhum número perdido, nenhuma citação perdida e **nenhuma expressão em LaTeX perdida** — a disciplina usa `$$n-1$$` e `$$\frac{1}{6}$$` dentro do enunciado, e um `$$` desbalanceado quebraria a renderização da questão inteira.
+
+**Conferência específica do §8.2: nenhum recurso vedado entrou.** Varridas as seis folhas atrás de *calculadora financeira*, *planilha*, *celular*, *internet obrigatória*, *termômetro*, *balança* e *cronômetro* — zero ocorrências. A distinção importa aqui mais que em qualquer outra disciplina: o §8.2 libera a **calculadora comum** e veda a financeira, e é justamente esta disciplina que precisa de sequência de teclas para juros compostos. Continua tudo em calculadora comum.
+
+**O marcador de caso (a) achou seu melhor uso: a sequência de teclas.** Três questões traziam o procedimento de cálculo encadeado em ponto-e-vírgula dentro de um parágrafo — a forma mais difícil de seguir com a calculadora na mão, porque o aluno perde a linha ao levantar os olhos.
+
+- `1ª Série Q3 a)` — o desvio padrão amostral em seis passos: somar e dividir por 6 · subtrair a média de cada valor · multiplicar cada desvio por si mesmo · somar as seis parcelas · dividir por 5 · extrair a raiz. Ordem estritamente obrigatória.
+- `9º Ano Q1` — as três colunas da tabela de juros viraram marcador, cada uma com a operação que a produz ao lado: somar R$ 10,00 doze vezes · multiplicar por 1,01 doze vezes sobre o resultado anterior · subtrair linha a linha. A regra de arredondamento — *manter o resultado completo na calculadora e arredondar só o que se escreve* — saiu do meio do encadeamento e virou frase própria, porque é ela que decide se o mês 12 fecha com o valor do capítulo.
+- `9º Ano Q2` separou calcular os dez montantes de traçar as duas curvas: são ações de natureza distinta, e a segunda só começa quando a primeira termina.
+
+**Marcador de caso (b): 2 questões.** `6º Q3` (as especificações do gráfico de barras e as do de setores, que são diferentes entre si) e `6º Q4` (as três colunas da tabela de tipo de dado × gráfico, duas delas ausentes do capítulo).
+
+**Execução tirada de dentro do caso: 5 questões.** `1ª Série Q5`, `7º Q2`, `7º Q6`, `2ª Série Q4` e `2ª Série Q6` fechavam o parágrafo do caso com a instrução de calcular — *"Calcule as duas variâncias e em quantos por cento…"*, *"Calcule média, mediana e amplitude de cada uma das duas filas"*, *"Apresente o cálculo para uma caixa com 100 spams e 900 mensagens legítimas"*. O caso é o dado; o cálculo é o que se faz com ele. Separados em parágrafos distintos, sem alterar uma vírgula do que se pede.
+
+**Blocos ao final:** `Responda:` **25** · `Antes de começar, responda por escrito:` **4** · `Confira você mesmo:` **6** · `Registre:` **0** — todos idênticos aos de antes da passada. Checagem 2: **36 de 36**. Comando corrido: **0**.
+
+**Nenhuma linha da grade mudou.** As 36 foram confrontadas com a seção 2 depois da reescrita, com atenção aos valores que os critérios citam — a soma 2.000 das quatro células, as contagens 6 e 1 das somas 7 e 2, os R$ 4.140,00 da média deslocada, a coluna de desvios que tem de dar zero: todos continuam pedidos na folha.
