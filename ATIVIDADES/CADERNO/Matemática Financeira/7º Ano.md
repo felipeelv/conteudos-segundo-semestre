@@ -11,7 +11,7 @@
 
 **2.** Oito preços hipotéticos de um mesmo livro, em oito livrarias diferentes: R$ 30,00; R$ 32,00; R$ 32,00; R$ 34,00; R$ 35,00; R$ 36,00; R$ 38,00 e R$ 96,00 — este último numa loja de aeroporto. Decida qual das três medidas de tendência central responde melhor à pergunta "quanto uma pessoa provavelmente vai pagar por esse livro", apresentando o critério que aplicou. Depois decida qual delas responde melhor à pergunta "quanto as oito livrarias arrecadam se cada uma vender um exemplar", com o critério correspondente. Explique por que as duas decisões não caem na mesma medida.
 
-**3.** Construa uma tabela de notas com pesos diferentes que produza uma média ponderada de exatamente 7,0, mas cuja média simples seja diferente de 7,0. Mostre os dois cálculos. Depois altere apenas os pesos, mantendo as mesmas notas, e escreva até quanto a média ponderada pode subir e o que impõe esse limite.
+**3.** Elabore uma tabela de notas com pesos diferentes que produza uma média ponderada de exatamente 7,0, mas cuja média simples seja diferente de 7,0. Mostre os dois cálculos. Depois altere apenas os pesos, mantendo as mesmas notas, e escreva até quanto a média ponderada pode subir e o que impõe esse limite.
 
 **4.** Escreva, para um colega que faltou à aula, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "valor extremo", "ordenar" e "peso", e feche com um caso em que usar aquela medida daria uma ideia errada do conjunto:
 

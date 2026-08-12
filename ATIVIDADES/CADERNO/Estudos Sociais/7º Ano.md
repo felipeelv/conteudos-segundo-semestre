@@ -7,9 +7,9 @@
 
 ## Capítulo 1 — Urbanização do Brasil
 
-**1.** Construa um gráfico com os dados de taxa de urbanização de 1940 a 2022 apresentados no capítulo, no tipo adequado à natureza desses dados, e justifique por que esse tipo é o adequado. Escreva embaixo do gráfico uma frase com a conclusão que ele permite tirar sobre o ritmo da urbanização brasileira.
+**1.** Elabore um gráfico com os dados de taxa de urbanização de 1940 a 2022 apresentados no capítulo, no tipo adequado à natureza desses dados, e justifique por que esse tipo é o adequado. Escreva embaixo do gráfico uma frase com a conclusão que ele permite tirar sobre o ritmo da urbanização brasileira.
 
-**2.** Construa uma linha do tempo em duas faixas: na superior, os marcos da industrialização; na inferior, os da urbanização. Estabeleça pelo menos três ligações cruzadas com frase de nexo causal.
+**2.** Ordene, em uma linha do tempo de duas faixas, os marcos da industrialização na faixa superior e os da urbanização na inferior. Estabeleça pelo menos três ligações cruzadas com frase de nexo causal.
 
 **3.** Elabore um esquema da hierarquia urbana com os quatro níveis estudados, indicando em cada um um serviço característico e o alcance dele.
 
@@ -25,9 +25,9 @@
 
 **1.** Percorra um trajeto que você já faz no seu dia a dia e registre por escrito os problemas urbanos que consegue observar nele. Defina as categorias de registro antes de sair. Apresente a contagem por categoria e indique qual problema você esperava encontrar e não apareceu. Observe da calçada e não anote nome nem descrição de nenhuma pessoa.
 
-**2.** Percorra um trajeto que você já faz no seu dia a dia e construa um croqui dele, marcando com símbolos os pontos onde há problemas urbanos visíveis. Legenda e título são obrigatórios.
+**2.** Percorra um trajeto que você já faz no seu dia a dia e elabore um croqui dele, marcando com símbolos os pontos onde há problemas urbanos visíveis. Legenda e título são obrigatórios.
 
-**3.** Construa uma tabela que compare os quatro tipos de problema urbano estudados. Além de uma causa e uma consequência de cada, inclua uma coluna com o nível de governo responsável por enfrentá-lo.
+**3.** Elabore uma tabela que compare os quatro tipos de problema urbano estudados. Além de uma causa e uma consequência de cada, inclua uma coluna com o nível de governo responsável por enfrentá-lo.
 
 **4.** Leia a parte biográfica do Anexo sobre Raquel Rolnik. Analise-a identificando a área em que ela atua, a tese que a fonte atribui a ela sobre o direito à moradia, e um contra-argumento que a fonte não apresenta.
 
@@ -41,7 +41,7 @@
 
 **1.** Elabore um mapa de fluxos que represente os principais eixos de transporte do Brasil, usando os percentuais de participação de cada modal apresentados no capítulo para definir a espessura de cada fluxo. Legenda e título são obrigatórios.
 
-**2.** Construa uma tabela que compare os modais de transporte. Além do custo e da velocidade de cada um, inclua um critério que permita decidir qual usar para uma carga específica.
+**2.** Elabore uma tabela que compare os modais de transporte. Além do custo e da velocidade de cada um, inclua um critério que permita decidir qual usar para uma carga específica.
 
 **3.** Localize, em fonte impressa, digital ou do acervo da escola, um dado de acesso à internet em uma região ou estado brasileiro. Registre a fonte e o ano, e explique o que a diferença em relação aos 84% de população conectada informados no capítulo revela sobre a exclusão digital.
 

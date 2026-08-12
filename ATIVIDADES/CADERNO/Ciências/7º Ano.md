@@ -13,7 +13,7 @@
 
 **3.** Elabore um esquema da biomagnificação de um poluente ao longo de uma cadeia alimentar de quatro níveis, indicando em cada nível o que acontece com a concentração da substância e rotulando cada seta.
 
-**4.** Construa uma tabela que compare fenômenos naturais e alterações induzidas pelo ser humano. Além de exemplos de cada, inclua um critério de escala e outro de velocidade que permitam distinguir os dois casos.
+**4.** Elabore uma tabela que compare fenômenos naturais e alterações induzidas pelo ser humano. Além de exemplos de cada, inclua um critério de escala e outro de velocidade que permitam distinguir os dois casos.
 
 **5.** Um estudante escreveu: *"Incêndios sempre existiram na natureza, então queimada no Cerrado não é problema."* Identifique o que essa frase acerta e o que ela ignora, e reescreva-a de modo correto.
 
@@ -25,9 +25,9 @@
 
 **1.** Antes de começar, defina as categorias em que vai separar o resíduo. Durante três dias, registre nessas categorias todo o resíduo sólido que a sua casa descarta. Não manuseie o lixo — apenas observe e registre, e lave as mãos ao terminar. No fim, escreva qual categoria cresceu mais nos três dias.
 
-**2.** Registre, item por item, tudo o que você mesmo descartou ao longo de um dia inteiro, sem manusear o lixo: apenas observando e anotando na hora do descarte. Com esse registro na mão, calcule que fração do total poderia ter deixado de existir por redução ou reutilização antes de virar resíduo, e explique por que a hierarquia dos três Rs coloca *reduzir* antes de *reciclar*.
+**2.** Registre, item por item, tudo o que você mesmo descartou ao longo de um dia inteiro, sem manusear o lixo: apenas observando e anotando na hora do descarte. Com esse registro na mão, conte quantos itens poderiam ter deixado de existir por redução ou reutilização antes de virar resíduo, conte o total de itens registrados e escreva o primeiro número sobre o segundo como fração. Justifique, no fim, por que a hierarquia dos três Rs coloca *reduzir* antes de *reciclar*.
 
-**3.** Construa uma tabela que compare as três categorias de unidade de conservação estudadas. Além do uso permitido em cada uma, inclua um critério que permita decidir qual categoria aplicar a uma área específica.
+**3.** Elabore uma tabela que compare as três categorias de unidade de conservação estudadas. Além do uso permitido em cada uma, inclua um critério que permita decidir qual categoria aplicar a uma área específica.
 
 **4.** Localize uma unidade de conservação existente no seu estado, em um livro, numa revista, no acervo da biblioteca da escola ou na internet. Registre o autor, a data e a finalidade da fonte, e identifique a categoria da unidade, o que ela protege e uma atividade proibida ali. Termine escrevendo o que a fonte não informa sobre a fiscalização dessa área.
 

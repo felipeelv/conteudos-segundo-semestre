@@ -11,7 +11,7 @@
 
 **2.** Ponha a germinar três grãos crus do mesmo tipo — feijão, milho, lentilha ou grão-de-bico —, cada um em um recipiente raso forrado com papel umedecido, e mantenha os três lado a lado, nas mesmas condições. Antes de começar, escreva quantos dos três espera ver germinar e em quantos dias. Observe os três a cada dois dias durante uma semana e registre o que viu em cada um. Compare os três registros com a sua previsão e escreva por que três grãos mantidos nas mesmas condições não germinaram exatamente do mesmo jeito.
 
-**3.** Construa uma tabela que compare reprodução sexuada e assexuada. Além das vantagens de cada uma, inclua um critério que permita prever qual delas é favorecida em um ambiente que muda rapidamente.
+**3.** Elabore uma tabela que compare reprodução sexuada e assexuada. Além das vantagens de cada uma, inclua um critério que permita prever qual delas é favorecida em um ambiente que muda rapidamente.
 
 **4.** Elabore um esquema que mostre por que a meiose e a fecundação, juntas, produzem variabilidade genética. Cada etapa precisa de um rótulo, e cada seta precisa indicar o que acontece com a quantidade de material genético.
 
@@ -29,7 +29,7 @@
 
 **2.** Explique a um colega que faltou à aula, em um parágrafo de até oito linhas, como a cor, o formato e o cheiro de uma flor tubular indicam que ela é visitada por beija-flores, e por que essa correspondência entre flor e visitante não é uma escolha da planta.
 
-**3.** Construa uma tabela a partir de três sementes ou frutos que você já tenha visto — no prato, na rua ou numa planta do bairro —, um para cada agente de dispersão. Em cada linha, registre a característica que você observou naquela semente, o agente que essa característica indica e o que aconteceria com a dispersão dela se esse agente desaparecesse do lugar.
+**3.** Elabore uma tabela a partir de três sementes ou frutos que você já tenha visto — no prato, na rua ou numa planta do bairro —, um para cada agente de dispersão. Em cada linha, registre a característica que você observou naquela semente, o agente que essa característica indica e o que aconteceria com a dispersão dela se esse agente desaparecesse do lugar.
 
 **4.** Elabore um esquema do percurso da polinização até a formação do fruto, indicando em cada etapa o que se transforma em quê.
 

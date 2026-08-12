@@ -74,7 +74,7 @@
 | 4 | 1 | CONS.c | R10 com ajuste: *correção da informação* = correção da construção | os três vértices em (6, 3), (9, 3) e (6, 5); lados iguais na conferência |
 | 4 | 2 | ERR.a | R11 | explicar que a reflexão mantém a distância ao eixo; 3 quadrados do outro lado |
 | 4 | 3 | EX.a | R1 | 6 e 8 · 3 e 2 · 5 e 3; a conferência é aplicar a regra ao contrário |
-| 4 | 4 | MOD.b | R12 | as três malhas de 8 × 8 desenhadas com a régua; as três reduções calculadas (4 e 3 · 2,5 e 2 · 3,5); o limite da regra escrito (lado ímpar parte quadrado) |
+| 4 | 4 | MOD.b | R12 | as três malhas de 8 × 8 construídas com a régua; as três reduções calculadas (4 e 3 · 2,5 e 2 · 3,5); o limite da regra escrito (lado ímpar parte quadrado) |
 | 4 | 5 | ESQ.b | R4 | a etapa que falta é marcar o vértice à mesma distância do outro lado; setas rotuladas |
 | 4 | 6 | MC.b | R2 | *denominador* e *sentença aberta* descartados com justificativa; toda linha rotulada |
 | 4 | 7 | CASO.a | R12 com ajuste: *tradução* = leitura do caso; *interpretação* = o critério citado | giro 180° em (5, 4) → (8, 7) · (5, 7) · (8, 4); reflexão no eixo x = 6 → (10, 1) · (7, 1) · (10, 4); decidir pela reflexão e sustentar comparando a posição dos vértices |
@@ -102,7 +102,12 @@ Nenhum capítulo da disciplina tem Anexo: **M5 ausente em todos os 8**, e por is
 | Dominantes da disciplina presentes ≥1× | EX, MOD, CONS e ERR presentes nos dois anos; nenhum ausente |
 | Distribuição de tipos | EX 15× · ERR 8× · INV 6× · TAB 5× · MOD 5× · ESC 5× · ESQ 4× · VIS 3× · CONS 2× · CASO 2× · MC 1× |
 | Independência §8.1 | 56 de 56 questões — depois da revisão de validação (5º Ano cap. 4, questões 4 e 7, que dependiam da malha desenhada na questão 1) |
-| Acessibilidade §8.2 | 56 de 56 questões — depois da revisão de validação (5º Ano cap. 3 questão 6, que exigia percorrer a escola contando passos) |
+| Acessibilidade §8.2 | 56 de 56 questões. Régua, compasso e transferidor entraram na lista de recursos garantidos; a régua é o único instrumento pedido em toda a disciplina, em **10 questões** — 8 em que ela produz a figura e 2 em que ela mede (4º Ano cap. 3 q. 5 e cap. 4 q. 7). Calculadora comum também está liberada, mas não é usada: nenhum dos 8 capítulos trabalha com ela, e em 4º e 5º ano nenhuma conta do bloco exige mais que lápis e papel |
+| Checagem 2 — verbo do comando × rubrica (§6) | **32 de 56** pelo critério estrito (o comando traz ao menos um verbo do banco do §6). Zero *desenhe*, zero *monte*, zero *redija*. As **24 que falham** são de quatro famílias, todas herdadas e todas dependentes de decisão que excede uma revisão de redação: **14 de `EX` (R1)**, que abrem em *Resolva* / *Leia* / *Partindo* / narrativa de personagem — o §6 só oferece `prove` para R1, e demonstração não cabe em 4º e 5º ano; **4 de `ESC.a` (R5)**, que abrem em *Escreva um bilhete* (ver a linha do `redija`); **3 de `ERR.a` (R11)**, que abrem no nome do personagem e seguem em *Descubra* (o verbo de R11 é `diagnostique`, pesado para a faixa); **3 de `MOD` (R12)** — 4º cap. 2 q. 6, 4º cap. 3 q. 6 e 5º cap. 2 q. 7 —, cujos comandos não trazem `justifique` nem `decida`, os dois únicos verbos de R12 no §6. Não é lacuna de aplicação: é lacuna do banco do §6 para `EX`, para R12 e para o vocabulário do EF1. A quinta questão de `ESC.a` (5º cap. 3 q. 2) passa porque traz `explique` (R5) no comando. O objeto decide o verbo de produção (§6): *construa* nas 8 questões cuja figura sai com régua, *elabore* nas 9 de artefato sem instrumento, *relacione* na única de mapa conceitual (R2). Nas 3 questões de rubrica R5 e R12, em que *construa* não consta como compatível, a figura é meio e não produto: o verbo que carrega a tarefa avaliada é do banco e casa com a rubrica — *explique* em R5, *decida* e *justifique* em R12 |
+| Distribuição dos verbos de produção | *construa* 8 questões · *elabore* 9 · *relacione* 1. 21 questões alteradas ao todo nas duas rodadas de verbo (15 na primeira, 6 na validação) |
+| Verbos ainda fora do banco §6 | nenhum verbo de produção fora do banco. As 3 ocorrências de *monte* foram fechadas na validação: *elabore* nas duas de esquema (R4) e *relacione* na de mapa conceitual (R2) — *relacione* é o verbo de R2 no §6 e o seu erro comum, *conectar sem rotular*, é exatamente o critério de peso 4 de R2 |
+| `redija` × as 5 questões de `ESC` | O §6 passou a trazer `redija` (R5, R6) como **o verbo de `ESC` e `RET`**. As 5 questões de ESC.a da disciplina — 4º Ano cap. 1 q. 7, cap. 3 q. 7, cap. 4 q. 6; 5º Ano cap. 1 q. 7, cap. 3 q. 2 — abrem por *"Escreva um bilhete…"* / *"explique"*, todas com destinatário e cinco linhas fixados, o que satisfaz a checagem 3. Não migradas para `redija` nesta rodada: a instrução desta revisão manda deixar o arquivo com zero *redija*, e a troca vale para `ESC` nas doze disciplinas, não só aqui — decisão para a coordenação |
+| Substantivo *desenho* remanescente | 4º Ano cap. 1 q. 4 (ERR.a · R11): *"Use um desenho para mostrar por que ele errou"*. Mantido — é substantivo, não o verbo do comando, e R11 não aceita *construa* nem *elabore* |
 | T7 — todo EX com conferência embutida | 15 de 15 (EX.a, EX.c, EX.d); a conferência está escrita no próprio enunciado. A do 4º Ano cap. 2 questão 7 foi acrescentada na validação |
 | Checagem 1 — resposta impressa no capítulo | 4º Ano cap. 2 questão 5 usava 1/4 e 1/2 de hora, que a tabela do capítulo já responde; frações trocadas na validação |
 | Checagem 9 — andaime no enunciado | três casos de *"que você mesmo inventar"* / *"invente"* no 5º Ano (cap. 1 q. 5, cap. 2 q. 5 e q. 7) fechados com parâmetro fixo na validação |
@@ -143,3 +148,48 @@ Nenhum capítulo da disciplina tem Anexo: **M5 ausente em todos os 8**, e por is
 | 5º Ano | 3 | 6 | contar passos pela escola não é executável no caderno de casa → a escola passou a ser descrita no enunciado, com três lugares em passos e dois em par ordenado, para conversão nos dois sentidos. Tipo TAB.c e rubrica R10 mantidos | §8.2 acessibilidade |
 | 5º Ano | 4 | 4 | *"na malha do caderno"* pressupunha a malha construída na questão 1 → a questão passa a mandar desenhar três malhas de 8 × 8 com a régua, uma por figura. Tipo MOD.b e rubrica R12 mantidos | §8.1 independência |
 | 5º Ano | 4 | 7 | *"na malha do caderno"* pressupunha a malha da questão 1, e nem o centro do giro nem o eixo de reflexão estavam definidos → duas malhas de 10 × 10 desenhadas com a régua, giro de 180° em (5, 4) e reflexão no eixo x = 6, ambas as imagens dentro da malha. Tipo CASO.a e rubrica R12 mantidos | §8.1 independência · §7.1 |
+
+### Revisões da rodada de recursos e verbos
+
+Duas mudanças de regra: régua, compasso e transferidor confirmados como material garantido, e *desenhe* reconhecido como verbo fora do banco do §6 — que define *construa* como **produzir com instrumento** e nomeia *desenhar à mão livre* como o erro comum desse verbo. Nenhum tipo e nenhuma rubrica foram re-sorteados; a contagem segue 2 arquivos-ano · 8 capítulos · 56 questões.
+
+Compasso e transferidor não aparecem em nenhum enunciado: no 4º e no 5º ano as figuras do bloco são retângulos, malhas, retas numéricas e planos cartesianos, todas resolvidas com régua. Calculadora comum também não aparece — nenhum dos 8 capítulos-fonte a menciona, e nenhuma conta do bloco passa do que se faz no papel.
+
+| Ano | Cap | Q | O que foi corrigido | Regra |
+|---|---:|---:|---|---|
+| 4º Ano | 1 | 3 | *"Com a régua, desenhe no caderno dois retângulos"* → *"Com a régua, construa…"*. O instrumento já estava no enunciado e passa a reger o verbo. CONS.c · R10 | §8.2 instrumento liberado |
+| 4º Ano | 1 | 6 | *"Desenhe uma reta numérica"* → *"Elabore uma reta numérica"*. Reta numérica é representação, não construção com instrumento. VIS.a · R10 | §6 banco de verbos |
+| 4º Ano | 2 | 3 | *"Desenhe um esquema"* → *"Elabore um esquema"*. ESQ.a · R4 | §6 banco de verbos |
+| 4º Ano | 2 | 5 | *"Construa no caderno uma tabela"* → *"Elabore no caderno uma tabela"*. §8.2 reserva *elabore* para o artefato que não pede instrumento — tabela é um deles. TAB.c · R10 | §8.2 instrumento liberado |
+| 4º Ano | 3 | 3 | *"Construa uma tabela"* → *"Elabore uma tabela"*. TAB.c · R10 | §8.2 instrumento liberado |
+| 5º Ano | 1 | 3 | *"Desenhe um esquema com uma balança"* → *"Elabore um esquema…"*; e *"embaixo de cada desenho"* → *"embaixo de cada momento"*, que tira o substantivo sem alongar a frase. ESQ.a · R4 | §6 banco de verbos |
+| 5º Ano | 1 | 5 | *"Construa uma tabela"* → *"Elabore uma tabela"*. TAB.c · R10 | §8.2 instrumento liberado |
+| 5º Ano | 2 | 5 | *"Construa uma tabela"* → *"Elabore uma tabela"*. TAB.c · R10 | §8.2 instrumento liberado |
+| 5º Ano | 3 | 1 | *"Desenhe um plano cartesiano"* → *"Com a régua, construa um plano cartesiano"*. Eixos numerados pedem instrumento, e o instrumento passou a ser nomeado. VIS.a · R10 | §8.2 instrumento liberado |
+| 5º Ano | 3 | 2 | *"Desenhe um plano cartesiano… Depois escreva"* → *"Com a régua, construa… Depois explique"*. O plano é meio, não produto avaliado: a rubrica é R5, e o verbo que carrega a tarefa passou a ser *explique*, compatível com R5. ESC.a · R5; destinatário e cinco linhas preservados | §8.2 instrumento liberado · §6 banco de verbos |
+| 5º Ano | 3 | 5 | malha: *desenhe* → *construa*, com a régua; planta: *"Desenhe nela"* → *"Elabore nessa malha"*; e *"título ao desenho"* → *"título à planta"*. VIS.a · R10 | §8.2 instrumento liberado |
+| 5º Ano | 3 | 6 | *"Construa no caderno uma tabela"* → *"Elabore no caderno uma tabela"*. TAB.c · R10 | §8.2 instrumento liberado |
+| 5º Ano | 4 | 1 | três *desenhe* → *construa* — malha, triângulo e translação, todos com régua. A segunda ocorrência virou *"Nela, construa"*, para não repetir *no caderno*. CONS.c · R10 | §8.2 instrumento liberado |
+| 5º Ano | 4 | 4 | dois *desenhe* → *construa*, e *"escreva em quais delas… escreva até onde"* → *"decida em quais delas… justifique até onde"*. As malhas saem com régua; a tarefa avaliada é R12, e *decida* e *justifique* são os verbos do banco compatíveis com ela. MOD.b · R12 | §8.2 instrumento liberado · §6 banco de verbos |
+| 5º Ano | 4 | 7 | dois *desenhe* → *construa*. O comando já trazia *decida*, verbo de R12, e por isso só a figura mudou. CASO.a · R12 | §8.2 instrumento liberado |
+
+### Validação da rodada de recursos e verbos
+
+Contagem conferida arquivo por arquivo: **2 arquivos-ano · 8 capítulos · 56 questões** (28 + 28) — nada acrescentado, nada removido. Nenhum tipo e nenhuma rubrica alterados. Zero *desenhe*, zero *redija*, zero *monte* nos dois arquivos-ano; folha limpa (nenhuma sigla de tipo, rubrica, seed ou instrução ao professor); §8.1 e §8.2 sem regressão.
+
+Seis correções sobre o que a rodada anterior deixou passar:
+
+| Ano | Cap | Q | O que foi corrigido | Regra |
+|---|---:|---:|---|---|
+| 4º Ano | 1 | 6 | *"Elabore uma reta numérica de 0 até 1"* → *"Com a régua, construa uma reta numérica de 0 até 1, com 8 cm entre o 0 e o 1"*. A rodada anterior tratou a reta como representação sem instrumento, mas o critério da questão é 1/4 e 2/8 caírem no mesmo ponto — à mão livre isso não se mostra, e é o *desenhar à mão livre* que o §6 nomeia como erro comum de *construa*. Com 8 cm entre 0 e 1, cada oitavo vale 1 cm e a coincidência fica conferível com a própria régua. VIS.a · R10 mantidos (*construa* é compatível com R10) | §8.2 instrumento · §6 banco de verbos |
+| 4º Ano | 4 | 5 | *"monte o esquema completo"* → *"elabore o esquema completo"*. *monte* não está no banco; *elabore* é o verbo de artefato sem instrumento e é compatível com R4. ESQ.b · R4 mantidos | §6 banco de verbos · checagem 2 |
+| 5º Ano | 3 | 5 | *"Elabore nessa malha a planta"* → *"Nela, construa a planta"*. *elabore* pede o artefato inteiro do zero, e o seu erro comum é justamente *preencher um modelo já pronto* — era o que o comando pedia, sobre a malha construída duas frases antes. A planta é figura espacial e a régua já está na mão. VIS.a · R10 mantidos | §6 banco de verbos |
+| 5º Ano | 4 | 4 | *"e justifique até onde essa regra vale"* → *"Justifique cada decisão e escreva até onde a regra da metade vale"*. O verbo do banco não justifica período rebuscado: em 4º e 5º ano a frase é curta. *decida* e *justifique* preservados como verbos de R12, e o teste de limite de MOD.b continua explícito. MOD.b · R12 mantidos | §7.1 · faixa etária |
+| 5º Ano | 4 | 5 | *"monte o esquema completo"* → *"elabore o esquema completo"*. ESQ.b · R4 mantidos | §6 banco de verbos · checagem 2 |
+| 5º Ano | 4 | 6 | *"Monte um mapa conceitual … com estes doze termos"* → *"Relacione, em um mapa conceitual …, estes doze termos"*. A rodada anterior deixou o caso aberto por não achar verbo de produção compatível com R2; *relacione* é o verbo de R2 no banco, e o seu erro comum — *conectar sem rotular* — é o critério de peso 4 da própria R2, que a questão já exigia (*"toda linha … precisa ter um rótulo"*). MC.b · R2 mantidos | §6 banco de verbos · checagem 2 |
+
+Pendências que seguem para a coordenação, por valerem as doze disciplinas e não só esta:
+
+- **`redija` nas 5 questões de `ESC.a`** (4º Ano cap. 1 q. 7, cap. 3 q. 7, cap. 4 q. 6; 5º Ano cap. 1 q. 7, cap. 3 q. 2). O §6 passou a trazer `redija` (R5, R6) como **o verbo de `ESC` e de `RET`**, mas a instrução desta rodada manda deixar os arquivos com zero *redija*. As cinco seguem abrindo por *"Escreva um bilhete…"* / *"Depois explique…"*, todas com destinatário e cinco linhas fixados, o que satisfaz a checagem 3 — mas o verbo principal não é o prescrito.
+- **`Descubra` nas 8 questões de `ERR.a` (R11)**, herdado da produção original e não desta rodada. O verbo de R11 no §6 é `diagnostique`; *"diagnostique o erro"* pesa para 4º e 5º ano, e a troca vale para as doze disciplinas.
+- **Grade da seção 2, 5º Ano cap. 4 q. 4**, diz *"as três malhas de 8 × 8 desenhadas com a régua"*. É texto de critério para o professor, não comando de aluno, e descreve corretamente o que o enunciado pede — mas uma auditoria por `grep` de *desenh* vai acusar. Seções 1, 2 e 3 mantidas intactas, como pedido.

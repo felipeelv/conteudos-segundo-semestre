@@ -130,9 +130,10 @@ Seeds preservados da produção anterior. **M5 não ocorre em nenhum capítulo**
 | Dominantes da disciplina presentes ≥1× | INV, ESQ, VIS e FON presentes nos cinco anos; nenhum ausente. Exigiu 4 acréscimos: INV no 6º (não havia), VIS no 7º e no 8º, FON no 8º |
 | Distribuição de tipos | INV 13× · ESC 10× · ERR 9× · TAB 9× · ESQ 6× · FON 6× · VIS 5× · CASO 4× · LT 1× · MOD 1× |
 | Independência §8.1 | 64 de 64 — as 8 questões que retomavam o registro da questão anterior foram reescritas como tarefas completas; reconferido questão a questão na validação |
-| Acessibilidade §8.2 | 64 de 64 — nenhuma questão exige termômetro, cronômetro, balança, celular, internet obrigatória, tesoura, lápis de cor, compra ou item específico de casa. Corrigido na validação: 8º cap 1 Q1 e Q2 exigiam **feijão cru**, item específico de casa; a lista passou a ser feijão, milho, lentilha ou grão-de-bico |
+| Acessibilidade §8.2 | 64 de 64 — nenhuma questão exige termômetro, cronômetro, balança, trena, celular, internet obrigatória, tesoura, lápis de cor, compra ou item específico de casa. Corrigido na validação: 8º cap 1 Q1 e Q2 exigiam **feijão cru**, item específico de casa; a lista passou a ser feijão, milho, lentilha ou grão-de-bico. **Reconferido contra o §8.2 atualizado** (compasso, transferidor e calculadora comum agora garantidos): nenhuma questão de Ciências no Bloco 1 foi escrita para contornar a falta desses três — não há construção geométrica nem cálculo que dependa de calculadora, e o único cálculo do bloco (7º cap 2 Q2, fração do próprio resíduo) se faz à mão. Nenhum enunciado precisou voltar a uma forma mais precisa por esse motivo — não há circunferência traçada ponto a ponto nem ângulo obtido por rodeio à espera de transferidor. O que esta releitura deixou passar, e a validação seguinte corrigiu, foi o **outro lado** do mesmo parágrafo de §8.2: a reserva de `construa` ao instrumento e de `elabore` ao artefato livre (ver a linha da checagem §8 nº2). Calculadora: nenhuma questão depende de tecla financeira (PV, FV, PMT, i, n); o único cálculo do bloco, 7º cap 2 Q2, passou a trazer o roteiro explícito — contar os itens evitáveis, contar o total, escrever um sobre o outro |
 | Checagem §8 nº1 (resposta impressa no capítulo) | corrigida na validação nos 8 itens ESC.b, que pediam a descrição de 3–4 objetos cujas funções e definições estão impressas em tabela ou em negrito. Todos foram reescritos como o verbete de 5 linhas com 3 termos obrigatórios que o item ESC.b prevê, cada um com uma exigência ausente do capítulo. Também corrigidos 4º cap 2 Q4 (a refutação era a própria frase do capítulo) e 8º cap 2 Q3 (a característica de cada semente está na tabela impressa) |
-| Checagem §8 nº2 (verbo × rubrica, §6) | corrigida na validação: `Descubra`/`Escolha`/`Descreva` (fora do banco, ou incompatíveis com R11, R12 e R5) trocados por `Identifique … explique`, `Decida` e `Escreva um verbete` em 12 questões. **Permanece `Desenhe`** em 4º cap 1 Q3, 4º cap 2 Q3 e 5º cap 1 Q6 — `Elabore`, do banco, foi julgado menos legível para o EF1; desvio consciente |
+| Checagem §8 nº2 (verbo × rubrica, §6) | **57 de 64**, contadas pelo critério estrito: o comando traz ao menos um verbo do banco do §6 compatível com a rubrica. `Descubra`/`Escolha`/`Descreva` (fora do banco, ou incompatíveis com R11, R12 e R5) já haviam sido trocados por `Identifique … explique`, `Decida` e `Escreva um verbete` em 12 questões. `Desenhe` — 4º cap 1 Q3, 4º cap 2 Q3, 5º cap 1 Q6 e 5º cap 2 Q4 — foi trocado por `Elabore` nas quatro: está fora do banco §6 e é nomeado ali como o erro comum do verbo `construa`. Na validação seguinte caíram mais três defeitos que o passe de verbos havia deixado passar: as **9 tabelas** abertas por `Construa` (verbo que §6 define como *produzir com instrumento* e que §8.2 reserva à construção geométrica) passaram a `Elabore`; a **linha do tempo** do 6º cap 1 Q1 estava com `Construa`, incompatível com a R3 de LT.a nos dois sentidos — nem `construa` (R10) nem `elabore` (R4, R10) servem —, e passou a `Ordene` (R3, R4); e o 7º cap 2 Q2, MOD.a de rubrica **R12**, fechava em `explique` (R5, R4, R11) e passou a `justifique` (R12). **Faltam 7, todas de `ESC.b`** — 4º cap 1 Q4 · 4º cap 2 Q5 · 5º cap 1 Q4 · 6º cap 2 Q4 · 7º cap 2 Q5 · 8º cap 1 Q6 · 8º cap 2 Q6 —, que abrem em *Escreva um verbete*: `escreva` **não consta do banco do §6**, cujo verbo de `ESC`/`RET` é `redija`, mantido em zero por instrução desta rodada. As 7 satisfazem a checagem 3 (destinatário e extensão fixados) e nenhuma perde a rubrica, mas o verbo principal não é o prescrito — conflito de regra que vale as doze disciplinas, decisão da coordenação. 6º cap 1 Q4, também `ESC.b`, passa porque traz `explique` (R5) no mesmo comando. Fechado na auditoria final: 4º cap 1 Q6 (INV.c, R8) abria em *escreva … anote*, sem verbo de banco; o *anote* passou a **registre**, que §6 vincula a R8 |
+| Distribuição de verbos | todos os verbos de **produção** são do banco §6; as 7 aberturas de `ESC.b` em *Escreva* não são (ver a linha da checagem §8 nº2). `Elabore` 20× (7 esquemas, 9 tabelas, 1 mapa, 1 mapa de fluxos, 1 HQ, 1 desenho de flor) · `Escreva um verbete` 10× · `Identifique … explique` 9× · `Decida` 4× · `Localize` 5× · `Explique` 2× · `Analise` 2× · `Ordene` 1× · `Registre` 1× · `Pesquise` 1×, além do `escreva o que espera` que abre cada INV. **`Construa` não ocorre mais**: nenhuma questão de Ciências é construção geométrica, e §8.2 reserva `construa` ao artefato feito com compasso, transferidor ou régua — tabela, esquema, mapa, HQ e desenho são artefato livre e pedem `elabore`. Fica registrado o efeito colateral: 20 das 64 questões abrem com o mesmo verbo. Não é violação de regra (§6 não tem teto de verbo), mas é monotonia de folha; se a coordenação quiser variar, R10 também aceita `compare` e `classifique` (§6) nas tabelas de contraste, sem mexer em tipo nem rubrica |
 | T6 (item não repete em capítulos consecutivos) | **violada.** `TAB.a` em 7 dos 10 capítulos, `ESC.b` em 8, `ERR` em 9 — quase todos consecutivos. Herança do sorteio anterior; corrigir exige re-sortear tipo e item, fora do escopo desta validação |
 | Carga de INV por capítulo | **atenção.** 4º cap 1 tem três INV (Q1, Q2, Q6) e 5º cap 1, 7º cap 1, 8º cap 1 têm duas cada, com procedimento quase idêntico entre o par e vários dias de observação. Se o professor aplicar as duas, o aluno monta dois experimentos parecidos. Recomenda-se selecionar uma por capítulo |
 
@@ -211,3 +212,64 @@ Correções feitas depois da produção, sobre as folhas já escritas. Tipo e ru
 | 8º | 1 | 6 | formato "descreva a/b" com ambiente favorável já tabelado (r/K); virou verbete com **muitos descendentes**, **cuidado prolongado** e **ambiente instável** obrigatórios | §8 nº1 · nº2 · item ESC.b |
 | 8º | 2 | 3 | TAB.c pedia as características de semente que estão impressas na tabela 3.2 do capítulo. Passou a montar a tabela a partir de três sementes realmente vistas, com o agente inferido pelo aluno e o efeito do desaparecimento do agente | §8 nº1 · item TAB.c |
 | 8º | 2 | 6 | formato "descreva a/b/c"; virou verbete com **ovípara**, **vivípara** e **ovovivípara** obrigatórios | §8 nº1 · nº2 · item ESC.b |
+
+### Passe de verbos (§6) — rodada atual
+
+Revisão só de redação. Tipo, rubrica, item, contagem de questões e seeds inalterados: 5 arquivos-ano · 10 capítulos · 64 questões, idêntico ao estado anterior. O que caiu foi o desvio consciente registrado na seção 4, depois que o §8.2 passou a garantir compasso e transferidor e a reservar `elabore` explicitamente para o artefato que não pede instrumento — esquema, tabela, história em quadrinhos.
+
+| Ano | Cap | Q | Tipo · Rubrica | De | Para | Regra |
+|---|---:|---:|---|---|---|---|
+| 4º | 1 | 3 | ESQ.a · R4 | `Desenhe um esquema de um ecossistema…` | `Elabore um esquema de um ecossistema…` | §6 banco de verbos |
+| 4º | 2 | 3 | VIS.a · R10 | `Desenhe um mapa simples do Brasil…` | `Elabore um mapa simples do Brasil…` | §6 banco de verbos |
+| 5º | 1 | 6 | VIS.b · R10 | `Desenhe um prato dividido…`, com o fechamento "embaixo do desenho" | `Elabore a representação de um prato dividido…`, com o fechamento "embaixo da representação" — `elabore um prato` leria como preparar a comida, daí o objeto nomeado | §6 banco de verbos |
+| 5º | 2 | 4 | ESQ.c · R4 | `Desenhe um esquema que mostre como comida, movimento e sono se ligam…` | `Elabore um esquema que mostre como comida, movimento e sono se ligam…` | §6 banco de verbos |
+
+Compatibilidade verificada questão a questão: `elabore` é compatível com R4 e R10 (§6), que são exatamente as rubricas das quatro. Nenhuma rubrica foi alterada, e nenhuma das quatro é construção com instrumento — portanto nenhuma pedia `construa`.
+
+Duas observações para quem cruzar esta rodada com a pauta que a originou:
+
+- A pauta previa **5** ocorrências de `Desenhe`; há **4**. A quinta seria o 6º cap 1 Q3, a história em quadrinhos — que já usava `Elabore` desde a produção anterior, embora a linha da seção 5 descreva a questão como "HQ … desenhada a lápis". A discrepância é de registro, não de folha.
+- `Desenhe` e `redija` não ocorrem em nenhum arquivo-ano depois desta rodada. `desenho` permanece como **substantivo** em 8º cap 2 Q7 (`Elabore, em duas vistas … o desenho de uma flor completa`) — verbo do banco, objeto nomeado, sem instrumento exigido. Não é o caso que §6 proíbe.
+
+### Passe de instrumento e rubrica (§8.2 · §6) — validação do passe de verbos
+
+O passe de verbos acima trocou os quatro `Desenhe` e parou aí. Ao conferir o resultado contra §8.2 e contra a grade da seção 2, apareceram três defeitos que ele não viu — dois deles introduzidos por leitura invertida do mesmo parágrafo que autorizou a rodada. Contagem congelada e reconferida: **5 arquivos-ano · 10 capítulos · 64 questões**, com tipo, item, rubrica e seed inalterados em todas.
+
+| Ano | Cap | Q | Tipo · Rubrica | De | Para | Regra |
+|---|---:|---:|---|---|---|---|
+| 4º | 2 | 1 | TAB.a · R10 | `Construa uma tabela com os cinco ecossistemas…` | `Elabore uma tabela…` | §8.2 · §6 |
+| 5º | 1 | 3 | TAB.a · R10 | `Construa uma tabela com os nutrientes estudados…` | `Elabore uma tabela…` | §8.2 · §6 |
+| 5º | 1 | 6 | VIS.b · R10 | `Elabore a representação de um prato dividido…`, `embaixo da representação` | `Elabore o desenho de um prato dividido…`, `embaixo do desenho` | §8 nº2 (legibilidade EF1) |
+| 5º | 2 | 3 | TAB.a · R10 | `Construa uma tabela que compare…` | `Elabore uma tabela que compare…` | §8.2 · §6 |
+| 6º | 1 | 1 | LT.a · R3 | `Construa uma linha do tempo da descoberta da célula…` | `Ordene, numa linha do tempo, os quatro marcos estudados…` | §6 verbo × rubrica |
+| 6º | 1 | 2 | TAB.a · R10 | `Construa uma tabela que compare célula animal e vegetal…` | `Elabore uma tabela que compare…` | §8.2 · §6 |
+| 6º | 2 | 2 | TAB.c · R10 | `Construa uma tabela com três sistemas…` | `Elabore uma tabela com três sistemas…` | §8.2 · §6 |
+| 7º | 1 | 4 | TAB.a · R10 | `Construa uma tabela que compare fenômenos naturais…` | `Elabore uma tabela que compare…` | §8.2 · §6 |
+| 7º | 2 | 2 | MOD.a · R12 | `…calcule que fração do total poderia ter deixado de existir…, e explique por que…` | `…conte quantos itens…, conte o total…, escreva o primeiro número sobre o segundo como fração. Justifique, no fim, por que…` | §6 verbo × rubrica · §8.2 roteiro |
+| 7º | 2 | 3 | TAB.a · R10 | `Construa uma tabela que compare as três categorias…` | `Elabore uma tabela que compare…` | §8.2 · §6 |
+| 8º | 1 | 3 | TAB.a · R10 | `Construa uma tabela que compare reprodução sexuada e assexuada…` | `Elabore uma tabela que compare…` | §8.2 · §6 |
+| 8º | 2 | 3 | TAB.c · R10 | `Construa uma tabela a partir de três sementes…` | `Elabore uma tabela a partir de três sementes…` | §8.2 · §6 |
+
+Por que cada um era defeito:
+
+- **`Construa` em tabela (9 questões).** §6 define `construa` como *produzir com instrumento* e nomeia como erro comum *desenhar à mão livre*; §8.2 fecha a questão ao mandar reservar `elabore` para o artefato que não pede instrumento e citar `tabela` entre os exemplos. Trocar `Desenhe` por `Elabore` nos esquemas e manter `Construa` nas tabelas aplicou metade da regra. Rubrica intacta: `elabore` é compatível com R10 (§6).
+- **`Construa` em linha do tempo (6º cap 1 Q1).** Caso pior: a rubrica de LT.a é **R3**, e nem `construa` (R10) nem `elabore` (R4, R10) são compatíveis com ela. Os verbos do banco que servem a R3 são `ordene` (R3, R4) e `relacione` (R2, R3). Ficou `Ordene` — *estabelecer sequência* é exatamente o que a linha do tempo pede, e o nexo causal entre marcos vizinhos, que é o que LT.a avalia, segue exigido na segunda frase do enunciado.
+- **`explique` em MOD.a de rubrica R12 (7º cap 2 Q2).** R12 é decisão sob critério; os verbos compatíveis são `justifique` e `decida`. `explique` (R5, R4, R11) pedia mecanismo onde a correção mede a defesa da escolha. Na mesma frase entrou o roteiro de cálculo que §8.2 exige quando a aritmética é liberada: qual conta, sobre o que, em que ordem — antes o enunciado dizia só *calcule que fração*, e `calcule` nem consta do banco §6.
+- **`a representação` no 5º ano (cap 1 Q6).** O passe de verbos trocou `Desenhe um prato` por `Elabore a representação de um prato` para evitar a leitura *preparar a comida*. Resolveu isso e criou outro problema: *representação*, repetida duas vezes, é vocabulário de folha de EM em enunciado de 5º ano, onde a regra é frase curta. `o desenho de um prato` mantém `elabore` (verbo do banco, R10 ✓), devolve a legibilidade e usa a mesma solução já adotada no 8º cap 2 Q7 — `desenho` como substantivo, não como comando.
+
+Duas pendências ficam registradas, ambas fora do que uma revisão de redação alcança:
+
+- **Monotonia de verbo.** Com as 9 tabelas migradas, `Elabore` abre **20 das 64** questões. Não viola regra — §6 não tem teto de verbo, e §8.2 obriga `elabore` nesses artefatos —, mas é repetição visível na folha. Saída sem mexer em tipo nem rubrica: R10 também aceita `compare` e `classifique` (§6), que caberiam nas tabelas de contraste.
+- **T6 e carga de INV** seguem como na seção 4: exigem re-sorteio de tipo e item, não reformulação de comando.
+
+### Auditoria final — fechamento do Bloco 1
+
+Passagem de conferência por comando sobre as anteriores. Contagem reconferida e intacta: **5 arquivos-ano · 10 capítulos · 64 questões**. Tipo, item e rubrica preservados.
+
+| Onde | O que foi corrigido | Regra |
+|---|---|---|
+| 4º Ano · cap 1 · Q6 (folha) | `INV.c` de rubrica **R8** cujo comando não trazia nenhum verbo do banco: *"escreva as três categorias … anote em cada categoria"*. O `anote` passou a **registre**, que §6 vincula a R8. A previsão escrita antes da observação permanece | §6 · §8 #2 |
+| Seção 4 · linha da checagem §8 nº2 | declarava *64 de 64*; sete questões de `ESC.b` continuavam abrindo em *Escreva um verbete*, e `escreva` não consta do §6. Reescrita com o critério estrito e o resultado real: **57 de 64** | §8 #2 |
+| Seção 4 · linha da distribuição de verbos | afirmava *"todos do banco §6"*, verdadeiro só dos verbos de produção. Qualificada | §6 |
+
+Zero ocorrências de *desenhe* e de *redija* nas cinco folhas, reconferidas por comando. Nenhuma questão depende de tecla financeira, de instrumento de medida fora do material escolar, de internet obrigatória, de impressão, de foto, de entrevista, de visita ou de compra — as questões de `FON` aceitam fonte impressa, digital ou do acervo. Nenhuma sigla de tipo, rubrica, seed, gabarito ou instrução ao professor vazou para os arquivos-ano.

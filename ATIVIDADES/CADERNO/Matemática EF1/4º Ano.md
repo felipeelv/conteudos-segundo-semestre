@@ -22,13 +22,13 @@ b) Ana comeu 2/5 de uma pizza. Bia comeu 5/8 de outra pizza do mesmo tamanho. Qu
 
 Depois de responder, escreva qual palavra ou número mudou de um problema para o outro, e por que isso mudou a resposta.
 
-**3.** Com a régua, desenhe no caderno dois retângulos iguais, um embaixo do outro, cada um com 8 cm de comprimento e 2 cm de altura. Divida o primeiro em 4 partes iguais e pinte 2 delas. Divida o segundo em 8 partes iguais e pinte 4 delas. Compare as duas partes pintadas e escreva o que você descobriu sobre as duas frações que pintou. Confira medindo com a régua: se as duas partes pintadas tiverem o mesmo comprimento em centímetros, as frações são equivalentes.
+**3.** Com a régua, construa no caderno dois retângulos iguais, um embaixo do outro, cada um com 8 cm de comprimento e 2 cm de altura. Divida o primeiro em 4 partes iguais e pinte 2 delas. Divida o segundo em 8 partes iguais e pinte 4 delas. Compare as duas partes pintadas e escreva o que você descobriu sobre as duas frações que pintou. Confira medindo com a régua: se as duas partes pintadas tiverem o mesmo comprimento em centímetros, as frações são equivalentes.
 
 **4.** Pedro resolveu assim: *"1/3 é maior que 1/2, porque 3 é maior que 2."* Descubra onde Pedro errou e escreva a explicação certa. Use um desenho para mostrar por que ele errou.
 
 **5.** Escreva primeiro a sua previsão: entre estes cinco lugares — a capa do seu caderno, a porta do lugar onde você está, a janela mais próxima, o piso desse lugar e uma folha do seu caderno dobrada ao meio duas vezes —, em quantos você espera encontrar uma superfície dividida em partes iguais? Depois observe os cinco, um por um, e registre em quais encontrou, em quantas partes iguais cada um está dividido e qual fração representa uma dessas partes. Ao final, compare o que observou com a sua previsão e escreva em quantos lugares você acertou.
 
-**6.** Desenhe uma reta numérica de 0 até 1. Marque nela 1/4, 1/2, 3/4 e 2/8. Duas dessas marcas vão cair no mesmo lugar: escreva quais são e explique por quê.
+**6.** Com a régua, construa uma reta numérica de 0 até 1, com 8 cm entre o 0 e o 1. Marque nela 1/4, 1/2, 3/4 e 2/8. Duas dessas marcas vão cair no mesmo lugar: escreva quais são e explique por quê.
 
 **7.** Escreva um bilhete de cinco linhas para um colega que faltou à aula, explicando como saber se duas frações são equivalentes. Seu bilhete precisa ter um exemplo.
 
@@ -51,11 +51,11 @@ b) Carla tinha 5/6 de uma barra de chocolate e comeu 2/6 da barra. Com quanto el
 
 Escreva as duas respostas e diga se elas são iguais ou diferentes. Explique por quê.
 
-**3.** Desenhe um esquema que mostre como descobrir a parte que falta para completar um inteiro. Use setas e escreva uma palavra em cada seta.
+**3.** Elabore um esquema que mostre como descobrir a parte que falta para completar um inteiro. Use setas e escreva uma palavra em cada seta.
 
 **4.** Lucas resolveu assim: *"2/5 + 1/5 = 3/10."* Descubra o erro, escreva a resposta certa e explique com suas palavras por que o denominador não muda quando somamos.
 
-**5.** Construa no caderno uma tabela de cinco linhas que relacione partes de uma hora a minutos. Use as frações 1/12, 1/6, 1/3, 2/3 e 5/6 de hora. Em cada linha, escreva a fração, quantos minutos ela vale e a conta que mostra esse valor. Confira somando: 1/6 de hora mais 1/6 de hora precisa dar o mesmo número de minutos que 1/3 de hora.
+**5.** Elabore no caderno uma tabela de cinco linhas que relacione partes de uma hora a minutos. Use as frações 1/12, 1/6, 1/3, 2/3 e 5/6 de hora. Em cada linha, escreva a fração, quantos minutos ela vale e a conta que mostra esse valor. Confira somando: 1/6 de hora mais 1/6 de hora precisa dar o mesmo número de minutos que 1/3 de hora.
 
 **6.** Uma receita de bolo usa 6/8 de xícara de açúcar, 4/8 de xícara de óleo, 10/8 de xícara de farinha e 2/8 de xícara de leite. Escreva quanto entra de cada ingrediente se a receita for feita pela metade, e quanto entra de cada um se ela for feita em dobro. Mostre a conta de cada ingrediente. Confira somando as duas metades de um mesmo ingrediente: você precisa voltar à quantidade da receita original.
 
@@ -80,7 +80,7 @@ b) 0,7 ou 0,75
 
 Depois escreva por que, no par a, o número com menos algarismos é o maior — e no par b, não é.
 
-**3.** Construa uma tabela com cinco números decimais diferentes, sendo pelo menos um maior que 1 e pelo menos um com centésimos. Nenhum dos cinco pode ser um dos números que aparecem no capítulo. Para cada um, escreva a leitura por extenso e a fração correspondente.
+**3.** Elabore uma tabela com cinco números decimais diferentes, sendo pelo menos um maior que 1 e pelo menos um com centésimos. Nenhum dos cinco pode ser um dos números que aparecem no capítulo. Para cada um, escreva a leitura por extenso e a fração correspondente.
 
 **4.** Sofia escreveu: *"1/4 é 0,4."* Descubra o erro e escreva a resposta certa. Depois explique como Sofia poderia ter percebido sozinha que estava errada, usando dinheiro como exemplo.
 
@@ -108,7 +108,7 @@ Confira o item a somando os quatro lados outra vez. Se no item c você encontrou
 
 **4.** Uma jarra vazia tem capacidade de 2 L. Alguém quer usar essa jarra para servir suco em 6 copos, e cada copo leva 350 mL. Decida se a jarra cheia dá conta dos 6 copos. Escreva a conta, escreva o critério que você usou para decidir e escreva quantos mililitros faltam ou sobram.
 
-**5.** Estas quatro etapas de uma medição de massa estão fora de ordem, e falta uma etapa antes de todas elas: ler o número que aparece no visor · comparar o resultado com o que se esperava · conferir se a balança marca zero · colocar o objeto sobre o prato. Escreva a etapa que falta, monte o esquema completo em ordem com setas e escreva sobre cada seta o que a etapa anterior garante à etapa seguinte.
+**5.** Estas quatro etapas de uma medição de massa estão fora de ordem, e falta uma etapa antes de todas elas: ler o número que aparece no visor · comparar o resultado com o que se esperava · conferir se a balança marca zero · colocar o objeto sobre o prato. Escreva a etapa que falta, elabore o esquema completo em ordem com setas e escreva sobre cada seta o que a etapa anterior garante à etapa seguinte.
 
 **6.** Escreva um bilhete de cinco linhas para um colega que faltou à aula, explicando por que um número sozinho não informa uma medida. Use no bilhete dois exemplos em que o mesmo número quer dizer quantidades bem diferentes: um exemplo de comprimento e um de capacidade. Use as palavras *unidade* e *medida*.
 

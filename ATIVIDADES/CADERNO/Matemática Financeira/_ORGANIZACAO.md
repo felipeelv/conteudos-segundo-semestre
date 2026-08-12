@@ -49,7 +49,7 @@ Todos os seis capítulos vinham da produção anterior (`CADERNO-Matematica-Fina
 |---|---:|---|---|---|
 | 1 | 1 | INV.c | R8 | faixas fechadas e previsão escritas antes de contar |
 | 1 | 2 | EX.a | R1 | 4 respostas faltantes; 21 na terceira contagem; as duas somas de conferência |
-| 1 | 3 | VIS.b | R10 | 180°, 90°, 45° e 45° obtidos por metades sucessivas da volta, sem transferidor; título e legenda |
+| 1 | 3 | VIS.b | R10 | 180°, 90°, 45° e 45° calculados a partir dos percentuais e marcados a transferidor, circunferência a compasso; título e legenda |
 | 1 | 4 | TAB.a | R10 | as duas colunas ausentes do capítulo e a linha de parte do total, que a tabela do capítulo não cobre |
 | 1 | 5 | ERR.a | R11 | dupla contagem; o arredondamento descartado como causa |
 | 1 | 6 | CASO.a | R12 | o viés de seleção é o ponto da questão |
@@ -123,6 +123,9 @@ Notas de leitura dos marcadores:
 | Distribuição de tipos | CASO 7× · ERR 6× · ESC 5× · INV 4× · MOD 4× · EX 3× · TAB 3× · FON 2× · VIS 2× |
 | Independência §8.1 | 36 de 36 |
 | Acessibilidade §8.2 | 36 de 36 |
+| Verbos fora do banco do §6 | **cinco ocorrências**, todas de `ESC` — 1ª Q4 · 2ª Q3 · 7º Q4 · 8º Q3 · 9º Q4 abrem em *Escreva … um verbete*, e `escreva` não consta do §6, cujo verbo de `ESC`/`RET` é `redija`, mantido em zero por instrução desta rodada. As cinco fixam destinatário e extensão (checagem 3 passa) e nenhuma perde a rubrica; a migração para `redija` vale as doze disciplinas e é decisão da coordenação. **Zero "desenhe" e zero "redija" nas seis folhas.** Verbo × rubrica pelo critério estrito: **31 de 36** |
+| `construa` só onde há instrumento nomeado | sim — uma única ocorrência (6º Q3: régua, compasso e transferidor). As outras dez passaram a `elabore` ou a `registre` |
+| Dependência de tecla financeira | zero em 36 — nenhuma questão pede valor presente, valor futuro ou prestação resolvidos num passo |
 
 Notas da checagem:
 
@@ -131,7 +134,9 @@ Notas da checagem:
 
 - **T7 (casa)**: nenhuma questão DEB ou ORA. As três questões EX usam item com conferência embutida — `EX.a` (teste de honestidade da tabela de frequência no 6º; soma dos desvios igual a zero na 1ª) e `EX.c` (os dois caminhos precisam coincidir no 8º).
 - **Conferência embutida também fora de EX**: 2ª Q1 (as quatro células somam 2.000), 8º Q2 (soma 7 em 6 células, soma 2 em 1) e 9º Q1 (o mês 12 confere com o montante impresso no capítulo).
-- **Sem calculadora.** A calculadora não está entre os recursos garantidos do §8.2. Depois da revisão da 1ª Q1 (que passou de variância e desvio padrão para desvio médio absoluto), nenhuma questão exige raiz de valor imprevisível: as raízes que restam (1ª Q3, $$\sqrt{13{,}6}$$ e $$\sqrt{11{,}33}$$) partem de dado dado no enunciado e são estimáveis por tentativa, como o próprio capítulo faz com o sinal ≈; as potências de 1,01 do 9º saem por multiplicações sucessivas em 12 passos.
+- **Calculadora comum liberada; financeira, não.** A coordenação confirmou a calculadora comum entre os recursos garantidos do §8.2 — a financeira (teclas PV, FV, PMT, i, n) segue fora. As três questões de aritmética pesada deixaram de contornar a falta do recurso e passaram a trazer o roteiro que §8.2 exige — qual conta, em que ordem, quantas vezes: 1ª Q3 (as duas raízes, $$\sqrt{13{,}6}$$ e $$\sqrt{11{,}33}$$, com a sequência inteira até o arredondamento a duas casas) e 9º Q1 e Q2 (as potências de 1,01 como multiplicações sucessivas, com precisão cheia mantida na calculadora e arredondamento só no valor anotado). As demais 33 questões continuam resolvíveis com somas, subtrações, multiplicações, divisões e percentuais.
+- **Verbos do §6.** As duas ocorrências de "desenhe" eram 6º Q3 e 9º Q2, ambas VIS.b/R10. Em **9º Q2** o artefato é uma curva em par de eixos, sem instrumento exigido: ficou `elabore`, que §6 admite em R4 e R10. Em **6º Q3** há instrumento nomeado — régua nas barras, compasso na circunferência, transferidor em cada setor: ficou `construa`, que §6 define como *produzir com instrumento* e admite em R10. Nenhum "redija" na disciplina. A rubrica das duas questões não mudou.
+- **`construa` sem instrumento, corrigido em dez questões.** §8.2 reserva `construa` ao artefato feito com instrumento e `elabore` ao que dispensa instrumento — tabela, esquema, árvore. As dez ocorrências de `construa` sobre tabela ou árvore (1ª Q3a · 2ª Q1 · 6º Q1, Q2a e Q4 · 7º Q3 · 8º Q1, Q2 e Q4 · 9º Q1) passaram a `elabore`, salvo 6º Q1 e 8º Q4, ambas INV/R8, em que o comando passou a `registre` — verbo que §6 declara compatível com R8. Tipo, item e rubrica inalterados.
 - **INV sem instrumento**: as quatro questões INV pedem previsão escrita antes e usam só o capítulo, o caderno, papel e régua — contagem de faixas de tamanho de palavra (6º), medição em centímetros inteiros com régua (7º), sorteio com seis papéis (8º) e contagem de palavras por linha no próprio caderno (1ª).
 - **Privacidade preservada**: nenhuma questão pede renda, salário, dívida ou gasto de família. As duas situações com salário (7º Q5) e com investimento (9º Q6) são hipotéticas e vêm dadas no enunciado.
 - **Probabilidade em quatro dos seis capítulos** (6º trata frequência, 8º e 2ª tratam probabilidade, 7º e 1ª tratam medidas): a abordagem varia por ano — árvore e complementar no 8º, Bayes com falácia da taxa-base na 2ª.
@@ -174,6 +179,35 @@ Notas da checagem:
 
 Sem alteração: 1ª Q6 · 2ª Q6 · 6º Q6 · 8º Q6 · 9º Q6 — cinco questões que já eram autossuficientes e acessíveis, copiadas sem mexer.
 
+### Terceira passagem — recursos reconfirmados pela coordenação
+
+Rodada **posterior** à segunda passagem da seção 6, apesar de registrada aqui. Motivo: a coordenação confirmou calculadora comum, compasso e transferidor como material garantido, e o §8.2 do [`06`](../../METODOLOGIA/06-PRODUCAO.md) foi atualizado. Só a formulação do comando mudou — tipo, item, rubrica, seed e contagem (6 arquivos · 6 capítulos · 36 questões) estão idênticos.
+
+| Ano | Cap | Q | O que foi corrigido | Regra |
+|---|---:|---:|---|---|
+| 1ª Série | 1 | 3 | As duas raízes vinham sem roteiro, para serem estimadas por tentativa. Os três itens passaram a trazer a sequência explícita de contas — somar os seis valores, dividir por 6, seis subtrações, seis multiplicações, somar as parcelas, dividir por 5 (item a e c) ou por 6 (item b), extrair a raiz — e o resultado a duas casas decimais | §8.2 calculadora |
+| 6º Ano | 1 | 3 | Verbo "Desenhe", ausente do banco do §6. Passou a "Elabore" — corrigido na quarta passagem para "Construa", porque a questão nomeia instrumento | §6 verbo |
+| 9º Ano | 1 | 1 | As doze potências de 1,01 saíam sem roteiro. Acrescentada a ordem das contas: doze somas de R$ 10,00 na coluna de juros simples, doze multiplicações sucessivas por 1,01 na composta, cada uma sobre o resultado da anterior, com a precisão cheia mantida na calculadora e arredondamento só no número escrito — sem isso o mês 12 fecha um centavo acima do montante impresso no capítulo e a conferência falha | §8.2 calculadora |
+| 9º Ano | 1 | 2 | Verbo "desenhe" (§6) e potências de 1,01 sem roteiro. Passou a "elabore um único gráfico" e ganhou a ordem das contas: três, seis, nove e doze multiplicações sucessivas por 1,01 sem arredondar no meio do caminho, mais R$ 10,00 por mês decorrido no regime simples | §6 verbo · §8.2 calculadora |
+
+Ficou fora desta rodada, e foi resolvido na quarta passagem: **6º Q3 ainda contornava a borda de um objeto redondo** e repartia a volta por metades sucessivas — o contorno que a falta de compasso e de transferidor tinha obrigado. Ver a seção seguinte.
+
+### Quarta passagem — validação da terceira
+
+Rodada de validação da passagem anterior. Contagem intacta: **6 arquivos-ano · 6 capítulos · 36 questões**. Tipo, item, rubrica e seed de todas as 36 preservados.
+
+| Ano | Cap | Q | O que foi corrigido | Regra |
+|---|---:|---:|---|---|
+| 6º Ano | 1 | 3 | O verbo tinha ido para "Elabore", mas a questão produz figura **com instrumento** — §8.2 pede `construa` aí. E o gráfico de setores ainda usava o contorno da versão sem material de geometria: borda de moeda, copo ou tampa, e fatias por metades sucessivas da volta. Passou a "Construa": barras medidas com a régua, circunferência traçada a compasso, ângulo de cada fatia calculado (percentual × 360°) e marcado a transferidor. Some também o "objeto redondo", que era item específico de casa | §6 verbo · §8.2 instrumento |
+| 1ª Série · 2ª Série · 6º · 7º · 8º · 9º | 1 | 1ª Q3a · 2ª Q1 · 6º Q1, Q2a, Q4 · 7º Q3 · 8º Q1, Q2, Q4 · 9º Q1 | Dez ocorrências de `construa` sobre tabela ou árvore, sem instrumento nenhum no enunciado — §8.2 reserva `construa` ao instrumento e `elabore` ao artefato que dispensa. Passaram a `elabore`, exceto 6º Q1 e 8º Q4 (INV/R8), em que o comando passou a `registre`, compatível com R8 pelo §6 | §6 verbo |
+
+Verificado e mantido sem alteração nesta passagem: 9º Q2 (`elabore` está correto — curva em par de eixos não pede instrumento), os três roteiros de calculadora de 1ª Q3 e 9º Q1–Q2 (ordem das contas, número de repetições e regra de arredondamento explícitos), a independência das 36 questões (§8.1) e a ausência de sigla, rubrica, seed ou instrução ao professor nas seis folhas (§7.1).
+
+Pendências que esta passagem não resolve:
+
+- **Gap do banco de verbos do §6, pré-existente.** Nenhum verbo do banco é compatível com R1 além de `prove`, nem com R12 além de `justifique` e `decida`. As questões aritméticas da disciplina são EX/R1 e MOD.b/R12, e nem `elabore` (R4, R10) nem `construa` (R10) fecham com essas rubricas — a troca desta passagem corrige a parte do instrumento, não a da rubrica. Afeta 1ª Q3a, 6º Q2a, 7º Q3, 8º Q1 e 9º Q1. Correção real exige acrescentar `calcule` ao §6 com R1 e R12, o que é alteração de METODOLOGIA. **Decisão pendente da coordenação.**
+- **T3 por ano** e **monotonia da 2ª Série** (Q1, Q2, Q4 e Q6 na mesma conta 2×2) — ver seções 4 e 6. Exigem re-sorteio.
+
 ---
 
 ## 6. Segunda passagem — revisão de validação
@@ -183,7 +217,7 @@ Cinco questões que a primeira revisão deixou passar. Tipo e rubrica preservado
 | Ano | Cap | Q | O que estava errado | O que passou a ser | Regra |
 |---|---:|---:|---|---|---|
 | 1ª Série | 1 | 1 | Pedia variância e desvio padrão de duas séries de dez valores **coletados pelo aluno** — média fracionária imprevisível, dez quadrados e duas raízes. Inviável sem calculadora, que não está entre os recursos garantidos | Média, amplitude e desvio médio absoluto, as três medidas da seção 1 do capítulo, mais a decisão de qual delas sustenta a comparação. Variância, desvio padrão e o divisor $$n-1$$ continuam cobertos por Q3 e Q5, sobre dado dado no enunciado | §8.2 acessibilidade |
-| 6º Ano | 1 | 3 | O gráfico de setores continuava exigindo transferidor e compasso: nem 45° nem a circunferência saem só com régua | Circunferência traçada ao redor da borda de um objeto redondo (lista ampla, como já se faz em Geometria 6º Q3) e fatias obtidas por metades sucessivas da volta — meia volta, um quarto, metade de um quarto | §8.2 acessibilidade |
+| 6º Ano | 1 | 3 | O gráfico de setores continuava exigindo transferidor e compasso: nem 45° nem a circunferência saem só com régua | Circunferência traçada ao redor da borda de um objeto redondo (lista ampla) e fatias obtidas por metades sucessivas da volta — **contorno superado na quarta passagem**, depois que a coordenação confirmou compasso e transferidor como material garantido | §8.2 acessibilidade |
 | 6º Ano | 1 | 4 | A tabela pedida reproduzia as três linhas da tabela da seção 3.2 do capítulo (categoria nominal · contagem discreta · evolução no tempo) com uma coluna a mais. Checagem 1, e M2 proíbe TAB com os mesmos critérios | Quatro linhas, incluindo parte do total, que a tabela do capítulo não cobre, e duas colunas novas: o exemplo de pergunta e o que se perde no gráfico errado | outra checagem |
 | 7º Ano | 1 | 6 | Checagem 1: duas turmas com média 7,0 e amplitude 14 é o exemplo resolvido da seção 3.1, e "o que a média sozinha escondeu" é a frase da Resposta impressa | Duas filas de caixa com os mesmos média 5 e mediana 5 e amplitudes 2 e 8, decisão sob um limite de sete minutos e contrafactual de quinze minutos — o limite é o que o capítulo não resolve | outra checagem |
 | 8º Ano | 1 | 2 | Casa sem mecanismo de conferência (checagem 5): a tabela de 36 células e a probabilidade saíam sem nada que denunciasse célula trocada | Conferência pelas contagens que o capítulo registra — soma 7 em 6 células, soma 2 em 1 | outra checagem |

@@ -11,23 +11,23 @@
 
 **2.** Aperte na mão uma porção de terra e observe se ela esfarela ou se fica grudada em bloco. Antes de apertar, escreva o que espera sentir. Repita o mesmo aperto três vezes, com três porções tiradas do mesmo lugar, e anote o que aconteceu em cada uma das três. Compare as três anotações com a sua previsão e escreva se as três deram o mesmo resultado e por que isso importa para quem quer descobrir que tipo de solo é aquele. Lave as mãos ao terminar.
 
-**3.** Desenhe um esquema de um ecossistema do lugar onde você mora. Coloque nele pelo menos quatro seres vivos e três coisas não vivas, e ligue com setas quem depende de quem. Cada seta precisa de uma palavra escrita.
+**3.** Elabore um esquema de um ecossistema do lugar onde você mora. Coloque nele pelo menos quatro seres vivos e três coisas não vivas, e ligue com setas quem depende de quem. Cada seta precisa de uma palavra escrita.
 
 **4.** Escreva um verbete de até cinco linhas sobre o solo do lugar onde você mora, usando obrigatoriamente as palavras **minhoca**, **raiz** e **predador**. O verbete precisa mostrar, numa única cadeia, como uma dessas três afeta as outras duas.
 
 **5.** Um colega escreveu: *"Se as minhocas sumissem, não mudaria nada, porque elas não comem nem são comidas por ninguém importante."* Identifique dois erros nessa frase e explique o que aconteceria com o solo e com as plantas se as minhocas desaparecessem daquele lugar.
 
-**6.** Antes de sair, escreva as três categorias em que vai separar o que encontrar num pedaço de terra: seres vivos, restos de seres vivos e partes não vivas. Depois observe um pedaço de terra perto da sua casa — um vaso, um canteiro ou o chão de uma praça — e anote em cada categoria tudo o que conseguir ver sem cavar. Termine escrevendo quais desses itens não existiriam ali se o chão fosse de cimento. Observe da calçada, sem mexer nos bichos.
+**6.** Antes de sair, escreva as três categorias em que vai separar o que encontrar num pedaço de terra: seres vivos, restos de seres vivos e partes não vivas. Depois observe um pedaço de terra perto da sua casa — um vaso, um canteiro ou o chão de uma praça — e registre em cada categoria tudo o que conseguir ver sem cavar. Termine escrevendo quais desses itens não existiriam ali se o chão fosse de cimento. Observe da calçada, sem mexer nos bichos.
 
 ---
 
 ## Capítulo 2 — Os ecossistemas do Brasil e o cuidado com o ambiente
 
-**1.** Construa uma tabela com os cinco ecossistemas brasileiros, com colunas que permitam descobrir, só de olhar para a tabela, por que um animal de um deles não conseguiria viver no outro.
+**1.** Elabore uma tabela com os cinco ecossistemas brasileiros, com colunas que permitam descobrir, só de olhar para a tabela, por que um animal de um deles não conseguiria viver no outro.
 
 **2.** Pesquise um animal que viva na Caatinga e descubra duas coisas do corpo dele que ajudam a sobreviver com pouca água. A informação pode vir de um livro, de uma revista, do acervo da biblioteca da escola ou da internet. Anote quem escreveu, de que ano é o texto e para que ele foi escrito. Termine escrevendo uma coisa sobre esse animal que a sua fonte não conta.
 
-**3.** Desenhe um mapa simples do Brasil e marque os cinco ecossistemas, cada um com um traçado diferente — pontinhos, listras, quadradinhos. Faça uma legenda dizendo qual traçado é qual e escreva o título do mapa.
+**3.** Elabore um mapa simples do Brasil e marque os cinco ecossistemas, cada um com um traçado diferente — pontinhos, listras, quadradinhos. Faça uma legenda dizendo qual traçado é qual e escreva o título do mapa.
 
 **4.** Um colega escreveu: *"A Caatinga é uma Amazônia que deu errado, porque tem poucas árvores e pouca água."* Identifique o erro e explique que ideia errada sobre *ambiente bom* está por trás dessa comparação, usando uma planta ou um animal da Caatinga para mostrar por que essa ideia não se sustenta.
 

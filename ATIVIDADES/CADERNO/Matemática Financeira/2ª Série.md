@@ -7,7 +7,7 @@
 
 ## Capítulo 1 — Probabilidade: aprofundamento
 
-**1.** Construa uma tabela de dupla entrada para uma população hipotética de 2.000 casos em que o grupo menor reúne 5% do total, um teste sinaliza corretamente 95% dos casos do grupo menor e sinaliza por engano 8% dos casos do grupo maior. Registre nas quatro células os sinalizados e os não sinalizados de cada grupo e feche com os totais de linha e de coluna. Confira: as quatro células têm de somar 2.000.
+**1.** Elabore uma tabela de dupla entrada para uma população hipotética de 2.000 casos em que o grupo menor reúne 5% do total, um teste sinaliza corretamente 95% dos casos do grupo menor e sinaliza por engano 8% dos casos do grupo maior. Registre nas quatro células os sinalizados e os não sinalizados de cada grupo e feche com os totais de linha e de coluna. Confira: as quatro células têm de somar 2.000.
 
 **2.** Numa população hipotética de 2.000 casos, o grupo menor reúne 5% do total. Um teste sinaliza 95% dos casos do grupo menor e, por engano, 8% dos casos do grupo maior. Calcule a probabilidade de um caso sinalizado pertencer de fato ao grupo menor, compare esse valor com os 95% de acerto do teste e explique por que os dois números são tão diferentes. Depois teste o limite do modelo: recalcule a probabilidade supondo que o grupo menor reunisse 40% dos casos e escreva o que a prevalência faz com o resultado.
 

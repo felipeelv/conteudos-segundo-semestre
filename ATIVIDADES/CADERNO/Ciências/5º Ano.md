@@ -11,13 +11,13 @@
 
 **2.** Antes de observar, escreva quantas cores diferentes de alimento você espera encontrar no seu almoço. Durante três dias, anote as cores dos alimentos que apareceram no seu almoço de cada dia. Compare as três anotações com a sua previsão e escreva se a variedade de cores mudou de um dia para o outro e o que isso indica sobre a variedade de nutrientes da semana.
 
-**3.** Construa uma tabela com os nutrientes estudados, com colunas que permitam descobrir, só de olhar para a tabela, qual nutriente está faltando numa refeição.
+**3.** Elabore uma tabela com os nutrientes estudados, com colunas que permitam descobrir, só de olhar para a tabela, qual nutriente está faltando numa refeição.
 
 **4.** Escreva um verbete de até cinco linhas sobre uma refeição equilibrada, usando obrigatoriamente as palavras **carboidrato**, **proteína** e **vitamina**. O verbete precisa dizer o que o corpo deixa de conseguir fazer quando um desses três falta na refeição.
 
 **5.** Um colega escreveu: *"Gordura faz mal, então o certo é não comer nada com gordura."* Identifique o erro e explique por que comer menos gordura não é a mesma coisa que não comer nenhuma, dizendo o que o corpo deixaria de fazer sem ela.
 
-**6.** Desenhe um prato dividido mostrando como seria um almoço equilibrado. Escreva o nome de um alimento em cada parte e diga qual nutriente ele traz. Termine escrevendo, embaixo do desenho, uma frase que explique por que esse prato está equilibrado.
+**6.** Elabore o desenho de um prato dividido mostrando como seria um almoço equilibrado. Escreva o nome de um alimento em cada parte e diga qual nutriente ele traz. Termine escrevendo, embaixo do desenho, uma frase que explique por que esse prato está equilibrado.
 
 ---
 
@@ -27,9 +27,9 @@
 
 **2.** Localize, num livro, numa revista, no acervo da biblioteca da escola ou na internet, quantas horas de sono são recomendadas para uma criança da sua idade. Anote quem publicou essa recomendação, de que ano ela é e para quem ela foi escrita. Depois escreva uma coisa sobre o seu próprio sono que essa recomendação não consegue dizer.
 
-**3.** Construa uma tabela que compare o que acontece no corpo quando falta sono e o que acontece quando falta movimento. Uma das colunas precisa mostrar o que dá para perceber no dia seguinte em cada um dos dois casos.
+**3.** Elabore uma tabela que compare o que acontece no corpo quando falta sono e o que acontece quando falta movimento. Uma das colunas precisa mostrar o que dá para perceber no dia seguinte em cada um dos dois casos.
 
-**4.** Desenhe um esquema que mostre como comida, movimento e sono se ligam entre si. Cada seta precisa de uma frase curta, e no fim escreva o que acontece com os outros dois quando o sono falta.
+**4.** Elabore um esquema que mostre como comida, movimento e sono se ligam entre si. Cada seta precisa de uma frase curta, e no fim escreva o que acontece com os outros dois quando o sono falta.
 
 **5.** Um colega escreveu: *"Quem é magro é saudável e quem é gordo não é."* Identifique dois erros nessa frase e explique o que a desnutrição e a obesidade têm em comum.
 

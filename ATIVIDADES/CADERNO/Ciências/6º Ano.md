@@ -7,9 +7,9 @@
 
 ## Capítulo 1 — A célula, unidade da vida
 
-**1.** Construa uma linha do tempo da descoberta da célula com os quatro marcos estudados — 1665, 1676, 1838–1839 e 1855 —, nomeando em cada um quem respondeu por ele. Entre cada par vizinho de marcos, escreva uma frase explicando o que a descoberta anterior tornou possível.
+**1.** Ordene, numa linha do tempo, os quatro marcos estudados da descoberta da célula — 1665, 1676, 1838–1839 e 1855 —, nomeando em cada um quem respondeu por ele. Entre cada par vizinho de marcos, escreva uma frase explicando o que a descoberta anterior tornou possível.
 
-**2.** Construa uma tabela que compare célula animal e célula vegetal. Além das estruturas que as distinguem, inclua uma coluna que relacione cada diferença ao modo de vida do organismo.
+**2.** Elabore uma tabela que compare célula animal e célula vegetal. Além das estruturas que as distinguem, inclua uma coluna que relacione cada diferença ao modo de vida do organismo.
 
 **3.** Elabore uma história em quadrinhos de quatro quadros que mostre uma célula por dentro. Ao longo dos quadros precisam aparecer, nomeadas e com a função escrita, pelo menos seis estruturas da célula; no terceiro quadro precisa estar correta a diferença entre a membrana plasmática e a parede celular.
 
@@ -27,7 +27,7 @@
 
 **1.** Elabore um esquema dos níveis de organização, da célula ao organismo, usando um exemplo real do corpo humano em cada nível. Cada seta precisa de um rótulo dizendo o que se ganha ao subir de nível.
 
-**2.** Construa uma tabela com três sistemas do corpo humano em que fique visível a dependência entre eles: o que cada um fornece aos outros dois e o que recebe deles.
+**2.** Elabore uma tabela com três sistemas do corpo humano em que fique visível a dependência entre eles: o que cada um fornece aos outros dois e o que recebe deles.
 
 **3.** Explique a um colega que faltou à aula, em um parágrafo de até seis linhas, todos os níveis de organização envolvidos no ato de levantar o braço, do tecido ao sistema.
 

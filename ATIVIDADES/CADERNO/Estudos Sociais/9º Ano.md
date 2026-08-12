@@ -9,13 +9,13 @@
 
 **1.** Elabore um mapa da Europa marcando as sub-regiões estudadas e três países em cada uma. Legenda e título são obrigatórios.
 
-**2.** Construa uma tabela que compare os quatro tipos climáticos europeus. Além da característica predominante, inclua uma coluna com a atividade econômica favorecida por cada um.
+**2.** Elabore uma tabela que compare os quatro tipos climáticos europeus. Além da característica predominante, inclua uma coluna com a atividade econômica favorecida por cada um.
 
-**3.** Construa uma linha do tempo da integração europeia, com pelo menos cinco marcos, e uma frase de nexo causal entre cada par.
+**3.** Ordene, em uma linha do tempo, pelo menos cinco marcos da integração europeia, com uma frase de nexo causal entre cada par.
 
 **4.** Leia a parte biográfica do Anexo sobre Robert Schuman. Analise-a identificando o projeto que a fonte atribui a ele, o contexto histórico em que foi formulado, e uma dificuldade da integração que ela não menciona.
 
-**5.** Construa uma tabela que distinga União Europeia, Zona do Euro e Espaço Schengen. Inclua um critério que permita classificar corretamente a situação de um país que pertença a apenas dois dos três.
+**5.** Elabore uma tabela que distinga União Europeia, Zona do Euro e Espaço Schengen. Inclua um critério que permita classificar corretamente a situação de um país que pertença a apenas dois dos três.
 
 **6.** Um país-membro considera deixar a União Europeia. Decida qual das três dimensões da integração — política, monetária ou de circulação — sua saída afetaria de forma mais imediata, apresentando o critério, e explique o que permaneceria mesmo após a saída.
 
@@ -25,13 +25,13 @@
 
 **1.** Elabore um mapa da Ásia marcando as sub-regiões e as três maiores cadeias montanhosas ou bacias hidrográficas. Legenda e título obrigatórios.
 
-**2.** Construa uma tabela que relacione três regiões asiáticas às suas características físicas dominantes e à densidade populacional de cada uma. Inclua uma coluna que explique a relação entre as duas.
+**2.** Elabore uma tabela que relacione três regiões asiáticas às suas características físicas dominantes e à densidade populacional de cada uma. Inclua uma coluna que explique a relação entre as duas.
 
 **3.** Localize, em fonte impressa, digital ou do acervo da escola, a população e a densidade demográfica dos cinco países asiáticos mais populosos. Registre a fonte e o ano, e explique por que o país mais populoso não é necessariamente o mais denso.
 
 **4.** Leia a parte biográfica do Anexo sobre Muhammad Yunus. Analise-a identificando o problema social que ele buscou enfrentar, o mecanismo que a fonte descreve, e uma crítica a esse mecanismo que ela não apresenta.
 
-**5.** Construa uma tabela que compare três das religiões ou tradições culturais asiáticas estudadas. Além da região de origem e do princípio central de cada uma, inclua uma coluna com a influência sobre a organização social local.
+**5.** Elabore uma tabela que compare três das religiões ou tradições culturais asiáticas estudadas. Além da região de origem e do princípio central de cada uma, inclua uma coluna com a influência sobre a organização social local.
 
 **6.** Um estudante escreveu: *"A Ásia é o continente mais populoso porque tem o maior território."* Identifique o erro, apresente o fator que de fato explica a concentração populacional asiática, e reescreva a frase corretamente.
 
@@ -39,9 +39,9 @@
 
 ## Capítulo 3 — Potências econômicas asiáticas
 
-**1.** Construa uma linha do tempo da abertura econômica chinesa, com pelo menos cinco marcos, e uma frase de nexo causal entre cada par.
+**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos da abertura econômica chinesa, com uma frase de nexo causal entre cada par.
 
-**2.** Construa uma tabela que compare China, Índia e Japão. Além dos indicadores econômicos, inclua uma coluna com o modelo de desenvolvimento adotado por cada um e outra com o principal limite desse modelo.
+**2.** Elabore uma tabela que compare China, Índia e Japão. Além dos indicadores econômicos, inclua uma coluna com o modelo de desenvolvimento adotado por cada um e outra com o principal limite desse modelo.
 
 **3.** Leia a parte biográfica do Anexo sobre Deng Xiaoping. Analise-a identificando a mudança de rumo que a fonte atribui a ele, a evidência apresentada, e um custo social dessa transformação que ela não discute.
 
@@ -57,7 +57,7 @@
 
 **1.** Relacione, em um mapa conceitual, os nove elementos a seguir, todos apresentados no capítulo: fronteiras herdadas dos mandatos, reservas de petróleo, OPEP, petropolítica, autoritarismo, desigualdades sociais, intervenções externas, fundamentalismo religioso e refugiados. Cada linha do mapa precisa de um rótulo que diga qual é a relação representada, e o conjunto precisa deixar visível que nenhum dos nove explica sozinho os conflitos da região.
 
-**2.** Construa uma linha do tempo em duas faixas, de 1947 a 2019. Na faixa superior, ordene os marcos da disputa entre Israel e Palestina; na inferior, os marcos ligados ao petróleo e às guerras no Golfo. Estabeleça pelo menos três ligações cruzadas entre as faixas, cada uma com uma frase que diga como o marco de uma faixa se relaciona com o da outra, usando os mecanismos apresentados no capítulo.
+**2.** Ordene, em uma linha do tempo de duas faixas cobrindo 1947 a 2019, os marcos da disputa entre Israel e Palestina na faixa superior e os marcos ligados ao petróleo e às guerras no Golfo na inferior. Estabeleça pelo menos três ligações cruzadas entre as faixas, cada uma com uma frase que diga como o marco de uma faixa se relaciona com o da outra, usando os mecanismos apresentados no capítulo.
 
 **3.** Elabore um fluxograma que explique como as grandes reservas de petróleo próximas ao golfo Pérsico se converteram em poder de negociação e, ao mesmo tempo, em dependência econômica. O fluxograma precisa incluir a criação da OPEP em 1960 e a alta de preços de 1973, e cada seta precisa de um rótulo dizendo o que produz o efeito seguinte.
 

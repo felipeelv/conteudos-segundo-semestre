@@ -13,9 +13,9 @@
 
 **3.** Considere a série hipotética 12, 15, 15, 18, 20 e 22.
 
-a) Construa a tabela do cálculo do desvio padrão amostral, com as colunas de valor, desvio e desvio ao quadrado, e apresente o resultado.
-b) Refaça o cálculo tratando a mesma série como população inteira e escreva qual dos dois resultados é maior.
-c) Some 10 a cada um dos seis valores e calcule de novo o desvio padrão amostral: explique o que aconteceu com a média e por que o desvio padrão não mudou.
+a) Elabore a tabela do cálculo do desvio padrão amostral, com as colunas de valor, desvio e desvio ao quadrado. Na calculadora comum, siga esta ordem: some os seis valores e divida a soma por 6 para achar a média; subtraia a média de cada um dos seis valores; multiplique cada desvio por si mesmo; some as seis parcelas obtidas; divida essa soma por 5; extraia a raiz quadrada do quociente. Apresente o resultado com duas casas decimais.
+b) Refaça o cálculo para a mesma série de seis valores, tratando-a agora como população inteira: muda uma única conta — divida a soma dos quadrados dos desvios por 6 em vez de 5 antes de extrair a raiz. Apresente o resultado com duas casas decimais e escreva qual dos dois é maior e por quê.
+c) Some 10 a cada um dos seis valores e refaça a sequência inteira sobre a nova série — média, seis desvios, seis quadrados, soma, divisão por 5 e raiz quadrada: explique o que aconteceu com a média e por que o desvio padrão não mudou.
 
 Confira os três itens pela soma da coluna dos desvios: ela tem de dar zero em cada um. Se não der, o erro está no cálculo da média.
 
