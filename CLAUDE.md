@@ -53,11 +53,15 @@ conteudos-segundo-semestre/
 │
 ├── ATIVIDADES/
 │   ├── METODOLOGIA/           ← REGRA · única fonte de decisão (arquivos 00–06)
-│   ├── ATIVIDADES/            ← A GERAR · atividades de sala
-│   ├── CADERNO/               ← A GERAR · atividades de casa
-│   └── ACERVO/                ← MATERIAL DESCARTADO · consulta apenas
-│       ├── v1-ATIVIDADES/
-│       └── v1-CADERNO/
+│   ├── CADERNO/               ← ENTREGA · atividades de casa · Bloco 1 fechado
+│   │   └── <Disciplina>/      ← 12 pastas
+│   │       ├── <N>º Ano.md    ← FOLHA DO ALUNO · só questões
+│   │       └── _ORGANIZACAO.md   ← grade, rodapé com seed, checagem, revisões
+│   ├── ATIVIDADES/            ← A GERAR · atividades de sala · vazia
+│   └── ACERVO/                ← consulta apenas · nunca imitar
+│       ├── v1-ATIVIDADES/     ← descartado (geração repetitiva)
+│       ├── v1-CADERNO/        ← descartado (geração repetitiva)
+│       └── v2-plano-CADERNO/  ← superado, não descartado (ver abaixo)
 │
 ├── EDITADOS/                  ← MESMO conteúdo em .docx · saída para impressão
 ├── Física/                    ← FORA DE ESCOPO
@@ -71,12 +75,30 @@ conteudos-segundo-semestre/
 |---|---|---|
 | `<Disciplina>/` | **Fonte canônica** | Ler. **Nunca editar.** Nunca inserir atividade dentro de capítulo |
 | `ATIVIDADES/METODOLOGIA/` | **Regra** | Ler sempre antes de produzir. Editar só quando o pedido for explicitamente sobre metodologia |
-| `ATIVIDADES/ATIVIDADES/` e `ATIVIDADES/CADERNO/` | **A gerar** | Escrever a produção nova aqui |
-| `ATIVIDADES/ACERVO/` | **Descartado** | Consultar se eu pedir. **Nunca usar como referência de estilo ou formato** — este material foi rejeitado |
+| `ATIVIDADES/CADERNO/` | **Entrega** | Bloco 1 fechado. Escrever aqui a produção nova de casa |
+| `ATIVIDADES/ATIVIDADES/` | **A gerar** | Vazia. Escrever aqui o conjunto de sala quando ele for produzido |
+| `ATIVIDADES/ACERVO/` | **Consulta** | Ler se eu pedir. **Nunca usar como referência de estilo ou formato** |
 | `EDITADOS/` | **Derivado** | Espelho em `.docx` do conteúdo. Não é fonte; se divergir do `.md`, o `.md` vence |
 | `Física/`, `Operações/`, `Conteudo_docs/` | **Ignorar** | Nada |
 
-> **Sobre o ACERVO:** os cadernos anteriores foram descartados porque a geração saiu repetitiva. Eles ficam guardados para consulta pontual, não para imitação. Se você se pegar copiando estrutura de lá, o resultado vai reproduzir exatamente o problema que o `06-PRODUCAO.md` existe para resolver.
+> **Sobre o ACERVO.** Ele guarda duas coisas diferentes, e confundi-las estraga a produção:
+>
+> - `v1-ATIVIDADES/` e `v1-CADERNO/` foram **descartados** porque a geração saiu repetitiva. Se você se pegar copiando estrutura de lá, vai reproduzir exatamente o problema que o `06-PRODUCAO.md` existe para resolver.
+> - `v2-plano-CADERNO/` **não foi descartado, foi superado**: são os 12 arquivos consolidados de onde os arquivos-ano foram minerados. Saíram de `CADERNO/` porque trazem grade de correção e gabarito, e quem imprimisse a pasta de entrega levaria isso junto. **São o único lugar onde ficam os 35 capítulos de Bloco 2 já produzidos** — é de lá que a produção do Bloco 2 vai minerar.
+
+### Estado da produção — 12/08/2026
+
+| Conjunto | Bloco | Estado | Onde |
+|---|---|---|---|
+| **Casa** | Bloco 1 | **fechado** · 95/95 capítulos · 47 arquivos-ano · 624 questões | `CADERNO/<Disciplina>/` |
+| **Casa** | Bloco 2 | parcial · 35 de 98 capítulos, em formato consolidado antigo | `ACERVO/v2-plano-CADERNO/` |
+| **Sala** | ambos | **não produzido** · 0 de 193 | `ATIVIDADES/ATIVIDADES/` vazia |
+
+Três pendências abertas, todas registradas nos `_ORGANIZACAO.md` de cada disciplina:
+
+- **T8 é inverificável hoje.** A trava compara os tipos de sala e casa do mesmo capítulo, e o conjunto de sala não existe. É a trava de maior prioridade do §4.3 e está aberta nos 95 capítulos. Ao produzir sala, confrontar tipo a tipo com a seção 2 de cada `_ORGANIZACAO.md`.
+- **Travas de distribuição violadas e herdadas** — T6 (mesmo item em capítulos consecutivos), T2/T1 (teto da questão principal), T3 (piso de cobertura), T5. Fechá-las exige **re-sortear tipo**, o que nenhuma revisão fez até agora por decisão explícita: revisão preserva tipo e rubrica.
+- **O banco de verbos do §6 tem lacunas.** Não há verbo para exercício de cálculo (`EX`/R1 — só `prove`, inviável em EF1), nem verbo de produção visual ou de leitura de fonte calibrado para EF1. Por isso 68 questões abrem em *"Escreva"* e 13 de `ERR` em *"Descubra"/"Identifique"*, fora do banco. Os `_ORGANIZACAO.md` declaram isso pelo critério estrito — **não "corrija" o número para cima sem acrescentar o verbo ao §6**.
 
 ---
 
@@ -100,6 +122,10 @@ Mundo islâmico — Anexo.md
 | `<Título>.md` | **A unidade de produção.** É este arquivo que se lê para marcar M1–M11 (`06-PRODUCAO.md` §3) |
 | `<Título> — Anexo.md` | Fonte, citação ou biografia prontas. **A presença do anexo liga o marcador M5 e libera o tipo FON** |
 
+> **Bloco 1 e Bloco 2 são os dois blocos do MESMO 3º bimestre** — Bloco 1 de 05/08 a 25/08, Bloco 2 de 27/08 a 18/09. Não são bimestres diferentes. Os 193 capítulos do escopo são todos do 3º bimestre, repartidos entre os dois blocos: **95 no Bloco 1 e 98 no Bloco 2**. Confundir isso faz a contagem de cobertura errar por um fator de dois.
+>
+> A linha 3 de cada `bl1_`/`bl2_` traz o tema e as datas do bloco — copie de lá, não invente. Os anexos só existem em **Estudos Sociais** (34 arquivos); nas outras 11 disciplinas o marcador M5 nunca liga.
+
 Padrão interno do capítulo, estável em todas as disciplinas:
 
 ```
@@ -122,7 +148,7 @@ Nunca comece a gerar sem ter lido, nesta ordem:
 |---|---|---|
 | 1 | `ATIVIDADES/METODOLOGIA/03-REPERTORIO.md` | os 18 tipos, quando **não** usar cada um, e os tipos dominantes da disciplina |
 | 2 | `ATIVIDADES/METODOLOGIA/04-RUBRICAS.md` | R1–R13, total sempre 10 |
-| 3 | `ATIVIDADES/METODOLOGIA/06-PRODUCAO.md` | **o arquivo operacional**: marcadores, pool, sorteio, travas, catálogo de 48 itens, molde de saída, checagens |
+| 3 | `ATIVIDADES/METODOLOGIA/06-PRODUCAO.md` | **o arquivo operacional**: marcadores, pool, sorteio, travas, banco de verbos (§6), catálogo de **56 itens em 18 tipos** (§5), molde de saída (§7), as **12 checagens** (§8) — com §8.1 independência e §8.2 acessibilidade |
 | 4 | `ATIVIDADES/METODOLOGIA/05-REGRAS-DE-APLICACAO.md` | quando o pedido envolver peso na nota, quantidade ou aplicação |
 
 Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fundamentação — leia quando o pedido for justificar uma escolha, não para produzir.
@@ -133,14 +159,17 @@ Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fu
 
 ## 5. Regras rígidas de produção
 
-1. **Um capítulo por vez.** Nunca gerar o arquivo de uma disciplina inteira de uma vez.
+1. **Um capítulo por vez, dentro do agente.** Cada capítulo é lido, marcado e sorteado isoladamente — nunca gerar a disciplina inteira num só passe de raciocínio. Em produção por workflow, o recorte é **um agente por disciplina**, e esse agente percorre os capítulos um a um; a validação vem depois, em agente separado, e não pode re-sortear tipo nem rubrica.
 2. **O molde de saída de `06-PRODUCAO.md` §7 é obrigatório.** Sem seções extras, sem preâmbulo.
 3. **O comando entre aspas é o texto final do aluno.** Nunca escrever *"peça que o aluno..."*.
 4. **Se a resposta esperada já está impressa no capítulo em forma quase idêntica, o tipo está errado.** Re-sorteie.
 5. **Sala e casa do mesmo capítulo não repetem tipo.** Os dois conjuntos cobrem os mesmos 193 capítulos por caminhos diferentes.
 6. **Caderno de casa: sem gabarito, sem DEB, sem ORA.** Todo bloco de exercício precisa de conferência embutida.
 7. **Nenhum dado inventado.** Se um item exige dado real e ele não existe, troque o item.
-8. **Rode as 8 checagens de `06-PRODUCAO.md` §8** antes de passar ao capítulo seguinte.
+8. **Cada questão é independente** (`06-PRODUCAO.md` §8.1). O professor seleciona o que entra na folha, e nem tudo entra — uma questão que dependa de outra quebra quando a outra é descartada. Proibido *"a tabela que você construiu na questão 2"*.
+9. **Só recurso que todo aluno tem** (§8.2): capítulo, caderno, lápis, material de geometria (régua, compasso, transferidor), calculadora comum, observação e raciocínio. Nada de termômetro, balança, cronômetro, celular, internet, impressora, deslocamento, compra ou **calculadora financeira**.
+10. **O verbo do comando sai do banco do §6.** `construa` produz figura com instrumento · `elabore`, artefato sem instrumento · `redija`, texto. Escrever *"desenhe"* onde cabe `construa` é o erro que o próprio banco nomeia.
+11. **Rode as 12 checagens de `06-PRODUCAO.md` §8** antes de passar ao capítulo seguinte.
 
 ---
 
@@ -148,9 +177,10 @@ Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fu
 
 - **Não editar capítulo em `<Disciplina>/`.** Nem para corrigir, nem para inserir atividade. Se encontrar erro no conteúdo, **reporte, não conserte**.
 - **Não acrescentar camada devocional às atividades.** Os capítulos tratam temas religiosos **como conteúdo** (hebreus e monoteísmo, Tomás de Aquino, cristianismo em Roma, religião em Marx). As atividades os tratam analiticamente. Decisão explícita — `05-REGRAS-DE-APLICACAO.md` §6.
-- **Não usar o ACERVO como modelo.**
+- **Não usar `v1-ATIVIDADES/` nem `v1-CADERNO/` como modelo.** Aquele material foi rejeitado. `v2-plano-CADERNO/` é caso diferente: serve para **minerar conteúdo já aprovado**, não para copiar formato — o formato vigente é o dos arquivos-ano.
+- **Não pôr grade, rubrica, tipo, seed ou instrução ao professor no arquivo-ano.** A folha do aluno tem título, cabeçalho e questões. Todo o resto vai para o `_ORGANIZACAO.md`.
 - **Não tocar em `Física/`, `Operações/`, `Conteudo_docs/`.**
-- **Não criar arquivo sem aprovação prévia.** Apresente o resumo do que será criado e aguarde. Um arquivo por vez.
+- **Não criar arquivo sem aprovação prévia.** Apresente o resumo do que será criado e aguarde. Aprovado o plano, um workflow pode escrever o lote inteiro — o que a regra veda é começar a escrever sem o plano aprovado.
 - **Não gerar exemplos ou documentos não solicitados.**
 - **Não editar `EDITADOS/` para "sincronizar"** sem eu pedir.
 
