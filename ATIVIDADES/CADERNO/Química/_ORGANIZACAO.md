@@ -160,3 +160,17 @@ Duas observações que não viraram correção, por não serem divergência folh
 
 - **1ª Série Q5 (FON.a).** O item FON.a prevê roteiro com "o que a fonte não diz", que esta questão não pede. O critério da grade, porém, cobra apenas "referência registrada" e o que a confirmação das previsões demonstrou — ambos presentes na folha. Acrescentar a exigência seria mudar o critério, o que esta passagem não faz; e a lacuna já é coberta pela Q6, que é FON.c sobre a limitação não discutida.
 - **1ª Série Q1 (TAB.a · R10).** R10 dá 3 pontos a "legenda, título e escala (quando cabe)" e a folha não pede título para a tabela. O critério da grade não os cobra, e "quando cabe" deixa a aplicação ao professor.
+
+### Refino §7.1 v2 — 12/08
+
+As três folhas já estavam no molde. Refino: **6 das 22 questões**. Contagem inalterada: **3 arquivos-ano · 3 capítulos · 22 questões**. Verificação determinística contra `git HEAD`: nenhum número perdido e **nenhuma fórmula química perdida** — Hb + O₂ ⇌ HbO₂, 2 SO₂(g) + O₂(g) ⇌ 2 SO₃(g), CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g), N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g), [H₂] = 0,50 mol/L, H⁺ e OH⁻ conferidos um a um, com os subscritos e o sinal de equilíbrio intactos.
+
+**O marcador atacou as execuções mais densas do material.** Três questões traziam, num só parágrafo, a especificação completa de uma tabela de três a cinco linhas por três colunas:
+
+- `1ª Série Q1` — as cinco propriedades periódicas × três informações cada (sentido no período, sentido no grupo, fator que decide), mais a linha deduzida do caráter metálico. Era a execução mais longa da disciplina.
+- `9º Ano Q2` — as três situações do cotidiano × três colunas, com o critério novo (contagem de íons por fórmula) encadeado depois de travessão.
+- `2ª Série Q2` — os dois equilíbrios gasosos × três perturbações, mais duas colunas ausentes do capítulo.
+
+**Um `Registre:` novo, pela regra revista.** `9º Ano Q1` é `INV` com previsão escrita antes e observação de **oito materiais** depois. As oito observações estavam na mesma frase da instrução de segurança (*não prove, não cheire de perto, não misture*). Separadas: a restrição fica na execução, e as oito leituras no bloco. É exatamente o caso que a nova redação do §7.1 §4 — *"várias observações"*, repetidas no tempo **ou** em número — passou a cobrir.
+
+**Duas execuções saíram do parágrafo do caso:** `2ª Série Q4` (*"Calcule o quociente de reação e compare-o com o valor de Kc"*, colado aos dados do reator).

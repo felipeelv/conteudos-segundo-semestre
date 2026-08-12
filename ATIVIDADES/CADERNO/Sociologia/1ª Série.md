@@ -9,7 +9,13 @@
 
 **1.** Elabore uma tabela que classifique, como trabalho, como emprego ou como os dois ao mesmo tempo, três casos que o capítulo não menciona.
 
-Os casos são: uma pessoa que cuida de um familiar doente, um motorista de aplicativo e um voluntário de campanha de vacinação. Defina as colunas de critério da tabela e inclua entre elas um critério ausente do capítulo, capaz de decidir os três casos sem deixar nenhum deles ambíguo.
+Os três casos são:
+
+- uma pessoa que cuida de um familiar doente;
+- um motorista de aplicativo;
+- um voluntário de campanha de vacinação.
+
+Defina as colunas de critério da tabela e inclua entre elas um critério ausente do capítulo, capaz de decidir os três casos sem deixar nenhum deles ambíguo.
 
 **Responda, abaixo da tabela:** qual dos três casos esse critério classifica com mais dificuldade, e por quê?
 
@@ -19,7 +25,9 @@ Os casos são: uma pessoa que cuida de um familiar doente, um motorista de aplic
 
 **Antes de começar, responda por escrito:** em que categorias você vai classificar as ocupações que encontrar, e qual delas você prevê que aparecerá mais vezes?
 
-Percorra o caminho observando as ocupações em funcionamento e conte quantas encontrou em cada categoria. Não registre nomes de pessoas.
+Percorra o caminho observando as ocupações em funcionamento. Não registre nomes de pessoas.
+
+**Registre:** quantas ocupações você encontrou em cada categoria.
 
 **Responda:** qual foi a contagem por categoria, em que ponto ela confirmou ou desmentiu a sua previsão, e qual categoria de ocupação esse caminho não permite enxergar?
 
@@ -27,7 +35,11 @@ Percorra o caminho observando as ocupações em funcionamento e conte quantas en
 
 **3.** Elabore um esquema da divisão técnica do trabalho na produção de um objeto de uso diário — um caderno, uma camiseta, um pão ou um par de sapatos.
 
-Nomeie cada etapa, indique quem executa e ligue as etapas por setas rotuladas — cada seta diz o que passa de uma etapa para a seguinte. Assinale o ponto em que o produto deixa de ser reconhecível como obra de uma pessoa só.
+O esquema precisa trazer:
+
+- cada etapa nomeada, com quem a executa;
+- setas rotuladas ligando as etapas — cada seta diz o que passa de uma etapa para a seguinte;
+- assinalado, o ponto em que o produto deixa de ser reconhecível como obra de uma pessoa só.
 
 ---
 

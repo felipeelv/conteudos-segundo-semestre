@@ -25,7 +25,7 @@ No seu esquema, ligue as etapas com setas no sentido do processo e rotule cada s
 
 ---
 
-**3.** Explique, em um verbete de cinco linhas para cada, os elementos do complexo cafeeiro a seguir, indicando em cada caso o papel que desempenhava. Empregue, ao longo dos quatro verbetes, os termos *complexo econômico*, *exportação* e *crédito*:
+**3.** Redija um verbete de cinco linhas sobre cada um dos elementos do complexo cafeeiro a seguir, indicando em cada caso o papel que desempenhava. Empregue, ao longo dos quatro verbetes, os termos *complexo econômico*, *exportação* e *crédito*:
 
 a) fazenda
 b) ferrovia
@@ -36,7 +36,11 @@ d) porto
 
 **4.** Elabore uma tabela que compare as duas regiões produtoras de café tratadas no capítulo.
 
-Além do meio de transporte da produção e da forma de trabalho predominante, inclua um critério que avalie qual das duas ficaria mais exposta ao fim da escravidão, e por quê.
+A tabela precisa trazer, para cada uma das duas regiões:
+
+- o meio de transporte da produção;
+- a forma de trabalho predominante;
+- se ela ficaria mais exposta ao fim da escravidão, e por quê.
 
 ---
 
@@ -50,7 +54,9 @@ Consulte livro, atlas histórico, site ou acervo da biblioteca da escola e regis
 
 **6.** Decida o que a organização do complexo cafeeiro descrita no capítulo recomendaria no caso a seguir.
 
-Um fazendeiro do Oeste Paulista precisa decidir, num ano em que a escravidão ainda existia e a imigração subvencionada já era oferecida aos cafeicultores, entre ampliar o cafezal com trabalhadores escravizados ou contratar imigrantes italianos sob contrato de colonato. Cite como critério de custo dois dos quatro componentes do colonato.
+Um fazendeiro do Oeste Paulista precisa decidir, num ano em que a escravidão ainda existia e a imigração subvencionada já era oferecida aos cafeicultores, entre ampliar o cafezal com trabalhadores escravizados ou contratar imigrantes italianos sob contrato de colonato.
+
+Cite como critério de custo dois dos quatro componentes do colonato.
 
 **Responda:** o que a organização do complexo cafeeiro recomendaria ao fazendeiro, e o que essa decisão revela sobre os limites de tratar a abolição como conquista moral?
 
@@ -64,7 +70,7 @@ Um estudante escreveu: *"O Segundo Reinado foi estável porque D. Pedro II era u
 
 ---
 
-**8.** Justifique, em um texto de seis a dez linhas, uma posição sobre a seguinte questão: o café modernizou o Brasil?
+**8.** Redija, em seis a dez linhas, um texto que defenda uma posição sobre a seguinte questão: o café modernizou o Brasil?
 
 Enuncie a posição na primeira linha, sustente-a com dois fatos verificáveis e responda à objeção de que uma modernização que se apoia em trabalho escravizado não deveria receber esse nome.
 
@@ -82,11 +88,17 @@ Inclua pelo menos seis marcos.
 
 **2.** Elabore uma tabela que contraste o Brasil e o Paraguai no conflito.
 
-Use como critérios o interesse de cada um na Bacia Platina, a ação com que cada um entrou no conflito e o efeito interno que a guerra produziu em cada país, e acrescente uma linha final que registre em que ponto os dois casos se parecem.
+Compare os dois países por três critérios:
+
+- o interesse de cada um na Bacia Platina;
+- a ação com que cada um entrou no conflito;
+- o efeito interno que a guerra produziu em cada país.
+
+Acrescente uma linha final que registre em que ponto os dois casos se parecem.
 
 ---
 
-**3.** Explique, em um verbete de cinco linhas para cada, as formas de participação na guerra a seguir, indicando em cada caso como o ingresso se dava e quanto de escolha havia nele. Empregue, ao longo dos quatro verbetes, os termos *recrutamento*, *alforria* e *Guarda Nacional*:
+**3.** Redija um verbete de cinco linhas sobre cada uma das formas de participação na guerra a seguir, indicando em cada caso como o ingresso se dava e quanto de escolha havia nele. Empregue, ao longo dos quatro verbetes, os termos *recrutamento*, *alforria* e *Guarda Nacional*:
 
 a) Voluntários da Pátria
 b) homens pobres submetidos a recrutamento forçado

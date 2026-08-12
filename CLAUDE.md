@@ -90,7 +90,7 @@ conteudos-segundo-semestre/
 
 | Conjunto | Bloco | Estado | Onde |
 |---|---|---|---|
-| **Casa** | Bloco 1 | **fechado** · 95/95 capítulos · 47 arquivos-ano · 624 questões, as 12 disciplinas no formato §7.1 | `CADERNO/<Disciplina>/` |
+| **Casa** | Bloco 1 | **fechado** · 95/95 capítulos · 47 arquivos-ano · 624 questões, **as 47 folhas no formato §7.1 v2** | `CADERNO/<Disciplina>/` |
 | **Casa** | Bloco 2 | parcial · 35 de 98 capítulos, em formato consolidado antigo | `ACERVO/v2-plano-CADERNO/` |
 | **Sala** | ambos | **não produzido** · 0 de 193 | `ATIVIDADES/ATIVIDADES/` vazia |
 
@@ -99,7 +99,9 @@ Três pendências abertas, todas registradas nos `_ORGANIZACAO.md` de cada disci
 - **T8 é inverificável hoje.** A trava compara os tipos de sala e casa do mesmo capítulo, e o conjunto de sala não existe. É a trava de maior prioridade do §4.3 e está aberta nos 95 capítulos. Ao produzir sala, confrontar tipo a tipo com a seção 2 de cada `_ORGANIZACAO.md`.
 - **Travas de distribuição violadas e herdadas** — T6 (mesmo item em capítulos consecutivos), T2/T1 (teto da questão principal), T3 (piso de cobertura), T5. Fechá-las exige **re-sortear tipo**, o que nenhuma revisão fez até agora por decisão explícita: revisão preserva tipo e rubrica.
 - **O banco de verbos do §6 fechou em 22** com `redija` (texto), `leia` (fonte entregue) e `calcule` (`EX`/R1). Restava só produção visual em EF1 sem verbo próprio — `elabore` cobre. Se aparecer nova lacuna, **acrescente o verbo ao §6 antes de reescrever questão**: as três rodadas anteriores mostraram que reescrever para caber num banco incompleto piora o enunciado.
-- **A folha e a grade podem sair de sincronia sem que ninguém perceba.** A checagem que confronta cada `Responda:` com o "Critério que decide a nota" achou 39 divergências em 624 questões — o caso mais comum foi `ESQ` sem pedir seta rotulada, quando R4 reserva 3 dos 10 pontos justamente a isso. **Ao reescrever qualquer enunciado, releia a linha dele na seção 2 do `_ORGANIZACAO.md`**: se o critério cobra algo que a folha deixou de pedir, o professor corrige por um critério que a folha não pede mais.
+- **A folha e a grade podem sair de sincronia sem que ninguém perceba.** A checagem que confronta cada `Responda:` com o "Critério que decide a nota" achou 39 divergências em 624 questões — o caso mais comum foi `ESQ` sem pedir seta rotulada, quando R4 reserva 3 dos 10 pontos justamente a isso. **Ao reescrever qualquer enunciado, releia a linha dele na seção 2 do `_ORGANIZACAO.md`**: se o critério cobra algo que a folha deixou de pedir, o professor corrige por um critério que a folha não pede mais. E confira que o critério está **no `Responda:`**, não em algum lugar qualquer da questão: em `Português 8º Cap. 2 Q2` a grade dizia *"o terceiro exemplo é o que discrimina"* e a folha pedia o exemplo na execução, fora da entrega — divergência que a checagem de 12/08 não pegou porque só comparava o bloco com o critério.
+
+**Um registro de método, da rodada de 12/08.** A afirmação *"as 12 disciplinas estão no formato §7.1"* era verdadeira por disciplina e falsa por folha: **8 das 47 nunca haviam sido reformatadas** — Estudos Sociais 6º a 9º, Ciências 6º (parcial), 7º e 8º, e Filosofia 2ª —, somando 126 questões em parágrafo único, sem um único bloco `Responda:`. Duas dessas folhas tinham o defeito anotado no próprio `_ORGANIZACAO.md`; as quatro de Estudos Sociais, o maior bloco, não estavam registradas em lugar nenhum. **Contar por disciplina esconde o que falta; a unidade de verificação é a folha.**
 
 ---
 
@@ -171,8 +173,9 @@ Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fu
 9. **Só recurso que todo aluno tem** (§8.2): capítulo, caderno, lápis, material de geometria (régua, compasso, transferidor), calculadora comum, observação e raciocínio. Nada de termômetro, balança, cronômetro, celular, internet, impressora, deslocamento, compra ou **calculadora financeira**.
 10. **Casa se faz sozinho** (§8.3). Nenhuma questão exige ação, resposta ou presença de outra pessoa — conversar, perguntar, entrevistar, pedir que confiram. `INV.d` (entrevista) só em sala, como `DEB` e `ORA`. Destinatário de escrita é **leitor hipotético** (*quem faltou à aula*, *um leitor que discorda*) e a palavra **"colega" não entra na folha de casa**.
 11. **O verbo do comando sai do banco do §6 e é aferido no enunciado-síntese** (§7.1). `construa` produz figura com instrumento · `elabore`, artefato sem instrumento · `redija`, texto. Os imperativos internos da execução (*trace*, *marque*, *percorra*) não são verbos de comando.
-12. **A folha separa fazer de entregar** (§7.1). Enunciado-síntese → execução em prosa compacta → `Responda:` em pergunta → `Confira você mesmo:`. Nunca etapas rotuladas ("Etapa 1 — a malha"), nunca a questão inteira em lista plana.
-13. **Rode as 13 checagens de `06-PRODUCAO.md` §8** antes de passar ao capítulo seguinte.
+12. **A folha separa fazer de entregar** (§7.1). Enunciado-síntese → execução em prosa compacta → `Responda:` em pergunta → `Confira você mesmo:`. Nunca etapas rotuladas ("Etapa 1 — a malha"), nunca a questão inteira em lista plana. **Marcador só em dois casos:** (a) sub-sequência cuja ordem importa — a construção com régua e compasso, a sequência de teclas da calculadora; (b) especificações paralelas de um mesmo produto — as colunas de uma tabela, os elementos que um mapa precisa ter. O marcador lista requisito verificável, nunca entrega o artefato montado.
+13. **O `Responda:` admite complemento de localização e abre nos dois tempos** (§7.1). `Responda, abaixo dos gráficos:` quando a questão gera produto na página; e pergunta que comprime dois raciocínios se desdobra — *apontar o fator que explica a maior diferença* vira *qual é a maior diferença, e que fator a explica?*. Ao abrir o segundo tempo, a linha da grade acompanha na mesma passada.
+14. **Rode as 13 checagens de `06-PRODUCAO.md` §8** antes de passar ao capítulo seguinte.
 
 ---
 

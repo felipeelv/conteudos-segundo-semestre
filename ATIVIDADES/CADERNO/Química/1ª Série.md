@@ -9,7 +9,13 @@
 
 **1.** Elabore uma tabela das cinco propriedades periódicas do capítulo e deduza dela os sentidos de variação do caráter metálico, propriedade que o quadro de tendências do capítulo não traz.
 
-Registre, para cada propriedade — raio atômico, energia de ionização, afinidade eletrônica, eletronegatividade e eletropositividade —, o sentido de variação ao longo de um período, o sentido de variação ao longo de um grupo e qual dos dois fatores decide a tendência em cada sentido: o aumento da carga nuclear efetiva ou o acréscimo de camadas. Acrescente uma última linha com o caráter metálico, deduzindo seus dois sentidos de variação a partir das cinco propriedades anteriores.
+A tabela precisa trazer, para cada uma das cinco propriedades — raio atômico, energia de ionização, afinidade eletrônica, eletronegatividade e eletropositividade:
+
+- o sentido de variação ao longo de um período;
+- o sentido de variação ao longo de um grupo;
+- qual dos dois fatores decide a tendência em cada sentido: o aumento da carga nuclear efetiva ou o acréscimo de camadas.
+
+Acrescente uma última linha com o caráter metálico, deduzindo seus dois sentidos de variação a partir das cinco propriedades anteriores.
 
 **Responda, em uma frase:** que raciocínio sustenta os dois sentidos de variação que você deduziu para o caráter metálico?
 

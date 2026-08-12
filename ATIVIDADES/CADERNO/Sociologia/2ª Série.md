@@ -17,7 +17,11 @@ Compare os dois perfis por dois critérios que a tabela do capítulo não utiliz
 
 **2.** Elabore um esquema que represente o percurso de uma reivindicação, desde a identificação de um problema coletivo até a sua conversão em política pública ou norma legal.
 
-Nomeie o que entra e o que sai de cada etapa e ligue-as por setas rotuladas — cada seta diz o que faz a reivindicação avançar de uma etapa para a seguinte. Assinale a etapa em que a maioria das reivindicações se interrompe.
+O esquema precisa trazer:
+
+- o que entra e o que sai de cada etapa;
+- setas rotuladas ligando as etapas — cada seta diz o que faz a reivindicação avançar de uma etapa para a seguinte;
+- assinalada, a etapa em que a maioria das reivindicações se interrompe.
 
 **Responda:** por que é nessa etapa que a maioria das reivindicações se interrompe?
 

@@ -21,7 +21,7 @@ Indique as atribuições de cada cargo e rotule cada seta de contenção com o m
 
 ---
 
-**3.** Explique, em um verbete de cinco linhas para cada, as instituições a seguir, indicando em cada caso que poder ela exercia e sobre quem. Empregue, ao longo dos quatro verbetes, os termos *colegialidade*, *magistratura* e *plebe*:
+**3.** Redija um verbete de cinco linhas sobre cada uma das instituições a seguir, indicando em cada caso que poder ela exercia e sobre quem. Empregue, ao longo dos quatro verbetes, os termos *colegialidade*, *magistratura* e *plebe*:
 
 a) Senado
 b) cônsules
@@ -60,7 +60,7 @@ Um estudante escreveu: *"A República romana era uma democracia, porque o povo e
 
 ---
 
-**8.** Justifique, em um texto de seis a dez linhas, uma posição sobre a seguinte questão: o conflito entre patrícios e plebeus fortaleceu ou enfraqueceu a República?
+**8.** Redija, em seis a dez linhas, um texto que defenda uma posição sobre a seguinte questão: o conflito entre patrícios e plebeus fortaleceu ou enfraqueceu a República?
 
 Enuncie a posição na primeira linha, sustente-a com dois marcos datados e responda à objeção de que conflito interno prolongado é sinal de instituições frágeis.
 
@@ -82,7 +82,7 @@ Rotule cada seta com o mecanismo que liga uma etapa à seguinte.
 
 ---
 
-**3.** Explique, em um verbete de cinco linhas para cada, os episódios a seguir, indicando em cada caso o interesse em jogo e o desfecho. Empregue, ao longo dos quatro verbetes, os termos *tribuno*, *latifúndio* e *exército*:
+**3.** Redija um verbete de cinco linhas sobre cada um dos episódios a seguir, indicando em cada caso o interesse em jogo e o desfecho. Empregue, ao longo dos quatro verbetes, os termos *tribuno*, *latifúndio* e *exército*:
 
 a) as reformas dos irmãos Graco
 b) a revolta de Espártaco
@@ -93,7 +93,11 @@ d) o Primeiro Triunvirato
 
 **4.** Elabore uma tabela que compare a situação do pequeno proprietário romano antes e depois das Guerras Púnicas.
 
-Além da posse da terra e da forma de sustento, inclua um critério que registre, em cada um dos dois momentos, de quem ele dependia para obter terra.
+A tabela precisa trazer, em cada um dos dois momentos:
+
+- a posse da terra;
+- a forma de sustento;
+- de quem ele dependia para obter terra.
 
 ---
 

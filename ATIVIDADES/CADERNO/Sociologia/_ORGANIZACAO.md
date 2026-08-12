@@ -140,3 +140,13 @@ Confronto questão a questão do texto da folha com a linha da grade, atrás do 
 | 2ª Série | 1 | 3 | ESC.b · R5 | o critério da grade decide a nota por *os três termos **aplicados ao movimento** — não repetidos como definição*; a folha só dizia "empregue obrigatoriamente os termos", sem comunicar ao aluno a exigência que separa nota alta de média | os termos passaram a ser pedidos "aplicados àquele movimento e não repetidos como definição geral" |
 
 As outras 12 casaram: o `Responda:` cobra todos os elementos do critério, a entrega cabe no item sorteado e a rubrica tem o que medir. Nenhuma linha da grade estava desatualizada — não houve correção do lado da grade. As duas pendências da seção 4 (T3 violado na 2ª série; ERR fora do pool na 2ª série Q7) seguem abertas: dependem de re-sortear tipo, o que esta checagem não faz.
+
+### Refino §7.1 v2 — 12/08
+
+As duas folhas já estavam no molde. Refino: **4 das 16 questões**. Contagem inalterada: **2 arquivos-ano · 2 capítulos · 16 questões**; nenhum número, citação ou termo em itálico perdido.
+
+**A disciplina já usava `Responda, abaixo da tabela:` nas duas folhas** — junto com História e com a 2ª série de Português, foi uma das que praticavam o complemento de localização antes de a regra existir.
+
+**Marcador de caso (b): 3 questões.** Os três casos a classificar como trabalho ou emprego (1ª Q1, que vinham em frase corrida) e os dois `ESQ` de percurso — a divisão técnica do trabalho (1ª Q3) e o percurso de uma reivindicação até virar política pública (2ª Q2) —, ambos com quatro requisitos encadeados, entre eles o ponto a assinalar, que é o que a rubrica R4 mais pesa.
+
+**Um `Registre:` novo, pela regra revista.** `1ª Série Q2` abre em *"Registre, em um levantamento…"*, tem previsão escrita antes e conta ocupações por categoria ao longo de um caminho — mas a contagem estava na mesma frase da restrição de privacidade (*não registre nomes de pessoas*). Separadas. É o mesmo caso do 7º ano de Estudos Sociais, e agora as duas disciplinas o tratam igual.

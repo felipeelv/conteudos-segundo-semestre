@@ -191,3 +191,15 @@ Confronto de cada uma das 30 questões com a sua linha da seção 2, feito depoi
 - **`FON` × R7, nas 6 questões de fonte.** R7 dá 3 pontos a "identifica autoria, data e finalidade" e o roteiro de `FON.a` no catálogo (`06` §5) nomeia os quatro pontos — autoria · data · **finalidade** · o que a fonte não diz. Folha e grade pedem autor ou instituição, título e ano; nenhuma das duas pede a finalidade da fonte. Folha e grade estão consistentes entre si, e por isso nada foi editado: acrescentar a finalidade acrescentaria exigência ao critério, não a restauraria.
 - **`ESC.c` sem destinatário — 1ª/cap. 1/Q8 e 2ª/cap. 1/Q8.** `03` §1 manda **não usar** ESC quando o comando não define destinatário nem extensão. A extensão está fixada (seis a dez linhas); o destinatário não é nomeado — a objeção enuncia a posição contrária, não um leitor. A grade não cobra destinatário, então a folha não foi mexida. Se a decisão for nomear o leitor contrário no texto, como `06` §6 prescreve para a substituição de DEB, o ajuste cabe nas duas questões de uma vez.
 - **T8 segue inverificável**, pela razão já registrada na seção 4.
+
+### Refino §7.1 v2 — 12/08
+
+As duas folhas já estavam no molde. Refino: **10 das 30 questões**. Contagem inalterada: **2 arquivos-ano · 4 capítulos · 30 questões**; nenhum número, citação ou nome próprio perdido; nenhum bloco criado ou removido.
+
+**A disciplina já era a mais avançada do lote no uso do complemento de localização** — e é dela que o §7.1 desta rodada tirou o melhor exemplo. `Responda, em uma frase entre cada par de marcos vizinhos:` e `Responda, com uma frase em cada uma de pelo menos três ligações cruzadas entre as faixas:` dizem, no próprio rótulo, **onde** a resposta se escreve numa linha do tempo. Nenhuma outra disciplina tinha chegado a isso antes da regra existir.
+
+**Seis trocas de verbo, todas de `ESC`.** As quatro `ESC.b` de verbete abriam em `Explique, em um verbete de cinco linhas para cada` e as duas `ESC.c` de posição defendida abriam em `Justifique, em um texto de seis a dez linhas`. Ambos os verbos estão no banco §6 e são compatíveis com R5, mas o verbo prescrito de `ESC`/`RET` é `redija` — a mesma troca já feita nas outras onze disciplinas. Destinatário, extensão e termos obrigatórios preservados em todas.
+
+**Marcador de caso (b): 3 questões.** As duas `TAB` de comparação em dois momentos (1ª Cap. 2 Q4, o pequeno proprietário antes e depois das Guerras Púnicas; 2ª Cap. 1 Q4, as duas regiões cafeeiras) e a `TAB` do contraste Brasil × Paraguai. Em todas, o terceiro critério — o que a rubrica mais pesa — vinha por último, encadeado depois de *"Além de X e de Y"*.
+
+**Uma execução saiu do parágrafo do caso:** 2ª Cap. 1 Q6, *"Cite como critério de custo dois dos quatro componentes do colonato"*, colada ao dilema do fazendeiro.

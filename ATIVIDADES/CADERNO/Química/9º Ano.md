@@ -11,7 +11,9 @@
 
 **Antes de começar, responda por escrito:** qual é o caráter esperado de cada um dos oito materiais, e qual é a razão de cada previsão?
 
-Só depois de registradas as previsões, observe as embalagens e registre, para cada material, o que a informação impressa permite concluir: presença de um ácido ou de um hidróxido entre os ingredientes, indicação de pH, advertência de corrosividade, ou nenhuma informação sobre o caráter. Não prove, não cheire de perto e não misture nenhum dos materiais: a observação é apenas da embalagem.
+Só depois de registradas as previsões, observe as embalagens. Não prove, não cheire de perto e não misture nenhum dos materiais: a observação é apenas da embalagem.
+
+**Registre:** para cada um dos oito materiais, o que a informação impressa permite concluir — presença de um ácido ou de um hidróxido entre os ingredientes, indicação de pH, advertência de corrosividade, ou nenhuma informação sobre o caráter.
 
 **Responda, apresentando as oito previsões ao lado das oito observações:** em quais materiais a previsão falhou — e o que a embalagem não permite decidir sobre o caráter de cada um?
 
@@ -19,7 +21,13 @@ Só depois de registradas as previsões, observe as embalagens e registre, para 
 
 **2.** Elabore uma tabela a partir de três situações do cotidiano e avalie se a contagem de íons na própria fórmula, isolada, permite prever a força de uma substância em água.
 
-As três situações: o estômago de uma pessoa produz suco gástrico; um mecânico verifica o líquido de uma bateria automotiva; uma pessoa toma leite de magnésia. Registre, para cada uma, a substância responsável pelo caráter e sua fórmula, o caráter da solução na escala de pH e — como critério que o capítulo não aplica às bases — quantos íons H⁺ ou OH⁻ cada fórmula é capaz de fornecer por unidade, contados na própria fórmula.
+As três situações: o estômago de uma pessoa produz suco gástrico; um mecânico verifica o líquido de uma bateria automotiva; uma pessoa toma leite de magnésia.
+
+A tabela precisa trazer, para cada uma das três:
+
+- a substância responsável pelo caráter e sua fórmula;
+- o caráter da solução na escala de pH;
+- quantos íons H⁺ ou OH⁻ cada fórmula é capaz de fornecer por unidade, contados na própria fórmula — critério que o capítulo não aplica às bases.
 
 **Responda, em uma frase:** esse número, isolado, permite prever a força da substância em água?
 
