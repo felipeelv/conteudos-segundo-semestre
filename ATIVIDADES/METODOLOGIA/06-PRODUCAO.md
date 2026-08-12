@@ -366,6 +366,14 @@ Uma linha por capítulo, depois da grade:
 
 **Integradora do ano** usa o mesmo molde, acrescentando uma questão de `POR`.
 
+### 7.4 Variante do conjunto de sala
+
+A folha do aluno é a mesma: questões numeradas, sem campo, sem andaime. O conjunto de sala acrescenta **uma única linha** antes da questão 1, porque a tarefa depende de três coisas que a casa não tem:
+
+`**Formato:** duplas · **Tempo:** 50 min · **O professor entrega:** <insumo>`
+
+Nada mais de instrução ao professor entra no corpo das questões — o resto vai para a grade de correção. E `DEB` e `ORA`, que T7 exclui da casa, voltam ao pool.
+
 ---
 
 ## 8. Critérios de rejeição
