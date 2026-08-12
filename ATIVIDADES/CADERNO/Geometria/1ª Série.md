@@ -37,7 +37,13 @@ Três torcedores ocupam pontos diferentes do mesmo arco da arquibancada de um es
 
 **4.** Construa duas secantes a uma circunferência a partir de um ponto externo P, localize o ponto T da curva em que o ângulo OTP é reto e verifique pela medida se o quadrado de PT coincide com os produtos dos segmentos das secantes.
 
-Construa com o compasso uma circunferência de 4 cm de raio e centro O. Marque um ponto P a 10 cm de O, fora da curva, e trace por P duas retas secantes à circunferência. Meça, em cada secante, os dois segmentos que vão de P às interseções com a curva e multiplique-os. Para localizar T, marque com a régua o ponto médio M do segmento OP e trace, com o compasso aberto em 5 cm, a circunferência de centro M, que cruza a curva em dois pontos simétricos — tome um deles como T. Confira com o transferidor que o ângulo OTP mede 90° e meça PT.
+Construa com o compasso uma circunferência de 4 cm de raio e centro O, marque um ponto P a 10 cm de O, fora da curva, e trace por P duas retas secantes à circunferência. Meça, em cada secante, os dois segmentos que vão de P às interseções com a curva e multiplique-os.
+
+Para localizar T, siga nesta ordem:
+
+- com a régua, marque o ponto médio M do segmento OP;
+- com o compasso aberto em 5 cm, trace a circunferência de centro M, que cruza a curva em dois pontos simétricos — tome um deles como T;
+- com o transferidor, confira que o ângulo OTP mede 90°, e meça PT.
 
 **Responda:** o quadrado de PT coincidiu com os dois produtos das secantes? Apresente os três valores.
 
@@ -49,7 +55,7 @@ Construa com o compasso uma circunferência de 4 cm de raio e centro O. Marque u
 
 Um estudante escreveu: *"O ângulo excêntrico interior mede a metade do arco que ele enxerga, igual ao inscrito."*
 
-**Responda:** qual é o erro, qual é a relação correta, e por que o vértice interno enxerga dois arcos, e não um? Explique esta última parte com um desenho.
+**Responda, com um desenho dos dois arcos ao lado:** qual é o erro, qual é a relação correta, e por que o vértice interno enxerga dois arcos, e não um?
 
 ---
 
@@ -57,4 +63,6 @@ Um estudante escreveu: *"O ângulo excêntrico interior mede a metade do arco qu
 
 Uma praça circular tem 40 m de raio, e um poste de iluminação está fixado a 50 m do centro dela, fora da praça. Um funcionário vai esticar um cabo reto do poste até a borda da praça, de modo que o cabo encoste na borda em um único ponto e não avance sobre o gramado.
 
-**Responda:** quantos metros de cabo são necessários — apresente o cálculo e justifique-o pelo ângulo que o raio forma com a borda no ponto de tangência — e que comprimento o cabo teria se o poste estivesse a 60 m do centro? Para o segundo caso, refaça a mesma conta uma única vez, trocando 50 m por 60 m, e extraia a raiz na calculadora, arredondando o resultado a uma casa decimal.
+Refaça em seguida a mesma conta uma única vez, trocando 50 m por 60 m, e extraia a raiz na calculadora, arredondando o resultado a uma casa decimal.
+
+**Responda:** quantos metros de cabo são necessários, qual é o cálculo, e o que no ângulo que o raio forma com a borda no ponto de tangência o justifica? E que comprimento o cabo teria se o poste estivesse a 60 m do centro?

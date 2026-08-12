@@ -9,7 +9,9 @@
 
 **1.** Construa uma malha quadriculada, trace nela três triângulos retângulos de tamanhos crescentes e registre o que muda e o que permanece de um para o outro.
 
-Trace com a régua uma malha de 1 cm e, nela, três triângulos retângulos com os catetos sobre as linhas da malha, medindo 2 cm e 5 cm, 4 cm e 10 cm, 6 cm e 15 cm. Antes de calcular, escreva o que você espera que aconteça com o seno, o cosseno e a tangente do ângulo oposto ao cateto menor quando o triângulo é ampliado. Meça a hipotenusa de cada triângulo com a régua e calcule as três razões nos três triângulos.
+**Antes de começar, responda por escrito:** o que você espera que aconteça com o seno, o cosseno e a tangente do ângulo oposto ao cateto menor quando o triângulo é ampliado?
+
+Trace com a régua uma malha de 1 cm e, nela, três triângulos retângulos com os catetos sobre as linhas da malha, medindo 2 cm e 5 cm, 4 cm e 10 cm, 6 cm e 15 cm. Meça a hipotenusa de cada triângulo com a régua e calcule as três razões nos três triângulos.
 
 **Responda:** o que mudou e o que permaneceu de um triângulo para o outro?
 

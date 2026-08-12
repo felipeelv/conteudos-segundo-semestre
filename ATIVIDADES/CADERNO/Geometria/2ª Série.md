@@ -9,7 +9,9 @@
 
 **1.** Elabore um cilindro enrolando uma folha de papel do caderno e verifique se a área lateral do cilindro coincide com a área do retângulo da folha aberta.
 
-Meça antes com a régua os dois lados de uma folha de papel do seu caderno e registre as duas medidas. Enrole a folha, sem cortar e sem colar, de modo que o lado maior contorne a base e o lado menor se torne a altura, segurando a sobreposição com os dedos até que ela desapareça, e meça o diâmetro da base do cilindro obtido. Calcule o comprimento da circunferência dessa base a partir do diâmetro medido e compare-o com o lado da folha que contorna a base.
+Meça antes com a régua os dois lados de uma folha de papel do seu caderno e registre as duas medidas. Enrole a folha, sem cortar e sem colar, de modo que o lado maior contorne a base e o lado menor se torne a altura, segurando a sobreposição com os dedos até que ela desapareça, e meça o diâmetro da base do cilindro obtido.
+
+Calcule o comprimento da circunferência dessa base a partir do diâmetro medido e compare-o com o lado da folha que contorna a base.
 
 **Responda:** a área lateral do cilindro coincidiu com a área do retângulo da folha aberta? Apresente as duas áreas.
 
@@ -29,15 +31,23 @@ Uma lata cilíndrica reta tem 3,3 cm de raio e 12,2 cm de altura, e seu rótulo 
 
 ---
 
-**3.** Elabore uma tabela que compare o cilindro reto e o cilindro oblíquo. Além da posição do eixo e da relação entre geratriz e altura, inclua uma coluna indicando qual das fórmulas estudadas deixa de valer no caso oblíquo.
+**3.** Elabore uma tabela que compare o cilindro reto e o cilindro oblíquo.
+
+Compare os dois por três critérios:
+
+- a posição do eixo;
+- a relação entre geratriz e altura;
+- qual das fórmulas estudadas deixa de valer no caso oblíquo.
 
 ---
 
 **4.** Decida qual das duas latas descritas a seguir a fábrica deve adotar, sob dois critérios diferentes.
 
-Duas latas cilíndricas fechadas têm o mesmo volume: a primeira tem 3 cm de raio e 12 cm de altura; a segunda, 6 cm de raio e 3 cm de altura. Confirme que os dois volumes coincidem e calcule a área total de cada uma.
+Duas latas cilíndricas fechadas têm o mesmo volume: a primeira tem 3 cm de raio e 12 cm de altura; a segunda, 6 cm de raio e 3 cm de altura.
 
-**Responda:** qual lata a fábrica deve adotar pelo critério do gasto de folha metálica, e qual pelo critério da estabilidade da lata em pé na prateleira? Apresente as duas decisões e o dado que sustenta cada uma.
+Confirme que os dois volumes coincidem e calcule a área total de cada uma.
+
+**Responda:** qual lata a fábrica deve adotar pelo critério do gasto de folha metálica, e qual pelo critério da estabilidade da lata em pé na prateleira? Que dado sustenta cada uma das duas decisões?
 
 ---
 

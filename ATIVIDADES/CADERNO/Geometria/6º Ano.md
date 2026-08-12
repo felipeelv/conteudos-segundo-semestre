@@ -9,7 +9,13 @@
 
 **1.** Construa um paralelogramo de lados 8 cm e 5 cm sem nenhum ângulo reto e registre a propriedade das diagonais que as medidas comprovam.
 
-Trace no caderno, com a régua, o lado AB de 8 cm; marque com o transferidor um ângulo de 60° em A e, sobre o outro lado desse ângulo, marque o vértice D a 5 cm de A; obtenha o quarto vértice C cruzando com o compasso um arco de 8 cm de centro em D com um arco de 5 cm de centro em B. Trace as duas diagonais e meça os quatro segmentos que elas formam a partir do ponto de cruzamento.
+Trace no caderno, nesta ordem:
+
+- com a régua, o lado AB de 8 cm;
+- com o transferidor, um ângulo de 60° em A e, sobre o outro lado desse ângulo, o vértice D a 5 cm de A;
+- com o compasso, o quarto vértice C, cruzando um arco de 8 cm de centro em D com um arco de 5 cm de centro em B.
+
+Trace as duas diagonais e meça os quatro segmentos que elas formam a partir do ponto de cruzamento.
 
 **Responda:** qual propriedade das diagonais do paralelogramo essas quatro medidas comprovam?
 
@@ -19,9 +25,14 @@ Trace no caderno, com a régua, o lado AB de 8 cm; marque com o transferidor um 
 
 **2.** Construa quatro quadriláteros de famílias diferentes e organize-os em um diagrama de inclusão que mostre quais famílias contêm quais.
 
-Construa com régua, compasso e transferidor, no caderno, um quadrado, um retângulo que não seja quadrado, um losango que não seja quadrado e um trapézio — o transferidor nos ângulos retos, o compasso para transportar as medidas dos lados que precisam ser iguais.
+Construa no caderno, com régua, compasso e transferidor — o transferidor nos ângulos retos, o compasso para transportar as medidas dos lados que precisam ser iguais:
 
-**Responda, em um diagrama de inclusão que você mesmo traçar:** quais famílias contêm quais? Escreva ao lado de cada família a condição que a define.
+- um quadrado;
+- um retângulo que não seja quadrado;
+- um losango que não seja quadrado;
+- um trapézio.
+
+**Responda, em um diagrama de inclusão que você mesmo traçar, com a condição de cada família escrita ao lado dela:** quais famílias contêm quais?
 
 **Confira você mesmo:** o quadrado tem de aparecer ao mesmo tempo dentro dos retângulos e dentro dos losangos — se ficar fora de um dos dois, o encaixe das famílias está errado; refaça-o.
 
@@ -39,13 +50,17 @@ Trace com o compasso uma circunferência de 5 cm de raio e, sem alterar a abertu
 
 ---
 
-**4.** Explique a quem faltou à aula, em até dez linhas, por que a divisão do contorno pelo diâmetro de objetos redondos diferentes quase nunca dá exatamente 3,14, e por que essa variação não significa que a razão mude de um objeto para outro. Diga também, na explicação, qual é a diferença entre o valor exato dessa razão e o valor aproximado usado nas contas.
+**4.** Explique por que a divisão do contorno pelo diâmetro de objetos redondos diferentes quase nunca dá exatamente 3,14, sem que isso signifique que a razão mude de um objeto para outro.
+
+**Responda, em até dez linhas, para quem faltou à aula:** por que essa divisão quase nunca dá exatamente 3,14, por que essa variação não significa que a razão mude de um objeto para outro, e qual é a diferença entre o valor exato dessa razão e o valor aproximado usado nas contas?
 
 ---
 
 **5.** Diagnostique o erro na afirmação a seguir e trace o contraexemplo que o revela.
 
-Um estudante afirmou: *"Todo losango é quadrado, porque os dois têm os quatro lados iguais."* Trace com régua e compasso um contraexemplo.
+Um estudante afirmou: *"Todo losango é quadrado, porque os dois têm os quatro lados iguais."*
+
+Trace com régua e compasso o contraexemplo que revela o erro.
 
 **Responda:** qual é o erro da afirmação, por que quatro lados congruentes não bastam para que um losango seja quadrado, e qual é a condição que falta?
 
