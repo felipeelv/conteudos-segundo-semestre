@@ -47,7 +47,7 @@
 | 2ª Série | 1 | M2, M3, M4, M9 | INV · FON · ESC · CASO · MC · ESQ · LT · TAB (só com critério novo) · ERR (herdado) | `192d575d` |
 
 Seeds preservados da produção anterior (`CADERNO-Sociologia.md`). Nenhum capítulo novo, nenhum seed novo.
-DEB fora do pool nos dois capítulos: M9 está presente e o liberaria, mas T7 o exclui do caderno de casa; a substituição prescrita por `03-REPERTORIO.md` §4 — ESC.c com objeção obrigatória — ocupa a questão 8 dos dois anos.
+DEB fora do pool nos dois capítulos: M9 está presente e o liberaria, mas T7 o exclui do caderno de casa; a substituição prescrita por `03-REPERTORIO.md` §3 — ESC.c com objeção obrigatória — ocupa a questão 8 dos dois anos.
 ERR na 2ª Série entrou fora do pool derivado dos marcadores (o capítulo não tem M1). Tipo herdado da produção aprovada e mantido pela regra de não re-sortear.
 
 ## 4. Checagem em lote

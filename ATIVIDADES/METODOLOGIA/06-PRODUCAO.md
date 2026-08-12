@@ -311,6 +311,11 @@ Marcados com **✓conf** os itens que trazem conferência embutida — os único
 | localize | encontrar uma fonte que atenda a critérios dados | R7 | trazer o primeiro resultado que apareceu |
 | analise | separar, na fonte, a afirmação, a prova e a lacuna | R7 | resumir a fonte em vez de examiná-la |
 | elabore | produzir o artefato inteiro, do zero | R4, R10 | preencher um modelo já pronto |
+| redija | produzir texto próprio, na extensão e para o destinatário que o comando fixa | R5, R6 | comando sem destinatário nem extensão, que rebaixa a tarefa a "escreva sobre" |
+
+**Três verbos produzem, e o objeto decide qual.** `construa` produz figura **com instrumento** — compasso, transferidor, régua. `elabore` produz o artefato que dispensa instrumento — esquema, tabela, linha do tempo, história em quadrinhos. `redija` produz **texto**. Trocar um pelo outro descaracteriza o tipo, e os dois erros são simétricos: escrever *"desenhe"* onde cabe `construa` é exatamente o que a linha de `construa` nomeia como erro comum, e escrever *"escreva sobre"* onde cabe `redija` apaga o destinatário e a extensão sem os quais [`03`](03-REPERTORIO.md) §1 manda **não usar** `ESC` — a mesma exigência que a checagem 3 do §8 cobra.
+
+`redija` é o verbo de `ESC` e de `RET`, e é ele que sustenta a substituição prescrita para a casa: onde o conteúdo pedia `DEB` e T7 o exclui, entra `ESC` com objeção obrigatória e interlocutor nomeado ([`03`](03-REPERTORIO.md) §3).
 
 ---
 
