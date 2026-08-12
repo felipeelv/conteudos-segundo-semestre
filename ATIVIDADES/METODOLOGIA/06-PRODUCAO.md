@@ -378,7 +378,7 @@ Nada mais de instrução ao professor entra no corpo das questões — o resto v
 
 ## 8. Critérios de rejeição
 
-Antes de aceitar um capítulo gerado, dez checagens. Qualquer **não** manda re-sortear ou reescrever.
+Antes de aceitar um capítulo gerado, doze checagens. Qualquer **não** manda re-sortear ou reescrever.
 
 | # | Pergunta | Se falhar |
 |---|---|---|
@@ -392,8 +392,36 @@ Antes de aceitar um capítulo gerado, dez checagens. Qualquer **não** manda re-
 | 8 | O tempo bate com a faixa da disciplina? (§4.4) | recalibrar |
 | 9 | O enunciado tem instrução de andaime — *"você escolhe"*, *"pode ser qualquer"*, *"não precisa ser"*? | reescrever o enunciado (§7.1) |
 | 10 | O artefato pedido — tabela, esquema, linha do tempo — vem pronto para preencher? | reescrever: quem constrói é o aluno (§7.1) |
+| 11 | A questão depende de outra questão para ser respondida? | reescrever autossuficiente (§8.1) |
+| 12 | A questão exige recurso que não todo aluno tem? | trocar o item (§8.2) |
 
 Checagem em lote, por disciplina, ao final: nenhum tipo acima do teto de T2; todos os dominantes de [`03`](03-REPERTORIO.md) §3 presentes ao menos 1×.
+
+### 8.1 Independência da questão
+
+O professor seleciona quais questões entram na folha, e nem todas entram. Uma questão que depende de outra quebra quando a outra é descartada. Portanto **cada questão precisa ser respondível isoladamente**, sem que nenhuma outra tenha sido feita.
+
+| Não escrever | Escrever |
+|---|---|
+| *"Analise a tabela que você construiu na questão 2"* | *"Construa uma tabela que compare X e Y e analise…"* — a questão recria o próprio objeto |
+| *"Com base no esquema anterior…"* | enunciar de novo o que o esquema mostrava |
+| *"Repita o procedimento do item anterior para…"* | enunciar o procedimento inteiro |
+
+Duas questões **podem** tratar do mesmo conteúdo. O que não podem é compartilhar um objeto construído: cada uma carrega a própria premissa, mesmo ao custo de repetir uma frase de contexto.
+
+### 8.2 Acessibilidade do recurso
+
+Os únicos recursos garantidos a todo aluno são: **o capítulo, o caderno, lápis ou caneta, régua, e a própria observação e raciocínio**. Uma questão que exija qualquer coisa além disso exclui parte da turma e precisa ser trocada.
+
+| Não exigir | Por quê | Substituir por |
+|---|---|---|
+| Termômetro, balança, trena, fita métrica, cronômetro | instrumento de medida não é material escolar | comparação qualitativa, estimativa justificada, ou dado fornecido no enunciado |
+| Celular, computador, internet, aplicativo, câmera | acesso desigual | fonte impressa **ou** digital **ou** o acervo da escola, à escolha |
+| Impressora, recorte de revista ou jornal | consumível que a família paga | o aluno desenha ou transcreve |
+| Visita a local, entrevista com especialista, compra | custo, deslocamento e disponibilidade | observação do próprio cotidiano ou caso descrito no enunciado |
+| Item específico dentro de casa | nem toda casa tem | objeto de uma lista ampla, ou dado dado no enunciado |
+
+`INV` continua válido: o aluno prevê e depois **observa** — sem instrumento. `FON` continua válido, desde que o enunciado aceite fonte impressa, digital ou do acervo da escola, sem exigir uma delas.
 
 ---
 
