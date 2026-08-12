@@ -15,7 +15,13 @@ Entre um grupo e o seguinte, escreva uma frase dizendo o que mudou no Brasil com
 
 **2.** Elabore uma tabela comparando pessoas escravizadas e imigrantes.
 
-Use três critérios: quem decidia a viagem, quem viajava junto — a família inteira ou pessoas separadas da sua família — e o trabalho que cada grupo fez ao chegar. Procure essas informações nas diferentes partes do capítulo.
+Compare os dois grupos por três critérios:
+
+- quem decidia a viagem;
+- quem viajava junto — a família inteira ou pessoas separadas da sua família;
+- o trabalho que cada grupo fez ao chegar.
+
+Procure essas informações nas diferentes partes do capítulo.
 
 ---
 
@@ -25,9 +31,13 @@ Use três critérios: quem decidia a viagem, quem viajava junto — a família i
 
 ---
 
-**4.** Elabore um mapa do Brasil e marque três regiões onde chegaram grupos diferentes de imigrantes.
+**4.** Elabore um mapa do Brasil marcando três regiões onde chegaram grupos diferentes de imigrantes.
 
-Dê um título ao mapa e faça uma legenda dizendo qual grupo foi para onde.
+O mapa precisa ter:
+
+- três regiões marcadas, uma para cada grupo de imigrantes;
+- um título;
+- uma legenda dizendo qual grupo foi para onde.
 
 ---
 

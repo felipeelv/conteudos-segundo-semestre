@@ -7,50 +7,134 @@
 
 ## Capítulo 1 — Independências no Haiti e na América Espanhola
 
-**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos da Revolução Haitiana, de 1791 até a independência, com uma frase de nexo causal entre cada par.
+**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos da Revolução Haitiana, de 1791 até a independência.
 
-**2.** Elabore uma tabela que compare a estrutura social de Saint-Domingue com a de outra colônia americana estudada. Além dos grupos de cada uma, inclua um critério que explique por que a revolução ocorreu ali e não em outro lugar.
+Entre cada par vizinho de marcos, escreva uma frase de nexo causal.
 
-**3.** Leia a parte biográfica do Anexo sobre Toussaint Louverture. Analise-a identificando a trajetória que a fonte descreve, a evidência que oferece sobre sua capacidade militar e política, e o desfecho que ela relata.
+---
 
-**4.** Elabore um mapa esquemático das campanhas de Bolívar e San Martín, marcando as regiões de atuação de cada um e o ponto de encontro entre eles. Legenda e título são obrigatórios.
+**2.** Elabore uma tabela que compare a estrutura social de Saint-Domingue com a de outra colônia americana estudada.
 
-**5.** Elabore uma tabela que compare Bolívar e San Martín. Além das regiões e das estratégias, inclua um critério que explique por que a federação americana pretendida por um deles não se realizou.
+Além dos grupos de cada uma, inclua um critério que explique por que a revolução ocorreu ali e não em outro lugar.
 
-**6.** A independência haitiana foi a única das Américas conduzida por pessoas escravizadas. Decida por que ela provocou reação tão diferente das demais entre as potências da época, apresentando o critério que aplicou, e explique o que isso revela sobre o significado das outras independências.
+---
+
+**3.** Leia a parte biográfica do Anexo sobre Toussaint Louverture e analise a trajetória que a fonte descreve.
+
+**Responda:** que trajetória a fonte descreve, e que evidência ela oferece sobre a capacidade militar e política dele? E que desfecho ela relata?
+
+---
+
+**4.** Elabore um mapa esquemático das campanhas de Bolívar e San Martín.
+
+O mapa precisa trazer:
+
+- título e legenda;
+- as regiões de atuação de cada um dos dois;
+- o ponto de encontro entre eles.
+
+---
+
+**5.** Elabore uma tabela que compare Bolívar e San Martín.
+
+Além das regiões e das estratégias, inclua um critério que explique por que a federação americana pretendida por um deles não se realizou.
+
+---
+
+**6.** Decida por que a independência haitiana provocou entre as potências da época uma reação tão diferente das demais.
+
+A independência haitiana foi a única das Américas conduzida por pessoas escravizadas.
+
+**Responda:** por que ela provocou reação tão diferente das demais entre as potências da época, e que critério você aplicou para decidir? E o que isso revela sobre o significado das outras independências?
 
 ---
 
 ## Capítulo 2 — Independência do Brasil
 
-**1.** Ordene, em uma linha do tempo de 1808 a 1822, pelo menos seis marcos, com uma frase entre cada par explicando o que o anterior tornou possível.
+**1.** Ordene, em uma linha do tempo de 1808 a 1822, pelo menos seis marcos.
 
-**2.** Elabore uma tabela que compare a situação do Brasil antes e depois da chegada da Corte. Além das instituições criadas, inclua um critério que explique por que o retorno ao estatuto colonial se tornou inviável.
+Entre cada par vizinho de marcos, escreva uma frase explicando o que o anterior tornou possível.
 
-**3.** Leia a parte biográfica do Anexo sobre D. Pedro I. Analise-a identificando o que a fonte apresenta sobre suas lealdades divididas, a evidência que oferece, e um aspecto de seu governo que ela não avalia.
+---
 
-**4.** Elabore um esquema que ligue a Revolução Liberal do Porto, as exigências das Cortes portuguesas e a decisão pela independência, com rótulo em cada seta.
+**2.** Elabore uma tabela que compare a situação do Brasil antes e depois da chegada da Corte.
 
-**5.** Descreva as medidas a seguir, indicando em cada caso o efeito econômico que produziu. Escreva, para cada uma, um verbete de quatro a cinco linhas destinado ao glossário da sua turma:
+Além das instituições criadas, inclua um critério que explique por que o retorno ao estatuto colonial se tornou inviável.
+
+---
+
+**3.** Leia a parte biográfica do Anexo sobre D. Pedro I e analise o que a fonte apresenta — e o que ela não avalia.
+
+**Responda:** o que a fonte apresenta sobre as lealdades divididas dele, e que evidência ela oferece? E que aspecto do governo dele ela não avalia?
+
+---
+
+**4.** Elabore um esquema que ligue a Revolução Liberal do Porto, as exigências das Cortes portuguesas e a decisão pela independência.
+
+Cada seta do esquema precisa de um rótulo.
+
+---
+
+**5.** Redija, para o glossário da sua turma, um verbete de quatro a cinco linhas sobre cada medida a seguir, indicando em cada caso o efeito econômico que ela produziu:
 
 a) abertura dos portos
 b) criação do Banco do Brasil
 c) elevação a Reino Unido
 
-**6.** Um estudante escreveu: *"A Independência do Brasil foi pacífica, porque não houve guerra."* Identifique o erro, apresente duas regiões onde houve conflito armado, e reescreva a frase corretamente.
+---
+
+**6.** Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
+
+Um estudante escreveu: *"A Independência do Brasil foi pacífica, porque não houve guerra."*
+
+**Responda:** qual é o erro dessa afirmação, e em que duas regiões houve conflito armado? Reescreva, ao final, a frase corretamente.
 
 ---
 
 ## Capítulo 3 — Primeiro Reinado e Período Regencial
 
-**1.** Ordene, em uma linha do tempo de duas faixas cobrindo 1822 a 1840, os marcos políticos nacionais na faixa superior e as revoltas regionais na inferior. Estabeleça pelo menos três ligações cruzadas, cada uma com uma frase de nexo causal dizendo como o marco de uma faixa se relaciona com o da outra.
+**1.** Ordene, em uma linha do tempo de duas faixas cobrindo 1822 a 1840, os marcos políticos nacionais e as revoltas regionais.
 
-**2.** Elabore uma tabela que compare três revoltas regenciais. Além da região e do período, inclua uma coluna com a reivindicação central e outra com o desfecho de cada uma.
+A linha do tempo precisa trazer:
 
-**3.** Leia a parte biográfica do Anexo sobre Frei Caneca. Analise-a identificando a posição política que a fonte atribui a ele, a evidência apresentada, e o desfecho que ela relata.
+- na faixa superior, os marcos políticos nacionais;
+- na faixa inferior, as revoltas regionais;
+- pelo menos três ligações cruzadas entre as duas faixas, cada uma com uma frase de nexo causal dizendo como o marco de uma faixa se relaciona com o da outra.
 
-**4.** Elabore um mapa esquemático do Brasil marcando as regiões onde ocorreram as revoltas regenciais estudadas. Legenda e título são obrigatórios.
+---
 
-**5.** Um estudante escreveu: *"O Golpe da Maioridade aconteceu porque Pedro II já estava pronto para governar."* Identifique o erro, apresente a razão política que o capítulo aponta, e reescreva a frase corretamente.
+**2.** Elabore uma tabela que compare três revoltas regenciais.
 
-**6.** O Período Regencial foi o mais instável da história do Império. Decida se essa instabilidade decorreu da ausência de um imperador ou de conflitos que já existiam antes, apresentando o critério, e explique o que o Golpe da Maioridade resolveu e o que não resolveu.
+A tabela precisa trazer, para cada uma das três revoltas:
+
+- a região e o período em que ocorreu;
+- a reivindicação central;
+- o desfecho.
+
+---
+
+**3.** Leia a parte biográfica do Anexo sobre Frei Caneca e analise a posição política que a fonte lhe atribui.
+
+**Responda:** que posição política a fonte atribui a ele, e que evidência ela apresenta? E que desfecho ela relata?
+
+---
+
+**4.** Elabore um mapa esquemático do Brasil marcando as regiões onde ocorreram as revoltas regenciais estudadas.
+
+Legenda e título são obrigatórios.
+
+---
+
+**5.** Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
+
+Um estudante escreveu: *"O Golpe da Maioridade aconteceu porque Pedro II já estava pronto para governar."*
+
+**Responda:** qual é o erro dessa afirmação, e que razão política o capítulo aponta? Reescreva, ao final, a frase corretamente.
+
+---
+
+**6.** Decida se a instabilidade do Período Regencial decorreu da ausência de um imperador ou de conflitos anteriores a ela.
+
+O Período Regencial foi o mais instável da história do Império.
+
+**Responda:** a instabilidade decorreu da ausência de um imperador ou de conflitos que já existiam antes, e que critério você aplicou? E o que o Golpe da Maioridade resolveu, e o que não resolveu?

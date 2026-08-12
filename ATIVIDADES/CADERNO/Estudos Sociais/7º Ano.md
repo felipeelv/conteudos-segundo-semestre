@@ -7,46 +7,141 @@
 
 ## Capítulo 1 — Urbanização do Brasil
 
-**1.** Elabore um gráfico com os dados de taxa de urbanização de 1940 a 2022 apresentados no capítulo, no tipo adequado à natureza desses dados, e justifique por que esse tipo é o adequado. Escreva embaixo do gráfico uma frase com a conclusão que ele permite tirar sobre o ritmo da urbanização brasileira.
+**1.** Elabore um gráfico com os dados de taxa de urbanização de 1940 a 2022 apresentados no capítulo, no tipo adequado à natureza desses dados.
 
-**2.** Ordene, em uma linha do tempo de duas faixas, os marcos da industrialização na faixa superior e os da urbanização na inferior. Estabeleça pelo menos três ligações cruzadas com frase de nexo causal.
+**Responda, embaixo do gráfico:** por que esse tipo de gráfico é o adequado para esses dados, e que conclusão ele permite tirar sobre o ritmo da urbanização brasileira?
 
-**3.** Elabore um esquema da hierarquia urbana com os quatro níveis estudados, indicando em cada um um serviço característico e o alcance dele. Ligue cada nível ao de alcance maior com uma seta rotulada dizendo qual serviço leva os moradores de um a procurar o outro.
+---
 
-**4.** Leia a parte biográfica do Anexo sobre Celso Furtado. Analise-a identificando o que ele estudou sobre as desigualdades regionais brasileiras, a evidência que a fonte apresenta, e um aspecto da urbanização que ela não discute.
+**2.** Ordene, em uma linha do tempo de duas faixas, os marcos da industrialização e os da urbanização.
 
-**5.** Localize, em fonte impressa, digital ou do acervo da escola, a população do seu município e a de dois municípios vizinhos. Registre a fonte e o ano, e classifique os três na hierarquia urbana, justificando pela oferta de serviços de cada um.
+A linha do tempo precisa trazer:
 
-**6.** Um estudante escreveu: *"O Brasil é urbano porque a maior parte do território é ocupada por cidades."* Identifique o erro, explique a diferença entre território ocupado e população residente, e reescreva a frase corretamente.
+- na faixa superior, os marcos da industrialização;
+- na faixa inferior, os marcos da urbanização;
+- pelo menos três ligações cruzadas entre as duas faixas, cada uma com frase de nexo causal.
+
+---
+
+**3.** Elabore um esquema da hierarquia urbana com os quatro níveis estudados.
+
+O esquema precisa trazer:
+
+- em cada nível, um serviço característico e o alcance dele;
+- uma seta ligando cada nível ao de alcance maior, rotulada com o serviço que leva os moradores de um a procurar o outro.
+
+---
+
+**4.** Leia a parte biográfica do Anexo sobre Celso Furtado e analise o que a fonte discute — e o que deixa de discutir — sobre a urbanização.
+
+**Responda:** o que Celso Furtado estudou sobre as desigualdades regionais brasileiras, e que evidência a fonte apresenta? E que aspecto da urbanização ela não discute?
+
+---
+
+**5.** Localize a população do seu município e a de dois municípios vizinhos, e classifique os três na hierarquia urbana.
+
+Procure em fonte impressa, digital ou do acervo da escola.
+
+**Responda:** qual é a população de cada um dos três municípios, e qual é a fonte e o ano do dado? Em que nível da hierarquia urbana cada um se classifica, e o que na oferta de serviços de cada um justifica essa classificação?
+
+---
+
+**6.** Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
+
+Um estudante escreveu: *"O Brasil é urbano porque a maior parte do território é ocupada por cidades."*
+
+**Responda:** qual é o erro dessa afirmação, e qual é a diferença entre território ocupado e população residente? Reescreva, ao final, a frase corretamente.
 
 ---
 
 ## Capítulo 2 — Problemas urbanos
 
-**1.** Percorra um trajeto que você já faz no seu dia a dia e registre por escrito os problemas urbanos que consegue observar nele. Defina as categorias de registro antes de sair. Apresente a contagem por categoria e indique qual problema você esperava encontrar e não apareceu. Observe da calçada e não anote nome nem descrição de nenhuma pessoa.
+**1.** Registre, em categorias definidas antes de sair, os problemas urbanos visíveis em um trajeto que você já faz no seu dia a dia.
 
-**2.** Percorra um trajeto que você já faz no seu dia a dia e elabore um croqui dele, marcando com símbolos os pontos onde há problemas urbanos visíveis. Legenda e título são obrigatórios.
+**Antes de começar, responda por escrito:** em que categorias você vai registrar os problemas urbanos?
 
-**3.** Elabore uma tabela que compare os quatro tipos de problema urbano estudados. Além de uma causa e uma consequência de cada, inclua uma coluna com o nível de governo responsável por enfrentá-lo.
+Percorra o trajeto observando da calçada, sem anotar nome nem descrição de nenhuma pessoa, e anote quantos problemas de cada categoria encontrou.
 
-**4.** Leia a parte biográfica do Anexo sobre Raquel Rolnik. Analise-a identificando a área em que ela atua, a tese que a fonte atribui a ela sobre o direito à moradia, e um contra-argumento que a fonte não apresenta.
+**Responda:** qual é a contagem por categoria, e qual problema você esperava encontrar e não apareceu?
 
-**5.** Elabore um esquema que ligue segregação socioespacial, distância até o emprego e tempo de deslocamento, com um rótulo explicando o mecanismo em cada seta.
+---
 
-**6.** Uma prefeitura tem recursos para uma única obra: uma linha de ônibus ligando a periferia ao centro, ou a regularização fundiária de um bairro sem escritura. Decida qual obra atende ao problema mais urgente, apresentando o critério, e explique o que a outra resolveria que a sua não resolve.
+**2.** Elabore um croqui de um trajeto que você já faz no seu dia a dia, marcando nele os problemas urbanos visíveis.
+
+O croqui precisa trazer:
+
+- título e legenda;
+- o traçado do trajeto percorrido;
+- um símbolo em cada ponto onde há problema urbano visível.
+
+---
+
+**3.** Elabore uma tabela que compare os quatro tipos de problema urbano estudados.
+
+Além de uma causa e uma consequência de cada, inclua uma coluna com o nível de governo responsável por enfrentá-lo.
+
+---
+
+**4.** Leia a parte biográfica do Anexo sobre Raquel Rolnik e analise a tese que a fonte lhe atribui — e o que ela não apresenta.
+
+**Responda:** em que área Raquel Rolnik atua, e que tese a fonte atribui a ela sobre o direito à moradia? E que contra-argumento a fonte não apresenta?
+
+---
+
+**5.** Elabore um esquema que ligue segregação socioespacial, distância até o emprego e tempo de deslocamento.
+
+Cada seta do esquema precisa de um rótulo explicando o mecanismo que produz o efeito seguinte.
+
+---
+
+**6.** Decida qual de duas obras uma prefeitura deve fazer quando os recursos dão para uma só.
+
+Uma prefeitura tem recursos para uma única obra: uma linha de ônibus ligando a periferia ao centro, ou a regularização fundiária de um bairro sem escritura.
+
+**Responda:** qual das duas obras atende ao problema mais urgente, e que critério você aplicou? E o que a outra resolveria que a sua escolha não resolve?
 
 ---
 
 ## Capítulo 3 — Redes de transporte e comunicação
 
-**1.** Elabore um mapa de fluxos que represente os principais eixos de transporte do Brasil, usando os percentuais de participação de cada modal apresentados no capítulo para definir a espessura de cada fluxo. Legenda e título são obrigatórios.
+**1.** Elabore um mapa de fluxos que represente os principais eixos de transporte do Brasil.
 
-**2.** Elabore uma tabela que compare os modais de transporte. Além do custo e da velocidade de cada um, inclua um critério que permita decidir qual usar para uma carga específica.
+O mapa precisa trazer:
 
-**3.** Localize, em fonte impressa, digital ou do acervo da escola, um dado de acesso à internet em uma região ou estado brasileiro. Registre a fonte e o ano, e explique o que a diferença em relação aos 84% de população conectada informados no capítulo revela sobre a exclusão digital.
+- título e legenda;
+- os principais eixos de transporte do país;
+- a espessura de cada fluxo definida pelos percentuais de participação de cada modal apresentados no capítulo.
 
-**4.** Leia a parte biográfica do Anexo sobre Cândido Rondon. Analise-a identificando a obra de comunicação que ele conduziu, a região que ela alcançou, e o efeito sobre os povos indígenas que a fonte menciona sem desenvolver.
+---
 
-**5.** Elabore um esquema que mostre por que a matriz de transportes brasileira é predominantemente rodoviária, ligando decisão política, período histórico e consequência atual, com um rótulo em cada seta dizendo o que produz o efeito seguinte.
+**2.** Elabore uma tabela que compare os modais de transporte.
 
-**6.** Um estudante escreveu: *"Hoje todo mundo tem internet, então a exclusão digital acabou."* Identifique o erro, apresente um dado do capítulo que o contradiga, e reescreva a frase corretamente.
+Além do custo e da velocidade de cada um, inclua um critério que permita decidir qual usar para uma carga específica.
+
+---
+
+**3.** Localize um dado de acesso à internet em uma região ou estado brasileiro e explique o que a diferença em relação ao capítulo revela.
+
+Procure em fonte impressa, digital ou do acervo da escola.
+
+**Responda:** qual é o dado encontrado, e qual é a fonte e o ano dele? E o que a diferença em relação aos 84% de população conectada informados no capítulo revela sobre a exclusão digital?
+
+---
+
+**4.** Leia a parte biográfica do Anexo sobre Cândido Rondon e analise o que a fonte menciona sem desenvolver.
+
+**Responda:** que obra de comunicação Cândido Rondon conduziu, e que região ela alcançou? E que efeito sobre os povos indígenas a fonte menciona sem desenvolver?
+
+---
+
+**5.** Elabore um esquema que mostre por que a matriz de transportes brasileira é predominantemente rodoviária, ligando decisão política, período histórico e consequência atual.
+
+Cada seta precisa de um rótulo dizendo o que produz o efeito seguinte.
+
+---
+
+**6.** Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
+
+Um estudante escreveu: *"Hoje todo mundo tem internet, então a exclusão digital acabou."*
+
+**Responda:** qual é o erro dessa afirmação, e que dado do capítulo a contradiz? Reescreva, ao final, a frase corretamente.

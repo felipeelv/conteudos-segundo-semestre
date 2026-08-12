@@ -15,7 +15,12 @@ Entre um marco e o seguinte, escreva uma frase dizendo o que o anterior tornou p
 
 **2.** Elabore uma tabela comparando o Vale do Paraíba e o Oeste Paulista.
 
-Use como critérios a época em que cada região produziu, o estado do solo e as cidades de cada uma. Acrescente um quarto critério que o capítulo não responde: o que uma região precisaria fazer para continuar produzindo café depois de o solo se desgastar.
+Compare as duas regiões por quatro critérios:
+
+- a época em que cada uma produziu;
+- o estado do solo de cada uma;
+- as cidades de cada uma;
+- o que uma região precisaria fazer para continuar produzindo café depois de o solo se desgastar — este o capítulo não responde.
 
 **Responda:** a que conclusão você chega a partir do que o capítulo conta?
 
@@ -61,7 +66,13 @@ Entre uma lei e a seguinte, escreva o que a anterior deixou sem resolver.
 
 **2.** Elabore uma tabela comparando a Lei do Ventre Livre e a Lei dos Sexagenários.
 
-Use como critérios quem cada lei alcançava, a partir de quando ela valia e o que a pessoa liberta recebia junto com a liberdade. Termine com uma linha final escrevendo em que as duas leis se parecem.
+Compare as duas leis por três critérios:
+
+- quem cada lei alcançava;
+- a partir de quando ela valia;
+- o que a pessoa liberta recebia junto com a liberdade.
+
+Termine com uma linha final escrevendo em que as duas leis se parecem.
 
 ---
 
@@ -73,7 +84,12 @@ Use como critérios quem cada lei alcançava, a partir de quando ela valia e o q
 
 **4.** Elabore uma tabela comparando a situação de uma família imigrante e a de uma pessoa liberta em 1888.
 
-Use os mesmos critérios para as duas: viagem, moradia, trabalho e apoio recebido.
+Use os mesmos quatro critérios para as duas:
+
+- a viagem;
+- a moradia;
+- o trabalho;
+- o apoio recebido.
 
 ---
 

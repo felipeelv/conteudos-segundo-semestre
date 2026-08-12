@@ -309,3 +309,29 @@ Quinta passagem, e a primeira a confrontar **uma a uma** as 102 questões com a 
 - **`CASO.a` sem dado numérico em 8º·1·6 e 9º·1·6.** O item pede *caso com dado numérico + critério explícito*; os dois casos são qualitativos. Critério da grade satisfeito nos dois; corrigir exige re-sortear item, que nenhuma passagem foi autorizada a fazer.
 
 Contagem ao fim da rodada, contada nos arquivos: **6 arquivos-ano · 17 capítulos · 102 questões** — idêntica à seção 1 e às 102 linhas da grade. Nenhuma folha ganhou sigla, rubrica, seed ou instrução ao professor; nenhuma correção criou dependência entre questões, exigiu recurso fora do §8.2 ou interação com outra pessoa.
+
+### 5.5 Refino §7.1 v2 — 12/08
+
+A disciplina entrou nesta rodada com **quatro das seis folhas ainda em comando corrido**, e nenhum registro anterior dizia isso. A reformatação de `812c490` tocou apenas 4º e 5º ano; **6º, 7º, 8º e 9º nunca entraram** — as 78 questões eram parágrafo único, sem um único bloco `Responda:`. A seção 5.4, escrita no mesmo dia, fala em *"o furo que a reformatação §7.1 podia ter aberto"* nas 102 questões, quando 78 delas jamais haviam sido reformatadas. As seis folhas agora estão no mesmo molde.
+
+Contagem inalterada: **6 arquivos-ano · 17 capítulos · 102 questões**. Verificação determinística contra `git HEAD`, folha a folha: nenhum número perdido, nenhuma citação de estudante perdida, e **nenhum nome próprio do Anexo perdido** — os dezenove biografados (Moisés, Ibn Battuta, Ciro, Celso Furtado, Raquel Rolnik, Cândido Rondon, Toussaint Louverture, D. Pedro I, Frei Caneca, Robert Schuman, Muhammad Yunus, Deng Xiaoping, Yitzhak Rabin, Claude Lévi-Strauss, Manuel Querino, Dom Pedro II, Luiz Gama, Bolívar e San Martín) foram conferidos um a um.
+
+**Comando corrido: de 78 questões para 0.** `Responda:` sobe de **10 para 44**.
+
+**O verbo `leia` nas 17 questões de Anexo.** Estudos Sociais é a única disciplina com anexo (M5), e as `FON` de biografia abrem em `leia` — não em `localize`, que §6 reserva à fonte que o aluno ainda precisa encontrar. As dezessete passaram a ter a estrutura `leia … e analise` na síntese e a entrega em `Responda:`, com a lacuna da fonte (*o que ela não menciona*, *o que não avalia*, *o contra-argumento ausente*) sempre no último tempo da pergunta — que é exatamente o que R7 pesa e o que a redação corrida anterior deixava enterrado no fim do parágrafo.
+
+**Checagem 2:** extraído o verbo de abertura das 102 questões e confrontado com os 22 do banco §6 — **102 de 102** com verbo de banco no comando. As `ERR` que abriam em *Identifique* passaram a `Diagnostique` (todos os anos aqui são 6º ou acima); as duas `ESC.b` que abriam em *Descreva … Escreva, para cada um, um verbete* (6º Cap. 3 Q5 e 8º Cap. 2 Q5) passaram a `Redija`, o verbo prescrito de ESC/RET.
+
+**Blocos:** `Responda:` **44** · `Antes de começar, responda por escrito:` **2** · `Registre:` **0** · `Confira você mesmo:` **0**.
+
+O `Antes de começar` novo é a `INV.c` do 7º Cap. 2 Q1, cuja grade cobra *categorias antes* — a exigência já estava no enunciado (*"Defina as categorias de registro antes de sair"*), sem rótulo. **Só as categorias entraram no bloco.** A expectativa (*"qual problema você esperava encontrar e não apareceu"*) ficou no `Responda:`, como estava: promovê-la a previsão rotulada seria inventar exigência que o enunciado não fazia.
+
+**Um `Registre:` foi escrito e desfeito**, pelo mesmo critério aplicado em Ciências na mesma rodada: o percurso do 7º Cap. 2 Q1 é observação de sessão única, e o §7.1 reserva o bloco a registro contínuo ou periódico. A contagem por categoria voltou para a execução. A disciplina fecha com zero `Registre:` — nenhuma das 102 questões tem observação repetida no tempo.
+
+**Marcador de caso (b): 18 questões.** As oito `VIS.a`/`VIS.d` de mapa (título + legenda + elementos), as quatro `LT.c` de linha do tempo de duas faixas (faixa superior + faixa inferior + ligações cruzadas), o `MC.a` e o `ESQ.a` do 9º Cap. 4, e quatro `TAB` cujos critérios de comparação vinham encadeados em prosa. Critério: três ou mais requisitos paralelos numa mesma frase. Em 4º e 5º ano a lista ficou curta e em linguagem direta, como a faixa etária exige — e é justamente ali que ela rende mais: *"quem decidia a viagem / quem viajava junto / o trabalho na chegada"* é o critério que a grade do 4º Cap. 1 Q2 cobra, e em prosa ele se perdia no meio da frase.
+
+**Nenhuma linha da grade mudou.** As 102 foram confrontadas com a seção 2 depois da reescrita. Conferidas com atenção as cinco que a revisão 5.4 tinha acabado de corrigir — 6º·3·1, 7º·1·3, 7º·3·5, 8º·3·1 e 9º·2·6 —: as exigências reinstaladas naquela passagem (nexo causal, seta rotulada, frase de nexo em cada ligação cruzada, *fatores* no plural) estão todas de pé na nova redação.
+
+**As três lacunas da seção 5.4 continuam abertas** — `TAB.b` do 5º·2·4 sem linha de semelhança, R7 sem o que medir nas quatro `FON.a` de EF1, `CASO.a` sem dado numérico em 8º·1·6 e 9º·1·6. Todas são de item ou de rubrica, nenhuma de formulação, e fechá-las exige re-sortear item — o que esta passada não faz.
+
+**Uma observação nova, para a coordenação.** Cinco `ESC.b` de EF1 e EF2 mandam escrever verbete *"destinado ao glossário da sua turma"* (4º Cap. 1 Q5 e Cap. 2 Q5, 5º Cap. 1 Q5 e Cap. 2 Q6, 6º Cap. 3 Q5, 8º Cap. 2 Q5). O destinatário não exige ação de outra pessoa, então não viola o §8.3, mas as outras onze disciplinas usam *"o glossário do seu caderno"*. **Não foi alterado**: mudar o destinatário é mexer no que R5 mede, não em como a questão pede.
