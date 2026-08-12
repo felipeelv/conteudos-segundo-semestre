@@ -78,7 +78,7 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 2 | 6 | RED.a | R6 | dois predicados nominais sublinhados |
 | 3 | 1 | EX.a | R1 | a conferência singular/plural |
 | 3 | 2 | EX.d | R1 | o núcleo, não o adjunto |
-| 3 | 3 | TAB.a | R10 | decisão em frase nova |
+| 3 | 3 | TAB.a | R10 | exemplo próprio e erro frequente em cada caso |
 | 3 | 4 | EX.c | R1 | a concordância ajustada na inversão |
 | 3 | 5 | ERR.a | R11 | *a gente* como núcleo singular |
 | 3 | 6 | FON.a | R7 | fonte registrada; sujeito e verbo marcados |
@@ -382,3 +382,67 @@ Correções aplicadas na conferência das folhas depois de escritas. Também aqu
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (21 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos. Também reescrita a Q6 do cap. 3 do 4º Ano (bilhete combinando encontro): o leitor do bilhete deixou de ser 'um colega' e a conferência passou a 'quem ler tem de saber quando e onde'.
+
+### Reformatação §7.1
+
+As 8 folhas passaram ao molde de [`06-PRODUCAO.md`](../../METODOLOGIA/06-PRODUCAO.md) §7.1: **enunciado-síntese com verbo do banco do §6 → execução em prosa compacta → blocos rotulados de entrega**. Escopo inalterado — 8 arquivos-ano, 28 capítulos, 174 questões, mesma numeração, mesmos títulos, e **nenhuma questão trocou de tipo, de rubrica ou de critério**: a grade da seção 2 continua valendo linha a linha. Também não mudou nenhuma especificação técnica (itens `a) b) c) d)`, trechos citados, extensões em linhas, destinatários, listas de suportes de fonte).
+
+#### Blocos rotulados por ano
+
+| Ano | Questões | `Responda:` | `Confira você mesmo:` | `Antes de começar…` | `Registre:` |
+|---|---:|---:|---:|---:|---:|
+| 4º Ano | 25 | 15 | 9 | — | — |
+| 5º Ano | 18 | 11 | 6 | — | — |
+| 6º Ano | 25 | 14 | 5 | — | — |
+| 7º Ano | 25 | 15 | 5 | — | — |
+| 8º Ano | 18 | 12 | 2 | — | — |
+| 9º Ano | 12 | 5 | 4 | — | — |
+| 1ª Série | 18 | 13 | 3 | — | — |
+| 2ª Série | 33 | 20 | 8 | — | — |
+| **Total** | **174** | **105** | **42** | **0** | **0** |
+
+- **`Confira você mesmo:` — 42 questões.** É exatamente o número de conferências que já existiam em prosa nas folhas, sob a forma *"Teste: …"*, *"Confira: …"* ou *"Depois releia e confira…"*. Nenhuma foi criada e nenhuma foi perdida (checagem 5 do §8 e trava T7). Cada bloco passou a dizer **o que o erro significa**, não só que ele existe — *"a classificação daquele verbo está errada"*, *"o fator apontado não era o responsável"*, *"é essa falha que a segunda versão precisa resolver"*. O registro é calibrado por faixa: frase curta e pergunta direta no 4º e no 5º (*"tire a palavra que você colocou"*), precisão técnica no EM (*"se o pronome não estiver entre o radical do infinitivo e a desinência de futuro, a construção está errada"*).
+  **O que a contagem expôs:** das 56 questões de `EX`, 35 têm conferência declarada — todas as 24 de `EX.a` e as 9 de `EX.c`, mais 2 de `EX.d`. As **21 questões de `EX.d` restantes seguem sem conferência escrita**: nelas o par contrastante é o mecanismo, mas nada na folha manda o aluno usá-lo para se conferir. É uma violação pré-existente de T7 e da checagem 5 do §8, herdada da produção anterior e **preservada** aqui — a reformatação não inventa conferência onde o item não a tem (§7.1). Fechá-la é reescrita de enunciado, não de formato, e fica para a coordenação decidir.
+- **`Responda:` — 105 questões.** Recebeu o bloco toda questão que tinha uma entrega intelectual distinta da execução. As 69 restantes são comando único — verbete com subitens (`ESC.b`), tabela ou mapa direto (`TAB`, `MC`, `ESQ`), reescrita entregue como produto (`RET.a`) — e ficaram só com a síntese, sem `Responda:` forçado.
+- **`Antes de começar, responda por escrito:` e `Registre:` — nenhum.** Português não tem `INV` no pool (M11 proíbe: não há fenômeno a observar numa regra de colocação pronominal) e nenhum item da disciplina pede registro contínuo. Previsão e registro periódico não foram inventados.
+- Acrescentado `---` entre questões, como no protótipo aprovado (`Geometria/8º Ano.md`).
+
+#### Trocas de verbo do comando
+
+123 das 174 questões trocaram o verbo de abertura; 51 já abriam com verbo do banco (`Localize` 19, `Reescreva` 23, `Classifique` 7, `Pesquise` 1, `Justifique` 1) e foram preservadas.
+
+| De | Para | Nº | Onde |
+|---|---|---:|---|
+| `Construa uma tabela / um mapa` | **Elabore** | 28 | todos os `TAB` e `MC` — artefato sem instrumento; *"construa uma tabela"* é o erro nomeado no §6 |
+| `Empregue a mesóclise / a ênclise` | **Elabore** | 2 | 2ª Série cap. 2 Q1 e cap. 3 Q1 |
+| `Converta em fluxograma` | **Elabore** | 1 | 2ª Série cap. 4 Q2 (`ESQ.a`) |
+| `Escreva três frases suas` | **Elabore** | 1 | 5º Ano cap. 1 Q4 (`EX.c`) |
+| `Escreva…` | **Redija** | 23 | todos os `ESC`, `RET` e `RED` que abriam em *"Escreva"*, com destinatário e extensão preservados |
+| `Um estudante escreveu… / Dois revisores…` | **Diagnostique** | 21 | `ERR` do 6º Ano à 2ª Série |
+| `Um estudante escreveu… / Descubra o erro` | **Explique o que está errado** | 7 | `ERR` do 4º e do 5º Ano — *diagnostique* é verbo de outra idade |
+| `Leia as duas frases… Escreva…` | **Explique** | 19 | pares contrastantes (`EX.d`) e questões de mecanismo |
+| `Leia / Identifique / Descubra / Escreva qual` | **Classifique** | 7 | questões cuja entrega é aplicar critério a casos |
+| `Corrija / Transforme / Escreva três vezes / Leia e resolva` | **Reescreva** | 6 | `EX.a`, `EX.c` e `RET` de correção e transformação |
+| `Complete / Posicione / Um autor escreve…` | **Decida** | 5 | escolha entre formas sob critério explícito (`EX.a`, `CASO.c`) |
+| `Separe / Identifique quem praticou / Uma escola divulgou…` | **Analise** | 3 | decomposição da forma verbal e leitura do que a construção deixa de fora |
+
+### Checagem semântica folha × grade — 12/08
+
+Conferência questão a questão das **174** linhas da seção 2 contra o texto reformatado das 8 folhas, buscando o furo que a reformatação §7.1 podia ter aberto: entrega que mudou sem que o critério da grade acompanhasse. **169 casaram; 5 divergiram.** Nenhuma questão trocou de tipo, de rubrica ou de critério.
+
+| Ano | Cap | Q | Critério da grade | O que a folha pedia | Ação |
+|---|---:|---:|---|---|---|
+| 4º Ano | 4 | 6 | fonte registrada; **três circunstâncias distintas** | três frases com advérbio "de modo, de intensidade **ou** de negação" — as três podiam ser do mesmo tipo | folha corrigida: *"sem repetir o mesmo tipo nas três"* |
+| 5º Ano | 2 | 6 | **dois predicados nominais sublinhados** | sublinhar as *características atribuídas*, não os predicados | folha corrigida: sublinhar cada predicado por inteiro, com a característica dentro do trecho |
+| 5º Ano | 3 | 3 | decisão em frase nova | exemplo próprio e erro frequente (o teste já estava no capítulo) | **grade corrigida** — a linha não acompanhou a revisão de §8 nº 9 · §8 nº 1 já registrada em 5.1 |
+| 7º Ano | 4 | 7 | `ESC.c` · R5 — objeção obrigatória | parágrafo com extensão, **sem destinatário**: R5 mede "adequação ao destinatário indicado" e ficava sem objeto | folha corrigida: leitor hipotético que sustenta a posição contrária (§8.3) |
+| 2ª Série | 4 | 7 | `ESC.c` · R5 — objeção e gênero de cada forma | idem: extensão sem destinatário | folha corrigida: leitor hipotético que sustenta as duas formas intercambiáveis (§8.3) |
+
+As duas correções de `ESC.c` fecham a checagem nº 3 do §8 nos únicos dois `ESC` da disciplina que ainda não nomeavam destinatário — os dez restantes já o traziam.
+
+**Pendência levantada e não corrigida.** `7º Ano cap. 2 Q6` é `RED.b`/R6 e entrega duas versões *contrastantes* (ativa e passiva), não um ciclo versão 1 → versão 2. O critério da grade — *a justificativa da escolha editorial* — está sendo pedido e casa com a folha, mas os 2 pontos de R6 para "ganho da versão 2 sobre a versão 1" não têm o que medir. Fechar isso é reescrever a tarefa, não o enunciado, e mudaria o que a questão cobra; fica para a coordenação. Os demais `RED` da disciplina já receberam ciclo de reescrita em 5.1.
+
+Duas notas sobre o banco, para a próxima revisão do §6:
+
+- **`EX`/R1 continua sem verbo próprio fora do cálculo.** `calcule` resolveu o exercício de conta, mas não o exercício metalinguístico, que é o `EX` desta disciplina inteira. As 56 questões de `EX` foram abertas com `Classifique`, `Explique`, `Reescreva`, `Decida`, `Analise` e `Elabore` — todos do banco, nenhum listado como compatível com R1. É a mesma lacuna já registrada no `CLAUDE.md` da raiz, agora medida: **56 questões**.
+- **`ERR` em EF1 exige a perífrase.** *"Explique o que está errado"* mantém `Explique` (banco, R11) e evita `diagnostique` no 4º e no 5º Ano. Vale acrescentar a perífrase ao §6 como forma canônica de `ERR` em EF1, já que ela é a mesma usada em Estudos Sociais.

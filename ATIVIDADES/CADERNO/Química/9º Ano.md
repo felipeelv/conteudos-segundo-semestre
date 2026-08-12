@@ -36,7 +36,7 @@ d) hidróxido de magnésio
 
 **4.** Elabore um esquema que represente o que acontece com uma molécula de HCl ao ser colocada em água, do estado inicial até os íons formados.
 
-Assinale a etapa em que a substância deixa de ser molecular.
+Rotule cada seta com o que ocorre na passagem de uma etapa à seguinte e assinale a etapa em que a substância deixa de ser molecular.
 
 ---
 

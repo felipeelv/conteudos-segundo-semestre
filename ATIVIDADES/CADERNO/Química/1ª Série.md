@@ -15,9 +15,9 @@ Registre, para cada propriedade — raio atômico, energia de ionização, afini
 
 ---
 
-**2.** Elabore um esquema que explique por que o raio atômico diminui ao longo de um período, partindo da carga nuclear até o efeito sobre a camada de valência.
+**2.** Elabore um esquema que explique por que o raio atômico diminui ao longo de um período, partindo da carga nuclear efetiva até o efeito sobre a camada de valência.
 
-Cada seta do esquema precisa de um rótulo.
+Cada seta do esquema precisa de um rótulo, e um dos rótulos deve enunciar a carga nuclear efetiva como a causa da variação.
 
 ---
 

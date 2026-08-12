@@ -39,7 +39,7 @@
 
 ## Capítulo 3 — Império Persa
 
-**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos do Império Aquemênida, de Ciro até o contato com os gregos, com uma frase de ligação entre cada par.
+**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos do Império Aquemênida, de Ciro até o contato com os gregos, com uma frase de nexo causal entre cada par.
 
 **2.** Elabore um mapa esquemático do Império Persa em sua maior extensão, marcando três satrapias e a Estrada Real. Legenda e título são obrigatórios.
 

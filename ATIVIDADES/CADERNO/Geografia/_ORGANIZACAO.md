@@ -176,3 +176,19 @@ Trocas de verbo de abertura (de → para):
 | 2ª Série | 2 | 8 | Escreva | Preveja | INV.c/R8 — previsão antes do levantamento |
 
 As questões cujo verbo apenas subiu para a primeira frase, sem mudar (Explique, Decida, Diagnostique, Redija, Localize), não constam da tabela. Verbo × rubrica (checagem 2), pelo critério estrito, após as trocas: **32 de 32 conformes** — Geografia não tem questão EX, então a lacuna do banco para exercício de cálculo não incide. A seção 4 não tinha linha de checagem 2, portanto nada foi alterado lá; o número fica registrado nesta seção.
+
+### Checagem semântica folha × grade — 12/08
+
+Conferência questão a questão das 32 questões dos dois arquivos-ano contra a coluna *Critério que decide a nota* da seção 2, feita depois da reformatação §7.1 — o risco específico era a reescrita ter perdido uma exigência que a grade continua cobrando. **30 de 32 casaram**; 2 exigências foram reinstaladas na folha. Tipo, rubrica e critério permanecem os mesmos.
+
+| Ano | Cap | Q | O que a grade cobra | O que a folha pedia | Correção |
+|---|---:|---:|---|---|---|
+| 1ª Série | 1 | 1 | *"título, unidades e fonte obrigatórios"* | escalas iguais, unidades (mm e °C) e fonte estavam pedidos; **título não era pedido em nenhum ponto** — R10 mede título com peso 3 e não teria o que medir | execução passa a exigir *"título que nomeie a cidade"* em cada climograma |
+| 1ª Série | 1 | 6 | *"citar os percentuais **e** o critério"* | o **Responda:** cobrava só o critério; os percentuais (40% e 3%) ficaram no enunciado do caso e não eram cobrados na entrega | o **Responda:** passa a pedir *"os dois percentuais de cobertura arbórea e o critério"* — mesma redação da 2ª Série Cap. 2 Q5, que já cobrava o dado |
+
+Nenhuma linha da grade precisou ser corrigida: os critérios da seção 2 continuam válidos e nenhum deles cita "colega" ou outra exigência revogada pelo §8.3.
+
+Duas observações que **não** foram tratadas como divergência de nota, por não afetarem o critério declarado:
+
+- **2ª Série Cap. 1 Q1 (`LT.a`).** O item `LT.a` do §5 descreve *"marcos dados"*, e a folha manda o aluno escolher pelo menos seis. O critério da grade — nexo causal entre cada par — está integralmente pedido, e R3 tem critério próprio de *seleção pertinente dos marcos* (peso 2), que só existe se o aluno seleciona. Fica registrado como desvio de item, não de formulação.
+- **1ª Série Cap. 1 Q7 (`FON.c`).** O item `FON.c` fala em gráfico ou tabela, e o insumo aqui é reportagem. O critério da grade (*a série histórica ausente no texto*) está pedido, e a folha ainda cobra veículo e data. Mesma situação da revisão anterior, que preservou o tipo.

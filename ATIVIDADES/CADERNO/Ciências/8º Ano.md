@@ -31,7 +31,7 @@
 
 **3.** Elabore uma tabela a partir de três sementes ou frutos que você já tenha visto — no prato, na rua ou numa planta do bairro —, um para cada agente de dispersão. Em cada linha, registre a característica que você observou naquela semente, o agente que essa característica indica e o que aconteceria com a dispersão dela se esse agente desaparecesse do lugar.
 
-**4.** Elabore um esquema do percurso da polinização até a formação do fruto, indicando em cada etapa o que se transforma em quê.
+**4.** Elabore um esquema do percurso da polinização até a formação do fruto, com cada etapa nomeada e cada seta rotulada com o que se transforma em quê.
 
 **5.** Um estudante escreveu: *"A planta produz fruto para alimentar os animais."* Identifique o problema dessa explicação, apresente a função do fruto do ponto de vista da planta e reescreva a frase corretamente.
 

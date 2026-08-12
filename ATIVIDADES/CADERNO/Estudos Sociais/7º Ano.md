@@ -11,7 +11,7 @@
 
 **2.** Ordene, em uma linha do tempo de duas faixas, os marcos da industrialização na faixa superior e os da urbanização na inferior. Estabeleça pelo menos três ligações cruzadas com frase de nexo causal.
 
-**3.** Elabore um esquema da hierarquia urbana com os quatro níveis estudados, indicando em cada um um serviço característico e o alcance dele.
+**3.** Elabore um esquema da hierarquia urbana com os quatro níveis estudados, indicando em cada um um serviço característico e o alcance dele. Ligue cada nível ao de alcance maior com uma seta rotulada dizendo qual serviço leva os moradores de um a procurar o outro.
 
 **4.** Leia a parte biográfica do Anexo sobre Celso Furtado. Analise-a identificando o que ele estudou sobre as desigualdades regionais brasileiras, a evidência que a fonte apresenta, e um aspecto da urbanização que ela não discute.
 
@@ -47,6 +47,6 @@
 
 **4.** Leia a parte biográfica do Anexo sobre Cândido Rondon. Analise-a identificando a obra de comunicação que ele conduziu, a região que ela alcançou, e o efeito sobre os povos indígenas que a fonte menciona sem desenvolver.
 
-**5.** Elabore um esquema que mostre por que a matriz de transportes brasileira é predominantemente rodoviária, ligando decisão política, período histórico e consequência atual.
+**5.** Elabore um esquema que mostre por que a matriz de transportes brasileira é predominantemente rodoviária, ligando decisão política, período histórico e consequência atual, com um rótulo em cada seta dizendo o que produz o efeito seguinte.
 
 **6.** Um estudante escreveu: *"Hoje todo mundo tem internet, então a exclusão digital acabou."* Identifique o erro, apresente um dado do capítulo que o contradiga, e reescreva a frase corretamente.

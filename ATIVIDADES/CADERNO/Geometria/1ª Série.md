@@ -21,7 +21,7 @@ Construa com o compasso, no caderno, seis pares de circunferências de raios 3 c
 
 Construa com o compasso uma circunferência de 5 cm de raio e centro O e trace um diâmetro AB, que mede 10 cm. Marque sobre a curva três pontos P, Q e R em posições distintas e trace os segmentos que ligam cada um deles às extremidades A e B. Meça com o transferidor o ângulo central de vértice em O correspondente ao arco AB e os três ângulos de vértice em P, Q e R.
 
-**Responda:** qual relação entre o ângulo central e os ângulos inscritos essas medidas comprovam?
+**Responda:** quais são as quatro medidas obtidas com o transferidor — o ângulo central e os três inscritos — e qual relação entre o ângulo central e os ângulos inscritos elas comprovam?
 
 **Confira você mesmo:** some os três ângulos internos de cada triângulo formado — a soma tem de dar 180°. Se não der, a medição com o transferidor está errada; refaça-a.
 

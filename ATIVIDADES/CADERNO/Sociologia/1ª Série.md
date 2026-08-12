@@ -27,7 +27,7 @@ Percorra o caminho observando as ocupações em funcionamento e conte quantas en
 
 **3.** Elabore um esquema da divisão técnica do trabalho na produção de um objeto de uso diário — um caderno, uma camiseta, um pão ou um par de sapatos.
 
-Nomeie cada etapa, indique quem executa e assinale o ponto em que o produto deixa de ser reconhecível como obra de uma pessoa só.
+Nomeie cada etapa, indique quem executa e ligue as etapas por setas rotuladas — cada seta diz o que passa de uma etapa para a seguinte. Assinale o ponto em que o produto deixa de ser reconhecível como obra de uma pessoa só.
 
 ---
 
@@ -50,9 +50,9 @@ Uma fábrica com 40 trabalhadores pode aumentar a produção de duas maneiras: r
 
 **6.** Pesquise dados oficiais sobre a distribuição da população ocupada brasileira entre os setores da economia e identifique a que forma histórica de trabalho eles correspondem.
 
-Consulte fonte impressa, digital ou o acervo da biblioteca da escola e registre a referência — órgão, ano e pesquisa consultada.
+Consulte fonte impressa, digital ou o acervo da biblioteca da escola e registre a referência — órgão, ano, pesquisa consultada e para que ela foi produzida.
 
-**Responda:** a que forma histórica de trabalho, entre as descritas no capítulo, esses números correspondem?
+**Responda:** a que forma histórica de trabalho, entre as descritas no capítulo, esses números correspondem, e o que esses números não informam sobre as condições em que esse trabalho é feito?
 
 ---
 

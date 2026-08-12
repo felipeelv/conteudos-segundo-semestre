@@ -33,7 +33,7 @@
 
 **5.** Elabore uma tabela que compare três das religiões ou tradições culturais asiáticas estudadas. Além da região de origem e do princípio central de cada uma, inclua uma coluna com a influência sobre a organização social local.
 
-**6.** Um estudante escreveu: *"A Ásia é o continente mais populoso porque tem o maior território."* Identifique o erro, apresente o fator que de fato explica a concentração populacional asiática, e reescreva a frase corretamente.
+**6.** Um estudante escreveu: *"A Ásia é o continente mais populoso porque tem o maior território."* Identifique o erro, apresente os fatores que de fato explicam a concentração populacional asiática, e reescreva a frase corretamente.
 
 ---
 

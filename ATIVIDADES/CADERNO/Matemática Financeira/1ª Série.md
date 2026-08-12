@@ -35,7 +35,7 @@ c) Some 10 a cada um dos seis valores e refaça a sequência inteira sobre a nov
 
 ---
 
-**4.** Redija, para quem ainda não estudou dispersão, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "unidade", "média" e "espalhamento", e feche com uma situação em que aquela medida sozinha levaria a uma conclusão errada:
+**4.** Redija, para quem ainda não estudou dispersão, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "unidade", "média" e "espalhamento", diga em que unidade aquela medida se expressa, e feche com uma situação em que aquela medida sozinha levaria a uma conclusão errada:
 
 a) amplitude
 b) variância

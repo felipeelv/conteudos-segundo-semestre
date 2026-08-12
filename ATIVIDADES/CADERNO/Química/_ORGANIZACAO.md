@@ -142,3 +142,21 @@ Trocas de verbo de abertura (inclui as da primeira passada, na 1ª Série, recup
 | 9º Ano | 1 | 7 | (abertura narrativa; "diagnostique" interno) | diagnostique |
 
 Checagem 2 (verbo × rubrica) após a reformatação, pelo critério estrito: **22 de 22 aberturas conformes** — todas com verbo do banco §6 compatível com a rubrica da grade. A disciplina não tem questão EX, então a lacuna conhecida do verbo de cálculo não gera não-conformidade aqui. A seção 4 não tinha linha própria de checagem 2, portanto nada foi alterado nela.
+
+### Checagem semântica folha × grade — 12/08
+
+Terceira passagem, posterior à reformatação §7.1: cada uma das 22 questões foi confrontada com a sua linha da seção 2, para verificar se o que a grade diz que decide a nota continua sendo pedido na folha. Tipo, rubrica e critério preservados em todos os casos; só a folha foi ajustada.
+
+**20 de 22 casaram.** Duas exigências tinham se perdido na reescrita:
+
+| Ano | Cap | Q | Tipo · Rubrica | O que a grade cobra | O que a folha pedia | Correção aplicada |
+|---|---:|---:|---|---|---|---|
+| 1ª Série | 1 | 2 | ESQ.a · R4 | "carga nuclear efetiva como causa" | "partindo da carga nuclear" — no capítulo, *carga nuclear* aparece em §1 (Moseley, número atômico) e é conceito distinto de *carga nuclear efetiva, Zₑff*, definida em §4 como a causa da variação do raio. O aluno podia montar o esquema inteiro sem chegar ao conceito que a grade cobra | abertura passou a "partindo da carga nuclear efetiva" e a linha de execução passou a exigir que um dos rótulos enuncie a carga nuclear efetiva como causa da variação |
+| 9º Ano | 1 | 4 | ESQ.a · R4 | a etapa de ionização identificada — em esquema ESQ.a, que é fluxograma com **setas rotuladas**, corrigido por R4, cujos 3 pontos de "setas com sentido e rótulo corretos" precisam de seta rotulada para existir | só "Assinale a etapa em que a substância deixa de ser molecular" — nenhuma exigência de rótulo nas setas, ao contrário da ESQ.a equivalente da 1ª Série (Q2), que a traz. R4 ficava com 3 dos 10 pontos sem objeto | linha de execução passou a "Rotule cada seta com o que ocorre na passagem de uma etapa à seguinte e assinale a etapa em que a substância deixa de ser molecular" |
+
+Nenhuma linha da grade precisou ser corrigida: em nenhum caso a folha estava certa e o critério desatualizado. Nenhum critério ainda cita "colega" ou destinatário real — a revisão de §8.3 já os havia removido, e a checagem confirmou os 22.
+
+Duas observações que não viraram correção, por não serem divergência folha × grade:
+
+- **1ª Série Q5 (FON.a).** O item FON.a prevê roteiro com "o que a fonte não diz", que esta questão não pede. O critério da grade, porém, cobra apenas "referência registrada" e o que a confirmação das previsões demonstrou — ambos presentes na folha. Acrescentar a exigência seria mudar o critério, o que esta passagem não faz; e a lacuna já é coberta pela Q6, que é FON.c sobre a limitação não discutida.
+- **1ª Série Q1 (TAB.a · R10).** R10 dá 3 pontos a "legenda, título e escala (quando cabe)" e a folha não pede título para a tabela. O critério da grade não os cobra, e "quando cabe" deixa a aplicação ao professor.

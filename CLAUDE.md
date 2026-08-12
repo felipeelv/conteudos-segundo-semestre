@@ -90,7 +90,7 @@ conteudos-segundo-semestre/
 
 | Conjunto | Bloco | Estado | Onde |
 |---|---|---|---|
-| **Casa** | Bloco 1 | **fechado** · 95/95 capítulos · 47 arquivos-ano · 624 questões | `CADERNO/<Disciplina>/` |
+| **Casa** | Bloco 1 | **fechado** · 95/95 capítulos · 47 arquivos-ano · 624 questões, as 12 disciplinas no formato §7.1 | `CADERNO/<Disciplina>/` |
 | **Casa** | Bloco 2 | parcial · 35 de 98 capítulos, em formato consolidado antigo | `ACERVO/v2-plano-CADERNO/` |
 | **Sala** | ambos | **não produzido** · 0 de 193 | `ATIVIDADES/ATIVIDADES/` vazia |
 
@@ -99,6 +99,7 @@ Três pendências abertas, todas registradas nos `_ORGANIZACAO.md` de cada disci
 - **T8 é inverificável hoje.** A trava compara os tipos de sala e casa do mesmo capítulo, e o conjunto de sala não existe. É a trava de maior prioridade do §4.3 e está aberta nos 95 capítulos. Ao produzir sala, confrontar tipo a tipo com a seção 2 de cada `_ORGANIZACAO.md`.
 - **Travas de distribuição violadas e herdadas** — T6 (mesmo item em capítulos consecutivos), T2/T1 (teto da questão principal), T3 (piso de cobertura), T5. Fechá-las exige **re-sortear tipo**, o que nenhuma revisão fez até agora por decisão explícita: revisão preserva tipo e rubrica.
 - **O banco de verbos do §6 fechou em 22** com `redija` (texto), `leia` (fonte entregue) e `calcule` (`EX`/R1). Restava só produção visual em EF1 sem verbo próprio — `elabore` cobre. Se aparecer nova lacuna, **acrescente o verbo ao §6 antes de reescrever questão**: as três rodadas anteriores mostraram que reescrever para caber num banco incompleto piora o enunciado.
+- **A folha e a grade podem sair de sincronia sem que ninguém perceba.** A checagem que confronta cada `Responda:` com o "Critério que decide a nota" achou 39 divergências em 624 questões — o caso mais comum foi `ESQ` sem pedir seta rotulada, quando R4 reserva 3 dos 10 pontos justamente a isso. **Ao reescrever qualquer enunciado, releia a linha dele na seção 2 do `_ORGANIZACAO.md`**: se o critério cobra algo que a folha deixou de pedir, o professor corrige por um critério que a folha não pede mais.
 
 ---
 

@@ -9,7 +9,7 @@
 
 **1.** Elabore um esquema que represente o trajeto de uma molécula de oxigênio e de uma molécula de glicose, ambas partindo do meio extracelular até alcançar o citoplasma.
 
-Indique, em cada trajeto, a estrutura atravessada, o tipo de transporte envolvido e se há consumo de energia.
+Indique, em cada trajeto, a estrutura atravessada e escreva ao lado de cada seta o tipo de transporte envolvido e se há consumo de energia.
 
 ---
 

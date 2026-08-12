@@ -60,7 +60,7 @@ O texto deve ter sido publicado nos últimos cinco anos, em fonte impressa, digi
 
 Um estudante escreveu: *"O argumento é válido, portanto sua conclusão é verdadeira."* Construa um exemplo de argumento válido cuja conclusão seja falsa.
 
-**Responda:** qual é o erro da afirmação, e em que consiste a distinção entre validade e verdade que ele ignora?
+**Responda:** por que a afirmação é errada, e em que consiste a distinção entre validade e verdade que ela ignora?
 
 ---
 

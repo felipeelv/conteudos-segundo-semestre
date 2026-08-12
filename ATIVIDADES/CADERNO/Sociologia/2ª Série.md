@@ -17,13 +17,13 @@ Compare os dois perfis por dois critérios que a tabela do capítulo não utiliz
 
 **2.** Elabore um esquema que represente o percurso de uma reivindicação, desde a identificação de um problema coletivo até a sua conversão em política pública ou norma legal.
 
-Assinale no esquema a etapa em que a maioria das reivindicações se interrompe.
+Nomeie o que entra e o que sai de cada etapa e ligue-as por setas rotuladas — cada seta diz o que faz a reivindicação avançar de uma etapa para a seguinte. Assinale a etapa em que a maioria das reivindicações se interrompe.
 
 **Responda:** por que é nessa etapa que a maioria das reivindicações se interrompe?
 
 ---
 
-**3.** Redija um verbete de até cinco linhas sobre cada movimento a seguir, dirigido a quem faltou às aulas. Em cada verbete, empregue obrigatoriamente os termos *identidade coletiva*, *adversário* e *projeto*, e explique por que a reivindicação central daquele movimento precisou de mobilização para avançar em vez de ser simplesmente concedida, citando um marco da sua trajetória:
+**3.** Redija um verbete de até cinco linhas sobre cada movimento a seguir, dirigido a quem faltou às aulas. Em cada verbete, empregue obrigatoriamente os termos *identidade coletiva*, *adversário* e *projeto*, aplicados àquele movimento e não repetidos como definição geral, e explique por que a reivindicação central daquele movimento precisou de mobilização para avançar em vez de ser simplesmente concedida, citando um marco da sua trajetória:
 
 a) movimento negro
 b) movimento feminista

@@ -43,7 +43,7 @@ c) elevação a Reino Unido
 
 ## Capítulo 3 — Primeiro Reinado e Período Regencial
 
-**1.** Ordene, em uma linha do tempo de duas faixas cobrindo 1822 a 1840, os marcos políticos nacionais na faixa superior e as revoltas regionais na inferior. Estabeleça pelo menos três ligações cruzadas.
+**1.** Ordene, em uma linha do tempo de duas faixas cobrindo 1822 a 1840, os marcos políticos nacionais na faixa superior e as revoltas regionais na inferior. Estabeleça pelo menos três ligações cruzadas, cada uma com uma frase de nexo causal dizendo como o marco de uma faixa se relaciona com o da outra.
 
 **2.** Elabore uma tabela que compare três revoltas regenciais. Além da região e do período, inclua uma coluna com a reivindicação central e outra com o desfecho de cada uma.
 

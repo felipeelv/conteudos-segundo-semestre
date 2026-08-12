@@ -28,7 +28,7 @@ Dois capítulos que existiam na produção anterior **saíram** desta pasta por 
 | Cap | Q | Tipo | Rubrica | Critério que decide a nota |
 |---|---:|---|---|---|
 | 1 | 1 | LT.a | R3 | uma frase entre cada par — é o critério que mais pesa |
-| 1 | 2 | TAB.a | R10 | colunas definidas pelo aluno; a diferença precisa ficar visível nelas |
+| 1 | 2 | TAB.a | R10 | os três critérios ausentes da tabela do capítulo — quem decidia a viagem, quem viajava junto e o trabalho na chegada — aplicados aos dois grupos, de modo que a diferença fique visível |
 | 1 | 3 | FON.a | R7 | leitura do Anexo; época e contribuição |
 | 1 | 4 | VIS.a | R10 | legenda obrigatória |
 | 1 | 5 | ESC.b | R5 | origem e forma de chegada em cada grupo |
@@ -285,3 +285,27 @@ Em sete das doze linhas do tempo a reescrita moveu a quantidade de marcos para d
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (4 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos. **Exceção com troca de item:** a Q6 do cap. 2 do 4º Ano era `INV.d` (entrevista com adulto do convívio), item que o §8.3 restringe ao conjunto de sala; foi trocada por `ESC.d` · R5 (relato em 1ª pessoa com três fatos verificáveis no capítulo), grade atualizada.
+
+### 5.4 Checagem semântica folha × grade — 12/08
+
+Quinta passagem, e a primeira a confrontar **uma a uma** as 102 questões com a linha da grade, procurando o furo que a reformatação §7.1 podia ter aberto: a entrega mudar de mão sem que o critério de correção acompanhasse. **Tipo, item, rubrica e critério foram preservados nas cinco questões corrigidas** — o que voltou ao enunciado foi exigência que a própria grade já cobrava.
+
+| Ano | Cap | Q | Tipo · Rubr. | O que a grade cobrava e a folha não pedia | O que foi feito |
+|---|---:|---:|---|---|---|
+| 6º | 3 | 1 | `LT.a` · R3 | critério *"nexo causal entre os marcos"*; a folha pedia só *"uma frase de ligação entre cada par"* — ligação sem causalidade não dá o que medir no critério de peso 4 da R3 | *ligação* → *nexo causal*, alinhando com 6º·1·1 e 8º·1·1 |
+| 7º | 1 | 3 | `ESQ.a` · R4 | R4 pesa 3 pontos em *setas com sentido e rótulo* e o item `ESQ.a` é definido como *fluxograma com setas rotuladas*; a folha pedia só serviço e alcance em cada nível, sem nenhuma seta | acrescentada a seta rotulada entre cada nível e o de alcance maior, dizendo qual serviço leva os moradores de um a procurar o outro (ancorado no §4.1 do capítulo) |
+| 7º | 3 | 5 | `ESQ.a` · R4 | mesma falha: *"ligando decisão política, período histórico e consequência atual"* não pede rótulo em seta nenhuma | acrescentado *"com um rótulo em cada seta dizendo o que produz o efeito seguinte"*, na formulação já usada em 9º·4·3 |
+| 8º | 3 | 1 | `LT.c` · R3 | critério *"as três ligações cruzadas"*; a folha mandava *estabelecer* as três, sem exigir a frase que explicita a relação — as outras duas `LT.c` da disciplina (7º·1·2 e 9º·4·2) exigem | acrescentada a frase de nexo causal em cada ligação cruzada |
+| 9º | 2 | 6 | `ERR.a` · R11 | critério *"condições agrícolas e hídricas, não área"* — duas condições; a folha pedia *"o fator"*, no singular, e uma resposta com só uma das duas satisfazia o enunciado sem satisfazer a grade | *o fator que de fato explica* → *os fatores que de fato explicam* |
+
+**Uma correção na grade, não na folha.** A linha `4º · cap 1 · Q2` ainda dizia *"colunas definidas pelo aluno"*, critério anterior à revisão 5.1 — que substituiu a escolha livre pelos três critérios fixos (quem decidia a viagem, quem viajava junto, trabalho na chegada) justamente porque a resposta estava impressa no capítulo e porque *"escolha você as colunas"* é andaime proibido pelo §7.1. A folha está certa desde 5.1; a grade é que não acompanhou. Critério reescrito para o que a folha de fato pede. `TAB.a` · R10 preservados.
+
+**As 96 restantes casaram.** Conferidos, questão a questão: o objeto que o critério nomeia aparece no enunciado; legenda e título estão nas nove `VIS.a`; a linha final de semelhança está na `TAB.b` do 5º·2·2; extensão e destinatário estão nas sete `ESC`; a fonte e o ano estão nas cinco `FON` de dado externo; as sete `CASO` pedem o critério **e** o custo/o que fica sem solução; as duas exigências ligadas por *"e"* nos critérios do 9º·3·2 (modelo **e** limite) e do 5º·1·4 (apoio **e** crítica) estão ambas no enunciado.
+
+**Três lacunas que sobram, todas de item ou de rubrica, nenhuma de critério.** Não foram tocadas porque corrigi-las mudaria a entrega além do que a grade cobra, e a decisão é de coordenação:
+
+- **`TAB.b` do 5º·2·4 sem a linha final de semelhança.** O item a exige e a revisão 5.1 corrigiu exatamente isso na outra `TAB.b` da mesma folha (5º·2·2), mas deixou esta. O critério da grade — *"os mesmos quatro critérios aplicados aos dois casos"* — está satisfeito, então a falha é do item, não da folha contra a grade.
+- **R7 sem o que medir nas quatro `FON.a` de EF1** (4º·1·3, 4º·2·3, 5º·1·4, 5º·2·3). A rubrica pesa 3 pontos em *distingue o que a fonte diz do que não diz*, e nenhuma das quatro pede a lacuna da fonte. É decisão deliberada e documentada no §6 do `06-PRODUCAO.md` (*"mandar analisar uma biografia no 4º ano cobra do aluno de nove anos um verbo de outra idade"*): o `leia` abre e o `Responda:` cobra o que extrair. Fechar exigiria ou mudar a faixa de exigência do EF1, ou anotar na grade que R7 corre com 7 pontos nessas quatro.
+- **`CASO.a` sem dado numérico em 8º·1·6 e 9º·1·6.** O item pede *caso com dado numérico + critério explícito*; os dois casos são qualitativos. Critério da grade satisfeito nos dois; corrigir exige re-sortear item, que nenhuma passagem foi autorizada a fazer.
+
+Contagem ao fim da rodada, contada nos arquivos: **6 arquivos-ano · 17 capítulos · 102 questões** — idêntica à seção 1 e às 102 linhas da grade. Nenhuma folha ganhou sigla, rubrica, seed ou instrução ao professor; nenhuma correção criou dependência entre questões, exigiu recurso fora do §8.2 ou interação com outra pessoa.

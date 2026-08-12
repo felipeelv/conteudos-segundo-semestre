@@ -73,7 +73,7 @@ A informação pode vir de um livro, de uma revista, do acervo da biblioteca da 
 
 Um estudante escreveu: *"A Caatinga é uma Amazônia que deu errado, porque tem poucas árvores e pouca água."*
 
-**Responda:** que ideia errada sobre *ambiente bom* está por trás dessa comparação? Use uma planta ou um animal da Caatinga para mostrar por que essa ideia não se sustenta.
+**Responda:** que ideia errada sobre *ambiente bom* está por trás dessa comparação? Use uma adaptação concreta de uma planta ou de um animal da Caatinga para mostrar por que essa ideia não se sustenta.
 
 ---
 

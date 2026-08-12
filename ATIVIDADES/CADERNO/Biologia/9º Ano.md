@@ -58,7 +58,7 @@ Procure em jornal ou revista impressos, em site de divulgação científica ou n
 
 Um estudante escreveu em seu caderno: *"A asa do morcego e a asa do inseto mostram que os dois tiveram um ancestral comum recente."*
 
-**Responda:** qual é o erro conceitual, qual é o nome correto da relação entre as duas estruturas, e que par de estruturas exemplifica o caso oposto?
+**Responda:** qual é o erro conceitual e por que a semelhança entre as duas asas não permite concluir ancestralidade comum recente, qual é o nome correto da relação entre elas, e que par de estruturas exemplifica o caso oposto?
 
 ---
 

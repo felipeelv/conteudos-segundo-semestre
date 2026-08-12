@@ -56,7 +56,7 @@ Os romanos atribuíam a fundação da cidade a Rômulo e Remo. Avalie o relato s
 
 Um estudante escreveu: *"A República romana era uma democracia, porque o povo elegia os magistrados."*
 
-**Responda:** quais são os dois problemas da afirmação, diante do que o capítulo apresenta sobre a distribuição do voto nos Comícios, e como ela fica reescrita de modo compatível com isso?
+**Responda:** quais são os dois problemas da afirmação, diante do que o capítulo apresenta sobre quem podia votar nos Comícios e sobre o peso que o voto de cada um tinha ali; por que cada um desses dois problemas impede chamar a República de democracia; e como a afirmação fica reescrita de modo compatível com isso?
 
 ---
 

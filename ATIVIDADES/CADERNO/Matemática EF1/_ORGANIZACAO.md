@@ -197,3 +197,61 @@ Pendências que seguem para a coordenação, por valerem as doze disciplinas e n
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (5 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.
+
+### Reformatação §7.1
+
+As **56 questões** dos dois arquivos-ano passaram ao molde de [`06`](../../METODOLOGIA/06-PRODUCAO.md) §7.1 — enunciado-síntese com verbo do banco do §6 · execução em prosa compacta · blocos rotulados para o que o aluno pensa e entrega. Calibre: `CADERNO/Geometria/8º Ano.md`. Contagem inalterada: **2 arquivos-ano · 8 capítulos · 56 questões** (28 + 28). Nenhum tipo, rubrica ou critério da seção 2 foi tocado; nenhuma especificação técnica foi perdida — a conferência de tokens numéricos contra a versão anterior dá multiconjunto idêntico nos dois arquivos.
+
+Duas mudanças que o §6 ampliado tornou possíveis e que fecham pendências abertas na seção anterior: **`calcule` entrou no banco** e resolveu a lacuna de verbo de `EX`/R1 apontada na checagem 2 (as 14 questões que abriam em *Resolva* / *Leia* / *Partindo* / narrativa de personagem); e **`redija`** passou a abrir as questões de `ESC.a` que abriam em *"Escreva um bilhete"*. A pendência de `Descubra` em `ERR.a` foi fechada pela forma prescrita para EF1 — *"Explique o que está errado"* —, sem usar `diagnostique`, pesado para 4º e 5º ano.
+
+**Checagem 2 (verbo do comando) passa agora em 56 de 56.** Antes eram 32 de 56 pelo critério estrito.
+
+#### Blocos ganhos
+
+| Bloco | 4º Ano | 5º Ano | Total |
+|---|---:|---:|---:|
+| **Antes de começar, responda por escrito:** | 3 | 3 | **6** |
+| **Registre:** | 3 | 2 | **5** |
+| **Responda:** | 14 | 15 | **29** |
+| **Confira você mesmo:** | 11 | 8 | **19** |
+
+`Antes de começar` cobre as 6 questões de `INV` da disciplina — as únicas com previsão (4º cap. 1 q. 5, cap. 3 q. 5, cap. 4 q. 7; 5º cap. 1 q. 6, cap. 2 q. 6, cap. 3 q. 7). `Registre:` só onde há registro item a item de dado bruto, separado da conclusão. **Nenhuma previsão e nenhuma conferência foram inventadas**: os 19 blocos `Confira você mesmo:` correspondem, um a um, às conferências que já estavam soltas em prosa nos enunciados — as 17 ocorrências de *"Confira/confira"* mais as duas escritas como *"conferência"* (4º cap. 4 q. 7 e 5º cap. 2 q. 7) —, agora com o que o erro **significa** explicitado em cada uma. A ocorrência de *"conferir se a balança marca zero"* (4º cap. 4 q. 5) não virou bloco: é etapa do esquema que o aluno ordena, não mecanismo de conferência da questão.
+
+As 27 questões sem `Responda:` são comandos únicos — tabela direta, esquema, mapa, bilhete, bloco de cálculo com subitens `a) b) c)` —, em que a síntese já é a entrega. O §7.1 dispensa o bloco nesses casos.
+
+#### Trocas de verbo
+
+| Verbo anterior | Verbo §6 | Qtd. | Onde |
+|---|---|---:|---|
+| *Resolva os três blocos / na ordem* | **Calcule** | 8 | 4º c1q1, c2q1, c3q1, c4q1 · 5º c1q1, c2q1, c2q3, c4q3 |
+| *Leia os dois problemas / as duas igualdades / os dois pares* | **Calcule** | 5 | 4º c1q2, c2q2, c3q2 · 5º c1q2, c2q2 |
+| abertura por narrativa ou dado, sem verbo de comando | **Calcule** | 5 | 4º c2q6 (receita), c2q7 (copo), c3q6 (lista de compras), c4q3 (passos e palmos) · 5º c3q3 (caminho de ida e volta) |
+| *Descubra onde errou* / abertura pelo nome do personagem | **Explique o que está errado** | 8 | 4º c1q4, c2q4, c3q4, c4q2 · 5º c1q4, c2q4, c3q4, c4q2 |
+| *Escreva um bilhete* | **Redija** | 4 | 4º c1q7, c3q7, c4q6 · 5º c1q7 |
+| *Escreva primeiro a sua previsão* | **Preveja** | 6 | 4º c1q5, c3q5, c4q7 · 5º c1q6, c2q6, c3q7 |
+| *Conte quantos lápis, canetas e borrachas* | **Elabore** | 1 | 5º c2q7 |
+| abertura por dado, com o verbo de produção no meio | **Elabore** | 4 | 4º c2q5, c4q5 · 5º c3q6, c4q5 |
+| abertura por dado, com o verbo de decisão no meio | **Decida** | 2 | 4º c4q4 · 5º c4q7 |
+| abertura pela regra, com *construa* e *decida* no meio | **Construa … decida** | 1 | 5º c4q4 |
+| *Com a régua, construa* no meio do enunciado | **Construa** (na síntese) | 6 | 4º c1q3, c1q6 · 5º c3q1, c3q2, c3q5, c4q1 |
+
+**44 das 56 questões** trocaram o verbo de comando ou o promoveram do meio do enunciado para a síntese. As 12 restantes já abriam por verbo do banco na posição certa — `Elabore` em 4º c2q3, c3q3 e 5º c1q3, c1q5, c2q5; `Relacione` em 5º c4q6 — ou receberam só a separação em blocos.
+
+Duas observações de forma, para a próxima auditoria:
+
+- **4º cap. 1 q. 4** mantém o substantivo *desenho* (*"use um desenho para mostrar o erro"*). É o objeto que o critério da grade exige, não o verbo do comando — o verbo é `Explique`. Zero ocorrências de *desenhe*, *monte* e *escreva sobre* como verbo de comando nos dois arquivos.
+- **4º cap. 4 q. 3** e **5º cap. 4 q. 4** fecham o `Responda:` com pergunta seguida de *"Justifique…"*. A forma principal é a pergunta, e `justifique` é o verbo de R12 que a grade cobra — os dois convivem no mesmo bloco de propósito.
+
+### Checagem semântica folha × grade — 12/08
+
+Confronto questão a questão do texto da folha com a linha da seção 2: **56 de 56 conferidas**, **55 casam** com o critério que decide a nota. Todos os critérios com número fechado foram recalculados e batem — 4º cap. 2 q. 5 (5 · 10 · 20 · 40 · 50 min), cap. 3 q. 6 (15,80 e 4,20), cap. 4 q. 1 (26 cm → 260 mm → 74 cm), q. 3 (10 passos e 40 palmos), q. 4 (2100 mL, faltam 100); 5º cap. 4 q. 1 (6, 3 · 9, 3 · 6, 5), q. 3 (6 e 8 · 3 e 2 · 5 e 3), q. 4 (4 e 3 · 2,5 e 2 · 3,5), q. 6 (*denominador* e *sentença aberta* na lista dos doze), q. 7 (giro → 8, 7 · 5, 7 · 8, 4; reflexão → 10, 1 · 7, 1 · 10, 4, as duas imagens dentro da malha de 10 × 10). Os critérios de duas metades — *"os dois exemplos, um de comprimento e um de capacidade"* (4º cap. 4 q. 6), *"os três pares a construir e os dois a decompor"* (5º cap. 3 q. 6), *"os dois problemas"* (4º cap. 1 q. 2 e cap. 3 q. 2) — cobram as duas metades também na folha. Nenhuma exigência da grade se perdeu na execução em prosa da reformatação §7.1.
+
+| Ano | Cap | Q | O que foi corrigido | Regra |
+|---|---:|---:|---|---|
+| 5º Ano | 1 | 3 | *"Escreva embaixo de cada momento o que aconteceu"* → acrescentado *"ligue os três momentos com setas e escreva sobre cada seta o que foi feito para passar de um momento ao seguinte"*. Era a única das quatro questões de `ESQ` da disciplina sem setas — as outras três (4º cap. 2 q. 3, 4º cap. 4 q. 5, 5º cap. 4 q. 5) já as pediam —, e R4 mede *setas com sentido e rótulo* em 3 dos 10 pontos: sem setas, esse critério não tinha o que medir. O critério de peso 4 da questão, *os três momentos distintos com o que aconteceu escrito*, ficou intacto. ESQ.a · R4 mantidos; seção 2 não tocada | R4 · item ESQ.a |
+
+Três observações que **não** viraram correção, por não serem exigência que a grade cobre:
+
+- **`VIS.a` sem título e legenda em 4º cap. 1 q. 6 (reta numérica) e 5º cap. 3 q. 1 (plano cartesiano).** O item `VIS.a` traz *legenda e título obrigatórios*, mas o critério das duas questões é a coincidência de 1/4 e 2/8 e a nomeação A–D, e R10 condiciona o peso 3 a *quando cabe* — em reta numérica e em plano com quatro pontos nomeados, não cabe. A terceira `VIS.a` da disciplina (5º cap. 3 q. 5, planta), onde cabe, os exige.
+- **5º cap. 2 q. 6 (`INV.a`) não tem bloco `Confira você mesmo:`.** O item é ✓conf, e a conferência que ele prevê — previsão contra resultado — está no `Responda:` (*"qual das duas regras bateu com a sua previsão"*). Inventar um bloco aqui violaria a proibição de conferência sem lastro no sorteio (§7.1).
+- **4º cap. 2 q. 6 (`MOD.c`) não tem `Responda:`.** É bloco de cálculo com comando único, caso que o §7.1 dispensa, e os dois critérios da grade estão na execução e na conferência.

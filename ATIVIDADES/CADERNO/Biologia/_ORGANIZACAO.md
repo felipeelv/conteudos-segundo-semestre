@@ -182,4 +182,16 @@ As 19 questões restantes (`ESQ` de comando único, `TAB`, `ESC.b`, `ESC.c`) sã
 
 `Construa` → `Elabore` nas 5 `TAB` (tabela é artefato sem instrumento); `Escreva` → `Redija` nas 5 `ESC.b` (verbo prescrito de ESC/RET, destinatário e extensão mantidos); `Identifique` → `Diagnostique` nas 5 `ERR` (todos os anos da disciplina são 9º ou acima). As 5 `ESC.c` já abriam em `Redija`; `Pesquise`, `Localize` e `Decida` permanecem.
 
+### Checagem semântica folha × grade — 12/08
+
+Confronto uma a uma das 40 questões contra a coluna *Critério que decide a nota* da seção 2, após a reformatação §7.1. Verificou-se: (a) se o critério da grade está de fato sendo pedido na folha; (b) se a entrega cabe no item do tipo; (c) se a rubrica tem o que medir; (d) se o bloco `Responda:` cobra tudo o que o critério exige. **37 de 40 sem divergência.**
+
+| Ano | Cap | Q | Divergência | Ação |
+|---|---:|---:|---|---|
+| 9º Ano | 1 | 7 | a grade cobra "explicar **por que** é erro, não só corrigir" (peso 4 da R11), mas o `Responda:` pedia só o erro, o nome correto da relação e o par oposto — o *porquê* tinha ficado de fora da entrega | folha corrigida: o `Responda:` passa a pedir "por que a semelhança entre as duas asas não permite concluir ancestralidade comum recente" |
+| 1ª Série | 1 | 1 | `ESQ.a` e o peso 3 da R4 medem seta com sentido e rótulo; a folha rotulava "em cada trajeto", sem nunca nomear a seta — diferente das outras quatro `ESQ.a`, que já diziam "ao lado de cada seta" / "cada seta precisa de um rótulo" | folha corrigida: o tipo de transporte e o consumo de energia passam a ser escritos ao lado de cada seta |
+| 1ª Série | 2 | 4 | `CASO.a` exige caso com **dado numérico**, e o peso 3 da R12 mede cálculo ou tratamento do dado. O caso ("uma doença genética impede a produção de uma enzima lisossômica") não traz nenhum número, e §2.3 do capítulo não fornece dado real que pudesse ser inserido | **pendente.** O critério da grade — acúmulo do substrato e caráter progressivo — está integralmente pedido; a lacuna é de item, não de entrega. Fechar exige dado real ou re-sorteio de item, e esta checagem não inventa dado nem re-sorteia |
+
+Nenhuma linha da grade precisou ser corrigida: os 40 critérios continuam descrevendo o que a folha entrega. Tipo, rubrica e critério permanecem inalterados nas três folhas.
+
 **Checagem 2 (verbo × rubrica), critério estrito:** a seção 4 não tinha linha própria para essa checagem — fica registrada aqui: **40 de 40** sínteses abrem com verbo do banco §6 compatível com a rubrica da grade (Elabore·R4/R10 · Redija·R5 · Decida·R12 · Pesquise·R7 · Localize·R7 · Diagnostique·R11). Não há `EX` na disciplina, então a lacuna do verbo de cálculo não se aplica a este bloco.

@@ -31,7 +31,7 @@ Escreva a lista dos alimentos das suas refeições de ontem, classifique cada um
 
 ---
 
-**4.** Redija um verbete de até cinco linhas sobre uma refeição equilibrada, usando obrigatoriamente as palavras **carboidrato**, **proteína** e **vitamina**. O verbete precisa dizer o que o corpo deixa de conseguir fazer quando um desses três falta na refeição.
+**4.** Redija um verbete de até cinco linhas sobre uma refeição equilibrada, usando obrigatoriamente as palavras **carboidrato**, **proteína** e **vitamina**. O verbete precisa dizer, para cada um dos três, o que o corpo deixa de conseguir fazer quando ele falta na refeição.
 
 ---
 
@@ -39,7 +39,7 @@ Escreva a lista dos alimentos das suas refeições de ontem, classifique cada um
 
 Um estudante escreveu: *"Gordura faz mal, então o certo é não comer nada com gordura."*
 
-**Responda:** qual é o erro da frase? Por que comer menos gordura não é a mesma coisa que não comer nenhuma, e o que o corpo deixaria de fazer sem ela?
+**Responda:** qual é o erro da frase? Por que comer menos gordura não é a mesma coisa que não comer nenhuma? E o que o corpo deixaria de fazer sem ela, tanto para guardar energia quanto para se proteger?
 
 ---
 

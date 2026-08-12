@@ -79,4 +79,4 @@ Um estudante escreveu: *"Se uma célula do coração morre, o coração para de 
 
 As fontes podem ser um livro, uma revista, o acervo da biblioteca da escola ou a internet. Registre o autor e a data de cada uma.
 
-**Responda:** por que os dois números que você encontrou não são iguais?
+**Responda:** por que as duas fontes não trazem exatamente os mesmos números?

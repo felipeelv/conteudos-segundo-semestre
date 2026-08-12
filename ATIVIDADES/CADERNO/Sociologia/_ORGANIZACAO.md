@@ -127,3 +127,16 @@ Trocas de verbo de abertura:
 Reordenações sem troca de verbo: 1ª Q5 e 2ª Q4 (*decida* subiu do meio da questão para a síntese, o caso desceu para o corpo) e 2ª Q7 (*diagnostique* subiu para a síntese, a citação desceu para o corpo).
 
 Checagem 2 (verbo × rubrica) após a reformatação, pelo critério estrito: **16 de 16 conformes** — todas as sínteses abrem com verbo do banco compatível com a rubrica da grade (elabore×R10, registre×R8, elabore×R4, redija×R5, decida×R12, pesquise×R7, localize×R7, diagnostique×R11). A disciplina não tem EX, único tipo sem verbo de banco. A tabela da seção 4 não trazia linha própria de checagem 2, portanto nada foi renumerado lá; o resultado fica registrado aqui. As pendências da seção 4 (T3 violado na 2ª série; ERR fora do pool na 2ª série Q7) permanecem como estavam — reformatação não re-sorteia tipo.
+
+### Checagem semântica folha × grade — 12/08
+
+Confronto questão a questão do texto da folha com a linha da grade, atrás do furo que a reformatação de §7.1 poderia ter aberto: entrega alterada sem que o critério de correção acompanhasse. **16 questões conferidas · 12 casaram · 4 divergiram**, todas corrigidas **na folha** — nenhum tipo, rubrica ou critério foi alterado.
+
+| Ano | Cap | Q | Tipo · Rubrica | O que a grade cobrava e a folha não pedia | Correção na folha |
+|---|---:|---:|---|---|---|
+| 1ª Série | 1 | 3 | ESQ.a · R4 | ESQ.a é fluxograma **com setas rotuladas** e R4 dá 3 dos 10 pontos a *setas com sentido e rótulo corretos*. A folha pedia etapas, executor e ponto de ruptura — nenhuma seta, logo 3 pontos da rubrica sem objeto | a execução passou a exigir setas rotuladas ligando as etapas, cada uma dizendo o que passa de uma à seguinte |
+| 2ª Série | 1 | 2 | ESQ.c · R4 | mesma lacuna de setas; além disso ESQ.c exige **entradas e saídas nomeadas** (R4, peso 2), que a folha só insinuava nos extremos do percurso | a execução passou a exigir o que entra e o que sai de cada etapa e setas rotuladas entre elas |
+| 1ª Série | 1 | 6 | FON.a · R7 | o roteiro de FON.a é autoria · data · **finalidade** · **o que a fonte não diz**, e o critério de 3 pontos de R7 é justamente *distingue o que a fonte diz do que não diz*. A folha registrava só órgão, ano e pesquisa, e o `Responda:` cobrava apenas a correspondência com a forma histórica | a referência passou a incluir a finalidade da pesquisa, e o `Responda:` passou a cobrar o que os números **não** informam sobre as condições daquele trabalho |
+| 2ª Série | 1 | 3 | ESC.b · R5 | o critério da grade decide a nota por *os três termos **aplicados ao movimento** — não repetidos como definição*; a folha só dizia "empregue obrigatoriamente os termos", sem comunicar ao aluno a exigência que separa nota alta de média | os termos passaram a ser pedidos "aplicados àquele movimento e não repetidos como definição geral" |
+
+As outras 12 casaram: o `Responda:` cobra todos os elementos do critério, a entrega cabe no item sorteado e a rubrica tem o que medir. Nenhuma linha da grade estava desatualizada — não houve correção do lado da grade. As duas pendências da seção 4 (T3 violado na 2ª série; ERR fora do pool na 2ª série Q7) seguem abertas: dependem de re-sortear tipo, o que esta checagem não faz.

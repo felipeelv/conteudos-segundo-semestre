@@ -9,7 +9,7 @@
 
 **1.** Elabore dois climogramas de cidades brasileiras de climas contrastantes, com dados que você mesmo reunir, e aponte o fator do clima que explica a maior diferença entre eles.
 
-Consulte um atlas, um livro didático ou uma fonte digital e reúna a temperatura média e a precipitação de cada um dos doze meses de duas cidades — uma da Amazônia ou do litoral, outra do interior do Nordeste, do planalto do Sudeste ou do Sul. Se a fonte já trouxer o climograma pronto, transcreva dela os valores mês a mês. Monte um climograma para cada cidade, com barras de precipitação em milímetros e linha de temperatura em graus Celsius, mantendo as mesmas escalas nos dois gráficos, e registre a fonte dos dados.
+Consulte um atlas, um livro didático ou uma fonte digital e reúna a temperatura média e a precipitação de cada um dos doze meses de duas cidades — uma da Amazônia ou do litoral, outra do interior do Nordeste, do planalto do Sudeste ou do Sul. Se a fonte já trouxer o climograma pronto, transcreva dela os valores mês a mês. Monte um climograma para cada cidade, com título que nomeie a cidade, barras de precipitação em milímetros e linha de temperatura em graus Celsius, mantendo as mesmas escalas nos dois gráficos, e registre a fonte dos dados.
 
 **Responda, abaixo dos gráficos:** qual fator do clima explica a maior diferença entre as duas cidades?
 
@@ -46,7 +46,7 @@ d) mPa
 
 Uma onda de calor de mesma intensidade atinge dois bairros da mesma cidade: um com 40% de cobertura arbórea e ruas largas, outro com 3% de cobertura e telhado metálico predominante.
 
-**Responda:** qual dos dois bairros exige ação prioritária, e qual critério você aplicou para decidir? Classifique, em seguida, cada diferença de impacto que você identificar como consequência do clima ou da desigualdade urbana.
+**Responda:** qual dos dois bairros exige ação prioritária? Apresente os dois percentuais de cobertura arbórea e o critério que você aplicou para decidir. Classifique, em seguida, cada diferença de impacto que você identificar como consequência do clima ou da desigualdade urbana.
 
 ---
 

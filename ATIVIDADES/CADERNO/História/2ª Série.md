@@ -19,6 +19,8 @@ Na faixa superior, disponha os marcos políticos; na inferior, os da expansão c
 
 Uma estudante resumiu o parlamentarismo às avessas nesta sequência: os ministros buscavam apoio parlamentar → uma Câmara contrária podia ser dissolvida → novas eleições sofriam influência de autoridades locais.
 
+No seu esquema, ligue as etapas com setas no sentido do processo e rotule cada seta com o poder que autorizava a passagem de uma etapa à seguinte.
+
 **Responda:** qual etapa falta, e por que é justamente ela que inverte o arranjo em relação ao modelo britânico?
 
 ---

@@ -7,62 +7,104 @@
 
 ## Capítulo 1 — Sujeito
 
-**1.** Classifique o sujeito de cada oração e depois aplique o teste.
+**1.** Classifique o sujeito de cada oração abaixo.
 
 a) Choveu muito ontem.
 b) Disseram que vai melhorar.
 c) Havia muitas pessoas na fila.
 d) Faz dois anos que ele partiu.
 
-Teste: tente colocar um sujeito explícito na frase. Se nenhum couber, a oração é sem sujeito. Se couber um indefinido, o sujeito é indeterminado.
+**Responda:** de que tipo é o sujeito de cada uma das quatro orações?
 
-**2.** Leia as duas frases. Uma tem sujeito indeterminado e a outra é oração sem sujeito.
+**Confira você mesmo:** tente colocar um sujeito explícito na frase. Se nenhum couber, a oração é sem sujeito; se couber um indefinido, o sujeito é indeterminado. A classificação que não sobreviver a esse teste está trocada.
+
+---
+
+**2.** Classifique as duas frases abaixo, uma de sujeito indeterminado e outra sem sujeito, e explique a diferença entre os dois casos.
 
 a) Precisa-se de funcionários.
 b) Trata-se de um engano.
 
-Escreva qual é qual e explique a diferença entre não identificar o sujeito e não haver sujeito.
+**Responda:** qual é qual, e qual é a diferença entre não identificar o sujeito e não haver sujeito?
 
-**3.** Construa uma tabela com os seis casos de sujeito estudados. Além da definição, inclua uma coluna com o teste que identifica cada um.
+---
 
-**4.** Reescreva as frases abaixo transformando o sujeito determinado em indeterminado, sem mudar o sentido:
+**3.** Elabore uma tabela com os seis casos de sujeito estudados.
+
+Além da definição, inclua uma coluna com o teste que identifica cada um.
+
+---
+
+**4.** Reescreva as frases abaixo transformando o sujeito determinado em indeterminado, sem mudar o sentido.
 
 a) Os moradores reclamaram do barulho.
 b) Alguém deixou a porta aberta.
 
-**5.** Um estudante escreveu: *"'Choveu' tem sujeito oculto, que é 'a chuva'."* Identifique o erro, explique a diferença entre sujeito oculto e oração sem sujeito, e reescreva a afirmação corretamente.
+---
 
-**6.** Localize um texto em livro, revista, jornal, página da internet ou no acervo da escola e copie quatro orações com tipos diferentes de sujeito. Classifique cada uma e registre a fonte do texto.
+**5.** Diagnostique o erro da afirmação a seguir.
+
+Um estudante escreveu: *"'Choveu' tem sujeito oculto, que é 'a chuva'."*
+
+**Responda:** qual é o erro, qual é a diferença entre sujeito oculto e oração sem sujeito, e como a afirmação fica reescrita corretamente?
+
+---
+
+**6.** Localize um texto publicado e classifique quatro orações dele com tipos diferentes de sujeito.
+
+Procure o texto em livro, revista, jornal, página da internet ou no acervo da escola, copie as quatro orações e registre a fonte.
+
+**Responda:** de que tipo é o sujeito de cada uma das quatro orações copiadas?
 
 ---
 
 ## Capítulo 2 — Predicado
 
-**1.** Classifique o predicado de cada oração e identifique o predicativo, quando houver.
+**1.** Classifique o predicado de cada oração abaixo e localize o predicativo, quando houver.
 
 a) O juiz considerou o réu culpado.
 b) A criança chegou feliz.
 c) O time venceu a partida.
 d) Ela permaneceu calada.
 
-Teste: se houver uma característica atribuída ao sujeito, há predicativo do sujeito. Se atribuída ao objeto, é predicativo do objeto.
+**Responda:** de que tipo é o predicado de cada uma das quatro orações, e onde está o predicativo em cada uma que o tiver?
 
-**2.** Leia as duas frases. As duas têm o mesmo verbo.
+**Confira você mesmo:** veja a quem a característica é atribuída. Se ao sujeito, há predicativo do sujeito; se ao objeto, é predicativo do objeto. Se a característica não se prender a nenhum dos dois, ela não é predicativo.
+
+---
+
+**2.** Explique o critério que decide em qual das duas frases abaixo o verbo é de ligação.
+
+As duas têm o mesmo verbo. Escreva também um terceiro exemplo, seu, com o mesmo verbo nas duas funções.
 
 a) Ele ficou em casa.
 b) Ele ficou nervoso.
 
-Escreva em qual o verbo é de ligação e explique o critério que decide, apresentando um terceiro exemplo com o mesmo verbo nas duas funções.
+**Responda:** em qual das duas o verbo é de ligação, e qual critério decide?
 
-**3.** Construa uma tabela com os três tipos de predicado. Além do núcleo de cada um, inclua uma coluna com o gênero textual em que ele predomina e outra explicando por quê.
+---
 
-**4.** Reescreva o parágrafo abaixo transformando os predicados verbais em verbo-nominais, acrescentando uma característica ao sujeito em cada oração:
+**3.** Elabore uma tabela com os três tipos de predicado.
+
+Além do núcleo de cada um, inclua uma coluna com o gênero textual em que ele predomina e outra explicando por quê.
+
+---
+
+**4.** Reescreva o parágrafo abaixo transformando os predicados verbais em verbo-nominais, acrescentando uma característica ao sujeito em cada oração.
 
 *"O menino entrou. Sentou-se na cadeira. Abriu o caderno."*
 
-**5.** Um estudante escreveu: *"Predicativo do objeto não existe, porque predicativo é sempre do sujeito."* Identifique o erro, apresente um exemplo com predicativo do objeto e explique como distinguir os dois.
+---
 
-**6.** Escreva, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando a que termo ele se refere:
+**5.** Diagnostique o erro da afirmação a seguir.
+
+Um estudante escreveu: *"Predicativo do objeto não existe, porque predicativo é sempre do sujeito."*
+
+**Responda:** qual é o erro, que exemplo traz um predicativo do objeto, e como distinguir os dois?
+
+---
+
+**6.** Redija, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando a que termo ele se refere:
 
 a) predicativo do sujeito
 b) predicativo do objeto
@@ -73,14 +115,44 @@ d) núcleo do predicado
 
 ## Capítulo 3 — Sujeito e predicado no texto
 
-**1.** Localize uma notícia e um trecho de narrativa literária — em material impresso, em página da internet ou no acervo da escola. Copie três orações de cada e classifique sujeito e predicado em todas. Registre as duas fontes.
+**1.** Localize uma notícia e um trecho de narrativa literária e classifique sujeito e predicado em orações de cada um.
 
-**2.** Escreva, em até dez linhas para outro estudante, qual dos dois gêneros usa mais sujeito explícito e qual usa mais sujeito oculto: a notícia ou a narrativa literária. Escreva de sua autoria uma oração de cada gênero para sustentar o que você afirmar, e explique a razão dessa diferença.
+Procure os dois em material impresso, em página da internet ou no acervo da escola, copie três orações de cada e registre as duas fontes.
 
-**3.** Construa uma tabela que relacione três gêneros textuais aos tipos de sujeito e predicado predominantes em cada um. Inclua uma coluna com o efeito que essa escolha produz no leitor.
+**Responda:** que sujeito e que predicado tem cada uma das seis orações copiadas?
 
-**4.** Escreva, em até cinco linhas cada, duas versões da mesma informação — *a escola inaugurou o laboratório de ciências na quarta-feira*: uma como notícia e outra como relato pessoal. Depois compare as escolhas de sujeito feitas em cada versão.
+---
 
-**5.** Um estudante escreveu: *"Texto bom é o que sempre deixa o sujeito explícito."* Identifique o que essa afirmação acerta e o que ignora, e reescreva-a considerando o gênero.
+**2.** Redija, em até dez linhas e para outro estudante, uma explicação de qual dos dois gêneros usa mais sujeito explícito e qual usa mais sujeito oculto: a notícia ou a narrativa literária.
 
-**6.** Localize uma manchete que omita o agente da ação — em jornal impresso, em página da internet ou no acervo da escola. Analise-a identificando o tipo de sujeito empregado, o efeito dessa escolha sobre a responsabilização, e a informação que o leitor precisaria e não recebe. Registre a fonte.
+Escreva de sua autoria uma oração de cada gênero para sustentar o que você afirmar.
+
+**Responda:** qual é a razão dessa diferença entre os dois gêneros?
+
+---
+
+**3.** Elabore uma tabela que relacione três gêneros textuais aos tipos de sujeito e predicado predominantes em cada um.
+
+Inclua uma coluna com o efeito que essa escolha produz no leitor.
+
+---
+
+**4.** Redija, em até cinco linhas cada, duas versões da mesma informação — *a escola inaugurou o laboratório de ciências na quarta-feira*: uma como notícia e outra como relato pessoal.
+
+**Responda:** em que diferem as escolhas de sujeito feitas em cada uma das duas versões?
+
+---
+
+**5.** Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
+
+Um estudante escreveu: *"Texto bom é o que sempre deixa o sujeito explícito."*
+
+**Responda:** o que a afirmação acerta, o que ela ignora, e como ela ficaria reescrita considerando o gênero?
+
+---
+
+**6.** Localize uma manchete que omita o agente da ação e analise o efeito dessa omissão.
+
+Procure a manchete em jornal impresso, em página da internet ou no acervo da escola, e registre a fonte.
+
+**Responda:** que tipo de sujeito foi empregado, que efeito essa escolha produz sobre a responsabilização, e que informação o leitor precisaria e não recebe?

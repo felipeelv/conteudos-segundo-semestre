@@ -19,9 +19,9 @@ Meça com a régua, em centímetros inteiros, oito objetos alongados que estejam
 
 **2.** Decida qual medida de tendência central responde a cada uma de duas perguntas diferentes sobre o mesmo conjunto de preços.
 
-Oito preços hipotéticos de um mesmo livro, em oito livrarias diferentes: R$ 30,00; R$ 32,00; R$ 32,00; R$ 34,00; R$ 35,00; R$ 36,00; R$ 38,00 e R$ 96,00 — este último numa loja de aeroporto. A primeira pergunta: quanto uma pessoa provavelmente vai pagar por esse livro? A segunda: quanto as oito livrarias arrecadam se cada uma vender um exemplar?
+Oito preços hipotéticos de um mesmo livro, em oito livrarias diferentes: R$ 30,00; R$ 32,00; R$ 32,00; R$ 34,00; R$ 35,00; R$ 36,00; R$ 38,00 e R$ 96,00 — este último numa loja de aeroporto. A primeira pergunta: quanto uma pessoa provavelmente vai pagar por esse livro? A segunda: quanto as oito livrarias arrecadam se cada uma vender um exemplar? Calcule a média e a mediana dos oito preços antes de decidir.
 
-**Responda:** qual medida responde melhor a cada pergunta, sob que critério em cada caso, e por que as duas decisões não caem na mesma medida?
+**Responda:** qual medida responde melhor a cada pergunta, com o valor que ela devolve, sob que critério em cada caso, e por que as duas decisões não caem na mesma medida?
 
 ---
 
@@ -52,6 +52,6 @@ Numa empresa hipotética de dez funcionários, nove ganham entre R$ 2.000,00 e R
 
 **6.** Decida, pelas medidas de cada conjunto, em qual de duas filas de caixa entrar.
 
-Em duas filas hipotéticas do mesmo caixa, os tempos de espera registrados, em minutos, foram: fila A — 4, 5, 5, 6 e 5; fila B — 1, 2, 5, 8 e 9. Você dispõe de exatamente sete minutos.
+Em duas filas hipotéticas do mesmo caixa, os tempos de espera registrados, em minutos, foram: fila A — 4, 5, 5, 6 e 5; fila B — 1, 2, 5, 8 e 9. Você dispõe de exatamente sete minutos. Calcule média, mediana e amplitude de cada uma das duas filas.
 
-**Responda:** em qual fila entrar, sob que critério e sustentado por quais medidas? Por que a decisão mudaria se você dispusesse de quinze minutos?
+**Responda:** em qual fila entrar, sob que critério e sustentado por quais das medidas calculadas? E o que aconteceria com esse critério se você dispusesse de quinze minutos?

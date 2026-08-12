@@ -100,6 +100,20 @@ Nenhuma questão da produção anterior violava §8.1 — as 16 já eram autossu
 
 **O que continua pendente.** A ausência de `MC` (T3) e o pool fora da fórmula de §3 — `TAB` proibido por M8, `ERR` sem M1, `FON` sem M5 — não são corrigíveis por reformulação de enunciado. Dependem de re-sorteio autorizado sobre o pool legítimo `ESC · CASO · MC · ESQ`, que fecharia as duas pendências de uma vez. Ver seção 4.
 
+### Revisão de 12/08 — checagem semântica folha × grade
+
+Conferência das 16 questões, uma a uma, confrontando o texto da folha com a linha da grade da seção 2. Casaram 15; uma divergência corrigida na folha, sem alterar tipo, rubrica ou critério.
+
+| Ano | Cap | Q | O que foi corrigido | Regra |
+|---|---:|---:|---|---|
+| 1ª Série | 1 | 7 | a reformatação em §7.1 substituiu *explique por que a afirmação é errada* por *qual é o erro da afirmação* — que é justamente o *identifique o erro* já rejeitado na revisão anterior. O `Responda:` voltou a cobrar **por que** a afirmação é errada, restaurando o peso 4 de R11 | §8 checagem 2 · R11 |
+
+**Aberto após esta checagem** (não corrigível sem decisão de coordenação):
+
+- **A folha da 2ª Série não foi reformatada em §7.1.** As 8 questões seguem em comando corrido, sem enunciado-síntese, execução e `Responda:` separados. Semanticamente todas casam com a grade; o que falta é o formato. A 1ª Série foi reformatada no commit `812c490` e a 2ª ficou de fora.
+- **2ª Série Q2 abre em *Construa uma tabela*.** Por §6, `construa` produz **com instrumento** e o verbo da tabela é `elabore`. A mesma troca já foi feita na Q2 da 1ª Série durante a reformatação. Cabe junto com a reformatação da folha.
+- **R7 mede *autoria, data e finalidade* (peso 3), e as quatro questões `FON` só pedem autor/obra/ano ou passagem.** A grade não cobra finalidade em nenhuma das quatro, então folha e grade estão de acordo — mas um terço do peso 3 de R7 fica sem o que medir. Fechar isso exige decidir se a finalidade entra no critério; a folha não foi alterada porque a grade é a referência.
+
 ### Revisão de 12/08 — §8.3 execução individual
 
 Regra nova da coordenação: o caderno de casa é feito sozinho; nenhuma questão exige ação, resposta ou presença de outra pessoa, e a palavra "colega" não entra na folha (4 linha(s) ajustada(s) nesta disciplina). Destinatários de escrita viraram leitor hipotético — *quem faltou à aula*, *um leitor que sustenta a posição contrária*, *outro estudante* — e o personagem de erro é *um estudante*. Tipo, rubrica e critério de cada questão permanecem os mesmos.
