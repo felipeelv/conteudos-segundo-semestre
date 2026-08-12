@@ -29,7 +29,7 @@ Toda atividade é decidida em três níveis, nesta ordem. O nível 1 já existe;
 
 ```
 Nível 1 · TIPO      (18 códigos)         → o que a tarefa é          → 03-REPERTORIO
-Nível 2 · ITEM      (48 formatos)        → como a tarefa é montada   → §5 deste arquivo
+Nível 2 · ITEM      (56 formatos)        → como a tarefa é montada   → §5 deste arquivo
 Nível 3 · COMANDO   (banco de verbos)    → o que o aluno lê          → §6 deste arquivo
 ```
 
@@ -153,7 +153,7 @@ Desvios já registrados que o gerador **não** deve tentar corrigir: Estudos Soc
 
 ## 5. Catálogo de itens
 
-Os 48 formatos. O sorteio do nível 2 acontece aqui.
+Os 56 formatos, em 18 tipos. O sorteio do nível 2 acontece aqui.
 Marcados com **✓conf** os itens que trazem conferência embutida — os únicos admissíveis para EX no caderno de casa.
 
 ### EX — exercício / prática de recuperação
@@ -307,43 +307,78 @@ Marcados com **✓conf** os itens que trazem conferência embutida — os único
 | reescreva | adequar a gênero/registro | R6 | copiar com sinônimos |
 | diagnostique | localizar e nomear o erro | R11 | corrigir sem explicar |
 | avalie | julgar sob critério dado | R7, R13 | elogiar ou reprovar sem critério |
+| pesquise | buscar dado fora do capítulo e registrar a referência | R7, R8 | entregar o dado sem dizer de onde veio |
+| localize | encontrar uma fonte que atenda a critérios dados | R7 | trazer o primeiro resultado que apareceu |
+| analise | separar, na fonte, a afirmação, a prova e a lacuna | R7 | resumir a fonte em vez de examiná-la |
+| elabore | produzir o artefato inteiro, do zero | R4, R10 | preencher um modelo já pronto |
 
 ---
 
 ## 7. Molde de saída
 
-Todo capítulo produz **exatamente** este bloco. Sem seções extras, sem preâmbulo.
+O arquivo de um capítulo tem **três partes, nesta ordem**: a folha do aluno, a grade de correção e o rodapé de produção. Só a primeira chega à mão do aluno.
+
+### 7.1 Folha do aluno
+
+Questões numeradas, na voz do aluno. **Sem campo de resposta, sem linha pontilhada, sem moldura** — o espaço para escrever é da folha impressa, não do arquivo. Cada questão é um enunciado fechado que já diz o que entregar.
 
 ```markdown
-### Cap. N — <título do capítulo>
+### Capítulo N — <título do capítulo>
 
-**Marcadores:** M2, M4  ·  **Pool:** MC, CASO, ESQ, ESC  ·  **Seed:** <hash8>
+**1.** <enunciado, verbo do banco §6>
 
-#### Principal · <TIPO>.<item> · Rubrica <Rn> · <tempo> min
+**2.** <enunciado>
 
-> "<comando verbatim, 1–3 frases, verbo do banco §6>"
+**3.** <enunciado, com subitens quando a mesma tarefa se repete sobre vários objetos:>
 
-**Insumos:** <o que o professor entrega / o aluno precisa ter>
-**Produto:** <o que é entregue>
-**Rubrica:** <Rn> — <apenas o ajuste, se houver; senão "sem ajuste">
-<!-- CASA: --> **Como conferir sozinho:** <mecanismo>
-
-#### Complementar 1 · <TIPO>.<item> · <tempo> min
-> "<comando verbatim>"
-
-#### Complementar 2 · <TIPO>.<item> · <tempo> min
-> "<comando verbatim>"
+a) <objeto>
+b) <objeto>
+c) <objeto>
 ```
 
-A linha `Marcadores / Pool / Seed` fica no arquivo de propósito: é o que permite auditar por que aquele tipo foi escolhido, e re-sortear com reprodutibilidade.
+**Seis a oito questões por capítulo**, sem repetir o par tipo+item. Um mesmo tipo pode voltar uma segunda vez se o item for outro — `FON.a` (pesquisar a fonte) e `FON.c` (analisar o que a fonte não diz) são tarefas distintas.
 
-**Integradora do ano** usa o mesmo molde, com `POR` como principal e tempo da faixa superior.
+Três proibições no enunciado:
+
+| Não escrever | Por quê |
+|---|---|
+| Instrução de andaime — *"você escolhe"*, *"pode ser qualquer um"*, *"não precisa ser"* | conversa sobre a tarefa, não é a tarefa. O enunciado exige; não negocia |
+| Artefato pronto para preencher — tabela com cabeçalho dado, esquema com caixas vazias | o aluno **constrói** a tabela e o esquema. Entregá-los prontos rebaixa TAB e ESQ a preenchimento |
+| *"peça que o aluno…"*, *"o professor entrega…"* | o texto é lido pelo aluno; instrução ao professor vai para a grade |
+
+### 7.2 Grade de correção
+
+No fim do arquivo, separada por `---`. É o que o professor usa e o aluno não recebe.
+
+```markdown
+| Questão | Tipo | Rubrica | Critério que decide a nota |
+|---|---|---|---|
+| 1 | ESQ | R4 | <o ajuste, quando houver> |
+```
+
+### 7.3 Rodapé de produção
+
+Uma linha por capítulo, depois da grade:
+
+`**Cap. N** · Marcadores: M2, M4 · Pool: MC, CASO, ESQ, ESC · Seed: <hash8>`
+
+É o que permite auditar por que cada tipo foi escolhido e re-sortear com reprodutibilidade.
+
+**Integradora do ano** usa o mesmo molde, acrescentando uma questão de `POR`.
+
+### 7.4 Variante do conjunto de sala
+
+A folha do aluno é a mesma: questões numeradas, sem campo, sem andaime. O conjunto de sala acrescenta **uma única linha** antes da questão 1, porque a tarefa depende de três coisas que a casa não tem:
+
+`**Formato:** duplas · **Tempo:** 50 min · **O professor entrega:** <insumo>`
+
+Nada mais de instrução ao professor entra no corpo das questões — o resto vai para a grade de correção. E `DEB` e `ORA`, que T7 exclui da casa, voltam ao pool.
 
 ---
 
 ## 8. Critérios de rejeição
 
-Antes de aceitar um capítulo gerado, oito checagens. Qualquer **não** manda re-sortear ou reescrever.
+Antes de aceitar um capítulo gerado, dez checagens. Qualquer **não** manda re-sortear ou reescrever.
 
 | # | Pergunta | Se falhar |
 |---|---|---|
@@ -355,6 +390,8 @@ Antes de aceitar um capítulo gerado, oito checagens. Qualquer **não** manda re
 | 6 | **Casa:** há previsão escrita antes de medir, quando é INV? | inserir o palpite |
 | 7 | O tipo repete o do capítulo vizinho ou o do par sala/casa? | re-sortear (T1, T8) |
 | 8 | O tempo bate com a faixa da disciplina? (§4.4) | recalibrar |
+| 9 | O enunciado tem instrução de andaime — *"você escolhe"*, *"pode ser qualquer"*, *"não precisa ser"*? | reescrever o enunciado (§7.1) |
+| 10 | O artefato pedido — tabela, esquema, linha do tempo — vem pronto para preencher? | reescrever: quem constrói é o aluno (§7.1) |
 
 Checagem em lote, por disciplina, ao final: nenhum tipo acima do teto de T2; todos os dominantes de [`03`](03-REPERTORIO.md) §3 presentes ao menos 1×.
 
@@ -376,13 +413,19 @@ PARA CADA CAPÍTULO, NESTA ORDEM:
   1. Leia o capítulo e marque os marcadores M1–M11 (§3).
   2. Monte o pool. Se ficar com menos de 3 tipos, pare e me pergunte.
   3. Sorteie tipo, itens e verbo com a semente de §4.1 e as travas de §4.3.
-  4. Escreva o bloco no molde de §7. Nada além do molde.
-  5. Rode as 8 checagens de §8 e corrija antes de passar ao próximo.
+  4. Escreva 6 a 8 questões no molde de §7.1, uma por tipo sorteado.
+  5. Monte a grade de correção (§7.2) e o rodapé de produção (§7.3).
+  6. Rode as 10 checagens de §8 e corrija antes de passar ao próximo.
 
 REGRAS RÍGIDAS:
   - Um capítulo por vez. Não gere o arquivo inteiro de uma vez.
-  - O comando entre aspas é o texto final do aluno. Não escreva "peça que o aluno...".
-  - Não invente dado numérico: se o item exige dado real e ele não existe, troque o item.
+  - O enunciado é o texto final do aluno. Não escreva "peça que o aluno...".
+  - Sem campo de resposta, sem linha pontilhada, sem moldura: só o enunciado.
+  - Sem instrução de andaime ("você escolhe", "pode ser qualquer").
+  - Tabela, esquema e linha do tempo são CONSTRUÍDOS pelo aluno, nunca entregues prontos.
+  - Não invente dado numérico nem texto-fonte: se a questão exige uma notícia ou um
+    trecho de livro, ou o aluno localiza a fonte, ou o item entra na lista de fontes a
+    providenciar. Nunca escreva uma fonte fictícia.
   - Não acrescente camada devocional (05 §6).
   - CASA: sem gabarito, sem DEB, sem ORA, EX só com item ✓conf.
   - Ao final da disciplina, imprima a tabela de checagem em lote (§8).
