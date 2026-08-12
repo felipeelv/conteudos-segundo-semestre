@@ -15,7 +15,11 @@ Assinale, ao lado de cada etapa, o sinal clínico que ela produz.
 
 **2.** Elabore uma tabela que compare a imunização por vacina e a imunização por soro.
 
-Além do que cada uma contém e do tempo até o início da proteção, inclua um critério ausente do capítulo: qual das duas é adequada a uma pessoa cujo sistema de defesa está suprimido por tratamento médico, e por quê.
+A tabela precisa trazer, para cada uma das duas formas de imunização:
+
+- o que ela contém;
+- o tempo até o início da proteção;
+- se ela é adequada a uma pessoa cujo sistema de defesa está suprimido por tratamento médico, e por quê — critério ausente do capítulo.
 
 ---
 

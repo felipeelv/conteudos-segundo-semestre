@@ -9,7 +9,11 @@
 
 **1.** Elabore um diagrama ramificado que represente o parentesco entre inseto, peixe, morcego, baleia e ser humano, justificando cada ramificação por uma evidência estudada neste capítulo.
 
-Escreva, em cada ponto de ramificação, qual evidência justifica agrupar aquelas linhagens — o plano de ossos do membro, a estrutura embrionária compartilhada ou o grau de semelhança entre sequências de DNA.
+Escreva, em cada ponto de ramificação, qual das três evidências justifica agrupar aquelas linhagens:
+
+- o plano de ossos do membro;
+- a estrutura embrionária compartilhada;
+- o grau de semelhança entre sequências de DNA.
 
 **Responda:** por que esse parentesco não pode ser representado como uma escada?
 
@@ -17,7 +21,11 @@ Escreva, em cada ponto de ramificação, qual evidência justifica agrupar aquel
 
 **2.** Elabore uma tabela que distinga estruturas homólogas de estruturas análogas.
 
-Além da origem e da função, a tabela deve trazer um terceiro critério, ausente do capítulo, capaz de classificar corretamente um par de estruturas não mencionado em aula.
+A tabela precisa trazer, para cada um dos dois tipos de estrutura:
+
+- a origem;
+- a função;
+- um terceiro critério, ausente do capítulo, capaz de classificar corretamente um par de estruturas não mencionado em aula.
 
 ---
 
@@ -70,7 +78,11 @@ Um estudante escreveu em seu caderno: *"A asa do morcego e a asa do inseto mostr
 
 **1.** Elabore uma tabela que compare as explicações de Lamarck e de Darwin para o pescoço longo da girafa.
 
-Além do papel atribuído ao ambiente e à variação, inclua um critério que permita decidir qual das duas é sustentada pela genética atual.
+A tabela precisa trazer, para cada uma das duas explicações:
+
+- o papel atribuído ao ambiente;
+- o papel atribuído à variação;
+- um critério que permita decidir qual das duas é sustentada pela genética atual.
 
 ---
 

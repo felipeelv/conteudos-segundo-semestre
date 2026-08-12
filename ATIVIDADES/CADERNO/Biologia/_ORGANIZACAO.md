@@ -195,3 +195,19 @@ Confronto uma a uma das 40 questões contra a coluna *Critério que decide a not
 Nenhuma linha da grade precisou ser corrigida: os 40 critérios continuam descrevendo o que a folha entrega. Tipo, rubrica e critério permanecem inalterados nas três folhas.
 
 **Checagem 2 (verbo × rubrica), critério estrito:** a seção 4 não tinha linha própria para essa checagem — fica registrada aqui: **40 de 40** sínteses abrem com verbo do banco §6 compatível com a rubrica da grade (Elabore·R4/R10 · Redija·R5 · Decida·R12 · Pesquise·R7 · Localize·R7 · Diagnostique·R11). Não há `EX` na disciplina, então a lacuna do verbo de cálculo não se aplica a este bloco.
+
+### Refino §7.1 v2 — 12/08
+
+As três folhas já estavam no molde desde `812c490`. Refino: **7 das 40 questões**, todas de forma. **Nenhum bloco foi criado nem removido** e nenhuma entrega mudou de mão.
+
+Contagem inalterada: **3 arquivos-ano · 5 capítulos · 40 questões**. Verificação determinística contra `git HEAD`: nenhum número perdido (0,9%, 5%, 62%, 3,2 milhões de anos), nenhuma citação de estudante perdida e nenhum termo em itálico perdido — os doze termos obrigatórios das `ESC.b` (*permeabilidade seletiva*, *procarionte*, *eucarionte*, *compartimentação*, *vesícula*, *enzima*, *antígeno*, *inespecífico*, *memória imunológica*, *ancestralidade comum*, *linhagem*, *homologia*, *variabilidade*, *hereditário*, *população*) continuam todos de pé.
+
+**Marcador de caso (b): 7 questões**, e o padrão repete o de Português — **cinco das sete são a `TAB` do capítulo**, sempre na fórmula *"Além de X e de Y, inclua um critério ausente do capítulo"*. Três requisitos paralelos numa frase só, e o terceiro — o critério novo, que é o que a rubrica R10 mais pesa — vinha sempre por último, depois de dois-pontos, no fim de um período longo.
+
+As outras duas são a `ESQ` do trajeto de oxigênio e glicose (1ª Série Cap. 1 Q1), cujos três requisitos por trajeto estavam encadeados, e o diagrama ramificado do 9º Cap. 1 Q1, em que as três evidências disponíveis ao aluno — plano de ossos, estrutura embrionária, semelhança de DNA — vinham separadas por travessão dentro da instrução.
+
+**Onde não entrou.** As oito `ESC.c` de posição defendida (*"Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que…"*) ficaram em prosa, como nas outras disciplinas: é redação corrida, e a lista quebraria o texto que a tarefa pede. As quatro `ESC.b` de verbete já trazem a lista `a) b) c) d)`.
+
+**Blocos ao final:** `Responda:` **21** · `Antes de começar:`, `Registre:` e `Confira você mesmo:` **0** — o pool da disciplina não tem `INV` nem item com conferência embutida, como a seção 3 registra. Checagem 2: **40 de 40**. Comando corrido: **0**.
+
+**Nenhuma linha da grade mudou.**

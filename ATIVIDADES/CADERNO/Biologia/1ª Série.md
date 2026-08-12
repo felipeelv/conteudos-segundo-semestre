@@ -9,13 +9,23 @@
 
 **1.** Elabore um esquema que represente o trajeto de uma molécula de oxigênio e de uma molécula de glicose, ambas partindo do meio extracelular até alcançar o citoplasma.
 
-Indique, em cada trajeto, a estrutura atravessada e escreva ao lado de cada seta o tipo de transporte envolvido e se há consumo de energia.
+Cada um dos dois trajetos precisa trazer:
+
+- a estrutura atravessada;
+- ao lado de cada seta, o tipo de transporte envolvido;
+- ao lado de cada seta, se há consumo de energia.
 
 ---
 
 **2.** Elabore uma tabela que contraste o que acontece com uma hemácia colocada em água pura e com uma hemácia colocada em água com muito sal.
 
-Além do sentido do fluxo de água e do efeito sobre o volume da célula, inclua um critério ausente do capítulo: que alteração do meio reverteria cada um dos dois efeitos. Encerre com uma linha que registre o que os dois casos têm em comum.
+A tabela precisa trazer, para cada um dos dois casos:
+
+- o sentido do fluxo de água;
+- o efeito sobre o volume da célula;
+- que alteração do meio reverteria esse efeito — critério ausente do capítulo.
+
+Encerre com uma linha que registre o que os dois casos têm em comum.
 
 ---
 
@@ -74,7 +84,11 @@ Nomeie cada organela atravessada e escreva ao lado de cada seta o que acontece c
 
 **2.** Elabore uma tabela que compare o retículo endoplasmático rugoso e o liso.
 
-Além dos ribossomos e da função de cada um, inclua um critério que permita prever qual dos dois predomina em um tipo celular específico.
+A tabela precisa trazer, para cada um dos dois retículos:
+
+- a presença ou a ausência de ribossomos;
+- a função que ele desempenha;
+- um critério que permita prever qual dos dois predomina em um tipo celular específico.
 
 ---
 
