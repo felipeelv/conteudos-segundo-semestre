@@ -27,11 +27,19 @@ Aperte na mão uma porção de terra e observe se ela esfarela ou se fica grudad
 
 ---
 
-**3.** Elabore um esquema de um ecossistema do lugar onde você mora. Coloque nele pelo menos quatro seres vivos e três coisas não vivas, e ligue com setas quem depende de quem. Cada seta precisa de uma palavra escrita.
+**3.** Elabore um esquema de um ecossistema do lugar onde você mora.
+
+O esquema precisa ter:
+
+- pelo menos quatro seres vivos;
+- pelo menos três coisas não vivas;
+- setas ligando quem depende de quem, cada uma com uma palavra escrita.
 
 ---
 
-**4.** Redija um verbete de até cinco linhas sobre o solo do lugar onde você mora, usando obrigatoriamente as palavras **minhoca**, **raiz** e **predador**. O verbete precisa mostrar, numa única cadeia, como uma dessas três afeta as outras duas.
+**4.** Redija um verbete de até cinco linhas sobre o solo do lugar onde você mora, usando obrigatoriamente as palavras **minhoca**, **raiz** e **predador**.
+
+O verbete precisa mostrar, numa única cadeia, como uma dessas três afeta as outras duas.
 
 ---
 
@@ -65,7 +73,13 @@ A informação pode vir de um livro, de uma revista, do acervo da biblioteca da 
 
 ---
 
-**3.** Elabore um mapa simples do Brasil e marque os cinco ecossistemas, cada um com um traçado diferente — pontinhos, listras, quadradinhos. Faça uma legenda dizendo qual traçado é qual e escreva o título do mapa.
+**3.** Elabore um mapa simples do Brasil com os cinco ecossistemas marcados.
+
+O mapa precisa ter:
+
+- os cinco ecossistemas, cada um com um traçado diferente — pontinhos, listras, quadradinhos;
+- uma legenda dizendo qual traçado é qual;
+- o título do mapa.
 
 ---
 
@@ -73,11 +87,13 @@ A informação pode vir de um livro, de uma revista, do acervo da biblioteca da 
 
 Um estudante escreveu: *"A Caatinga é uma Amazônia que deu errado, porque tem poucas árvores e pouca água."*
 
-**Responda:** que ideia errada sobre *ambiente bom* está por trás dessa comparação? Use uma adaptação concreta de uma planta ou de um animal da Caatinga para mostrar por que essa ideia não se sustenta.
+**Responda:** que ideia errada sobre *ambiente bom* está por trás dessa comparação? E que adaptação concreta de uma planta ou de um animal da Caatinga mostra que essa ideia não se sustenta?
 
 ---
 
-**5.** Redija um verbete de até cinco linhas sobre o cuidado com o ambiente no lugar onde você mora, usando obrigatoriamente as palavras **desmatamento**, **queimada** e **lixo**. O verbete precisa mostrar como um desses três problemas faz outro deles piorar.
+**5.** Redija um verbete de até cinco linhas sobre o cuidado com o ambiente no lugar onde você mora, usando obrigatoriamente as palavras **desmatamento**, **queimada** e **lixo**.
+
+O verbete precisa mostrar como um desses três problemas faz outro deles piorar.
 
 ---
 

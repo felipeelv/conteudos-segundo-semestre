@@ -7,19 +7,34 @@
 
 ## Capítulo 1 — A célula, unidade da vida
 
-**1.** Ordene, numa linha do tempo, os quatro marcos estudados da descoberta da célula — 1665, 1676, 1838–1839 e 1855 —, nomeando em cada um quem respondeu por ele. Entre cada par vizinho de marcos, escreva uma frase explicando o que a descoberta anterior tornou possível.
+**1.** Ordene, numa linha do tempo, os quatro marcos estudados da descoberta da célula.
+
+A linha do tempo precisa trazer:
+
+- os quatro marcos, em ordem — 1665, 1676, 1838–1839 e 1855;
+- o nome de quem respondeu por cada um deles;
+- entre cada par vizinho de marcos, uma frase explicando o que a descoberta anterior tornou possível.
 
 ---
 
-**2.** Elabore uma tabela que compare célula animal e célula vegetal. Além das estruturas que as distinguem, inclua uma coluna que relacione cada diferença ao modo de vida do organismo.
+**2.** Elabore uma tabela que compare célula animal e célula vegetal.
+
+Além das estruturas que as distinguem, inclua uma coluna que relacione cada diferença ao modo de vida do organismo.
 
 ---
 
-**3.** Elabore uma história em quadrinhos de quatro quadros que mostre uma célula por dentro. Ao longo dos quadros precisam aparecer, nomeadas e com a função escrita, pelo menos seis estruturas da célula; no terceiro quadro precisa estar correta a diferença entre a membrana plasmática e a parede celular.
+**3.** Elabore uma história em quadrinhos de quatro quadros que mostre uma célula por dentro.
+
+A história precisa trazer:
+
+- ao longo dos quadros, pelo menos seis estruturas da célula, nomeadas e com a função escrita;
+- no terceiro quadro, a diferença entre a membrana plasmática e a parede celular, corretamente apresentada.
 
 ---
 
-**4.** Redija um verbete de até cinco linhas sobre a relação entre a forma e a função de uma célula, usando obrigatoriamente os termos **neurônio**, **hemácia** e **cloroplasto**. Em cada um dos três, explique o que aquela célula deixaria de conseguir fazer se tivesse a forma de uma das outras.
+**4.** Redija um verbete de até cinco linhas sobre a relação entre a forma e a função de uma célula, empregando obrigatoriamente os termos **neurônio**, **hemácia** e **cloroplasto**.
+
+Em cada um dos três, o verbete precisa explicar o que aquela célula deixaria de conseguir fazer se tivesse a forma de uma das outras.
 
 ---
 
@@ -51,19 +66,27 @@ Arranque duas folhas parecidas de uma mesma planta — de um vaso, de um jardim,
 
 ## Capítulo 2 — Níveis de organização dos seres vivos
 
-**1.** Elabore um esquema dos níveis de organização, da célula ao organismo, usando um exemplo real do corpo humano em cada nível. Cada seta precisa de um rótulo dizendo o que se ganha ao subir de nível.
+**1.** Elabore um esquema dos níveis de organização, da célula ao organismo.
+
+Use um exemplo real do corpo humano em cada nível, e dê a cada seta um rótulo dizendo o que se ganha ao subir de nível.
 
 ---
 
-**2.** Elabore uma tabela com três sistemas do corpo humano em que fique visível a dependência entre eles: o que cada um fornece aos outros dois e o que recebe deles.
+**2.** Elabore uma tabela com três sistemas do corpo humano em que fique visível a dependência entre eles.
+
+Para cada um dos três sistemas, a tabela precisa registrar o que ele fornece aos outros dois e o que recebe deles.
 
 ---
 
-**3.** Explique a quem faltou à aula, em um parágrafo de até seis linhas, todos os níveis de organização envolvidos no ato de levantar o braço, do tecido ao sistema.
+**3.** Explique todos os níveis de organização envolvidos no ato de levantar o braço, do tecido ao sistema.
+
+**Responda, em um parágrafo de até seis linhas, para quem faltou à aula:** que níveis de organização entram em ação quando você levanta o braço, do tecido ao sistema?
 
 ---
 
-**4.** Redija um verbete de até cinco linhas explicando por que subir de nível de organização não é apenas juntar mais peças, usando obrigatoriamente os termos **tecido**, **órgão** e **sistema**. Em cada um dos três, diga o que passa a ser possível nesse nível e não era possível no nível anterior.
+**4.** Redija um verbete de até cinco linhas explicando por que subir de nível de organização não é apenas juntar mais peças, empregando obrigatoriamente os termos **tecido**, **órgão** e **sistema**.
+
+Em cada um dos três, o verbete precisa dizer o que passa a ser possível nesse nível e não era possível no nível anterior.
 
 ---
 

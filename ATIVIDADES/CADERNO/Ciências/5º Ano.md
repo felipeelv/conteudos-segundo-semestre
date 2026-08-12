@@ -31,7 +31,9 @@ Escreva a lista dos alimentos das suas refeições de ontem, classifique cada um
 
 ---
 
-**4.** Redija um verbete de até cinco linhas sobre uma refeição equilibrada, usando obrigatoriamente as palavras **carboidrato**, **proteína** e **vitamina**. O verbete precisa dizer, para cada um dos três, o que o corpo deixa de conseguir fazer quando ele falta na refeição.
+**4.** Redija um verbete de até cinco linhas sobre uma refeição equilibrada, usando obrigatoriamente as palavras **carboidrato**, **proteína** e **vitamina**.
+
+O verbete precisa dizer, para cada um dos três, o que o corpo deixa de conseguir fazer quando ele falta na refeição.
 
 ---
 
