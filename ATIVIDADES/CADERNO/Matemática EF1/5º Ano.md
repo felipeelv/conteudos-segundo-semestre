@@ -1,7 +1,7 @@
 # Matemática EF1 — 5º Ano
 
 > **Bloco 1 · 05/08–25/08** · Pensamento Algébrico, Plano Cartesiano e Proporcionalidade
-> 4 capítulos · 28 questões.
+> 4 capítulos · 36 questões.
 
 ---
 
@@ -74,6 +74,31 @@ O bilhete precisa deixar claro que ele **não** quer dizer "aqui vem a resposta"
 
 ---
 
+**8.** Assinale, entre as três mudanças feitas na igualdade 7 + 3 = 10, a única que deixa a igualdade verdadeira, e escreva por que **uma** das outras duas não deixa.
+
+a) Multiplicar os dois lados por 2, escrevendo 14 + 6 = 20.
+b) Multiplicar só o lado esquerdo por 2, escrevendo 14 + 6 = 10.
+c) Multiplicar o lado esquerdo por 2 e o direito por 3, escrevendo 14 + 6 = 30.
+
+**Responda:** qual mudança mantém a igualdade verdadeira? Escolha uma das outras duas e escreva por que ela não mantém.
+
+**Confira você mesmo:** calcule os dois lados de cada uma das três e veja quais números aparecem. As duas erradas erram de jeitos diferentes: uma mexe em um lado só, e a outra mexe nos dois lados com números diferentes.
+
+---
+
+**9.** Assinale, entre as três retiradas do caso a seguir, a única que mantém a balança equilibrada, e escreva por que **uma** das outras duas não mantém.
+
+Numa balança em equilíbrio, o prato da esquerda tem 3 laranjas iguais e o prato da direita tem 6 limões iguais.
+
+a) Tirar 1 laranja da esquerda e não tirar nada da direita.
+b) Tirar 1 laranja da esquerda e 2 limões da direita.
+c) Tirar 1 laranja da esquerda e 1 limão da direita.
+
+**Responda:** qual retirada mantém o equilíbrio? Escolha uma das outras duas e escreva por que ela não mantém.
+
+**Confira você mesmo:** se 3 laranjas equilibram 6 limões, quantos limões equilibram 1 laranja sozinha? Descubra esse número primeiro — ele decide as três retiradas de uma vez.
+
+---
 ## Capítulo 2 — Termo desconhecido e padrões numéricos
 
 **1.** Calcule os três itens na ordem — o resultado de cada um entra no próximo.
@@ -145,6 +170,29 @@ Conte quantos lápis, canetas e borrachas há no seu material escolar e escreva 
 
 ---
 
+**8.** Assinale, entre as três conferências, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 − 4 dá 9.
+b) Em ▢ − 4 = 9, o valor 5 está certo, porque 9 − 4 dá 5.
+c) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 é maior que 9.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** conferir é pôr o valor no lugar do quadradinho e refazer a conta da sentença. Uma das erradas nem chega a fazer isso; a outra faz uma conta que não é a da sentença. Veja qual das duas é a que você escolheu.
+
+---
+
+**9.** Assinale, entre as três regras, a única que produz a sequência 3, 6, 12, 24, e escreva por que **uma** das outras duas não produz.
+
+a) Somar 3 a cada termo para achar o próximo.
+b) Multiplicar cada termo por 2 para achar o próximo.
+c) Somar o termo anterior com o termo de antes dele.
+
+**Responda:** qual regra produz a sequência? Escolha uma das outras duas e escreva por que ela não produz.
+
+**Confira você mesmo:** aplique a regra que você descartou começando em 3 e 6 e escreva os quatro primeiros termos que ela dá. Compare com 3, 6, 12, 24 e diga em que termo ela se afasta.
+
+---
 ## Capítulo 3 — Localização no plano cartesiano
 
 **1.** Construa um plano cartesiano e marque nele quatro pontos, nomeando cada um.
@@ -209,6 +257,31 @@ Percorra o caminho contando os passos de cada trecho reto.
 
 ---
 
+**8.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Numa sala, as carteiras estão organizadas em linhas e colunas. Alguém diz apenas: *"a minha carteira está na linha 3"*.
+
+a) A informação basta para achar a carteira, porque existe só uma linha 3.
+b) A informação não basta, porque falta a coluna: a linha 3 tem várias carteiras.
+c) A informação basta, porque a pessoa deve estar na primeira carteira da linha 3.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** desenhe uma sala com 4 linhas e 5 colunas e pinte todas as carteiras da linha 3. Quantas carteiras você pintou? Esse número responde à questão.
+
+---
+
+**9.** Assinale, entre as três frases sobre o par ordenado (2, 5), a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) O ponto (2, 5) fica em cima do eixo horizontal, porque o par começa pelo 2.
+b) No par (2, 5), o 2 é contado no eixo horizontal e o 5 no eixo vertical.
+c) No par (2, 5), tanto faz qual número vem primeiro, porque os dois são lidos juntos.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** marque no caderno o ponto (2, 5) e depois o ponto (5, 2). Se os dois caíram em lugares diferentes, uma das frases erradas já caiu; a outra você derruba olhando se o ponto (2, 5) encostou no eixo.
+
+---
 ## Capítulo 4 — Transformações geométricas na malha quadriculada
 
 **1.** Construa uma malha quadriculada, um triângulo e a translação desse triângulo, e escreva as coordenadas dos novos vértices.
@@ -280,3 +353,29 @@ Toda linha do seu mapa precisa ter um rótulo escrito dizendo qual é a relaçã
 Com a régua, construa no caderno duas malhas quadriculadas de 10 por 10 quadradinhos, numere os dois eixos de 0 a 10 e construa em cada uma um triângulo com vértices em (2, 1), (5, 1) e (2, 4). Na primeira malha, gire o triângulo 180° ao redor do ponto (5, 4). Na segunda, reflita o triângulo no eixo vertical que passa pelo número 6.
 
 **Responda:** quais são as coordenadas dos vértices das duas figuras novas, qual das duas propostas produz a figura invertida como num espelho, e qual é o critério que decidiu, comparando a posição dos vértices nas duas figuras?
+
+---
+
+**8.** Assinale, entre as três transformações, a única que muda o **tamanho** da figura, e escreva o que é cada uma das outras duas.
+
+a) A figura é deslocada 4 quadrados para a direita na malha.
+b) Todos os lados da figura ficam com o dobro do comprimento.
+c) A figura é virada para o outro lado de um eixo vertical.
+
+**Responda:** qual transformação muda o tamanho, e que nome tem cada uma das outras duas?
+
+**Confira você mesmo:** as outras duas não são "não-mudanças" — cada uma tem nome próprio no capítulo, e as duas mudam alguma coisa na figura, só que não o tamanho. Escreva o nome de cada uma e o que ela muda.
+
+---
+
+**9.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Uma figura desenhada na malha quadriculada foi refletida em um eixo vertical.
+
+a) A figura ficou com o mesmo tamanho e a mesma forma, e com a orientação invertida.
+b) A figura ficou maior, porque a reflexão dobra a distância dela até o eixo.
+c) A figura ficou com o mesmo tamanho, e a orientação continuou igual à original.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** conte os quadradinhos de um lado da figura original e do mesmo lado da figura refletida. Se os dois números forem iguais, uma das frases erradas cai. A outra você derruba olhando para que lado a figura ficou virada.

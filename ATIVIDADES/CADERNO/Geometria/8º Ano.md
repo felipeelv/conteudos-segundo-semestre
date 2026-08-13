@@ -1,7 +1,7 @@
 # Geometria — 8º Ano
 
 > **Bloco 1 · 05/08–25/08** · Transformações geométricas e áreas
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -66,3 +66,31 @@ Trace as quatro letras no caderno — a régua nos traços retos, o compasso na 
 **Responda:** letra por letra, quantos eixos de fato apareceram, e em que ponto a sua previsão falhou?
 
 **Confira você mesmo:** em cada eixo traçado, meça com a régua a distância de dois pontos correspondentes da letra até ele — se as duas distâncias não coincidirem, aquele traço não é eixo de simetria.
+
+---
+
+**7.** Assinale, entre as quatro descrições, a única que corresponde a uma **translação**, e diga o que é cada uma das outras três.
+
+a) Cada ponto percorre o mesmo vetor, de mesma direção, sentido e módulo.
+b) Cada ponto gira em torno de um centro fixo, por um mesmo ângulo.
+c) Cada ponto vai para o outro lado de uma reta, à mesma distância dela.
+d) A figura é ampliada, e cada lado fica com o dobro do comprimento.
+
+**Responda:** qual das quatro é a translação, e o que é cada uma das outras três?
+
+**Confira você mesmo:** duas das outras três são transformações que o capítulo nomeia; a terceira nem sequer é isometria, e é por isso que ela sai da lista por um motivo diferente das outras duas. Diga qual é essa terceira e o que ela deixa de preservar.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+
+Um estudante quer cobrir uma página com um único polígono regular repetido, sem falhas nem sobreposições. Ele testa o triângulo equilátero (60°), o quadrado (90°), o pentágono regular (108°) e o hexágono regular (120°).
+
+a) O pentágono pavimenta sozinho, porque todo polígono regular se encaixa com cópias iguais.
+b) O pentágono não pavimenta sozinho, porque 108° não divide 360° um número inteiro de vezes.
+c) O pentágono não pavimenta sozinho, porque os seus lados têm comprimentos diferentes.
+d) Nenhum dos quatro pavimenta sozinho, porque toda tesselação exige duas formas diferentes.
+
+**Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** divida 360 por 60, por 90, por 108 e por 120 e veja quais divisões dão número inteiro. Uma das erradas cai só com essa conta; as outras duas caem antes dela — uma parte de uma propriedade falsa do polígono regular, e a outra exige da tesselação uma condição que o capítulo não impõe.

@@ -1,7 +1,7 @@
 # Geometria — 6º Ano
 
 > **Bloco 1 · 05/08–25/08** · Quadriláteros, circunferência e área
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -71,3 +71,31 @@ Trace com régua e compasso o contraexemplo que revela o erro.
 Uma marcenaria vai fabricar uma placa em forma de losango de 17 cm de lado, cujas diagonais medem 30 cm e 16 cm.
 
 **Responda:** quantos metros de fita são necessários — apresente o cálculo — e por que somar as medidas das duas diagonais não dá o contorno da placa?
+
+---
+
+**7.** Assinale, entre os quatro, o único que descreve um **diâmetro**, e diga o que é cada um dos outros três.
+
+a) Segmento que liga o centro O a um ponto qualquer da circunferência.
+b) Segmento com as duas extremidades na circunferência, passando pelo centro.
+c) Segmento com as duas extremidades na circunferência, sem passar pelo centro.
+d) Parte da circunferência compreendida entre dois de seus pontos.
+
+**Responda:** qual dos quatro é o diâmetro, e o que é cada um dos outros três?
+
+**Confira você mesmo:** os outros três não são "não-diâmetros" — cada um tem nome próprio no capítulo, e os três nomes são diferentes entre si. Se você escreveu *"não passa pelo centro"* em mais de um, releia: um deles nem sequer é um segmento.
+
+---
+
+**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+
+Uma placa redonda de metal vai receber fita no contorno e tinta na face inteira.
+
+a) A fita contorna a circunferência, e a tinta cobre o círculo, que é a região com a borda.
+b) A fita e a tinta cobrem as duas o círculo, porque círculo e circunferência são o mesmo.
+c) A fita contorna o círculo, e a tinta cobre a circunferência, que é a superfície da placa.
+d) A fita contorna a circunferência, e a tinta cobre o arco, que é a parte interna dela.
+
+**Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** as três erradas fazem coisas diferentes com os dois termos — uma junta os dois num só, outra troca um pelo outro, e a terceira substitui um deles por um terceiro elemento. Diga qual das três faz o quê.

@@ -5,11 +5,11 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 1ª Série | Aristóteles e Escolástica | 1 | 8 |
-| 2ª Série | Crise e niilismo | 1 | 8 |
-| **Total** | | **2** | **16** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 1ª Série | Aristóteles e Escolástica | 1 | 10 | 2 |
+| 2ª Série | Crise e niilismo | 1 | 10 | 2 |
+| **Total** | | **2** | **20** | **4** |
 
 ## 2. Grade de correção
 
@@ -26,6 +26,9 @@
 | 1 | 7 | ERR.a | R11 | o exemplo construído — argumento válido com conclusão falsa — é o que discrimina |
 | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição defendida |
 
+| 1 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** transforma semelhança em identidade — o capítulo distingue o princípio racional do Deus pessoal da Escritura; **c** transforma o princípio em objeto material; **d** atribui a Aristóteles um abandono de tese que o capítulo não registra. A letra sozinha vale 2 dos 10 |
+| 1 | 10 | OBJ.a | R14 | letra **b**. Eliminações: **a** é acidente, **c** é matéria, **d** é forma. Não basta *"não é a coisa em si"* — a questão cobra o nome próprio de cada uma |
+
 ### 2ª Série
 
 | Cap | Q | Tipo | Rubrica | Critério que decide a nota |
@@ -38,6 +41,9 @@
 | 1 | 6 | FON.c | R7 | a diferença entre o uso atual do termo e o de Nietzsche; a pergunta que o texto não responde |
 | 1 | 7 | ERR.c | R11 | os **dois** problemas; apontar só um vale metade |
 | 1 | 8 | ESC.c | R5 | as duas passagens citadas; a posição em si não pontua |
+
+| 1 | 9 | OBJ.b | R14 | letra **b**. Eliminações: **a** trata a seleção póstuma como obra do autor; **c** estende a suspeita da edição à obra publicada em vida; **d** apaga o efeito histórico da edição |
+| 1 | 10 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — **b** julga a tese pela biografia do autor, **d** troca uma objeção conceitual por exigência de teste; **c** erra a conclusão |
 
 ## 3. Rodapé de produção
 
@@ -64,6 +70,22 @@
 - **Pool herdado fora da fórmula de §3 — pendência aberta.** Aplicando a fórmula ao par de capítulos, o pool legítimo é `ESC · CASO · MC · ESQ` (quatro tipos, acima do mínimo de 3, portanto sem revisão manual). Os três tipos restantes do pool declarado não se sustentam: `TAB` é **proibido** por M8 (presente nos dois capítulos); `ERR` depende de M1, e não há `Passo 1` em nenhum dos dois capítulos; `FON` depende de M5, e não há arquivo `— Anexo.md` em `Filosofia/`. São 8 das 16 questões (Q2, Q5, Q6 e Q7 de cada ano). Os tipos vieram sorteados da produção anterior e a validação não re-sorteia — a correção exige re-sorteio autorizado, com os quatro tipos legítimos, o que fecharia também a lacuna de `MC`.
 - **FON sem M5 — mitigação aplicada.** Enquanto o re-sorteio não ocorrer, as quatro questões `FON` funcionam por localização de fonte pelo próprio aluno e o enunciado aceita fonte impressa, digital ou do acervo da escola, sem exigir nenhuma delas (§8.2).
 - **Religião como conteúdo.** Os dois capítulos tratam temas religiosos como objeto de análise — o Motor Imóvel diante do Deus pessoal, em Aristóteles; a crítica ao cristianismo e a avaliação cristã, em Nietzsche. As questões medem reconstrução de argumento e uso de evidência textual; nenhum critério pontua a posição defendida pelo aluno (`05-REGRAS-DE-APLICACAO.md` §6).
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final do bloco de cada capítulo, numeradas em continuidade. **Nada foi re-sorteado**: as 16 questões anteriores seguem intactas. Contagem: 2 arquivos-ano · 2 capítulos · **16 → 20 questões**, sendo 4 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 2 de 2 |
+| T9 · itens distintos dentro do capítulo | 2 de 2 — 1ª Série `c·a` · 2ª Série `b·d` |
+| T6 · item não repete em capítulos consecutivos | não se aplica: cada ano tem um capítulo só |
+| Faixa etária (§7.1) | EM nos dois: 4 alternativas, as três eliminações **com o tipo de erro nomeado** |
+| Checagem 14 · distratores (§8.4) | 12 distratores conferidos um a um |
+| Gabarito fora da folha | sim |
+| Conteúdo religioso (§6 de `05`) | as duas `OBJ` que tocam religião — Motor Imóvel × Deus pessoal, e diagnóstico × remédio em Nietzsche — reproduzem a distinção que o **próprio capítulo** faz, e o que se avalia é a distinção conceitual, não a adesão. Nenhuma alternativa pede ou premia posição de fé, e a letra correta de ambas se sustenta por leitura do texto |
+
+**Por que `OBJ` é especialmente adequada a esta disciplina, e onde ela pode falhar.** Filosofia é uma das cinco disciplinas em que `EX` não aparece ([`03`](../../METODOLOGIA/03-REPERTORIO.md) §4): não há resposta curta que revele compreensão. Há, porém, confusão conceitual típica e bem documentada — *semelhança tomada por identidade*, *crítica de uma prática tomada por refutação do princípio*, *diagnóstico correto tomado por prova da solução* —, e é exatamente isso que a eliminação argumentada expõe. O risco simétrico é o distrator que vira caricatura de posição filosófica; as quatro questões foram escritas sobre distinções que o capítulo **enuncia** (o box de §2.2 da 2ª Série, a nota de §2.2 da 1ª), não sobre teses atribuídas de fora.
 
 ## 5. Revisões aplicadas ao material anterior
 

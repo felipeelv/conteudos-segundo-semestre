@@ -1,7 +1,7 @@
 # Filosofia — 2ª Série
 
 > **Bloco 1 · 05/08–25/08** · Crise e niilismo
-> 1 capítulo · 8 questões.
+> 1 capítulo · 10 questões.
 
 ---
 
@@ -67,3 +67,33 @@ Um estudante escreveu: *"Nietzsche disse que Deus está morto porque era ateu e 
 ---
 
 **8.** Redija, em seis a dez linhas, para um leitor que sustenta a posição contrária, uma resposta à pergunta: a crítica de Nietzsche à moral do ressentimento alcança o cristianismo tal como o capítulo o descreve? Enuncie a posição na primeira linha, sustente-a com duas passagens do capítulo e responda à objeção registrada na avaliação cristã, segundo a qual o amor sacrificial também é uma forma de força.
+
+---
+
+**9.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Depois do colapso de 1889, Nietzsche perdeu a lucidez. Sua irmã Elisabeth organizou e publicou uma seleção de anotações sob o título *A Vontade de Poder*, e essa edição favoreceu apropriações posteriores.
+
+a) A edição prova que Nietzsche defendia as posições que lhe foram atribuídas depois.
+b) A edição é uma seleção feita por outra pessoa, e não equivale a uma obra do autor.
+c) A edição invalida todo o pensamento dele, inclusive os livros que ele mesmo publicou.
+d) A edição não tem importância alguma, porque apropriação posterior nunca é relevante.
+
+**Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** as três erradas erram em direções opostas quanto ao peso que dão à edição póstuma — uma a trata como se fosse do autor, outra estende a suspeita dela à obra inteira, e a terceira apaga o seu efeito histórico. Diga em que direção cada uma errou.
+
+---
+
+**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+O capítulo apresenta uma posição cristã que concorda com o diagnóstico de Nietzsche — a moral herdada perde autoridade quando o fundamento é abandonado — e discorda do remédio que ele propõe.
+
+a) É coerente, porque acertar o diagnóstico não garante que a solução proposta esteja certa.
+b) É coerente, porque Nietzsche perdeu a lucidez em 1889 e não pôde revisar o que escreveu.
+c) Não é coerente, porque quem aceita o diagnóstico de um autor precisa aceitar a solução dele.
+d) É coerente, porque o remédio que ele propõe ainda não foi testado por ninguém até hoje.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro chegam à mesma conclusão, e só uma chega por um motivo que se sustenta. Portanto duas das suas justificativas **não** podem ser *"não é coerente"*. Uma dessas duas julga a tese pela biografia do autor; a outra troca uma objeção conceitual por uma exigência de teste.

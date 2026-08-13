@@ -1,7 +1,7 @@
 # História — 2ª Série
 
 > **Bloco 1 · 05/08–25/08** · Segundo Reinado: café, escravidão e abolição
-> 2 capítulos · 15 questões.
+> 2 capítulos · 19 questões.
 
 ---
 
@@ -76,6 +76,34 @@ Enuncie a posição na primeira linha, sustente-a com dois fatos verificáveis e
 
 ---
 
+**9.** Assinale, entre as quatro afirmações sobre liberais e conservadores no Segundo Reinado, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) Liberais e conservadores eram idênticos, e *farinha do mesmo saco* os descreve por inteiro.
+b) Concordavam sobre monarquia e escravidão e divergiam sobre centralização e cargos.
+c) Liberais defendiam o fim da escravidão, e conservadores, a sua manutenção no Império.
+d) Os dois partidos representavam trabalhadores urbanos e pequenos proprietários rurais.
+
+**Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** uma das erradas toma por descrição completa uma expressão que o capítulo apresenta como resumo parcial, outra inventa uma divergência entre os partidos, e a terceira erra a base social de ambos. Diga qual das três faz o quê.
+
+---
+
+**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+No Oeste Paulista, os primeiros cafezais foram plantados com trabalho escravizado. A Lei de Terras, de 1850, tornou a compra a principal forma de acesso legal às terras públicas.
+
+a) O Oeste Paulista nasceu como economia de trabalho livre, sem ter passado pela escravidão.
+b) A escravidão sustentou os primeiros cafezais paulistas, e a lei de 1850 dificultou o acesso à terra.
+c) A Lei de Terras distribuiu lotes a libertos e imigrantes, corrigindo a concentração fundiária.
+d) Escravidão e trabalho livre nunca coexistiram: um substituiu o outro de uma vez só.
+
+**Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** uma das erradas é desmentida pela primeira frase do caso, outra inverte o efeito de uma lei que o caso descreve, e a terceira nega uma coexistência que o capítulo afirma. Só uma das três cai pela leitura do caso: diga qual, e por que as outras duas exigem o capítulo.
+
+---
+
 ## Capítulo 2 — Guerra do Paraguai e sociedade imperial
 
 **1.** Ordene em uma linha do tempo os marcos da Guerra do Paraguai, dos antecedentes na região platina até o desfecho e suas consequências internas para o Brasil, e explique o nexo causal que liga cada marco ao seguinte.
@@ -134,3 +162,31 @@ Consulte jornal, revista, livro, site ou acervo da biblioteca da escola e regist
 Um estudante escreveu: *"O Exército derrubou a monarquia porque perdeu prestígio na Guerra do Paraguai."*
 
 **Responda:** qual é o erro da afirmação, o que de fato ocorreu com a posição do Exército após o conflito, e como ela fica reescrita de modo correto?
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre as causas da Guerra do Paraguai, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) A guerra foi causada por um plano britânico comprovado para destruir o Paraguai.
+b) A guerra nasceu de disputas na Bacia Platina, sem causa única nem plano externo.
+c) A guerra começou com a apreensão do *Marquês de Olinda*, sem nenhum antecedente.
+d) A guerra foi causada apenas pela ambição pessoal de Solano López sobre os vizinhos.
+
+**Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** duas das erradas escolhem uma causa única, mas em lugares diferentes — uma fora da região, outra numa só pessoa. A terceira não escolhe causa: ela recorta o começo da história e deixa de fora o que veio antes. Diga qual das três faz o quê.
+
+---
+
+**9.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+O IHGB, fundado em 1838, selecionava documentos e narrativas para construir uma história nacional ligada à Monarquia. O indianismo romântico transformou o indígena em símbolo literário.
+
+a) A cultura nacional do Império resultou de escolhas, porque instituições e escritores selecionavam o que virava símbolo.
+b) A cultura nacional do Império resultou de escolhas, porque o imperador escrevia pessoalmente as obras que apoiava.
+c) A cultura nacional do Império registrou a experiência de todos os grupos que viviam no país naquele tempo.
+d) A cultura nacional do Império resultou de escolhas, porque o Romantismo estava proibido na Europa da época.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro chegam à mesma conclusão, e só uma chega por um motivo que se sustenta. Portanto duas das suas justificativas **não** podem ser *"não houve escolha"*. As duas trocam o agente da seleção por outra coisa — uma o troca por uma pessoa, a outra por uma circunstância externa que o capítulo não registra.

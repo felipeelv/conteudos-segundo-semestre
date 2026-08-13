@@ -1,7 +1,7 @@
 # Geometria — 1ª Série
 
 > **Bloco 1 · 05/08–25/08** · Circunferência e áreas de figuras planas
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -66,3 +66,31 @@ Uma praça circular tem 40 m de raio, e um poste de iluminação está fixado a 
 Refaça em seguida a mesma conta uma única vez, trocando 50 m por 60 m, e extraia a raiz na calculadora, arredondando o resultado a uma casa decimal.
 
 **Responda:** quantos metros de cabo são necessários, qual é o cálculo, e o que no ângulo que o raio forma com a borda no ponto de tangência o justifica? E que comprimento o cabo teria se o poste estivesse a 60 m do centro?
+
+---
+
+**7.** Assinale, entre os quatro, o único que descreve um **ângulo de segmento**, e diga o que é cada um dos outros três.
+
+a) Vértice no centro, lados formados por dois raios.
+b) Vértice na circunferência, lados formados por uma corda e uma tangente.
+c) Vértice na circunferência, lados formados por duas cordas.
+d) Vértice fora da circunferência, lados formados por duas secantes.
+
+**Responda:** qual dos quatro é o ângulo de segmento, e o que é cada um dos outros três?
+
+**Confira você mesmo:** os quatro se distinguem por duas coisas apenas — **onde fica o vértice** e **que linhas formam os lados**. Dois deles têm o vértice no mesmo lugar: se você não soube separar esses dois, o que os distingue é a segunda coisa, não a primeira.
+
+---
+
+**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+De um ponto P externo sai uma secante que corta a circunferência em A e em B, com PA = 4 cm e PB = 9 cm. Do mesmo ponto P sai uma tangente que toca a curva em T.
+
+a) PT mede 6 cm, porque o produto PA · PB é igual a PT², e 36 tem raiz 6.
+b) PT mede 6,5 cm, porque PT é a média entre as medidas 4 cm e 9 cm.
+c) PT mede 13 cm, porque a tangente é a soma dos dois segmentos da secante.
+d) PT depende da secante escolhida, e por isso não pode ser determinado aqui.
+
+**Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** duas das erradas trocam a operação — uma troca produto por média, a outra troca produto por soma —, e as duas dão resultados próximos o bastante para passarem despercebidas. A terceira não erra a operação: ela nega o invariante que dá nome à seção 6 do capítulo.

@@ -1,7 +1,7 @@
 # Matemática EF1 — 4º Ano
 
 > **Bloco 1 · 05/08–25/08** · Números racionais, medidas e padrões
-> 4 capítulos · 28 questões.
+> 4 capítulos · 36 questões.
 
 ---
 
@@ -72,6 +72,31 @@ O bilhete precisa trazer um exemplo.
 
 ---
 
+**8.** Assinale, entre as três barras, a única em que a parte pintada pode ser escrita como a fração 3/4, e escreva por que **uma** das outras duas não pode.
+
+a) Uma barra dividida em 4 pedaços iguais, com 3 deles pintados.
+b) Uma barra dividida em 4 pedaços de tamanhos diferentes, com 3 pintados.
+c) Uma barra dividida em 3 pedaços iguais, com 1 deles pintado.
+
+**Responda:** qual barra mostra 3/4? Escolha uma das outras duas e escreva por que ela não mostra.
+
+**Confira você mesmo:** as duas barras erradas erram em coisas diferentes — numa, os pedaços não são todos do mesmo tamanho; na outra, os pedaços são iguais, mas os números da fração são outros. Veja qual dos dois problemas tem a barra que você escolheu.
+
+---
+
+**9.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+João comeu 1/2 de uma pizza pequena. Maria comeu 1/2 de uma pizza grande.
+
+a) Os dois comeram a mesma quantidade, porque as duas frações são 1/2.
+b) Maria comeu mais, porque a metade da pizza grande é maior que a da pequena.
+c) João comeu mais, porque a pizza dele foi dividida em pedaços menores.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** desenhe as duas pizzas no caderno, uma bem maior que a outra, e pinte a metade de cada uma. Compare as duas partes pintadas: elas ocupam o mesmo espaço? Esse desenho derruba uma das frases erradas na hora.
+
+---
 ## Capítulo 2 — Adição e subtração de frações com o mesmo denominador
 
 **1.** Calcule os três itens na ordem — o resultado de cada um é o começo do próximo.
@@ -135,6 +160,29 @@ Um copo está cheio até 3/4. Você bebe 1/4. Depois enche de novo até a marca 
 
 ---
 
+**8.** Assinale, entre as três frases sobre a fração 5/5, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) 5/5 vale um inteiro, porque o número de cima e o de baixo são iguais.
+b) 5/5 vale cinco inteiros, porque há cinco partes marcadas na figura.
+c) 5/5 vale menos que um inteiro, porque toda fração é menor que 1.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** desenhe uma barra dividida em 5 pedaços iguais e pinte os cinco. Quanto da barra ficou pintado? Esse desenho responde às três frases de uma vez.
+
+---
+
+**9.** Assinale, entre as três maneiras de calcular 1 − 2/5, a única certa, e escreva por que **uma** das outras duas está errada.
+
+a) Trocar o 1 por 5/5 e fazer 5/5 − 2/5, chegando a 3/5.
+b) Tirar o 2 do 1 e escrever a resposta como 1/5.
+c) Trocar o 1 por 5/5 e fazer 5/5 − 2/5, chegando a 3/10.
+
+**Responda:** qual maneira está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** some a sua resposta com 2/5. Se der 5/5, ou seja, um inteiro, a conta fechou. Se der outra coisa, o erro está na maneira que você escolheu.
+
+---
 ## Capítulo 3 — Frações decimais e números decimais
 
 **1.** Calcule as passagens entre fração e número decimal nos três blocos, na ordem.
@@ -202,6 +250,31 @@ A lista tem três itens: R$ 12,05, R$ 3,50 e R$ 0,25. Some os três preços e es
 
 ---
 
+**8.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Um quadrado foi dividido em 100 quadradinhos iguais, e 25 deles foram pintados.
+
+a) A parte pintada é 25/100, que também se escreve 0,25 e vale um quarto do quadrado.
+b) A parte pintada é 25/100, que se escreve 0,25 e vale a metade do quadrado.
+c) A parte pintada é 25/10, porque foram pintados 25 quadradinhos de 10 em 10.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** se 25 quadradinhos são um quarto, então quatro grupos de 25 dão o quadrado inteiro. Faça 25 + 25 + 25 + 25 e veja se dá 100. Essa conta derruba uma das frases erradas.
+
+---
+
+**9.** Assinale, entre as três frases sobre frações decimais, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) 3/4 é uma fração decimal, porque dá para escrevê-la como 0,75.
+b) 3/10 é uma fração decimal, porque o número de baixo dela é 10.
+c) 3/10 não é fração decimal, porque não aparece vírgula nela.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** procure no capítulo a frase que diz o que uma fração decimal precisa ter. Ela fala do número de baixo — e não fala de vírgula nem do que a fração vira depois.
+
+---
 ## Capítulo 4 — Medidas de comprimento, massa e capacidade
 
 **1.** Calcule os três itens na ordem — o resultado de cada um entra no próximo.
@@ -274,3 +347,29 @@ Conte quantos palmos realmente cabem e, em seguida, meça essa mesma largura com
 **Responda:** quantos centímetros mede o seu palmo, mais ou menos, e quantos palmos seus caberiam em 1 metro?
 
 **Confira você mesmo:** multiplique a medida do seu palmo pelo número de palmos que você contou. O resultado precisa chegar perto dos centímetros que a régua deu; se ficar longe, a contagem de palmos escorregou — a régua é a medida que decide.
+
+---
+
+**8.** Assinale, entre as três medições, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) O lápis começa no 0 da régua e a outra ponta chega ao 14. O lápis mede 14 cm.
+b) O lápis começa no 1 da régua e a outra ponta chega ao 14. O lápis mede 14 cm.
+c) O lápis começa no 0 da régua e a outra ponta chega ao 14. O lápis mede 14 mm.
+
+**Responda:** qual medição está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas medições erradas erram em coisas diferentes — uma erra o **lugar onde a medida começa**, e a outra erra a **unidade**. Veja qual dessas duas coisas a medição que você escolheu errou.
+
+---
+
+**9.** Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Um terreno retangular tem 6 m de um lado e 3 m do outro. O dono quer saber quantos metros de cerca precisa comprar para contornar o terreno inteiro.
+
+a) Ele precisa de 18 m de cerca, porque a soma dos quatro lados é 6 + 3 + 6 + 3.
+b) Ele precisa de 18 m de cerca, porque 6 × 3 = 18 dá o espaço de dentro do terreno.
+c) Ele precisa de 9 m de cerca, porque basta somar os dois lados diferentes: 6 + 3.
+
+**Responda:** qual explicação está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** duas das três chegam ao número 18, e mesmo assim só uma delas está certa — porque a cerca fica na **borda** do terreno, e não no espaço de dentro. Desenhe o retângulo no caderno e passe o lápis por onde a cerca vai: quantos lados você percorreu?

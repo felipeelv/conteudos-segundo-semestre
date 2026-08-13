@@ -5,11 +5,11 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 1ª Série | Roma: formação, expansão e império | 2 | 15 |
-| 2ª Série | Segundo Reinado: café, escravidão e abolição | 2 | 15 |
-| **Total** | | **4** | **30** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 1ª Série | Roma: formação, expansão e império | 2 | 19 | 4 |
+| 2ª Série | Segundo Reinado: café, escravidão e abolição | 2 | 19 | 4 |
+| **Total** | | **4** | **38** | **8** |
 
 Nenhum capítulo foi produzido do zero: os quatro vinham da produção anterior (`CADERNO-Historia.md`) e foram revisados sob §8.1 e §8.2. Os capítulos de Bloco 2 que estavam naquele arquivo — *Alto Império: Principado e Pax Romana* (1ª) e *Escravidão e resistências* (2ª) — ficaram fora.
 
@@ -27,6 +27,8 @@ Nenhum capítulo foi produzido do zero: os quatro vinham da produção anterior 
 | 1 | 6 | CASO.c | R12 | os **dois** critérios aplicados e as duas decisões defendidas; uma decisão só, ainda que bem justificada, não fecha o item |
 | 1 | 7 | ERR.a | R11 | os dois problemas: peso desigual do voto conforme riqueza e pertencimento social, e exclusão de mulheres, estrangeiros e escravizados |
 | 1 | 8 | ESC.c | R5 | dois marcos **datados**; a resposta à objeção pesa mais que a posição |
+| 1 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** e **d** projetam categorias do presente sobre Roma — a divisão dos três poderes e a ditadura moderna sem prazo; **c** nega a colegialidade, uma das duas condições que a alternativa correta enuncia |
+| 1 | 10 | OBJ.b | R14 | letra **b**. Eliminações: **a** confunde distribuir decisões com ampliar participação; **c** supõe peso igual do voto, que o capítulo desmente; **d** apaga a diferença entre decisão direta e decisão distribuída |
 | 2 | 1 | LT.c | R3 | as três ligações cruzadas entre as faixas são o que discrimina |
 | 2 | 2 | ESQ.a | R4 | todas as setas rotuladas com o mecanismo, não só ligadas |
 | 2 | 3 | ESC.b | R5 | interesse em jogo **e** desfecho em cada episódio; os três termos obrigatórios empregados |
@@ -34,6 +36,8 @@ Nenhum capítulo foi produzido do zero: os quatro vinham da produção anterior 
 | 2 | 5 | FON.a | R7 | referência registrada; a relação latifúndio–trabalho escravizado; a lacuna sobre a perda da terra |
 | 2 | 6 | FON.c | R7 | o processo do capítulo que o texto localizado deixa de fora |
 | 2 | 7 | ERR.c | R11 | causa estrutural × intenção individual |
+| 2 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** erra a natureza (aliança privada, não magistratura); **c** erra quem integrava — era **Crasso**, não Otávio; **d** erra o desfecho — rompeu-se pela morte de Crasso e pela aproximação de Pompeu com o Senado, não por declaração de ilegalidade |
+| 2 | 9 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — a passividade do Senado é desmentida pelos próprios episódios, e a intenção monárquica única não se sustenta; **c** erra a conclusão, fixando o fim num só dia |
 
 ### 2ª Série
 
@@ -47,6 +51,8 @@ Nenhum capítulo foi produzido do zero: os quatro vinham da produção anterior 
 | 1 | 6 | CASO.a | R12 | citar dois componentes do colonato como critério de custo; a última parte é o que discrimina |
 | 1 | 7 | ERR.c | R11 | mecanismo institucional × qualidade pessoal do governante |
 | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** toma por descrição completa uma expressão que o capítulo apresenta como resumo parcial; **c** inventa divergência sobre a escravidão; **d** erra a base social dos dois partidos |
+| 1 | 10 | OBJ.b | R14 | letra **b**. Eliminações: **a** é desmentida pela primeira frase do caso; **c** inverte o efeito da Lei de Terras; **d** nega a coexistência entre escravidão e trabalho livre. Só **a** cai pela leitura do caso |
 | 2 | 1 | LT.a | R3 | nexo causal entre cada par dos seis marcos |
 | 2 | 2 | TAB.b | R10 | os três critérios paralelos aplicados aos dois países + a linha de semelhança |
 | 2 | 3 | ESC.b | R5 | como o ingresso se dava **e** quanto de escolha havia em cada forma; os três termos obrigatórios empregados |
@@ -54,6 +60,8 @@ Nenhum capítulo foi produzido do zero: os quatro vinham da produção anterior 
 | 2 | 5 | FON.b | R7 | decidir qual estimativa sustenta qual afirmação; a **divergência** é o objeto, não o número |
 | 2 | 6 | FON.c | R7 | a pergunta sobre o recrutamento que o texto localizado não responde |
 | 2 | 7 | ERR.a | R11 | o Exército saiu fortalecido, não desprestigiado |
+| 2 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** e **d** escolhem causa única em lugares diferentes — fora da região e numa só pessoa; **c** recorta o começo e deixa de fora a intervenção brasileira no Uruguai |
+| 2 | 9 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão, trocando o agente da seleção por uma pessoa e por uma circunstância externa não registrada; **c** erra a conclusão |
 
 ## 3. Rodapé de produção
 
@@ -90,6 +98,24 @@ Seeds preservados da produção anterior — os tipos não foram re-sorteados.
 | Acessibilidade §8.2 | 30 de 30 — nenhuma exige instrumento de medida, celular, internet obrigatória, impressora, recorte, visita ou entrevista. As 6 questões FON aceitam fonte impressa, digital ou do acervo da biblioteca da escola |
 | Verbo × rubrica (§8 checagem 2) | 30 de 30 após revisão — as 4 LT passaram de *construa* (R10) para *ordene* (R3); as 4 ESC.b de *descreva* (R8/R10) para *explique* (R5); as 2 ESC.c de *redija* (fora do banco) para *justifique* (R5); as 4 ERR de *identifique* (fora do banco) para *diagnostique* (R11) |
 | Fidelidade ao item (§5) | `FON.c` da 1ª/cap. 2 e da 2ª/cap. 2 opera sobre **texto**, não sobre gráfico ou tabela como o catálogo prescreve: os capítulos-fonte de História não têm gráfico nem tabela, e inventar um violaria a proibição de dado fictício. A lacuna obrigatória do item foi preservada. `LT.a` (1ª/cap. 1 e 2ª/cap. 2) pede que o aluno extraia os marcos do capítulo em vez de recebê-los prontos — desvio deliberado: entregar a lista de marcos rebaixaria a tarefa a ordenação |
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final do bloco de cada capítulo, numeradas em continuidade. **Nada foi re-sorteado**: as 30 questões anteriores seguem intactas. Contagem: 2 arquivos-ano · 4 capítulos · **30 → 38 questões**, sendo 8 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 4 de 4 |
+| T9 · itens distintos dentro do capítulo | 4 de 4 |
+| T6 · item não repete em capítulos consecutivos | 2 de 2 anos — `c·b` no cap. 1 e `c·d` no cap. 2 de cada ano. **`OBJ.c` repete entre os capítulos vizinhos dos dois anos**: violação de T6, aceita e registrada. A alternativa seria forçar `OBJ.a` num conteúdo que não oferece quatro casos paralelos honestos, o que produziria distrator artificial — trocar a violação de T6, a penúltima na ordem de prioridade de §4.3, por uma violação da checagem 14 seria pior negócio |
+| Faixa etária (§7.1) | EM nos quatro capítulos: 4 alternativas, as três eliminações **com o tipo de erro nomeado** |
+| Checagem 14 · distratores (§8.4) | 24 distratores conferidos um a um |
+| Gabarito fora da folha | sim |
+| §8.1 · §8.2 · §8.3 | 8 de 8 |
+
+**O erro que esta disciplina permite medir e as outras não.** Em História, a confusão típica raramente é de definição: é de **forma de explicar**. As oito `OBJ` foram construídas sobre quatro dessas formas, todas nomeadas pelo próprio material: **a causa única** (o plano britânico, a ambição de López, o desejo de César de ser rei), o **anacronismo** (a divisão dos três poderes e a ditadura moderna projetadas sobre Roma), o **recorte que apaga o antecedente** (a guerra começando na apreensão do *Marquês de Olinda*) e a **conclusão certa por razão errada**, que os quatro `OBJ.d` isolam. É por isso que `OBJ.d` aparece duas vezes aqui — proporção maior que em qualquer outra disciplina — e é a razão de a violação de T6 ter sido aceita em vez de contornada.
+
+**Três dados foram conferidos contra o capítulo**, porque uma objetiva de História erra por fato tão facilmente quanto por raciocínio: o Primeiro Triunvirato era **César, Pompeu e Crasso** (1ª Série, cap. 2 Q8, distrator **c** troca Crasso por Otávio) · a Lei de Terras é de **1850** e o IHGB foi fundado em **1838** (2ª Série) · os marcos de 133 a.C. a 31 a.C. da 1ª Série cap. 2 Q9 estão todos na seção correspondente do capítulo.
 
 ## 5. Revisões aplicadas ao material anterior
 

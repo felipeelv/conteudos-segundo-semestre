@@ -5,11 +5,11 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 4º Ano | Números racionais, medidas e padrões | 4 | 28 |
-| 5º Ano | Pensamento Algébrico, Plano Cartesiano e Proporcionalidade | 4 | 28 |
-| **Total** | | **8** | **56** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 4º Ano | Números racionais, medidas e padrões | 4 | 36 | 8 |
+| 5º Ano | Pensamento Algébrico, Plano Cartesiano e Proporcionalidade | 4 | 36 | 8 |
+| **Total** | | **8** | **72** | **16** |
 
 ## 2. Grade de correção
 
@@ -24,6 +24,8 @@
 | 1 | 5 | INV.c | R8 | previsão escrita antes; fração de uma parte correta em cada superfície observada |
 | 1 | 6 | VIS.a | R10 | 1/4 e 2/8 no mesmo ponto, com justificativa |
 | 1 | 7 | ESC.a | R5 | o exemplo é obrigatório |
+| 1 | 8 | OBJ.a | R14 | letra **a**. Eliminações: **b** tem pedaços de tamanhos diferentes — não é fração do todo; **c** tem partes iguais, mas mostra 1/3. EF1: 3 alternativas, **uma** eliminação cobrada, e os 5 pontos ficam nela inteiros |
+| 1 | 9 | OBJ.b | R14 | letra **b**. Eliminações: **a** compara frações de todos de tamanhos diferentes; **c** inventa relação entre o tamanho do pedaço e a quantidade comida |
 | 2 | 1 | EX.c | R1 | a cadeia tem de fechar; item c maior que b indica erro anterior |
 | 2 | 2 | EX.d | R1 | as respostas são iguais; o que muda é o referente do *da barra* |
 | 2 | 3 | ESQ.a | R4 | cada seta com palavra escrita |
@@ -31,6 +33,8 @@
 | 2 | 5 | TAB.c | R10 | as cinco correspondências fração-minutos — 5 · 10 · 20 · 40 · 50 min —, com a conta; conferência 1/6 + 1/6 = 1/3. Nenhuma das cinco frações está na tabela do capítulo |
 | 2 | 6 | MOD.c | R12 | metade e dobro calculados sob a mesma regra; conferência pela soma das metades |
 | 2 | 7 | EX.c | R1 | 3/4 no total; a conta mostrada e a conferência de trás para frente voltando aos 3/4 iniciais |
+| 2 | 8 | OBJ.c | R14 | letra **a**. Eliminações: **b** lê o numerador como número de inteiros; **c** generaliza que toda fração é menor que 1 |
+| 2 | 9 | OBJ.a | R14 | letra **a**. Eliminações: **b** não escreve o inteiro na forma de fração antes de subtrair; **c** subtrai também os denominadores (3/10) |
 | 3 | 1 | EX.a | R1 | a conferência pela leitura em voz alta |
 | 3 | 2 | EX.d | R1 | a explicação da diferença entre os dois pares |
 | 3 | 3 | TAB.c | R10 | leitura por extenso e fração corretas nas cinco linhas; nenhum dos cinco números pode ser um dos que aparecem no capítulo |
@@ -38,6 +42,8 @@
 | 3 | 5 | INV.c | R8 | previsão escrita antes; cinco medidas em decimal e ordenação correta |
 | 3 | 6 | MOD.b | R12 | soma 15,80 e troco 4,20 corretos; o teste de limite do troco decide a interpretação |
 | 3 | 7 | ESC.a | R5 | a distinção 0,5 = 0,50 ≠ 0,05 |
+| 3 | 8 | OBJ.b | R14 | letra **a**. Eliminações: **b** erra a equivalência — 25/100 é um quarto, não metade; **c** erra o denominador (25/10). Conferência aritmética: 25 × 4 = 100 |
+| 3 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** confunde *poder virar decimal* com *ser fração decimal*; **c** exige vírgula na própria fração |
 | 4 | 1 | EX.c | R1 | perímetro 26 cm → 260 mm → 74 cm de sobra; a cadeia tem de fechar |
 | 4 | 2 | ERR.a | R11 | explicar que a soma exige a mesma unidade; 5500 g = 5,5 kg |
 | 4 | 3 | MOD.c | R12 | 10 passos e 40 palmos corretos; a justificativa pela diferença em cm decide |
@@ -45,6 +51,8 @@
 | 4 | 5 | ESQ.b | R4 | identificar a estimativa como etapa que falta; rótulo em cada seta |
 | 4 | 6 | ESC.a | R5 | os dois exemplos, um de comprimento e um de capacidade |
 | 4 | 7 | INV.a | R8 | previsão escrita antes de medir; a régua como conferência da contagem de palmos |
+| 4 | 8 | OBJ.a | R14 | letra **a**. Eliminações: **b** erra o lugar onde a medida começa (mede 13 cm, não 14); **c** erra a unidade |
+| 4 | 9 | OBJ.b | R14 | letra **a**. Eliminações: **b** chega ao mesmo número **18** por área, não por perímetro — é o distrator central da questão e o único caso em EF1 de conclusão certa por razão errada; **c** soma só dois lados. O `Confira` avisa que dois números coincidem |
 
 ### 5º Ano
 
@@ -57,6 +65,8 @@
 | 1 | 5 | TAB.c | R10 | as quatro igualdades — uma por operação — com o resultado 24 verificado nos dois lados |
 | 1 | 6 | INV.c | R8 | previsão escrita antes; as duas situações viram igualdade conferida nos dois lados |
 | 1 | 7 | ESC.a | R5 | o sinal de igual como equilíbrio, não como *"vem a resposta"* |
+| 1 | 8 | OBJ.a | R14 | letra **a** (14 + 6 = 20). Eliminações: **b** mexe em um lado só; **c** mexe nos dois lados com números diferentes |
+| 1 | 9 | OBJ.b | R14 | letra **b**. Como 3 laranjas equilibram 6 limões, 1 laranja equilibra 2 limões. Eliminações: **a** tira de um lado só; **c** tira quantidades que não se equivalem |
 | 2 | 1 | EX.c | R1 | a cadeia fecha; conferência por substituição |
 | 2 | 2 | EX.d | R1 | reconhecer que 6 − ▢ = 10 não tem solução natural |
 | 2 | 3 | EX.a | R1 | as três regras escritas em frase; a conferência é aplicar a regra ao contrário |
@@ -64,6 +74,8 @@
 | 2 | 5 | TAB.c | R10 | as três sequências partindo de 6, com as três regras distintas escritas |
 | 2 | 6 | INV.a | R8 | previsão escrita antes; as duas regras (+1 e +7) sustentadas pelos números registrados |
 | 2 | 7 | MOD.a | R12 | o total contado no próprio material é o dado do problema; sentença com ▢ na divisão e conferência por substituição |
+| 2 | 8 | OBJ.c | R14 | letra **a**. Eliminações: **b** faz uma conta que não é a da sentença (9 − 4); **c** confere por comparação de tamanho, sem substituir o valor |
+| 2 | 9 | OBJ.a | R14 | letra **b**. Eliminações: **a** dá 3, 6, 9, 12; **c** dá 3, 6, 9, 15 — as duas se afastam já no terceiro termo, mas por regras diferentes |
 | 3 | 1 | VIS.a | R10 | os quatro pontos no lugar certo, com as letras A–D atribuídas na ordem dada |
 | 3 | 2 | ESC.a | R5 | a ordem do par como causa; destinatário e cinco linhas |
 | 3 | 3 | EX.c | R1 | ida e volta com os mesmos números e sentidos contrários |
@@ -71,6 +83,8 @@
 | 3 | 5 | VIS.a | R10 | título e legenda obrigatórios; pares coerentes com o desenho |
 | 3 | 6 | TAB.c | R10 | os três pares a construir — (4, 2), (9, 3) e (6, 6) — e os dois a decompor em passos — biblioteca 2 e 7, quadra 8 e 10 |
 | 3 | 7 | INV.c | R8 | previsão escrita antes; o par ordenado do percurso sustentado pelos passos registrados |
+| 3 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** supõe que uma informação basta; **c** inventa uma posição que o caso não informa |
+| 3 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** confunde *ler no eixo* com *estar sobre o eixo*; **c** nega que a ordem do par importe |
 | 4 | 1 | CONS.c | R10 com ajuste: *correção da informação* = correção da construção | os três vértices em (6, 3), (9, 3) e (6, 5); lados iguais na conferência |
 | 4 | 2 | ERR.a | R11 | explicar que a reflexão mantém a distância ao eixo; 3 quadrados do outro lado |
 | 4 | 3 | EX.a | R1 | 6 e 8 · 3 e 2 · 5 e 3; a conferência é aplicar a regra ao contrário |
@@ -78,6 +92,8 @@
 | 4 | 5 | ESQ.b | R4 | a etapa que falta é marcar o vértice à mesma distância do outro lado; setas rotuladas |
 | 4 | 6 | MC.b | R2 | *denominador* e *sentença aberta* descartados com justificativa; toda linha rotulada |
 | 4 | 7 | CASO.a | R12 com ajuste: *tradução* = leitura do caso; *interpretação* = o critério citado | giro 180° em (5, 4) → (8, 7) · (5, 7) · (8, 4); reflexão no eixo x = 6 → (10, 1) · (7, 1) · (10, 4); decidir pela reflexão e sustentar comparando a posição dos vértices |
+| 4 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **a** é translação (muda a posição), **c** é reflexão (inverte a orientação). A questão cobra o nome de cada uma |
+| 4 | 9 | OBJ.b | R14 | letra **a**. Eliminações: **b** supõe mudança de tamanho na reflexão; **c** nega a inversão da orientação |
 
 ## 3. Rodapé de produção
 
@@ -113,6 +129,24 @@ Nenhum capítulo da disciplina tem Anexo: **M5 ausente em todos os 8**, e por is
 | Checagem 9 — andaime no enunciado | três casos de *"que você mesmo inventar"* / *"invente"* no 5º Ano (cap. 1 q. 5, cap. 2 q. 5 e q. 7) fechados com parâmetro fixo na validação |
 | T6 — item repetido em capítulos consecutivos | uma exceção herdada: `EX.d` nos caps. 1, 2 e 3 do 4º Ano. Tipo e item vieram aprovados da produção anterior e não foram re-sorteados |
 | Par tipo+item repetido dentro do mesmo capítulo | duas exceções herdadas: `EX.c` nas questões 1 e 7 do cap. 2 do 4º Ano; `VIS.a` nas questões 1 e 5 do cap. 3 do 5º Ano |
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final do bloco de cada capítulo, numeradas em continuidade. **Nada foi re-sorteado**: as 56 questões anteriores seguem intactas. Contagem: 2 arquivos-ano · 8 capítulos · **56 → 72 questões**, sendo 16 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 8 de 8 |
+| T9 · itens distintos dentro do capítulo | 8 de 8 |
+| T6 · item não repete em capítulos consecutivos | **violada nas seis fronteiras**, e a violação é aritmética, não descuido: a faixa EF1 dispõe de **três** itens (`OBJ.d` é reservado a EF2 e EM, §5), e dois capítulos vizinhos com duas questões cada exigiriam **quatro** distintos. O rodízio adotado — `a·b` / `c·a` / `b·c` / `a·b` — reduz a repetição ao mínimo possível: **um único item** repetido em cada fronteira. Mesma causa estrutural já registrada em Ciências e em Estudos Sociais |
+| Faixa etária (§7.1) | 3 alternativas nas dezesseis, frases curtas, **uma** eliminação cobrada, nenhum `OBJ.d` |
+| Checagem 14 · distratores (§8.4) | 32 distratores conferidos um a um |
+| Gabarito fora da folha | sim |
+| §8.1 · §8.2 · §8.3 | 16 de 16 — resolvem-se com o capítulo, o caderno e o lápis |
+
+**Todos os números foram conferidos.** 25 × 4 = 100 (4º, cap. 3) · 6 + 3 + 6 + 3 = 18 e 6 × 3 = 18 (4º, cap. 4) · (7 + 3) × 2 = 20 e 14 + 6 = 20 (5º, cap. 1) · 3 laranjas ↔ 6 limões, logo 1 ↔ 2 (5º, cap. 1) · 13 − 4 = 9 (5º, cap. 2) · a regra "somar 3" dá 3, 6, 9, 12 e a regra "somar os dois anteriores" dá 3, 6, 9, 15, ambas divergindo de 3, 6, 12, 24 já no terceiro termo (5º, cap. 2). **Nenhuma alternativa apresenta número que não feche**, e nenhuma usa número negativo, que está fora do EF1.
+
+**A única questão desta disciplina em que dois números coincidem, e por que ela ficou.** No 4º ano, cap. 4 Q9, a alternativa correta e um distrator chegam ambos a **18 m** — um pela soma dos quatro lados, o outro por 6 × 3. Normalmente isso seria defeito; aqui é o ponto: o capítulo fecha a seção 4 com *"perímetro mede a borda, não o espaço interno"*, e é exatamente essa a confusão que a coincidência expõe. O `Confira você mesmo:` **avisa ao aluno que dois números coincidem** e manda percorrer a borda com o lápis, para que a coincidência não vire armadilha cega. É a única ocorrência em EF1 de *conclusão certa por razão errada* — estrutura que §5 reserva ao item `OBJ.d`, de EF2 e EM; aqui ela aparece como um distrator isolado dentro de `OBJ.b`, não como o desenho da questão.
 
 ## 5. Revisões aplicadas ao material anterior
 

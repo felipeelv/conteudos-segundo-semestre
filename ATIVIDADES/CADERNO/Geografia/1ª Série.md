@@ -1,7 +1,7 @@
 # Geografia — 1ª Série
 
 > **Bloco 1 · 05/08–25/08** · Clima, hidrografia e biomas
-> 2 capítulos · 16 questões.
+> 2 capítulos · 20 questões.
 
 ---
 
@@ -86,6 +86,34 @@ Procure, em jornal ou revista impressos, em site de notícias ou no acervo da bi
 
 ---
 
+**9.** Assinale, entre os quatro, o único que é um **fator** climático, e diga o que é cada um dos outros três.
+
+a) A altitude de uma cidade situada a 1.600 metros acima do nível do mar.
+b) A umidade relativa medida por uma estação meteorológica ao meio-dia.
+c) O clima subtropical, que caracteriza o Sul do Brasil.
+d) A friagem que derruba a temperatura no sul da Amazônia em julho.
+
+**Responda:** qual dos quatro é um fator climático, e o que é cada um dos outros três?
+
+**Confira você mesmo:** os outros três não são "não-fatores" — um é grandeza medida, outro é categoria de classificação e o terceiro é um episódio de tempo atmosférico. Se você escreveu a mesma coisa nos três, ainda não separou o que o capítulo separa em §2.1.
+
+---
+
+**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Uma massa de ar úmido vinda do oceano encontra uma serra litorânea, sobe pela encosta voltada para o mar e ali produz chuva. Do outro lado da serra, o ar desce seco.
+
+a) A chuva da encosta é convectiva, porque o ar quente da superfície subiu por conta própria.
+b) A chuva da encosta é orográfica, e o lado seco é a sombra de chuva da mesma serra.
+c) A chuva da encosta é frontal, porque houve encontro entre duas massas de ar distintas.
+d) O lado seco não tem relação com a serra, porque a chuva depende só da massa de ar.
+
+**Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** duas das erradas trocam o tipo de precipitação, e cada uma troca por um tipo diferente — o que muda entre os três tipos é **o que faz o ar subir**. A terceira não troca o tipo: ela desliga o relevo do resultado. Diga o que faz cada uma.
+
+---
+
 ## Capítulo 2 — Ciclo hidrológico e bacias hidrográficas
 
 **1.** Elabore um esquema completo do ciclo hidrológico, marque onde a ação humana interfere nele e antecipe o efeito da interrupção de uma das etapas.
@@ -157,3 +185,31 @@ Um estudante escreveu: *"O ciclo hidrológico renova a água, então a poluiçã
 Depois de uma chuva, ou logo após molhar os dois trechos com água, observe cada um deles e registre por escrito o que aconteceu com a água: onde ela entrou no solo, onde ela escorreu e para onde escorreu.
 
 **Responda:** em que a observação confirmou ou desmentiu a sua previsão? Qual processo do ciclo hidrológico predomina em cada superfície? E qual é a limitação dessa observação — o que ela não permite concluir sobre a bacia inteira?
+
+---
+
+**9.** Assinale, entre as quatro afirmações sobre a água do planeta, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) Cerca de 97% da água da Terra é doce, e por isso a escassez é só um problema local.
+b) Cerca de 97% da água é salgada, e a maior parte da doce está congelada ou no subsolo.
+c) Toda a água doce do planeta está prontamente disponível em rios e lagos de superfície.
+d) O ciclo hidrológico cria água nova a cada ano, aumentando o volume total do planeta.
+
+**Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** as três erradas erram em coisas distintas — uma inverte uma proporção, outra confunde existir com estar disponível, e a terceira atribui ao ciclo uma criação que ele não faz. Nomeie o erro de cada uma.
+
+---
+
+**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Uma indústria instalada num município lança efluente em um afluente. Rio abaixo, já em outro estado, três municípios captam água do mesmo curso principal.
+
+a) A gestão precisa cobrir a bacia inteira, porque o que se faz a montante alcança a água a jusante.
+b) A gestão precisa cobrir a bacia inteira, porque toda bacia coincide com os limites dos estados.
+c) A gestão cabe só ao município onde está a indústria, porque o dano começa dentro dele.
+d) A gestão precisa cobrir a bacia inteira, porque toda bacia brasileira é do tipo exorreica.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro chegam à mesma conclusão, e só uma chega pelo motivo que a Lei nº 9.433/1997 adotou. Portanto duas das suas justificativas **não** podem ser *"a gestão não precisa cobrir a bacia"*. Uma dessas duas afirma uma coincidência que não existe; a outra usa uma classificação que nada tem a ver com o problema.

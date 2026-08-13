@@ -5,11 +5,11 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 1ª Série | Clima, hidrografia e biomas | 2 | 16 |
-| 2ª Série | Geopolítica mundial e comércio internacional | 2 | 16 |
-| **Total** | | **4** | **32** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 1ª Série | Clima, hidrografia e biomas | 2 | 20 | 4 |
+| 2ª Série | Geopolítica mundial e comércio internacional | 2 | 20 | 4 |
+| **Total** | | **4** | **40** | **8** |
 
 ## 2. Grade de correção
 
@@ -25,6 +25,8 @@
 | 1 — Clima | 6 | CASO.a | R12 | citar os percentuais **e** o critério; a separação clima × desigualdade é o que discrimina |
 | 1 — Clima | 7 | FON.c | R7 | a série histórica ausente no texto |
 | 1 — Clima | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1 — Clima | 9 | OBJ.a | R14 | letra **a**. Eliminações: **b** é *elemento* (grandeza medida), **c** é tipo climático (categoria da classificação), **d** é episódio de tempo atmosférico. Não basta *"não é fator"* — a questão cobra o nome de cada um. A letra sozinha vale 2 dos 10 |
+| 1 — Clima | 10 | OBJ.b | R14 | letra **b**. Eliminações: **a** e **c** trocam o tipo de precipitação — o que distingue os três é **o que faz o ar subir**; **d** desliga o relevo do resultado, contra o próprio caso |
 | 2 — Ciclo hidrológico | 1 | ESQ.c | R4 | processos completos; as três interferências humanas com o efeito escrito; o efeito da interrupção da infiltração em área pavimentada |
 | 2 — Ciclo hidrológico | 2 | VIS.a | R10 | o divisor de águas correto — é aqui que a maioria erra |
 | 2 — Ciclo hidrológico | 3 | CASO.a | R12 | decidir pelo sítio do outro lado do divisor inverte o conceito e zera a justificativa |
@@ -33,6 +35,8 @@
 | 2 — Ciclo hidrológico | 6 | TAB.a | R10 | o critério de classificação por leitura de mapa físico |
 | 2 — Ciclo hidrológico | 7 | ERR.a | R11 | o ciclo movimenta, não depura |
 | 2 — Ciclo hidrológico | 8 | INV.a | R8 | previsão escrita **antes** da observação; a limitação declarada ao final |
+| 2 — Ciclo hidrológico | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** inverte a proporção salgada/doce; **c** confunde existir com estar disponível; **d** atribui ao ciclo a criação de água nova |
+| 2 — Ciclo hidrológico | 10 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — a bacia **não** coincide com limites estaduais, e a classificação exorreica não vem ao caso; **c** erra a conclusão. Fundamento: Lei nº 9.433/1997 |
 
 ### 2ª Série
 
@@ -46,6 +50,8 @@
 | 1 — Ordem mundial | 6 | FON.b | R7 | o pareamento afirmação → fonte, com a prova que cada uma apresenta, e a afirmação comum; **não** se exige decidir quem está certo |
 | 1 — Ordem mundial | 7 | ERR.b | R11 | diagnosticar a definição religiosa como insustentável; os casos que ela exclui e o critério de intimidação que separa terrorismo de insurgência e de crime organizado |
 | 1 — Ordem mundial | 8 | ESC.c | R5 | a resposta à objeção; a posição em si não pontua |
+| 1 — Ordem mundial | 9 | OBJ.a | R14 | letra **a**. Eliminações: **b** é Estado soberano, **c** é bloco econômico, **d** é fronteira. A questão cobra o nome de cada uma |
+| 1 — Ordem mundial | 10 | OBJ.b | R14 | letra **b**. Eliminações: **a** e **c** são extremos opostos — causa única × efeito nenhum; **d** contradiz o próprio caso, que registra a divisão feita sem as sociedades africanas |
 | 2 — Potências e recursos | 1 | TAB.a | R10 | o critério de menor distância entre as duas potências |
 | 2 — Potências e recursos | 2 | VIS.a | R10 | símbolos em ordem de grandeza coerente com a fonte; fonte e ano registrados |
 | 2 — Potências e recursos | 3 | ESC.a | R5 | a circunstância de perda da vantagem é o que discrimina |
@@ -54,6 +60,8 @@
 | 2 — Potências e recursos | 6 | FON.c | R7 | o interesse econômico mencionado e não desenvolvido |
 | 2 — Potências e recursos | 7 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
 | 2 — Potências e recursos | 8 | INV.c | R8 | previsão e categorias escritas **antes** do levantamento; o limite da amostra |
+| 2 — Potências mundiais | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** confunde com aliança militar, **c** com mercado comum; **d** erra o número — eram **onze** membros em 2026, não cinco |
+| 2 — Potências mundiais | 10 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — afirmação falsa sobre o valor do minério, e requisito ausente da lista do capítulo; **c** erra a conclusão |
 
 ## 3. Rodapé de produção
 
@@ -87,6 +95,24 @@ Seeds preservados da produção anterior. As duas questões novas (`1ª Série` 
 - **ERR usada 2× fora do pool** (1ª série Cap. 2 Q7 e 2ª série Cap. 1 Q7). Nenhum capítulo tem exemplo resolvido (M1 ausente), mas as duas questões partem de uma afirmação de estudante conceitualmente errada e plausível, que é o insumo que `ERR.a`/`ERR.b` pedem. Tipos preservados por decisão de não re-sortear.
 - **T8 não verificável.** A pasta `ATIVIDADES/ATIVIDADES/` está vazia nesta versão do repositório; não há arquivo de sala de Geografia contra o qual conferir "sala e casa do mesmo capítulo têm tipos diferentes".
 - **T6 violada em cinco pares (registro da validação).** Itens repetidos entre os dois capítulos consecutivos do mesmo ano: `ESC.b` (1ª Série Cap. 1 Q5 e Cap. 2 Q4; 2ª Série Cap. 1 Q3 e Cap. 2 Q4), `CASO.a` (1ª Série Cap. 1 Q6 e Cap. 2 Q3), `VIS.a` (2ª Série Cap. 1 Q4 e Cap. 2 Q2), `TAB.a` (2ª Série Cap. 1 Q2 e Cap. 2 Q1) e `ESC.c` (2ª Série Cap. 1 Q8 e Cap. 2 Q7). Corrigir exigiria re-sortear itens já aprovados, o que está fora do escopo da validação; T6 é a segunda trava de menor peso na ordem de §4.3. Fica registrada como pendência de re-sorteio, não como erro de formulação.
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final do bloco de cada capítulo, numeradas em continuidade. **Nada foi re-sorteado**: as 32 questões anteriores seguem intactas. Contagem: 2 arquivos-ano · 4 capítulos · **32 → 40 questões**, sendo 8 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 4 de 4 |
+| T9 · itens distintos dentro do capítulo | 4 de 4 |
+| T6 · item não repete em capítulos consecutivos | 2 de 2 anos — cada ano alterna `a·b` no cap. 1 e `c·d` no cap. 2 |
+| Faixa etária (§7.1) | EM nos quatro capítulos: 4 alternativas, as três eliminações **com o tipo de erro nomeado** |
+| Checagem 14 · distratores (§8.4) | 24 distratores conferidos um a um |
+| Gabarito fora da folha | sim |
+| §8.1 · §8.2 · §8.3 | 8 de 8 |
+
+**Duas armadilhas próprias desta disciplina, e o que se fez com elas.** A primeira é o **conflito contemporâneo**: o capítulo da 2ª Série trata de Israel e Palestina, Ucrânia, Sudão e terrorismo, e uma objetiva sobre esses temas corre o risco de transformar em *alternativa errada* uma posição legitimamente disputada — exatamente o **distrator indecidível** que §8.4 veta. As quatro `OBJ` da 2ª Série ficaram, por isso, em conceitos que o capítulo **define**: nação sem Estado, herança das fronteiras coloniais, natureza do BRICS, condições que convertem recurso em poder. Nenhuma pede ao aluno que julgue quem tem razão num conflito em curso.
+
+A segunda é a **distinção categorial**, que aparece três vezes no material de Geografia — elemento × fator, limite × fronteira, tempo × clima. `OBJ.a` é o item talhado para ela, desde que o `Responda:` cobre **o nome do que cada distrator é**, e não apenas por que ele não é o pedido. É a mesma regra registrada em Ciências e em Estudos Sociais: quando a eliminação convergir, mude a pergunta, não o distrator.
 
 ## 5. Revisões aplicadas ao material anterior
 

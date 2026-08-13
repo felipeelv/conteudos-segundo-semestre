@@ -1,7 +1,7 @@
 # História — 1ª Série
 
 > **Bloco 1 · 05/08–25/08** · Roma: formação, expansão e império
-> 2 capítulos · 15 questões.
+> 2 capítulos · 19 questões.
 
 ---
 
@@ -66,6 +66,34 @@ Enuncie a posição na primeira linha, sustente-a com dois marcos datados e resp
 
 ---
 
+**9.** Assinale, entre as quatro afirmações sobre as instituições republicanas romanas, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) As magistraturas correspondiam aos poderes Executivo, Legislativo e Judiciário de hoje.
+b) As magistraturas limitavam o poder pessoal por mandatos curtos e por colegialidade.
+c) Cada magistratura era ocupada por uma única pessoa, para evitar disputas internas.
+d) O ditador romano governava sem prazo, como os ditadores do mundo contemporâneo.
+
+**Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** duas das erradas projetam sobre Roma uma categoria do presente — uma projeta a divisão dos poderes, a outra projeta a ditadura moderna. A terceira não vem do presente: ela nega uma das duas condições que a alternativa correta enuncia. Diga qual das três faz o quê.
+
+---
+
+**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Em Atenas, os cidadãos decidiam diretamente muitos assuntos na assembleia. Em Roma, as decisões se distribuíam entre magistrados, Senado e Comícios.
+
+a) Roma era mais democrática que Atenas, porque distribuía as decisões entre três instâncias.
+b) Os dois sistemas excluíam mulheres, estrangeiros e pessoas escravizadas das decisões.
+c) Em Roma, o voto dos Comícios pesava igualmente para todos os cidadãos que votavam.
+d) Atenas e Roma funcionavam do mesmo modo, mudando apenas o nome das instituições.
+
+**Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** uma das erradas confunde *distribuir decisões* com *ampliar a participação*, outra apaga a diferença entre decidir diretamente e decidir por instâncias, e a terceira supõe uma igualdade de peso que o capítulo desmente em uma frase. Diga qual das três faz o quê.
+
+---
+
 ## Capítulo 2 — Expansão e crise da República romana
 
 **1.** Ordene, em uma linha do tempo de duas faixas paralelas, os marcos de 264 a.C. a 31 a.C. e relacione a expansão militar à crise interna.
@@ -122,3 +150,31 @@ Consulte jornal, revista, livro, site ou acervo da biblioteca da escola e regist
 Um estudante escreveu: *"A República acabou porque César quis ser rei."*
 
 **Responda:** o que essa explicação deixa de fora, quais dois processos estruturais o capítulo aponta como causa, e como a afirmação fica reescrita de modo correto?
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre o Primeiro Triunvirato, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) O Primeiro Triunvirato era uma magistratura criada por lei para governar Roma.
+b) O Primeiro Triunvirato era uma aliança privada, formada fora das regras da República.
+c) O Primeiro Triunvirato reunia César, Pompeu e Otávio contra o Senado romano.
+d) O Primeiro Triunvirato foi dissolvido pelo Senado, que o declarou ilegal em 60 a.C.
+
+**Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** as três erradas erram em coisas de naturezas distintas — uma erra a **natureza** do acordo, outra erra **quem** o integrava, e a terceira erra **como** ele terminou. Diga qual das três erra o quê, e corrija o dado nas duas que erram um fato.
+
+---
+
+**9.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Entre 133 a.C. e 31 a.C., Roma viu a morte dos irmãos Graco, a marcha de Sila sobre a cidade, dois triunviratos, a travessia do Rubicão, o assassinato de César e a vitória de Otávio em Ácio.
+
+a) A República terminou por uma sequência de rupturas, e não por um único golpe de Estado.
+b) A República terminou por uma sequência de rupturas, porque o Senado nunca se opôs a nenhuma delas.
+c) A República terminou no dia em que César atravessou o Rubicão, em 49 a.C., de uma vez só.
+d) A República terminou por uma sequência de rupturas, porque todos os envolvidos queriam a monarquia.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro chegam à mesma conclusão, e só uma chega por um motivo que se sustenta. Portanto duas das suas justificativas **não** podem ser *"não foi uma sequência"*. Uma dessas duas afirma uma passividade do Senado que os próprios episódios desmentem; a outra atribui a todos os envolvidos uma mesma intenção.

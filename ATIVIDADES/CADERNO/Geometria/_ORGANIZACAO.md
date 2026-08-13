@@ -5,15 +5,15 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 1ª Série | Circunferência e áreas de figuras planas | 1 | 6 |
-| 2ª Série | Cilindros e cones | 1 | 6 |
-| 6º Ano | Quadriláteros, circunferência e área | 1 | 6 |
-| 7º Ano | Circunferência, área e perímetro | 1 | 6 |
-| 8º Ano | Transformações geométricas e áreas | 1 | 6 |
-| 9º Ano | Trigonometria e geometria espacial | 1 | 6 |
-| **Total** | | **6** | **36** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 1ª Série | Circunferência e áreas de figuras planas | 1 | 8 | 2 |
+| 2ª Série | Cilindros e cones | 1 | 8 | 2 |
+| 6º Ano | Quadriláteros, circunferência e área | 1 | 8 | 2 |
+| 7º Ano | Circunferência, área e perímetro | 1 | 8 | 2 |
+| 8º Ano | Transformações geométricas e áreas | 1 | 8 | 2 |
+| 9º Ano | Trigonometria e geometria espacial | 1 | 8 | 2 |
+| **Total** | | **6** | **48** | **12** |
 
 ## 2. Grade de correção
 
@@ -27,6 +27,8 @@
 | 1 | 4 | CONS.b | R10 | a conferência PT² = produto das secantes = 84 |
 | 1 | 5 | ERR.a | R11 | semissoma, não metade; o desenho dos dois arcos |
 | 1 | 6 | CASO.a | R12 | 30 m de cabo; a perpendicularidade do raio no ponto de tangência é o que autoriza Pitágoras · a 60 m do centro, cerca de 44,7 m |
+| 1 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** é ângulo central, **c** é inscrito, **d** é excêntrico exterior. Os quatro se distinguem por **onde fica o vértice** e **que linhas formam os lados** — dois têm o vértice no mesmo lugar, e ali só a segunda condição decide |
+| 1 | 8 | OBJ.b | R14 | letra **a** (PA·PB = PT² → 36 = PT² → PT = 6 cm). Eliminações: **b** troca produto por média aritmética (6,5), **c** troca produto por soma (13), **d** nega o invariante da potência de ponto. Os dois primeiros erram a operação e chegam perto do valor certo |
 
 ### 2ª Série
 
@@ -38,6 +40,8 @@
 | 1 | 4 | CASO.c | R12 | as duas decisões aceitas; avalia-se o critério citado, não a escolha |
 | 1 | 5 | ERR.a | R11 | quadruplica; o raio está ao quadrado |
 | 1 | 6 | CASO.a | R12 | conversão m³ → L; a folga construtiva acima da altura calculada |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** inverte a inclusão; **c** troca $h=2r$ por $h=r$; **d** atribui ao oblíquo uma qualidade que a definição de equilátero — reto por definição — lhe nega |
+| 1 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — a comparação $h>r$ vale para quase todo cilindro, e a secção meridiana de um equilátero é um **quadrado**, não um círculo; **c** erra a conclusão |
 
 ### 6º Ano
 
@@ -49,6 +53,8 @@
 | 1 | 4 | ESC.a | R5 | atribuir a variação ao erro de medida, não a uma mudança da razão |
 | 1 | 5 | ERR.a | R11 | o contraexemplo desenhado é obrigatório; falta o ângulo reto |
 | 1 | 6 | CASO.a | R12 | perímetro 68 cm = 0,68 m; as diagonais não dão o contorno |
+| 1 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** é raio, **c** é corda, **d** é arco — e o arco nem sequer é segmento. A questão cobra o nome de cada um |
+| 1 | 8 | OBJ.b | R14 | letra **a**. Eliminações: **b** funde circunferência e círculo num só termo; **c** troca um pelo outro; **d** substitui a região pelo arco |
 
 ### 7º Ano
 
@@ -60,6 +66,8 @@
 | 1 | 4 | ESC.b | R5 | o teste de identificação, não a definição copiada; os três termos obrigatórios |
 | 1 | 5 | ERR.c | R11 | a primeira parte está certa — é o caso difícil; corda perto do centro ≠ diâmetro |
 | 1 | 6 | CASO.a | R12 | o desconto do portão; o efeito do arredondamento de π |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** confunde a aproximação escolar 3,14 com o valor exato; **c** nega a constância da razão; **d** troca diâmetro por raio na definição |
+| 1 | 8 | OBJ.d | R14 | letra **a** (4 m < 6 m → secante). Eliminações: **b** e **d** acertam a conclusão e erram a razão — uma afirmação universal falsa, e a diferença entre os números no lugar de qual deles é maior; **c** erra a conclusão |
 
 ### 8º Ano
 
@@ -71,6 +79,8 @@
 | 1 | 4 | CONS.b | R10 | a inversão da orientação é o ponto; as distâncias ao eixo conferem |
 | 1 | 5 | ERR.a | R11 | rotação preserva a orientação; reflexão inverte |
 | 1 | 6 | INV.b | R8 | previsão antes; N sem eixo de reflexão é o item que discrimina |
+| 1 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** é rotação, **c** é reflexão, **d** **não é isometria** — não preserva comprimentos, e por isso sai da lista por um motivo de outra ordem |
+| 1 | 8 | OBJ.b | R14 | letra **b** (360/108 = 3,33…, não inteiro; 360/60 = 6, 360/90 = 4, 360/120 = 3). Eliminações: **a** generaliza a todo polígono regular; **c** parte de premissa falsa — polígono regular tem lados congruentes; **d** exige duas formas, condição que o capítulo não impõe |
 
 ### 9º Ano
 
@@ -82,6 +92,8 @@
 | 1 | 4 | CONS.a | R10 | os valores deduzidos das duas figuras, não copiados da tabela do capítulo |
 | 1 | 5 | ERR.a | R11 | sen² + cos² = 1, não sen + cos; cosseno verdadeiro 0,6 |
 | 1 | 6 | CASO.a | R12 | 7,2 m; o ângulo cresceria acima do permitido em espaço menor |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** faz o nome do cateto depender do comprimento; **c** faz a hipotenusa depender do ângulo escolhido; **d** ignora que o cateto nunca supera a hipotenusa |
+| 1 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a razão trigonométrica e erram o motivo — o ângulo de elevação parte da **horizontal**, e a tangente não serve *sempre*, serve quando se conhecem os dois catetos; **c** erra a conclusão, tomando os 50 m por hipotenusa quando são o cateto adjacente |
 
 ## 3. Rodapé de produção
 
@@ -130,6 +142,24 @@ M1 e M10 estão presentes nos seis capítulos e **proíbem EX espelhado** no exe
 A **malha quadriculada traçada com régua** continua legítima e continua no material, mas só onde o item sorteado a exige — CONS.c, definido pela malha em `06-PRODUCAO.md` §5. Caiu de três ocorrências para uma no 8º Ano (Q1, com **pelo menos doze** quadrados de lado, medida restaurada na validação: dez não acomodam as três transformações encadeadas) e de duas para uma no 9º Ano (Q1). A tarefa matemática de 8º Q2 e Q4 e de 9º Q3 não mudou: o que era ângulo reto de cruzamento de linhas passou a ser ângulo reto de transferidor. Onde a malha saiu, o deslocamento deixou de ser contado em quadrados e passou a ser dado em centímetros — 8º Q2 —, como no próprio capítulo, cujo exemplo resolvido desloca 4 cm.
 
 Seguem fora, porque a liberação não os alcança: tesoura, cola, papel quadriculado impresso, barbante, alfinete, fita métrica, trena, balança, termômetro, cronômetro, celular, computador, recorte, entrevista, visita e calculadora financeira. Nenhuma questão exige objeto específico da casa — 6º Ano Q3 deixou até de depender de um objeto de borda redonda —, nem deslocamento além dos lugares por onde o aluno já passa: casa, calçada, pátio da escola.
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final da folha, numeradas em continuidade. **Nada foi re-sorteado**: as 36 questões anteriores seguem intactas. Contagem: 6 arquivos-ano · 6 capítulos · **36 → 48 questões**, sendo 12 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 6 de 6 |
+| T9 · itens distintos dentro do capítulo | 6 de 6 |
+| T6 · item não repete em capítulos consecutivos | não se aplica: cada ano tem um capítulo só. Ainda assim os pares alternam entre os anos — `a·b` no 6º, `c·d` no 7º, `a·b` no 8º, `c·d` no 9º, `a·b` na 1ª, `c·d` na 2ª |
+| Faixa etária (§7.1) | 6º ao 9º: 4 alternativas, as três eliminações · 1ª e 2ª: 4 alternativas, as três **com o tipo de erro nomeado** |
+| Checagem 14 · distratores (§8.4) | 36 distratores conferidos um a um |
+| Gabarito fora da folha | sim |
+| §8.1 · §8.2 · §8.3 | 12 de 12 — nenhuma exige instrumento; as `OBJ` desta disciplina se resolvem por leitura e raciocínio |
+
+**Uma advertência específica de Geometria, que vale para a próxima rodada.** Esta é a disciplina de `CONS` — construção com régua e compasso — e a tentação natural seria escrever objetivas sobre construções. **Nenhuma das doze faz isso**, e a razão é o §6 do banco de verbos: `construa` produz figura com instrumento, e `assinale` produz escolha justificada. Uma objetiva que peça "qual destas construções está correta" mede leitura de figura, não construção — e a folha de Geometria já tem seis questões que exigem o instrumento na mão. As `OBJ` cobrem o que a construção não alcança sozinha: **definições que o aluno confunde** (circunferência × círculo, corda × diâmetro, equilátero × reto), **critérios que ele aplica pela metade** (a posição da reta decidida pela diferença em vez de pela comparação) e **operações que ele troca** (produto por média, na potência de ponto).
+
+**Os cálculos das doze foram conferidos um a um.** 4 × 9 = 36 e √36 = 6 (1ª Série Q8) · 360 ÷ 108 = 3,33… contra 6, 4 e 3 para 60°, 90° e 120° (8º Ano Q8) · 4 m < 6 m (7º Ano Q8) · 10 ÷ 2 = 5 cm de raio contra 12 cm de altura, e $h \ne 2r$ (2ª Série Q8). Nenhuma alternativa apresenta número que não feche.
 
 ## 5. Revisões aplicadas ao material anterior
 

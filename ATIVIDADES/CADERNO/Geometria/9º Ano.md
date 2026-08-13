@@ -1,7 +1,7 @@
 # Geometria — 9º Ano
 
 > **Bloco 1 · 05/08–25/08** · Trigonometria e geometria espacial
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -62,3 +62,31 @@ Um estudante escreveu: *"Se o seno de um ângulo é 0,8, o cosseno é 0,2, porqu
 Uma rampa de acessibilidade precisa vencer um desnível de 60 cm, e a norma exige inclinação máxima de 8,33%.
 
 **Responda:** qual é o comprimento horizontal mínimo da rampa — apresente o cálculo — e o que aconteceria com o ângulo se o espaço disponível fosse menor?
+
+---
+
+**7.** Assinale, entre as quatro afirmações sobre o triângulo retângulo, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) O cateto oposto é sempre o mais comprido dos dois catetos do triângulo.
+b) Ao trocar o ângulo agudo de referência, oposto e adjacente trocam de papel.
+c) A hipotenusa muda de lugar quando se troca o ângulo agudo de referência.
+d) O seno de um ângulo agudo pode passar de 1 quando os catetos são grandes.
+
+**Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** as três erradas supõem coisas diferentes — uma faz o nome do cateto depender do comprimento, outra faz a hipotenusa depender do ângulo escolhido, e a terceira ignora que o cateto nunca supera a hipotenusa. Diga qual das três faz o quê.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Um teodolito é colocado a 50 m da base de um prédio e mede 30° a partir da horizontal até o topo.
+
+a) A altura sai da tangente, porque 30° é o ângulo entre a horizontal e a linha até o topo.
+b) A altura sai da tangente, porque 30° é o ângulo entre a vertical do prédio e a linha do topo.
+c) A altura sai do seno, porque os 50 m são a hipotenusa do triângulo formado pela visada.
+d) A altura sai da tangente, porque a tangente serve para qualquer ângulo, em qualquer caso.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro escolhem a mesma razão trigonométrica, e só uma a escolhe pelo motivo certo. Portanto duas das suas justificativas **não** podem ser *"a razão escolhida está errada"*. Uma dessas duas mede o ângulo a partir da referência errada; a outra transforma a tangente numa razão que serviria sempre.
