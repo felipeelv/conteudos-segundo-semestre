@@ -1,7 +1,7 @@
 # Matemática Financeira — 9º Ano
 
 > **Bloco 1 · 05/08–25/08** · Educação financeira e probabilidade
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -63,3 +63,31 @@ Um estudante escreveu: *"Meu investimento rendeu 10% no ano e a inflação foi 6
 As três opções: deixar tudo em um investimento de renda fixa, dividir entre renda fixa e renda variável, ou aplicar tudo em uma única ação.
 
 **Responda:** qual opção recomendar, à luz dos três critérios de escolha de investimento, e o que mudaria se o prazo fosse de vinte anos?
+
+---
+
+**7.** Assinale, entre as quatro afirmações sobre juros, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) Uma taxa de 1% ao mês pode ser aplicada direto a 3 anos, escrevendo n = 3 na fórmula.
+b) Taxa e tempo precisam usar o mesmo período: 1% ao mês exige n contado em meses.
+c) Nos juros simples, a taxa incide sobre o saldo acumulado ao fim de cada período.
+d) Em prazos curtos, os juros compostos rendem muito mais que os juros simples.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** o capítulo mostra R$ 1.000,00 a 1% ao mês em 12 meses: R$ 1.120,00 no simples e R$ 1.126,83 no composto. Calcule a diferença entre os dois e veja se ela sustenta a palavra *muito* de uma das erradas. As outras duas caem por outros motivos: uma pela unidade de tempo, a outra pela base sobre a qual a taxa incide.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+R$ 500,00 foram aplicados em A, que caiu 10%, e R$ 500,00 em B, que subiu 4%. A carteira terminou com R$ 970,00, uma queda de 3%.
+
+a) Diversificar reduziu a perda, porque a alta de B compensou parte da queda de A.
+b) Diversificar reduziu a perda, porque uma carteira dividida nunca termina no negativo.
+c) Diversificar não ajudou, porque a carteira mesmo assim terminou perdendo dinheiro.
+d) Diversificar reduziu a perda, porque aplicar em dois lugares dobra o rendimento total.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** calcule quanto sobraria se os R$ 1.000,00 estivessem todos em A. Compare esse valor com os R$ 970,00 da carteira dividida — essa comparação derruba a alternativa que diz que diversificar não ajudou. E note que uma das outras erradas é desmentida pelo próprio caso, que fechou em queda.

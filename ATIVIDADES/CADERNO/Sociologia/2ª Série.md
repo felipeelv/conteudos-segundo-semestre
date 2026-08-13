@@ -1,7 +1,7 @@
 # Sociologia — 2ª Série
 
 > **Bloco 1 · 05/08–25/08** · Movimentos sociais e tecnologia
-> 1 capítulo · 8 questões.
+> 1 capítulo · 10 questões.
 
 ---
 
@@ -71,3 +71,31 @@ Um estudante escreveu: *"Os novos movimentos sociais substituíram os antigos, p
 **8.** Redija, para um leitor que não estudou este capítulo, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: um movimento social precisa de organização formal para obter resultados?
 
 Enuncie a posição na primeira linha, sustente-a com dois casos brasileiros e responda à objeção de que mobilizações sem estrutura se dissolvem sem deixar conquista.
+
+---
+
+**9.** Assinale, entre as quatro afirmações sobre o método de análise dos movimentos sociais, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) A análise precisa decidir primeiro se a causa é justa, e só depois descrever o movimento.
+b) A análise descreve identidade, adversário, projeto e repertório antes de julgar a causa.
+c) Descrever um movimento social equivale a militar por ele, porque descrever é aprovar.
+d) A Sociologia só estuda os movimentos cujos projetos ela considera justos e legítimos.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** o capítulo enuncia duas vezes a mesma advertência de método — uma no fim da seção 1, outra no fim da seção 3. Localize as duas frases e use-as para escrever por que descrever, classificar e concordar são três coisas distintas.
+
+---
+
+**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Em 1988 o racismo passou a ser crime na Constituição; em 2010 veio o Estatuto da Igualdade Racial; em 2012, a Lei de Cotas federal, revisada em 2023.
+
+a) Conquistas legais não encerram sozinhas a desigualdade, porque ela se reproduz nas instituições.
+b) Conquistas legais não encerram sozinhas a desigualdade, porque nenhuma lei brasileira é cumprida.
+c) A sequência de leis mostra que a desigualdade racial foi encerrada no Brasil em 2012.
+d) Conquistas legais não encerram sozinhas a desigualdade, porque as leis mudam com frequência.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro chegam à mesma conclusão, e só uma chega pelo conceito que o capítulo nomeia para explicá-la. Portanto duas das suas justificativas **não** podem ser *"as conquistas legais encerraram a desigualdade"*. Uma dessas duas generaliza um juízo sobre todas as leis; a outra troca a explicação por uma característica da legislação que nada tem a ver com o caso.

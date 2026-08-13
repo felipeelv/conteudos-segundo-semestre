@@ -12,17 +12,17 @@ Cada questão foi escrita para ser respondida isoladamente (§8.1) e para exigir
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 4º Ano | Classes gramaticais e pontuação | 4 | 25 |
-| 5º Ano | Sujeito, Predicado e Complementos | 3 | 18 |
-| 6º Ano | Pronome e verbo | 4 | 25 |
-| 7º Ano | Verbo (formas e vozes), coesão e pontuação | 4 | 25 |
-| 8º Ano | Termos essenciais da oração e concordância | 3 | 18 |
-| 9º Ano | Concordância e colocação pronominal | 2 | 12 |
-| 1ª Série | Morfologia e introdução à sintaxe | 3 | 18 |
-| 2ª Série | Colocação pronominal e funções do QUE e do SE | 5 | 33 |
-| **Total** | | **28** | **174** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 4º Ano | Classes gramaticais e pontuação | 4 | 33 | 8 |
+| 5º Ano | Sujeito, Predicado e Complementos | 3 | 24 | 6 |
+| 6º Ano | Pronome e verbo | 4 | 33 | 8 |
+| 7º Ano | Verbo (formas e vozes), coesão e pontuação | 4 | 33 | 8 |
+| 8º Ano | Termos essenciais da oração e concordância | 3 | 24 | 6 |
+| 9º Ano | Concordância e colocação pronominal | 2 | 16 | 4 |
+| 1ª Série | Morfologia e introdução à sintaxe | 3 | 24 | 6 |
+| 2ª Série | Colocação pronominal e funções do QUE e do SE | 5 | 43 | 10 |
+| **Total** | | **28** | **230** | **56** |
 
 Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap. 4`, `7º Ano cap. 4`, `2ª Série cap. 4`, `2ª Série cap. 5`.
 
@@ -40,18 +40,24 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 1 | 4 | RET.a | R6 | sem ambiguidade após a troca |
 | 1 | 5 | ERR.a | R11 | a preposição como critério |
 | 1 | 6 | RED.a | R6 | dois oblíquos sublinhados |
+| 1 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** é pronome, mas do caso reto; **c** não é pronome — é o próprio nome. EF1: 3 alternativas, **uma** eliminação cobrada, e os 5 pontos ficam nela inteiros |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** usa *mim* diante de verbo; **c** usa *eu* onde não há verbo depois. Erros opostos da mesma regra |
 | 2 | 1 | RET.a | R6 | leitura em voz alta como conferência |
 | 2 | 2 | EX.d | R1 | duas reescritas distintas |
 | 2 | 3 | FON.a | R7 | fonte real registrada; referente identificado |
 | 2 | 4 | TAB.c | R10 | correspondência pronome–nome nos três casos |
 | 2 | 5 | ERR.a | R11 | duas soluções, não uma |
 | 2 | 6 | RED.a | R6 | clareza com repetição limitada |
+| 2 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** põe o pronome antes do nome que ele retomaria; **c** usa pronome singular para retomar duas pessoas |
+| 2 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **a** é a forma da fala cotidiana; **c** erra gênero e número — o correto seria *Guardei-as* |
 | 3 | 1 | EX.a | R1 | o teste da retirada |
 | 3 | 2 | EX.d | R1 | advérbio × adjetivo, com o critério |
 | 3 | 3 | TAB.a | R10 | a pergunta que cada advérbio responde |
 | 3 | 4 | EX.c | R1 | avaliar se o sentido mudou nas três versões |
 | 3 | 5 | ERR.a | R11 | a diferença tempo × lugar |
 | 3 | 6 | RED.a | R6 | quando **e** onde recuperáveis |
+| 3 | 7 | OBJ.b | R14 | letra **b**. Eliminações: **a** faz o advérbio concordar; **c** mexe no sujeito em vez do advérbio |
+| 3 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** erra a circunstância (é tempo, não lugar); **c** exige que advérbio tenha uma palavra só |
 | 4 | 1 | EX.a | R1 | a pergunta certa em cada caso; a retirada é a conferência |
 | 4 | 2 | EX.d | R1 | *muito* junto do verbo × junto do nome |
 | 4 | 3 | MC.a | R2 | toda linha com rótulo — vale os 4 pontos |
@@ -59,6 +65,8 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 4 | 5 | ERR.a | R11 | explicar por que a palavra não varia junto do verbo |
 | 4 | 6 | FON.a | R7 | fonte registrada; três circunstâncias distintas |
 | 4 | 7 | ESC.a | R5 | destinatário e extensão respeitados; um exemplo de cada |
+| 4 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **a** é dúvida, **c** é intensidade. A questão cobra a circunstância de cada uma |
+| 4 | 9 | OBJ.b | R14 | letra **b**. Eliminações: **a** aceita *bom* junto do verbo; **c** troca por outra forma que também acompanha nome |
 
 ### 5º Ano
 
@@ -70,18 +78,24 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 1 | 4 | EX.c | R1 | as três frases são do aluno |
 | 1 | 5 | ERR.a | R11 | oculto ≠ inexistente |
 | 1 | 6 | FON.a | R7 | fonte registrada; três classificações |
+| 1 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** está no plural com um núcleo só (*meninas*); **c** tem muitas palavras e um núcleo só (*crianças*). A questão cobra o núcleo de cada uma |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** confunde *não aparecer* com *não existir*; **c** toma por sujeito a palavra posterior ao verbo |
 | 2 | 1 | EX.a | R1 | o teste ação × estado |
 | 2 | 2 | EX.d | R1 | o mesmo verbo em duas funções |
 | 2 | 3 | TAB.a | R10 | classificação de frase nova |
 | 2 | 4 | RET.a | R6 | verbal → nominal preservando o assunto |
 | 2 | 5 | ERR.a | R11 | o contraexemplo é obrigatório |
 | 2 | 6 | RED.a | R6 | dois predicados nominais sublinhados |
+| 2 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** decide o tipo de predicado pela mera presença de um verbo; **c** troca o predicativo pelo sujeito |
+| 2 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **a** é predicado verbal, **c** é nominal. A questão cobra o nome de cada tipo |
 | 3 | 1 | EX.a | R1 | a conferência singular/plural |
 | 3 | 2 | EX.d | R1 | o núcleo, não o adjunto |
 | 3 | 3 | TAB.a | R10 | exemplo próprio e erro frequente em cada caso |
 | 3 | 4 | EX.c | R1 | a concordância ajustada na inversão |
 | 3 | 5 | ERR.a | R11 | *a gente* como núcleo singular |
 | 3 | 6 | FON.a | R7 | fonte registrada; sujeito e verbo marcados |
+| 3 | 7 | OBJ.b | R14 | letra **b**. Eliminações: **a** concorda com a palavra mais próxima (*lápis*); **c** mexe no artigo em vez do verbo |
+| 3 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** usa com *você* a forma de *tu*; **c** usa com *a gente* a forma de *nós* |
 
 ### 6º Ano
 
@@ -93,18 +107,24 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 1 | 4 | FON.a | R7 | fonte registrada; destinatário de cada tratamento |
 | 1 | 5 | ERR.a | R11 | concordância em 3ª pessoa |
 | 1 | 6 | ESC.b | R5 | o que cada classe localiza, no limite de linhas |
+| 1 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** é pessoal oblíquo, **c** é de tratamento, **d** é demonstrativo. Três classes diferentes |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** confunde a quem o pronome se dirige com a pessoa gramatical que ele exige; **c** troca por 1ª do plural; **d** faz o verbo concordar em gênero |
 | 2 | 1 | EX.d | R1 | duas reescritas que resolvem |
 | 2 | 2 | FON.a | R7 | fonte registrada; ligação pronome–referente |
 | 2 | 3 | TAB.c | R10 | anáfora × catáfora decidida nos três casos |
 | 2 | 4 | RET.a | R6 | sem repetição e sem ambiguidade |
 | 2 | 5 | ERR.c | R11 | a primeira parte está certa |
 | 2 | 6 | RED.a | R6 | três personagens rastreáveis |
+| 2 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** inverte a direção da retomada; **c** exige repetição literal do antecedente; **d** funde anáfora e catáfora |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — o número do pronome, e a generalização de que todo pronome gera ambiguidade; **c** erra a conclusão |
 | 3 | 1 | EX.a | R1 | a reconstituição é a conferência |
 | 3 | 2 | EX.d | R1 | a vogal temática como critério |
 | 3 | 3 | TAB.a | R10 | a forma que distingue as três |
 | 3 | 4 | EX.c | R1 | todos os verbos ajustados |
 | 3 | 5 | ERR.a | R11 | radical *part-*, vogal temática *-i-* |
 | 3 | 6 | ESC.b | R5 | o que cada elemento informa, no limite de linhas |
+| 3 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** é 1ª do singular, **c** é 3ª do plural, **d** é 2ª do singular |
+| 3 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** confunde não aparecer com não existir; **c** toma por sujeito o substantivo posterior; **d** nega que a desinência *-mos* decida |
 | 4 | 1 | EX.a | R1 | a expressão de tempo inserida é a conferência |
 | 4 | 2 | EX.d | R1 | o presente com valor de futuro depende de *amanhã* |
 | 4 | 3 | TAB.b | R10 | a linha final — onde os dois futuros se parecem |
@@ -112,6 +132,8 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 4 | 5 | ERR.c | R11 | classificação certa, justificativa errada |
 | 4 | 6 | FON.a | R7 | o que a manchete **não** diz sobre o momento |
 | 4 | 7 | ESC.a | R5 | os dois pretéritos na mesma frase |
+| 4 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** estreita o alcance do presente; **c** inverte perfeito e imperfeito; **d** troca futuro do pretérito por futuro do presente |
+| 4 | 9 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam o tempo verbal e erram a razão — contraria o dado do caso, e transforma uso frequente em regra; **c** erra a conclusão |
 
 ### 7º Ano
 
@@ -123,18 +145,24 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 1 | 4 | RET.a | R6 | sentido preservado |
 | 1 | 5 | ERR.a | R11 | o par de frases é obrigatório |
 | 1 | 6 | FON.a | R7 | fonte registrada; três classificações |
+| 1 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** é infinitivo, **c** é particípio, **d** **não é forma nominal** — é forma conjugada, e sai da lista por outra ordem de razão |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** proíbe o gerúndio em geral; **c** torna a construção obrigatória; **d** troca o gerúndio por particípio |
 | 2 | 1 | EX.a | R1 | a impossibilidade sem objeto direto é informação |
 | 2 | 2 | EX.d | R1 | o apagamento do agente nas duas |
 | 2 | 3 | TAB.a | R10 | a coluna do efeito de sentido |
 | 2 | 4 | FON.c | R7 | por que o veículo escolheu a passiva |
 | 2 | 5 | ERR.c | R11 | registro, não equivalência |
 | 2 | 6 | RED.b | R6 | a justificativa da escolha editorial |
+| 2 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** usa a ausência do auxiliar como critério; **c** toma a presença do *se* por marca de passiva (é reflexiva); **d** torna obrigatório o agente, que pode faltar |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — o plural de *erros*, e a generalização de que toda passiva omite o agente; **c** erra a conclusão |
 | 3 | 1 | EX.a | R1 | o teste de impessoalidade |
 | 3 | 2 | EX.d | R1 | as duas aceitáveis; a preferência da norma |
 | 3 | 3 | TAB.a | R10 | varia × não varia |
 | 3 | 4 | EX.c | R1 | os três erros corrigidos |
 | 3 | 5 | ERR.a | R11 | *meio* advérbio é invariável |
 | 3 | 6 | ESC.b | R5 | exemplo próprio em cada regra, no limite de linhas |
+| 3 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** é concordância **verbal** com a palavra mais próxima; **c** e **d** são **nominais**, em pontos diferentes — a regra do artigo em *é proibido/proibida*, e o plural dentro do grupo nominal |
+| 3 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** faz *meio* concordar; **c** mexe no adjetivo em vez da palavra intensificadora; **d** declara as duas formas intercambiáveis |
 | 4 | 1 | EX.a | R1 | registrar a ausência do agente em (c) e (d) |
 | 4 | 2 | CASO.b | R12 | dizer **o que falta** e por que faz falta — não opinar sobre o aviso |
 | 4 | 3 | MC.a | R2 | toda linha com rótulo; hierarquia do geral ao específico |
@@ -142,6 +170,8 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 4 | 5 | ERR.c | R11 | identificação certa, conclusão errada |
 | 4 | 6 | FON.a | R7 | a quem o aviso se dirige sem nomear |
 | 4 | 7 | ESC.c | R5 | a objeção "alguém poderia dizer que… mas…" é obrigatória |
+| 4 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** reduz a voz passiva a uma função só; **c** condena um uso legítimo do infinitivo; **d** dá ao gerúndio um único sentido |
+| 4 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — juízo de estilo, e afirmação falsa sobre o tempo verbal; **c** erra a conclusão |
 
 ### 8º Ano
 
@@ -153,18 +183,24 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 1 | 4 | RET.a | R6 | sentido preservado na indeterminação |
 | 1 | 5 | ERR.a | R11 | verbo impessoal não tem sujeito |
 | 1 | 6 | FON.a | R7 | fonte registrada; quatro tipos distintos |
+| 1 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** é simples, **c** é oração sem sujeito, **d** é indeterminado. Três casos diferentes do quadro |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** faz o impessoal concordar com o complemento; **c** mexe no quantificador; **d** proíbe um uso que a norma admite |
 | 2 | 1 | EX.a | R1 | predicativo do objeto identificado em (a) |
 | 2 | 2 | EX.d | R1 | o terceiro exemplo é o que discrimina |
 | 2 | 3 | TAB.a | R10 | gênero predominante **e** razão |
 | 2 | 4 | RET.a | R6 | característica acrescentada em cada oração |
 | 2 | 5 | ERR.a | R11 | exemplo com predicativo do objeto |
 | 2 | 6 | ESC.b | R5 | a que termo cada elemento se refere, no limite de linhas |
+| 2 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** usa a ordem para achar o sujeito; **c** fixa a posição do predicado; **d** decide o tipo pela presença de um verbo |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a classificação e erram a razão — posição da palavra, e presença de adjetivo; **c** erra a conclusão |
 | 3 | 1 | FON.a | R7 | duas fontes registradas; seis classificações |
 | 3 | 2 | ESC.a | R5 | a razão da diferença entre gêneros, no destinatário e na extensão dados |
 | 3 | 3 | TAB.a | R10 | a coluna do efeito sobre o leitor |
 | 3 | 4 | RET.c | R6 | a comparação das escolhas de sujeito é o item |
 | 3 | 5 | ERR.c | R11 | depende do gênero — o caso difícil |
 | 3 | 6 | FON.c | R7 | o efeito sobre a responsabilização |
+| 3 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** é simples, **c** é oração sem sujeito, **d** é simples na voz passiva — a mais difícil, porque não nomeia o agente e mesmo assim tem sujeito escrito |
+| 3 | 8 | OBJ.b | R14 | letra **a**. Eliminações: **b** confunde omissão do agente com sujeito indeterminado; **c** com oração sem sujeito; **d** confunde sujeito com assunto do texto |
 
 ### 9º Ano
 
@@ -176,12 +212,16 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 1 | 4 | EX.c | R1 | os quatro erros corrigidos |
 | 1 | 5 | ERR.c | R11 | partícula apassivadora — o caso mais difícil |
 | 1 | 6 | FON.c | R7 | o efeito da outra concordância |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** confunde *se* apassivador com indeterminador; **c** faz o impessoal *haver* concordar; **d** pluraliza o verbo com sujeito oracional |
+| 1 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** aceitam a frase pela razão errada — generalização e aritmética; **c** erra a conclusão. Compare com *50% da turma faltou*, também aceito |
 | 2 | 1 | EX.a | R1 | o teste do adjetivo comum |
 | 2 | 2 | EX.d | R1 | *meio* substantivo × advérbio |
 | 2 | 3 | TAB.a | R10 | varia, não varia, e o critério |
 | 2 | 4 | EX.c | R1 | os quatro erros corrigidos |
 | 2 | 5 | ERR.a | R11 | *obrigada* concorda com quem agradece |
 | 2 | 6 | ESC.b | R5 | exemplo próprio em cada regra, no limite de linhas |
+| 2 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** *anexo* não concordou (o certo é *anexa*); **c** sem artigo, o certo é *é proibido entrada*; **d** *menas* não pertence à norma-padrão |
+| 2 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** manda variar sempre; **c** manda não variar nunca; **d** desloca a explicação para o verbo |
 
 ### 1ª Série
 
@@ -193,18 +233,24 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 1 | 4 | RET.b | R6 | o quadro de alterações justificadas |
 | 1 | 5 | ERR.c | R11 | uso corrente × conhecimento do sistema |
 | 1 | 6 | FON.a | R7 | referente **e** função sintática; fonte registrada |
+| 1 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** usa *onde* para ideia abstrata (o certo é *em que*); **c** acrescenta artigo depois de *cujo*; **d** omite a preposição exigida |
+| 1 | 8 | OBJ.b | R14 | letra **a**. Eliminações: **b** inverte as duas posições enunciativas; **c** usa a terceira posição para os dois casos; **d** nega que haja posições distintas |
 | 2 | 1 | EX.a | R1 | a conferência por conjugação |
 | 2 | 2 | EX.d | R1 | o apagamento do agente |
 | 2 | 3 | TAB.a | R10 | a forma que revela a classificação |
 | 2 | 4 | RET.c | R6 | a atribuição de responsabilidade |
 | 2 | 5 | ERR.a | R11 | defectivo × irregular |
 | 2 | 6 | ESC.b | R5 | verbo exemplar em cada classe, no limite de linhas |
+| 2 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **c** e **d** trocam entre si defectivo e abundante; **a** classifica *ser* e *ir* como irregulares comuns, subestimando a mudança de radical |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** aceitam a forma pela razão errada — o singular de *ser*, e o mero plural de *alunos*; **c** erra a conclusão, negando o infinitivo pessoal |
 | 3 | 1 | EX.a | R1 | o teste da retirada |
 | 3 | 2 | EX.d | R1 | o mecanismo do realce |
 | 3 | 3 | TAB.a | R10 | critério gramatical **e** efeito |
 | 3 | 4 | FON.c | R7 | a informação desviada da atenção |
 | 3 | 5 | ERR.a | R11 | denotativas não exprimem circunstância |
 | 3 | 6 | RET.c | R6 | três versões com efeitos distintos |
+| 3 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** é denotativa de inclusão, **c** de retificação, **d** **não é denotativa** — é advérbio de afirmação |
+| 3 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** nega o efeito da palavra; **c** e **d** a classificam em classes que não são a dela, e em classes diferentes entre si |
 
 ### 2ª Série
 
@@ -216,18 +262,24 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 1 | 4 | EX.c | R1 | as três colocações ajustadas |
 | 1 | 5 | ERR.c | R11 | norma × registro, sem juízo de valor |
 | 1 | 6 | FON.b | R7 | as duas fontes; a distância norma–uso |
+| 1 | 7 | OBJ.b | R14 | letra **a**. Eliminações: **b** torna a atração do advérbio incondicional, ignorando a pausa; **c** elimina duas das três colocações; **d** nega qualquer papel ao advérbio |
+| 1 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **a** inicia a frase com o pronome; **c** e **d** mantêm o atrator e ainda assim afastam o pronome — uma para a ênclise, outra para a mesóclise |
 | 2 | 1 | EX.a | R1 | a separação em três partes é a conferência |
 | 2 | 2 | EX.d | R1 | a negação como fator de próclise |
 | 2 | 3 | TAB.a | R10 | os dois tempos com exemplo próprio |
 | 2 | 4 | RET.b | R6 | sentido preservado em registro atual |
 | 2 | 5 | ERR.c | R11 | obrigatoriedade condicionada, não superioridade |
 | 2 | 6 | FON.c | R7 | por que o gênero comporta a forma |
+| 2 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** solta a condição do tempo verbal; **c** solta a condição da ausência de atrator; **d** elimina a forma inteira |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a colocação e erram a razão — e **b** é o distrator central, porque cita um fato **verdadeiro** (o tempo é futuro do pretérito) que **admitiria** mesóclise; **c** erra a conclusão |
 | 3 | 1 | EX.a | R1 | hifenização correta |
 | 3 | 2 | EX.d | R1 | o imperativo negativo |
 | 3 | 3 | TAB.a | R10 | a coluna do caso incorreto |
 | 3 | 4 | EX.c | R1 | as quatro colocações ajustadas |
 | 3 | 5 | ERR.c | R11 | norma portuguesa × brasileira |
 | 3 | 6 | RET.c | R6 | colocação justificada nos dois registros |
+| 3 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** e **d** não fazem a transformação de sons (*fazê-lo*, *convidá-la*); **c** faz a transformação e erra o número (*pô-los*). A questão cobra as três formas corrigidas |
+| 3 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** elimina a forma da fala; **c** elimina a da escrita; **d** nega que haja diferença entre as duas |
 | 4 | 1 | EX.a | R1 | pronome depois do particípio invalida — é a conferência |
 | 4 | 2 | ESQ.a | R4 | setas rotuladas com a condição; entradas e saídas nomeadas |
 | 4 | 3 | TAB.b | R10 | a linha final — o que as três locuções têm em comum |
@@ -235,6 +287,8 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 4 | 5 | ERR.a | R11 | o atrativo exige o pronome **antes** do auxiliar |
 | 4 | 6 | FON.a | R7 | o que o documento não permite saber sobre quem redigiu |
 | 4 | 7 | ESC.c | R5 | a objeção obrigatória e o gênero de cada forma |
+| 4 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** libera a posição que o particípio veta; **c** elimina a variação que o infinitivo permite; **d** inverte o efeito do atrator |
+| 4 | 9 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** aceitam as duas construções pela razão errada — *qualquer lugar*, e uma licença atribuída ao verbo *ir*; **c** erra a conclusão |
 | 5 | 1 | EX.d | R1 | a remoção de *nunca* é a conferência |
 | 5 | 2 | MC.a | R2 | toda linha com rótulo; diglossia acima dos casos |
 | 5 | 3 | CASO.c | R12 | duas decisões defensáveis sob critérios distintos |
@@ -243,6 +297,8 @@ Capítulos produzidos do zero nesta rodada — 5: `4º Ano cap. 4`, `6º Ano cap
 | 5 | 6 | FON.b | R7 | cada fonte sustenta uma afirmação diferente |
 | 5 | 7 | ESC.a | R5 | a regra desrespeitada pela hipercorreção, no exemplo |
 | 5 | 8 | RED.a | R6 | o ganho da versão 2 sobre a versão 1 |
+| 5 | 9 | OBJ.a | R14 | letra **b**. Eliminações: **a** pede ênclise, **c** pede próclise, **d** pede o pronome junto ao auxiliar. Três recomendações diferentes do quadro de decisão |
+| 5 | 10 | OBJ.b | R14 | letra **b**. Eliminações: **a** declara a mesóclise inexistente; **c** ignora a adequação ao registro; **d** transforma uma forma possível na única possível |
 
 ---
 
@@ -308,6 +364,26 @@ Notas ao rodapé:
 **Verificações das 12 checagens de §8 que decidiram reescritas** (detalhe na seção 5): nº 3 (destinatário e extensão em `ESC`/`RET`) — 9 questões corrigidas; nº 5 (conferência declarada na casa) — 9; nº 9 (instrução de andaime) — 5; nº 11 (independência) — 8; nº 12 (acessibilidade do recurso) — 16. Somam-se a essas 5 reescritas por `RED.a` sem ciclo de reescrita ([`05`](../../METODOLOGIA/05-REGRAS-DE-APLICACAO.md) regra 4) e 1 por duplicação de tarefa na mesma folha (§7.1).
 
 ---
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final do bloco de cada capítulo, numeradas em continuidade. **Nada foi re-sorteado**: as 174 questões anteriores seguem intactas em tipo, item, rubrica, critério e redação. Contagem: 8 arquivos-ano · 28 capítulos · **174 → 230 questões**, sendo 56 `OBJ`. É a maior das doze disciplinas nesta rodada, e responde por **29% das 190 objetivas** do Bloco 1.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 28 de 28 |
+| T9 · itens distintos dentro do capítulo | 28 de 28 |
+| T6 · item não repete em capítulos consecutivos | **cumprida nos seis anos de EF2 e EM** (quatro itens disponíveis, rodízio `a·b` / `c·d`) · **violada no 4º e no 5º ano**, pela mesma causa estrutural de Ciências, Estudos Sociais e Matemática EF1: a faixa EF1 dispõe de três itens, e dois capítulos vizinhos com duas questões cada exigiriam quatro. O rodízio adotado reduz a repetição a **um item por fronteira** |
+| Faixa etária (§7.1) | 4º e 5º: **3 alternativas**, uma eliminação cobrada · 6º ao 9º: **4 alternativas**, as três eliminações · 1ª e 2ª: **4 alternativas**, as três **com o tipo de erro nomeado** |
+| Checagem 14 · distratores (§8.4) | 152 distratores conferidos um a um (2 por questão nas 14 de EF1, 3 por questão nas 42 de EF2 e EM) |
+| Gabarito fora da folha | sim — as 56 letras e os 152 motivos de eliminação estão só na seção 3 |
+| §8.1 · §8.2 · §8.3 | 56 de 56 |
+
+**Por que `OBJ` cai tão bem nesta disciplina.** Gramática é o terreno em que a **confusão típica** está melhor documentada — e é ela que o item pede. As 56 objetivas foram construídas sobre erros que o próprio material nomeia, quase sempre num box de **⚠️ Atenção**: *mim* diante de verbo · pronome retomando dois nomes · advérbio flexionado (*cedas*) · *bem* × *bom* · concordância com a palavra mais próxima · *você estudas* · *a gente fomos* · *haviam* impessoal · *menas* · *cujo* com artigo · *onde* para ideia abstrata · gerundismo · *se* apassivador × indeterminador · ênclise mantida com palavra atrativa. Nenhuma foi inventada para a ocasião.
+
+**A armadilha que essa mesma facilidade cria, e como ela foi tratada.** Em gramática, é muito simples escrever quatro alternativas em que as três erradas caem todas por *"a forma não é a da norma"* — e aí a questão mede uma coisa só, três vezes. A saída, a mesma registrada em cinco outras disciplinas, foi **mudar o que o `Responda:` cobra** sempre que a eliminação convergia. Aconteceu em **catorze das 56**: em vez de *por que está errado*, elas pedem **o nome do que cada distrator é** ou **a forma corrigida de cada um** — a classe do pronome (6º Cap. 1), o núcleo de cada sujeito (5º Cap. 1), o tipo de cada predicado (5º Cap. 2), a classificação de cada sujeito (8º Cap. 1 e 3), o valor de cada denotativa (1ª Cap. 3), a colocação recomendada em cada situação (2ª Cap. 5) e as três formas corrigidas de ênclise (2ª Cap. 3, onde *fazer-o*, *pô-lo* e *convidar-a* exigem três correções diferentes).
+
+**Dois distratores merecem registro, porque são os mais difíceis do conjunto inteiro.** Na **2ª Série, Cap. 2 Q8**, a alternativa **b** justifica a próclise de *Nunca lhe contaria* pelo tempo verbal — e o tempo **é mesmo** o futuro do pretérito, que **admitiria** mesóclise; o que a impede é o atrator, não o tempo. No **8º Ano, Cap. 3 Q7**, a alternativa **d** traz uma oração na voz passiva que não nomeia o agente e **mesmo assim tem sujeito escrito**, o que a separa das duas confusões vizinhas — sujeito indeterminado e oração sem sujeito. Nos dois casos o `Confira você mesmo:` avisa da dificuldade sem entregar a letra.
 
 ## 5. Revisões aplicadas ao material anterior
 

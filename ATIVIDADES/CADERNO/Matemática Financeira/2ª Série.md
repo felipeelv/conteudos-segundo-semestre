@@ -1,7 +1,7 @@
 # Matemática Financeira — 2ª Série
 
 > **Bloco 1 · 05/08–25/08** · Probabilidade condicional e crédito
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -57,3 +57,31 @@ Um dos filtros sinaliza 95% dos spams e erra em 10% das mensagens legítimas; o 
 Apresente o cálculo para uma caixa com 100 spams e 900 mensagens legítimas.
 
 **Responda:** qual filtro adotar, e de que depende a escolha?
+
+---
+
+**7.** Assinale, entre as quatro afirmações, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) Para dois eventos quaisquer, P(A ∪ B) = P(A) + P(B), sem nenhum outro termo.
+b) Para dois eventos quaisquer, P(A ∪ B) = P(A) + P(B) − P(A ∩ B).
+c) Dois eventos exclusivos e não vazios são sempre independentes entre si.
+d) Combinação e arranjo dão o mesmo número, porque contam os mesmos grupos.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** o baralho do capítulo resolve a primeira: 13 copas mais 12 figuras dá 25, mas as cartas de copas **ou** figuras são 22. Escreva de onde vêm as três de diferença. As outras duas erradas apagam distinções: uma entre exclusivo e independente, outra entre contar com ordem e contar sem ordem.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Um filtro sinaliza 90% das mensagens de spam e 5% das legítimas. Numa amostra de 1.000 mensagens, 100 são spam. Entre as mensagens sinalizadas, cerca de 67% são realmente spam.
+
+a) 67% é menor que 90% porque as 900 legítimas produzem 45 falsos alarmes contra 90 acertos.
+b) 67% é menor que 90% porque o filtro deixa de sinalizar 10% dos spams que deveria pegar.
+c) A resposta certa seria 90%, porque essa é a taxa de acerto anunciada pelo próprio filtro.
+d) 67% é menor que 90% porque 90% e 5% devem ser somados e o total dividido por dois.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** monte a contagem das 1.000 mensagens: quantas sinalizadas vêm do grupo spam e quantas vêm do grupo legítimo? Some as duas e divida a primeira pelo total. Uma das erradas erra a conclusão e comete a **falácia do promotor**, que o capítulo nomeia; as outras duas acertam a conclusão e explicam a diferença por um motivo que a contagem não sustenta.

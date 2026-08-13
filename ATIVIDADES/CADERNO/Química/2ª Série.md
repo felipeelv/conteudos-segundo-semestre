@@ -1,7 +1,7 @@
 # Química — 2ª Série
 
 > **Bloco 1 · 05/08–25/08** · Equilíbrio químico e iônico
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -62,3 +62,31 @@ Consulte livro didático, enciclopédia, material do acervo da escola ou página
 Um estudante escreveu: *"Comprimir o sistema N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g) aumenta a quantidade de amônia no equilíbrio, porque a compressão acelera a reação direta e mantém a velocidade direta permanentemente maior que a inversa."*
 
 **Responda:** qual das duas partes — a conclusão ou a justificativa — não se sustenta? O que acontece com as duas velocidades depois da compressão, até que o novo equilíbrio se estabeleça — e como fica, reescrita, a parte que não se sustenta?
+
+---
+
+**7.** Assinale, entre as quatro perturbações do sistema N₂(g) + 3H₂(g) ⇌ 2NH₃(g), a única que **não** desloca o equilíbrio, e diga para que lado cada uma das outras três o desloca.
+
+a) Adicionar N₂ ao recipiente fechado, mantendo a temperatura.
+b) Introduzir um catalisador à base de ferro no mesmo recipiente.
+c) Reduzir o volume do recipiente, mantendo a temperatura constante.
+d) Aumentar a temperatura, sabendo que o sentido direto é exotérmico.
+
+**Responda:** qual perturbação não desloca o equilíbrio, e para que lado cada uma das outras três o desloca?
+
+**Confira você mesmo:** as outras três deslocam o equilíbrio, e **não para o mesmo lado**. Escreva o sentido de cada uma e o motivo: uma age pela quantidade de matéria, outra pelo número de mols gasosos de cada lado, e a terceira é a única que muda o próprio valor de K.
+
+---
+
+**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Num recipiente fechado, a cor da mistura NO₂/N₂O₄ para de mudar, e as concentrações das duas espécies permanecem constantes.
+
+a) A reação parou nos dois sentidos, porque nada mais muda dentro do recipiente.
+b) As duas reações continuam, e as velocidades direta e inversa ficaram iguais.
+c) As concentrações de NO₂ e de N₂O₄ ficaram iguais entre si nesse momento.
+d) O recipiente precisa estar aberto para que o equilíbrio possa se estabelecer.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** as três erradas confundem coisas diferentes com o equilíbrio dinâmico — uma confunde **constância** com **parada**, outra confunde **constante** com **igual**, e a terceira inverte a condição do recipiente. Escreva, para cada uma, o par de palavras que ela trocou.

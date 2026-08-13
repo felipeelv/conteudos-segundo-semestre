@@ -1,7 +1,7 @@
 # Química — 1ª Série
 
 > **Bloco 1 · 05/08–25/08** · Tabela periódica e ligações químicas
-> 1 capítulo · 8 questões.
+> 1 capítulo · 10 questões.
 
 ---
 
@@ -71,3 +71,31 @@ Um estudante escreveu: *"O flúor tem raio atômico menor que o lítio porque te
 **8.** Redija um texto de seis a dez linhas dirigido a um leitor que sustenta que a tabela periódica só poderia ter a forma que tem, defendendo uma posição sobre a seguinte questão: a tabela periódica poderia ter sido organizada por outro critério?
 
 Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que o número atômico é a única ordenação possível.
+
+---
+
+**9.** Assinale, entre as quatro afirmações, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) Afinidade eletrônica e eletronegatividade são o mesmo conceito, com dois nomes.
+b) Afinidade eletrônica é variação de energia; eletronegatividade é medida relativa numa ligação.
+c) O flúor tem a maior afinidade eletrônica, porque é o elemento mais eletronegativo.
+d) A eletronegatividade é medida em kJ/mol, como a energia de ionização.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** procure no capítulo a comparação entre a afinidade eletrônica do cloro e a do flúor. Ela derruba, sozinha, uma das erradas — e mostra por que deduzir uma propriedade da outra não funciona. As outras duas erram em pontos diferentes: uma funde os dois conceitos, a outra dá unidade a uma escala que não tem.
+
+---
+
+**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Mendeleev ordenou os elementos por massa atômica, e algumas inversões não se explicavam por esse critério. Em 1913, Moseley relacionou espectros de raios X à carga nuclear.
+
+a) O critério passou a ser o número atômico, porque ele resolve as inversões causadas pela massa.
+b) O critério passou a ser o número atômico, porque Moseley trabalhou depois de Mendeleev.
+c) O critério continuou sendo a massa atômica, porque as previsões de Mendeleev se confirmaram.
+d) O critério passou a ser o número atômico, porque a massa atômica é impossível de medir.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro chegam à mesma conclusão, e só uma chega por um motivo que se sustenta. Portanto duas das suas justificativas **não** podem ser *"o critério não mudou"*. Uma dessas duas troca a razão pela cronologia — vir depois não é explicar; a outra afirma algo falso sobre a massa atômica.

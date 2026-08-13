@@ -1,7 +1,7 @@
 # Português — 2ª Série
 
 > **Bloco 1 · 05/08–25/08** · Colocação pronominal e funções do QUE e do SE
-> 5 capítulos · 33 questões.
+> 5 capítulos · 43 questões.
 
 ---
 
@@ -61,6 +61,33 @@ As duas fontes são um texto jornalístico — impresso, digital ou do acervo da
 
 ---
 
+**7.** Assinale, entre as quatro leituras do par a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Duas frases: *"Aqui se trabalha muito"* e *"Aqui, trabalha-se muito"*.
+
+a) As duas estão corretas: a pausa marcada pela vírgula desfaz a atração do advérbio.
+b) Só a primeira está correta, porque advérbio sempre atrai o pronome para antes do verbo.
+c) Só a segunda está correta, porque a ênclise é a única colocação da norma escrita.
+d) As duas estão erradas, porque advérbio nenhum influencia a colocação pronominal.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** o capítulo condiciona a atração do advérbio a uma circunstância que a segunda frase quebra. Localize essa condição e confronte-a com as três erradas: uma torna a atração incondicional, outra elimina duas das três colocações, e a terceira nega qualquer papel ao advérbio.
+
+---
+
+**8.** Assinale, entre as quatro frases, a única de acordo com a norma escrita, e diga que colocação a norma pede em cada uma das outras três.
+
+a) Me disseram que a reunião mudou de horário.
+b) Não me disseram que a reunião mudou de horário.
+c) Não disseram-me que a reunião mudou de horário.
+d) Não dir-me-ão que a reunião mudou de horário.
+
+**Responda:** qual frase está de acordo com a norma escrita, e que colocação a norma pede em cada uma das outras três?
+
+**Confira você mesmo:** as três erradas erram em pontos diferentes — uma começa a frase com o pronome, e as outras duas mantêm uma palavra atrativa e ainda assim afastam o pronome do lugar que ela exige, cada uma para um lado. Escreva a frase corrigida de cada uma.
+
+---
 ## Capítulo 2 — Mesóclise
 
 **1.** Elabore a forma com mesóclise de cada combinação abaixo.
@@ -113,6 +140,33 @@ Procure em texto jurídico, literário ou jornalístico — impresso, digital ou
 
 ---
 
+**7.** Assinale, entre as quatro afirmações sobre a mesóclise, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) A mesóclise ocorre em qualquer tempo verbal, desde que não haja palavra atrativa.
+b) A mesóclise ocorre no futuro do presente e no futuro do pretérito, sem palavra atrativa.
+c) A mesóclise é obrigatória sempre que o verbo estiver no futuro, mesmo havendo atrator.
+d) A mesóclise é forma incorreta, que a norma escrita não admite em nenhuma situação.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** a mesóclise depende de **duas** condições ao mesmo tempo — um tempo verbal específico e a ausência de palavra atrativa. Cada uma das três erradas mexe numa delas: uma solta a condição do tempo, outra solta a do atrator, e a terceira elimina a forma inteira.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+*Nunca lhe contaria a verdade.*
+
+a) A colocação é próclise, porque *nunca* é palavra atrativa e impede a mesóclise.
+b) A colocação é próclise, porque o verbo está no futuro do pretérito.
+c) A colocação é mesóclise, porque o verbo está num dos dois tempos que a admitem.
+d) A colocação é próclise, porque a próclise é a forma preferida na fala brasileira.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro identificam a mesma colocação, e só uma dá a razão que decide. Portanto duas das suas justificativas **não** podem ser *"a colocação não é próclise"*. Note que uma dessas duas cita um fato verdadeiro — o tempo verbal é mesmo o futuro do pretérito —, e é justamente por isso que ela engana: esse tempo **admitiria** mesóclise, e o que a impede é outra coisa.
+
+---
 ## Capítulo 3 — Ênclise
 
 **1.** Elabore a forma com ênclise de cada combinação abaixo.
@@ -170,6 +224,33 @@ Cada versão precisa conter pelo menos dois pronomes átonos.
 
 ---
 
+**7.** Assinale, entre as quatro formas, a única escrita corretamente, e escreva a forma correta de cada uma das outras três.
+
+a) fazer + o → fazer-o
+b) dar + a → dá-la
+c) pôr + os → pô-lo
+d) convidar + a → convidar-a
+
+**Responda:** qual forma está correta, e qual é a forma correta de cada uma das outras três?
+
+**Confira você mesmo:** as três erradas não erram do mesmo jeito — duas nem chegam a fazer a transformação de sons que o infinitivo exige, e a terceira faz a transformação e erra o **número** do pronome. As três correções são palavras diferentes: escreva as três.
+
+---
+
+**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Numa conversa, alguém diz *"Me diga a verdade"*. Num documento oficial, escreve-se *"Diga-me a verdade"*.
+
+a) A forma da conversa está errada, porque em português existe uma única forma correta.
+b) As duas existem: a norma escrita pede ênclise no início da frase, e a fala prefere a próclise.
+c) A forma do documento está errada, porque ninguém fala assim no Brasil de hoje.
+d) As duas são equivalentes, porque a posição do pronome não muda nada na frase.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** o capítulo trata as duas formas como pertencentes a **normas diferentes**, não como certo e errado. As três erradas recusam essa convivência de maneiras distintas: uma elimina a forma da fala, outra elimina a da escrita, e a terceira nega que haja diferença entre elas.
+
+---
 ## Capítulo 4 — Colocação em locuções verbais
 
 **1.** Decida a posição do pronome átono na locução verbal de cada caso abaixo.
@@ -244,6 +325,33 @@ O parágrafo precisa conter uma objeção construída na forma *"alguém poderia
 
 ---
 
+**8.** Assinale, entre as quatro afirmações sobre colocação em locuções verbais, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) Numa locução com particípio, o pronome pode ficar depois dele: *tinha contado-lhe*.
+b) Numa locução com particípio, o pronome não fica depois dele: *tinha-lhe contado*.
+c) Numa locução com infinitivo, existe uma única posição possível para o pronome átono.
+d) Havendo palavra atrativa, o pronome deve ficar depois do verbo principal da locução.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** as três erradas mexem em coisas diferentes — uma libera a posição que o particípio veta, outra elimina a variação que o infinitivo permite, e a terceira inverte o efeito da palavra atrativa, que puxa o pronome para a esquerda, e não para a direita.
+
+---
+
+**9.** Assinale, entre as quatro afirmações sobre o par a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Duas construções: *"Não lhe vou pedir uma cópia"* e *"Não vou lhe pedir uma cópia"*.
+
+a) As duas são aceitas: com atrator, o pronome fica antes do auxiliar ou antes do principal.
+b) As duas são aceitas, porque em locução verbal o pronome pode ficar em qualquer lugar.
+c) Só a primeira é aceita, porque o pronome deve vir imediatamente após a palavra atrativa.
+d) As duas são aceitas, porque o verbo *ir* admite qualquer colocação de pronome átono.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro aceitam as duas construções, e só uma diz por quê. Portanto duas das suas justificativas **não** podem ser *"uma delas não é aceita"*. Teste a razão de cada uma: se o pronome pudesse ficar *em qualquer lugar*, *Não vou pedir-lhe* seria igualmente recomendada — e se a licença viesse do verbo *ir*, ela deveria falhar em locuções com outros auxiliares.
+
+---
 ## Capítulo 5 — Colocação pronominal: norma e uso
 
 **1.** Explique qual das duas construções abaixo a norma escrita admite e nomeie o fator que decide.
@@ -310,3 +418,31 @@ Use um exemplo de colocação pronominal dentro da explicação.
 O parágrafo precisa empregar três pronomes átonos em posições diferentes: uma próclise por atração, uma ênclise em início de oração e um pronome junto ao auxiliar de uma locução verbal. Entregue as duas versões.
 
 **Confira você mesmo:** em cada uma das três colocações, aponte a pista gramatical que a justifica — a palavra atrativa, a ausência dela ou a forma do verbo principal da locução. A colocação que ficar sem pista é a que a segunda versão precisa corrigir.
+
+---
+
+**9.** Assinale, entre as quatro situações, a única em que a **mesóclise** é a colocação recomendada, e diga qual é a colocação recomendada em cada uma das outras três.
+
+a) Início de frase em texto formal, verbo no presente: *Conte___ tudo o que sabe.*
+b) Futuro do presente sem palavra atrativa: *Dir___ei o resultado amanhã cedo.*
+c) Frase com palavra atrativa antes do verbo: *Nunca ___ disseram a verdade.*
+d) Locução verbal com particípio e atrator: *Não ___ tinha contado o combinado.*
+
+**Responda:** em qual das quatro a mesóclise é recomendada, e qual é a colocação recomendada em cada uma das outras três?
+
+**Confira você mesmo:** o capítulo traz um quadro que liga cada pista a uma colocação recomendada. As outras três não recebem a mesma resposta — são três recomendações diferentes. Escreva as três, junto com a pista que decide cada uma.
+
+---
+
+**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Numa mensagem de aplicativo para um amigo, alguém escreve: *"Dir-te-ei o horário assim que souber."*
+
+a) A frase está gramaticalmente errada, porque a mesóclise não existe mais em português.
+b) A frase está correta, mas soa artificial no registro de uma conversa entre amigos.
+c) A frase está correta e é a mais adequada, porque a norma escrita vale em todo contexto.
+d) A frase está errada, porque o certo seria *te direi*, única forma admitida hoje em dia.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** o capítulo separa duas perguntas que costumam ser confundidas — *está correta?* e *é adequada a este contexto?*. Uma das erradas responde à primeira pergunta com um *não* que a gramática desmente; outra responde à segunda pergunta como se ela não existisse; e a terceira transforma uma forma possível na única possível. Diga qual das três faz o quê.

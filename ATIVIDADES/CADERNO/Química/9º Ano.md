@@ -1,7 +1,7 @@
 # Química — 9º Ano
 
 > **Bloco 1 · 05/08–25/08** · Funções inorgânicas
-> 1 capítulo · 8 questões.
+> 1 capítulo · 10 questões.
 
 ---
 
@@ -75,3 +75,29 @@ Dois estudantes testaram a mesma amostra de vinagre. O primeiro escreveu: *"A fe
 **8.** Redija um texto de seis a dez linhas dirigido a um leitor que afirma evitar todo alimento de pH abaixo de 7, defendendo uma posição sobre a seguinte questão: um material de pH 6 é perigoso?
 
 Enuncie a posição na primeira linha, sustente-a com dois exemplos de materiais nessa faixa e responda à objeção de que qualquer valor abaixo de 7 indica risco.
+
+---
+
+**9.** Assinale, entre os quatro, o único caso de **dissociação**, e diga o que é cada um dos outros três.
+
+a) O NaOH sólido colocado em água separa íons Na⁺ e OH⁻ que já existiam nele.
+b) O HCl molecular colocado em água forma H₃O⁺ e Cl⁻, que antes não existiam.
+c) O HCl e o H₂SO₄ em solução conduzem corrente elétrica por terem íons móveis.
+d) O tornassol azul colocado em meio ácido passa a apresentar a cor vermelha.
+
+**Responda:** qual dos quatro é dissociação, e o que é cada um dos outros três?
+
+**Confira você mesmo:** os outros três não são "não-dissociações" — um é o outro processo que o capítulo nomeia, outro é uma **propriedade** da solução e não um processo, e o terceiro nem envolve formação de íons. Escreva o nome do que cada um é.
+
+---
+
+**10.** Assinale, entre as quatro afirmações sobre a escala de pH, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) O pH indica o caráter da solução; o risco depende também de concentração e composição.
+b) O pH mede diretamente o risco: quanto mais longe de 7, mais perigosa é a substância.
+c) O pH próximo de 7 aponta sempre a substância mais perigosa entre as comparadas.
+d) O pH não informa nada sobre a solução, porque depende do indicador utilizado.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** duas das erradas trocam a mesma coisa — o **caráter** pelo **risco** —, mas em sentidos opostos: uma diz que o perigo cresce ao se afastar de 7, a outra que cresce ao se aproximar. A terceira não faz essa troca: ela nega que o pH informe qualquer coisa. Diga qual das três faz o quê.

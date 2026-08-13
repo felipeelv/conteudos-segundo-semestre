@@ -1,7 +1,7 @@
 # Matemática Financeira — 7º Ano
 
 > **Bloco 1 · 05/08–25/08** · Medidas de tendência central e plano cartesiano
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -59,3 +59,31 @@ Em duas filas hipotéticas do mesmo caixa, os tempos de espera registrados, em m
 Calcule média, mediana e amplitude de cada uma das duas filas.
 
 **Responda:** em qual fila entrar, sob que critério e sustentado por quais das medidas calculadas? E o que aconteceria com esse critério se você dispusesse de quinze minutos?
+
+---
+
+**7.** Assinale, entre as quatro afirmações sobre a média, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) Uma média pode ficar acima do maior valor do conjunto, se houver muitos valores.
+b) A média fica sempre entre o menor e o maior valor, e a soma dos desvios dá zero.
+c) A soma dos desvios em relação à média é sempre positiva, porque distância não é negativa.
+d) A média ponderada com todos os pesos iguais dá resultado diferente da média simples.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** calcule a média de 8, 7, 9 e 5 e depois some os quatro desvios em relação a ela. Esse único cálculo derruba duas das três erradas. A terceira você derruba dando a todas as notas o peso 1 e comparando os dois resultados.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Numa empresa, cinco salários são R$ 2.000,00; R$ 2.100,00; R$ 2.100,00; R$ 2.300,00 e R$ 8.000,00.
+
+a) A mediana resume melhor o grupo, porque o valor extremo desloca a média e não a posição central.
+b) A mediana resume melhor o grupo, porque ela é sempre a medida mais confiável das três.
+c) A média resume melhor o grupo, porque usa todos os cinco salários no seu cálculo.
+d) A mediana resume melhor o grupo, porque é o valor que mais se repete no conjunto.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro apontam a mesma medida, e só uma chega lá pelo motivo certo. Cuidado com a última delas: neste conjunto, moda e mediana caem no mesmo valor, R$ 2.100,00 — e é justamente essa coincidência que faz a razão errada parecer certa.

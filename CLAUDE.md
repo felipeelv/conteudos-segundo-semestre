@@ -90,7 +90,7 @@ conteudos-segundo-semestre/
 
 | Conjunto | Bloco | Estado | Onde |
 |---|---|---|---|
-| **Casa** | Bloco 1 | **fechado** · 95/95 capítulos · 47 arquivos-ano · 624 questões, **as 47 folhas no formato §7.1 v2** | `CADERNO/<Disciplina>/` |
+| **Casa** | Bloco 1 | **fechado** · 95/95 capítulos · 47 arquivos-ano · **814 questões** — 624 sorteadas no formato §7.1 v2 + **190 objetivas justificadas** (`OBJ`, 2 por capítulo) | `CADERNO/<Disciplina>/` |
 | **Casa** | Bloco 2 | parcial · 35 de 98 capítulos, em formato consolidado antigo | `ACERVO/v2-plano-CADERNO/` |
 | **Sala** | ambos | **não produzido** · 0 de 193 | `ATIVIDADES/ATIVIDADES/` vazia |
 
@@ -100,6 +100,13 @@ Três pendências abertas, todas registradas nos `_ORGANIZACAO.md` de cada disci
 - **Travas de distribuição violadas e herdadas** — T6 (mesmo item em capítulos consecutivos), T2/T1 (teto da questão principal), T3 (piso de cobertura), T5. Fechá-las exige **re-sortear tipo**, o que nenhuma revisão fez até agora por decisão explícita: revisão preserva tipo e rubrica.
 - **O banco de verbos do §6 fechou em 22** com `redija` (texto), `leia` (fonte entregue) e `calcule` (`EX`/R1). Restava só produção visual em EF1 sem verbo próprio — `elabore` cobre. Se aparecer nova lacuna, **acrescente o verbo ao §6 antes de reescrever questão**: as três rodadas anteriores mostraram que reescrever para caber num banco incompleto piora o enunciado.
 - **A folha e a grade podem sair de sincronia sem que ninguém perceba.** A checagem que confronta cada `Responda:` com o "Critério que decide a nota" achou 39 divergências em 624 questões — o caso mais comum foi `ESQ` sem pedir seta rotulada, quando R4 reserva 3 dos 10 pontos justamente a isso. **Ao reescrever qualquer enunciado, releia a linha dele na seção 2 do `_ORGANIZACAO.md`**: se o critério cobra algo que a folha deixou de pedir, o professor corrige por um critério que a folha não pede mais. E confira que o critério está **no `Responda:`**, não em algum lugar qualquer da questão: em `Português 8º Cap. 2 Q2` a grade dizia *"o terceiro exemplo é o que discrimina"* e a folha pedia o exemplo na execução, fora da entrega — divergência que a checagem de 12/08 não pegou porque só comparava o bloco com o critério.
+
+**Um registro de método, da rodada de 13/08 — o tipo `OBJ`.** A rodada acrescentou 190 questões objetivas justificadas às 47 folhas, e quatro decisões dela valem para as próximas produções:
+
+- **A objetiva não mede a letra.** Assinalar vale 2 dos 10 pontos de R14; os outros 8 estão na justificativa de por que cada distrator está errado. É isso que torna a questão autoverificável sem gabarito na folha e que a livra da checagem 1 — a alternativa correta pode ecoar o capítulo, mas **a razão pela qual as outras falham não está impressa em lugar nenhum**.
+- **Quando a eliminação convergir, mude a pergunta, não o distrator.** Em *qual destas é fruto?*, as três erradas cairiam todas por "não vem do ovário da flor". A saída foi trocar o que o `Responda:` cobra — **que estrutura é cada uma** —, e o mesmo movimento se repetiu em seis disciplinas e em catorze das 56 objetivas de Português.
+- **A faixa EF1 só tem três itens** (`OBJ.d` é reservado a EF2 e EM), e dois capítulos vizinhos com duas questões cada exigiriam quatro. **T6 é aritmeticamente inviável em EF1** — a violação está registrada nos `_ORGANIZACAO.md` de Ciências, Estudos Sociais, Matemática EF1 e Português, com o rodízio que a reduz a um item por fronteira.
+- **Em conteúdo politicamente disputado, a objetiva fica no conceito que o capítulo define.** Geografia (conflitos contemporâneos) e Sociologia (movimentos sociais) não trazem nenhuma alternativa que peça ao aluno julgar quem tem razão: o risco é o **distrator indecidível** que §8.4 veta.
 
 **Um registro de método, da rodada de 12/08.** A afirmação *"as 12 disciplinas estão no formato §7.1"* era verdadeira por disciplina e falsa por folha: **8 das 47 nunca haviam sido reformatadas** — Estudos Sociais 6º a 9º, Ciências 6º (parcial), 7º e 8º, e Filosofia 2ª —, somando 126 questões em parágrafo único, sem um único bloco `Responda:`. Duas dessas folhas tinham o defeito anotado no próprio `_ORGANIZACAO.md`; as quatro de Estudos Sociais, o maior bloco, não estavam registradas em lugar nenhum. **Contar por disciplina esconde o que falta; a unidade de verificação é a folha.**
 

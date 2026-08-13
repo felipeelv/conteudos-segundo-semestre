@@ -1,7 +1,7 @@
 # Português — 5º Ano
 
 > **Bloco 1 · 05/08–25/08** · Sujeito, Predicado e Complementos
-> 3 capítulos · 18 questões.
+> 3 capítulos · 24 questões.
 
 ---
 
@@ -63,6 +63,31 @@ Procure o parágrafo em livro, revista, jornal, página da internet ou no acervo
 
 ---
 
+**7.** Assinale, entre os três sujeitos destacados, o único que é **composto**, e escreva qual é o núcleo de cada um dos outros dois.
+
+a) **As meninas** chegaram cedo ao treino.
+b) **O cachorro e o gato** dormiram no tapete.
+c) **As crianças da escola** entraram na sala.
+
+**Responda:** qual dos três é sujeito composto, e qual é o núcleo de cada um dos outros dois?
+
+**Confira você mesmo:** os outros dois não são compostos pela mesma razão, mas caem em armadilhas diferentes — um está no plural e mesmo assim tem um núcleo só; o outro tem muitas palavras e também tem um núcleo só. Escreva os dois núcleos: eles são palavras diferentes.
+
+---
+
+**8.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Um estudante leu a frase *"Sentamos em silêncio"* e disse que ela não tem sujeito.
+
+a) Ele está certo: a frase não tem sujeito, porque nenhuma palavra aparece antes do verbo.
+b) Ele está errado: o sujeito é *nós*, e a forma do verbo *sentamos* mostra isso.
+c) Ele está errado: o sujeito é *silêncio*, que é a palavra que vem depois do verbo.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** pergunte ao verbo *quem sentou?* e veja se a resposta aparece escrita na frase ou se o próprio verbo já a entrega. As duas erradas erram de jeitos diferentes: uma confunde *não aparecer* com *não existir*, e a outra escolhe como sujeito uma palavra que responde a outra pergunta.
+
+---
 ## Capítulo 2 — Predicado
 
 **1.** Classifique o predicado de cada frase abaixo em verbal, nominal ou verbo-nominal.
@@ -122,6 +147,29 @@ Use pelo menos dois predicados nominais e sublinhe cada um deles por inteiro, co
 
 ---
 
+**7.** Assinale, entre as três frases sobre *"A menina ficou nervosa"*, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) O predicado é verbal, porque a frase tem um verbo, e todo verbo indica ação.
+b) O predicado é nominal, porque *ficou* liga a menina a uma característica dela.
+c) A palavra *nervosa* é o sujeito da frase, porque vem no fim, depois do verbo.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** pergunte se *ficou* mostra alguma coisa que a menina **fez**. Se não mostra, ele não é verbo de ação. As duas erradas escorregam em pontos diferentes: uma decide o tipo de predicado só por haver um verbo, e a outra troca de lugar o sujeito e a palavra que descreve o sujeito.
+
+---
+
+**8.** Assinale, entre os três predicados destacados, o único que é **verbo-nominal**, e escreva que tipo é cada um dos outros dois.
+
+a) O atleta **correu depressa** na pista.
+b) O atleta **chegou cansado** à linha final.
+c) O atleta **estava cansado** naquele dia.
+
+**Responda:** qual dos três é verbo-nominal, e que tipo de predicado é cada um dos outros dois?
+
+**Confira você mesmo:** os outros dois não são "não-verbo-nominais" — cada um é um dos outros dois tipos que o capítulo apresenta, e os dois tipos são diferentes entre si. Escreva o nome de cada um e diga o que falta nele para ser verbo-nominal.
+
+---
 ## Capítulo 3 — Concordância verbal
 
 **1.** Decida a forma verbal que completa cada frase abaixo.
@@ -180,3 +228,29 @@ Um estudante escreveu: *"A gente vamos ao parque."*
 Procure o texto em livro, revista, jornal, página da internet ou no acervo da escola. Copie três frases dele e, em cada uma, sublinhe o sujeito e circule o verbo. No fim, escreva de onde veio o texto.
 
 **Responda, ao lado de cada uma das três frases:** o que no verbo mostra que ele acompanha o sujeito sublinhado?
+
+---
+
+**7.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Um estudante escreveu: *"A caixa de lápis sumiram."*
+
+a) A frase está certa, porque *lápis* está no plural e o verbo acompanhou essa palavra.
+b) A frase está errada: o núcleo do sujeito é *caixa*, e o certo é *a caixa de lápis sumiu*.
+c) A frase está errada, porque o certo seria *as caixa de lápis sumiram*, com o artigo no plural.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** pergunte ao verbo *o que sumiu?* e veja qual palavra responde: a caixa ou os lápis. As duas erradas erram em lugares diferentes — uma faz o verbo concordar com a palavra mais próxima, e a outra mexe no artigo em vez de mexer no verbo.
+
+---
+
+**8.** Assinale, entre as três frases, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) *Você estudas* está certo, porque *você* é a pessoa com quem se fala.
+b) *Você estuda* está certo, porque *você* pede o verbo na mesma forma de *ele*.
+c) *A gente fomos* está certo, porque *a gente* quer dizer a mesma coisa que *nós*.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** troque *você* por *ele* e *a gente* por *ela* e veja como fica o verbo em cada caso. As duas erradas misturam formas de pessoas diferentes, mas não a mesma mistura: uma usa com *você* a forma que pertence a *tu*, e a outra usa com *a gente* a forma que pertence a *nós*.

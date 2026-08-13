@@ -1,7 +1,7 @@
 # Sociologia — 1ª Série
 
 > **Bloco 1 · 05/08–25/08** · Trabalho e Karl Marx
-> 1 capítulo · 8 questões.
+> 1 capítulo · 10 questões.
 
 ---
 
@@ -79,3 +79,31 @@ A reportagem deve ter sido publicada nos últimos cinco anos e pode vir de jorna
 **8.** Redija, para um leitor que não estudou este capítulo, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: toda especialização do trabalho produz anomia?
 
 Enuncie a posição na primeira linha, sustente-a com dois casos e responda à objeção de que sociedades pouco especializadas também apresentam desregramento normativo.
+
+---
+
+**9.** Assinale, entre as quatro situações, a única que descreve **anomia**, e diga que conceito do capítulo descreve cada uma das outras três.
+
+a) Numa mudança social rápida, as regras que orientavam expectativas ficam insuficientes.
+b) Numa fábrica, cada pessoa executa uma etapa distinta do mesmo processo produtivo.
+c) Pessoas de ocupações diferentes dependem umas das outras para viver e produzir.
+d) Um trabalhador sem contrato tem renda irregular e não tem direitos garantidos.
+
+**Responda:** qual das quatro é anomia, e que conceito do capítulo descreve cada uma das outras três?
+
+**Confira você mesmo:** as outras três não são "não-anomias" — cada uma tem nome próprio no capítulo, e os três nomes são diferentes entre si. Se você escreveu *"as normas não enfraqueceram"* nas três, ainda não respondeu à pergunta em nenhuma delas.
+
+---
+
+**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Uma empresa dobrou a produção depois de reorganizar as etapas do processo produtivo. No mesmo período, ampliou a proporção de trabalhadores sem contrato formal.
+
+a) A empresa melhorou nos dois aspectos, porque produzir mais já protege quem trabalha.
+b) A eficiência aumentou, mas a integração social pelo trabalho não acompanhou o ganho.
+c) A informalidade é irrelevante aqui, porque a Sociologia mede é a produtividade.
+d) Não é possível avaliar o caso, porque eficiência e integração medem a mesma coisa.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** o capítulo fecha a seção 3 distinguindo em uma frase o que a eficiência mede e o que a integração pergunta. Copie essa frase e confronte-a com a alternativa que você descartou — as três erradas mexem nela de maneiras diferentes: uma faz uma medida garantir a outra, outra descarta uma delas, e a terceira funde as duas.

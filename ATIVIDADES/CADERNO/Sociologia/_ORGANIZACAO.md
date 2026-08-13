@@ -5,11 +5,11 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 1ª Série | Trabalho e Karl Marx | 1 | 8 |
-| 2ª Série | Movimentos sociais e tecnologia | 1 | 8 |
-| **Total** | | **2** | **16** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 1ª Série | Trabalho e Karl Marx | 1 | 10 | 2 |
+| 2ª Série | Movimentos sociais e tecnologia | 1 | 10 | 2 |
+| **Total** | | **2** | **20** | **4** |
 
 ## 2. Grade de correção
 
@@ -25,6 +25,8 @@
 | 1 | 6 | FON.a | R7 | referência registrada; correspondência com a forma histórica correta |
 | 1 | 7 | FON.c | R7 | a proteção não mencionada |
 | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1 | 9 | OBJ.a | R14 | letra **a**. Eliminações: **b** é divisão técnica do trabalho, **c** é solidariedade orgânica, **d** é informalidade. A questão cobra o nome de cada conceito, não apenas que não é anomia |
+| 1 | 10 | OBJ.b | R14 | letra **b**. Eliminações: **a** faz uma medida garantir a outra; **c** descarta a integração como objeto da Sociologia; **d** funde eficiência e integração. Fundamento: a frase de fechamento da seção 3 do capítulo |
 
 ### 2ª Série
 
@@ -38,6 +40,8 @@
 | 1 | 6 | FON.c | R7 | o elemento ausente entre os três |
 | 1 | 7 | ERR.a | R11 | os **dois** problemas, cada um com o *por que* é erro; apontar sem explicar vale metade |
 | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** inverte a ordem, pondo o juízo antes da descrição; **c** confunde descrever com militar; **d** condiciona o objeto de estudo ao juízo de valor. As duas advertências de método estão no fim das seções 1 e 3 |
+| 1 | 10 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — uma generaliza um juízo sobre todas as leis, a outra troca a explicação pela frequência das mudanças legislativas; **c** erra a conclusão. A razão correta é o **racismo estrutural**, termo do capítulo |
 
 ## 3. Rodapé de produção
 
@@ -66,6 +70,25 @@ ERR na 2ª Série entrou fora do pool derivado dos marcadores (o capítulo não 
 |---|---|---|
 | **T3 violado:** INV, primeiro dominante de Sociologia na casa ([`03`](../../METODOLOGIA/03-REPERTORIO.md) §3), não aparece na 2ª série | 2ª Série, cap 1 | trocar a questão 7 por um levantamento INV.c (R8) com categorias e previsão escritas antes — presença de movimentos e causas no bairro, na escola ou no comércio do caminho de casa |
 | **ERR fora do pool:** o capítulo não tem M1, único marcador que libera ERR; o tipo foi herdado da produção anterior | 2ª Série, cap 1, Q7 | a mesma troca resolve: ERR sai do pool indevido e INV entra como dominante |
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final da folha, numeradas em continuidade. **Nada foi re-sorteado**: as 16 questões anteriores seguem intactas. Contagem: 2 arquivos-ano · 2 capítulos · **16 → 20 questões**, sendo 4 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 2 de 2 |
+| T9 · itens distintos dentro do capítulo | 2 de 2 — 1ª `a·b` · 2ª `c·d` |
+| Faixa etária (§7.1) | EM nos dois: 4 alternativas, as três eliminações **com o tipo de erro nomeado** |
+| Checagem 14 · distratores (§8.4) | 12 distratores conferidos um a um |
+| Gabarito fora da folha | sim |
+| §8.1 · §8.2 · §8.3 | 4 de 4 |
+
+**A decisão que mais pesou nesta disciplina.** O capítulo da 2ª série trata de movimento negro, feminista, do campo, indígena e LGBTQIA+, e uma objetiva sobre esses temas correria um risco duplo: transformar em *alternativa errada* uma posição legitimamente disputada — o **distrator indecidível** que §8.4 veta — e converter a folha em instrumento de adesão ou de rejeição, o que nem a Sociologia nem [`05`](../../METODOLOGIA/05-REGRAS-DE-APLICACAO.md) §6 autorizam.
+
+As duas `OBJ` desse capítulo ficaram, por isso, em terreno que o **próprio capítulo enuncia como método**: a Q9 é sobre a ordem entre descrever e julgar — advertência que o texto repete no fim da seção 1 e no fim da seção 3 —, e a Q10 é sobre a distância entre conquista legal e desigualdade efetiva, com a alternativa correta apoiada no conceito que o capítulo nomeia, **racismo estrutural**. **Nenhuma das duas pede ao aluno que declare apoio ou recusa a qualquer causa**, e nenhuma alternativa é derrubável por convicção em vez de por leitura. O mesmo critério foi aplicado em Geografia, no capítulo de conflitos contemporâneos.
+
+**A 1ª série não teve esse problema e pôde usar o item mais exigente de discriminação conceitual.** `OBJ.a` com quatro situações — anomia, divisão técnica, solidariedade orgânica e informalidade — cobra o **nome** de cada uma, que é o que impede as três eliminações de convergirem para *"as normas não enfraqueceram"*.
 
 ## 5. Revisões aplicadas ao material anterior
 

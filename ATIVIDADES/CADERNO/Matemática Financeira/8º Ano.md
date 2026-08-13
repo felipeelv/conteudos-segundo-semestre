@@ -1,7 +1,7 @@
 # Matemática Financeira — 8º Ano
 
 > **Bloco 1 · 05/08–25/08** · Probabilidade e gráficos estatísticos
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -55,3 +55,31 @@ Um estudante calculou a probabilidade de sair 1 ou 2 no lançamento de um dado, 
 Em um jogo, você pode escolher entre ganhar se sair 6 em um dado, ou ganhar se saírem duas caras em duas moedas.
 
 **Responda:** qual opção oferece maior chance, com as duas probabilidades calculadas, e por que a intuição costuma errar nessa comparação?
+
+---
+
+**7.** Assinale, entre os quatro pares de eventos do lançamento de um dado, o único formado por eventos **complementares**, e justifique por que cada um dos outros três não é.
+
+a) "Sair 6" e "não sair 6".
+b) "Sair 1" e "sair 2".
+c) "Sair número par" e "sair número maior que 3".
+d) "Sair número par" e "sair 2".
+
+**Responda:** qual é o par de eventos complementares, e por que cada um dos outros três não é?
+
+**Confira você mesmo:** complementares precisam cumprir **duas** condições ao mesmo tempo — não ter resultado em comum e, juntos, cobrir todo o espaço amostral. Cada um dos três pares errados falha de um jeito próprio: escreva, para cada um, qual das duas condições ele quebra e por quê.
+
+---
+
+**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+
+No lançamento de dois dados, o espaço amostral tem 36 pares. A soma 7 aparece em 6 desses pares, e a soma 2 aparece em apenas 1.
+
+a) As duas somas têm a mesma chance, porque qualquer soma pode sair num lançamento.
+b) A soma 7 é seis vezes mais provável que a soma 2, porque tem seis caminhos contra um.
+c) A soma 2 é mais provável, porque exige o menor número possível nos dois dados.
+d) A chance da soma 7 é 7/36, porque o número da soma dá o número de caminhos.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** liste os pares que somam 7 — comece em (1,6) e vá até (6,1) — e depois os que somam 2. Conte os dois grupos. Essa contagem derruba as três erradas, mas por motivos diferentes: uma iguala o que é diferente, outra inverte, e a terceira confunde o **valor** da soma com o **número de caminhos** que levam a ela.

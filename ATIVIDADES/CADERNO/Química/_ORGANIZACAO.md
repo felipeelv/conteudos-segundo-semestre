@@ -5,12 +5,12 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 1ª Série | Tabela periódica e ligações químicas | 1 | 8 |
-| 2ª Série | Equilíbrio químico e iônico | 1 | 6 |
-| 9º Ano | Funções inorgânicas | 1 | 8 |
-| **Total** | | **3** | **22** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 1ª Série | Tabela periódica e ligações químicas | 1 | 10 | 2 |
+| 2ª Série | Equilíbrio químico e iônico | 1 | 8 | 2 |
+| 9º Ano | Funções inorgânicas | 1 | 10 | 2 |
+| **Total** | | **3** | **28** | **6** |
 
 ## 2. Grade de correção
 
@@ -26,6 +26,8 @@
 | 1 | 6 | FON.c | R7 | a limitação experimental que o texto não discute |
 | 1 | 7 | ERR.a | R11 | o raio depende da carga nuclear efetiva, não da contagem de elétrons |
 | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** funde os dois conceitos; **c** deduz a afinidade da eletronegatividade — o capítulo registra que o **cloro** tem afinidade de maior magnitude que o flúor; **d** dá unidade (kJ/mol) a uma escala adimensional |
+| 1 | 10 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — a cronologia não explica, e a massa atômica não é impossível de medir; **c** erra a conclusão |
 
 ### 2ª Série
 
@@ -37,6 +39,8 @@
 | 1 | 4 | CASO.a | R12 | Q = 12,8 < Kc = 16, logo forma mais HI; o critério numérico Q × Kc é obrigatório; o catalisador não altera Kc |
 | 1 | 5 | FON.a | R7 | referência registrada; o compromisso entre rendimento e velocidade |
 | 1 | 6 | ERR.c | R11 | a conclusão está correta e a justificativa não: as velocidades voltam a se igualar no novo equilíbrio |
+| 1 | 7 | OBJ.a | R14 | letra **b**. Eliminações, com o sentido de cada deslocamento: **a** para a direita (quantidade de matéria), **c** para a direita (menos mols gasosos), **d** para a esquerda — e **d** é a única que altera o próprio valor de K. Não basta dizer que as três deslocam: a questão cobra o lado |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** confunde constância macroscópica com parada da reação; **c** confunde *constante* com *igual*; **d** inverte a condição — o sistema precisa ser fechado para a matéria |
 
 ### 9º Ano
 
@@ -50,6 +54,8 @@
 | 1 | 6 | FON.a | R7 | referência por dado; ordenação correta |
 | 1 | 7 | ERR.b | R11 | a segunda conclusão se sustenta; fenolftaleína incolor não prova ausência de íons |
 | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1 | 9 | OBJ.a | R14 | letra **a**. Eliminações: **b** é **ionização** (os íons não existiam antes); **c** é uma **propriedade** da solução, não um processo de formação de íons; **d** é mudança de cor de indicador. A questão cobra o nome do que cada um é |
+| 1 | 10 | OBJ.b | R14 | letra **a**. Eliminações: **b** e **c** trocam caráter por risco, em sentidos opostos — longe de 7 e perto de 7; **d** nega que o pH informe qualquer coisa |
 
 ## 3. Rodapé de produção
 
@@ -72,6 +78,23 @@
 | Acessibilidade §8.2 | 22 de 22 |
 | T3 — INV e MOD por ano | violação registrada. Com um único capítulo por ano no Bloco 1, INV em Tabela periódica ou em Equilíbrio químico exigiria vidraria ou reagente controlado (reprova em §8 #4 e em §8.2), e MOD exigiria dado numérico que os capítulos não fornecem (reprova em §8 e na regra de dado real). T3 é a de menor prioridade na ordem de §4.3 |
 | Tipos fora do pool calculado | TAB (1ª Q1, 2ª Q2, 9º Q2) admitida porque cada uma acrescenta critério ausente do capítulo, o que M2 e M8 permitem · FON (1ª Q5 e Q6, 2ª Q5, 9º Q6) admitida porque a fonte é externa e localizada pelo aluno, não o próprio capítulo — Química não tem anexos, logo M5 não se aplica |
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final da folha, numeradas em continuidade. **Nada foi re-sorteado**: as 22 questões anteriores seguem intactas. Contagem: 3 arquivos-ano · 3 capítulos · **22 → 28 questões**, sendo 6 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 3 de 3 |
+| T9 · itens distintos dentro do capítulo | 3 de 3 — 9º `a·b` · 1ª `c·d` · 2ª `a·b` |
+| Faixa etária (§7.1) | 9º: 4 alternativas, as três eliminações · 1ª e 2ª: 4 alternativas, as três **com o tipo de erro nomeado** |
+| Checagem 14 · distratores (§8.4) | 18 distratores conferidos um a um |
+| Gabarito fora da folha | sim |
+| §8.1 · §8.2 · §8.3 | 6 de 6 — nenhuma exige reagente, vidraria, indicador ou medição |
+
+**A confusão que organiza as seis questões é sempre a mesma: dois conceitos vizinhos que o capítulo separa em uma frase, e que o aluno funde.** São elas, na ordem das folhas: **ionização × dissociação** (9º) · **caráter × risco** na escala de pH (9º) · **afinidade eletrônica × eletronegatividade** (1ª) · **massa atômica × número atômico** como critério de ordenação (1ª) · **catalisador × perturbação que desloca** (2ª) · **constante × igual**, e **constância macroscópica × parada da reação**, no equilíbrio dinâmico (2ª). Nenhuma foi inventada: as seis estão enunciadas no texto dos capítulos, quase sempre num box de **⚠️ Atenção** ou na frase de fechamento de uma seção.
+
+**Duas questões exigem mais que a eliminação genérica, e isso é deliberado.** No 9º Cap. 1 Q9, o `Responda:` cobra **o nome do que cada distrator é** — ionização, propriedade da solução, indicador —, porque *"não é dissociação"* serviria para os três. Na 2ª Cap. 1 Q7, cobra **o lado para o qual cada perturbação desloca**, pela mesma razão. É a regra que se repetiu em cinco disciplinas desta rodada: quando a eliminação convergir, mude a pergunta, não o distrator.
 
 ## 5. Revisões aplicadas ao material anterior
 

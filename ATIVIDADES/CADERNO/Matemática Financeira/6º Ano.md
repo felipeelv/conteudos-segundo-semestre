@@ -1,7 +1,7 @@
 # Matemática Financeira — 6º Ano
 
 > **Bloco 1 · 05/08–25/08** · Frequência, dados e probabilidade
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -63,3 +63,31 @@ Um estudante fez uma pesquisa com 25 pessoas e apresentou uma tabela em que os p
 Uma escola quer saber qual esporte oferecer no contraturno e pode fazer a pesquisa com todos os alunos ou apenas com os que já praticam algum esporte.
 
 **Responda:** qual das duas opções deve ser adotada, sob que critério, e como a segunda opção distorceria o resultado?
+
+---
+
+**7.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+
+Uma manchete diz: *"50% dos entrevistados aprovaram a nova regra"*. O texto não informa quantas pessoas foram entrevistadas.
+
+a) A informação basta, porque 50% é metade, e metade é sempre metade.
+b) Falta o total: 50% pode ser 3 pessoas de 6 ou 3.000 pessoas de 6.000.
+c) A informação está errada, porque toda porcentagem precisa passar de 100.
+d) O total não importa, porque a frequência relativa já foi calculada com ele.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** a última das erradas é a mais difícil de derrubar, porque ela diz uma coisa verdadeira — a frequência relativa **é** calculada a partir do total. Escreva por que ser calculada com o total não é o mesmo que **informar** o total a quem lê a manchete.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre tabelas de frequência, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) Se as porcentagens arredondadas somam 99,99%, houve erro na contagem das respostas.
+b) Se as porcentagens arredondadas somam 99,99%, a diferença vem do arredondamento.
+c) A soma das frequências absolutas pode ser diferente do total de dados coletados.
+d) A soma das frequências relativas de uma tabela completa pode dar qualquer valor.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** duas das erradas negam, cada uma, um dos **dois testes de honestidade** que o capítulo dá para conferir uma tabela. Escreva os dois testes e diga qual alternativa nega qual. A terceira errada não nega teste nenhum: ela troca a causa da diferença.

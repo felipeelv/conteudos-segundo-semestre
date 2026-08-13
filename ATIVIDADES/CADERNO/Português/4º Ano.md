@@ -1,7 +1,7 @@
 # Português — 4º Ano
 
 > **Bloco 1 · 05/08–25/08** · Classes gramaticais e pontuação
-> 4 capítulos · 25 questões.
+> 4 capítulos · 33 questões.
 
 ---
 
@@ -59,6 +59,29 @@ No bilhete use pelo menos dois pronomes oblíquos e sublinhe cada um. Entregue a
 
 ---
 
+**7.** Assinale, entre as três palavras destacadas, a única que é um pronome do **caso oblíquo**, e escreva o que é cada uma das outras duas.
+
+a) **Ela** chamou Caio no pátio.
+b) Ana **o** chamou no pátio.
+c) **Ana** chamou Caio no pátio.
+
+**Responda:** qual das três é pronome do caso oblíquo, e o que é cada uma das outras duas?
+
+**Confira você mesmo:** as outras duas não são "não-oblíquos" — uma delas é pronome, mas do outro caso, e a outra nem é pronome. Escreva o que cada uma é.
+
+---
+
+**8.** Assinale, entre as três frases, a única escrita na forma esperada na escrita formal, e escreva por que **uma** das outras duas está errada.
+
+a) A professora separou o livro para mim ler.
+b) A professora separou o livro para eu ler.
+c) A professora separou o livro para eu, e vou ler depois.
+
+**Responda:** qual frase está na forma da escrita formal? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas erram para lados opostos — uma usa *mim* onde vem um verbo depois, e a outra usa *eu* onde não vem verbo nenhum. Veja para que lado a frase que você escolheu errou.
+
+---
 ## Capítulo 2 — O pronome no lugar do nome
 
 **1.** Reescreva o parágrafo abaixo trocando as repetições por pronomes.
@@ -110,6 +133,29 @@ Você não pode repetir o nome de nenhuma das duas mais de uma vez, e precisa fi
 
 ---
 
+**7.** Assinale, entre as três frases, a única em que o pronome está bem usado, e escreva por que **uma** das outras duas não está.
+
+a) *Ele chegou cedo. Beto trouxe os livros.*
+b) *Beto chegou cedo. Ele trouxe os livros.*
+c) *Beto e Lia chegaram. Ele trouxe os livros.*
+
+**Responda:** em qual frase o pronome está bem usado? Escolha uma das outras duas e escreva por que ela não está.
+
+**Confira você mesmo:** as duas erradas erram em coisas diferentes — numa, o pronome aparece **antes** do nome que ele deveria retomar; na outra, um pronome sozinho tenta retomar **duas** pessoas. Veja qual dos dois problemas tem a frase que você escolheu.
+
+---
+
+**8.** Assinale, entre as três trocas, a única escrita na forma esperada na escrita formal, e escreva por que **uma** das outras duas está errada.
+
+a) Guardei o livro. → Guardei ele.
+b) Guardei o livro. → Guardei-o.
+c) Guardei as chaves. → Guardei-o.
+
+**Responda:** qual troca está na forma da escrita formal? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas erradas erram em coisas diferentes — uma usa a forma da conversa do dia a dia, e a outra usa o pronome certo no gênero e no número errados. Escreva qual seria a forma correta da troca que você escolheu.
+
+---
 ## Capítulo 3 — Advérbios de tempo e de lugar
 
 **1.** Decida que advérbio completa cada frase e aplique em todas o teste da retirada.
@@ -169,6 +215,31 @@ O bilhete precisa ter pelo menos um advérbio de tempo e um de lugar, e quem ler
 
 ---
 
+**7.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Um estudante escreveu: *"As meninas chegaram cedas."*
+
+a) A frase está certa, porque *cedas* combina com *meninas*, que está no plural.
+b) A frase está errada: o advérbio não varia, e o certo é *as meninas chegaram cedo*.
+c) A frase está errada, porque o certo seria *a menina chegou cedas*, no singular.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** troque *as meninas* por *nós* e depois por *ele* e veja se a palavra *cedo* muda de forma em algum dos dois casos. Esse teste derruba as duas erradas de uma vez, mas por caminhos diferentes: uma faz o advérbio concordar, e a outra mexe no lugar errado da frase.
+
+---
+
+**8.** Assinale, entre as três frases sobre *de manhã*, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) *De manhã* é um advérbio de lugar, porque diz onde a ação acontece.
+b) *De manhã* é uma locução adverbial: várias palavras com uma informação só.
+c) *De manhã* não é advérbio nem locução, porque advérbio tem uma palavra só.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** faça duas perguntas ao verbo — *quando?* e *onde?* — e veja qual delas *de manhã* responde. Essa pergunta derruba uma das erradas. A outra você derruba lembrando que *cedo* e *de manhã* respondem à mesma pergunta.
+
+---
 ## Capítulo 4 — Advérbios de modo, de intensidade e de negação
 
 **1.** Classifique cada palavra destacada pela pergunta que ela responde: *como?*, *quanto?* ou *acontece?*
@@ -232,3 +303,29 @@ Procure o texto em livro, revista, jornal, página da internet ou no acervo da e
 **7.** Redija, em até seis linhas e para quem faltou à aula, uma explicação da diferença entre um advérbio de modo e um advérbio de intensidade.
 
 Use um exemplo de cada um dentro da explicação.
+
+---
+
+**8.** Assinale, entre as três palavras destacadas, a única que é um advérbio de **negação**, e escreva que circunstância cada uma das outras duas indica.
+
+a) *Talvez* eu vá à festa amanhã.
+b) Eu *não* vou à festa amanhã.
+c) Eu vou *muito* à festa aos sábados.
+
+**Responda:** qual das três é advérbio de negação, e que circunstância cada uma das outras duas indica?
+
+**Confira você mesmo:** as outras duas não são "não-negações" — cada uma responde a uma pergunta diferente do quadro do capítulo. Escreva a pergunta que cada uma responde e a circunstância que ela indica.
+
+---
+
+**9.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Um estudante escreveu, num texto formal: *"Ela escreve bom."*
+
+a) A frase está certa, porque *bom* elogia o jeito de ela escrever.
+b) A frase está errada: junto do verbo usa-se *bem*; *bom* acompanha nome.
+c) A frase está errada, porque o certo seria *ela escreve boa*, no feminino.
+
+**Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** procure na frase a palavra que *bom* está acompanhando. Se for um verbo, a palavra certa é outra. As duas erradas escorregam de jeitos diferentes: uma aceita a frase como está, e a outra troca por uma palavra que também acompanha nome.

@@ -1,7 +1,7 @@
 # Português — 9º Ano
 
 > **Bloco 1 · 05/08–25/08** · Concordância e colocação pronominal
-> 2 capítulos · 12 questões.
+> 2 capítulos · 16 questões.
 
 ---
 
@@ -63,6 +63,33 @@ Procure em texto impresso, em página da internet ou no acervo da escola, e regi
 
 ---
 
+**7.** Assinale, entre as quatro afirmações sobre concordância verbal, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) Em *Vendem-se casas*, o *se* indetermina o sujeito, e o verbo deveria ficar no singular.
+b) Em *Vendem-se casas*, o *se* é apassivador: *casas* é o sujeito, e o verbo vai ao plural.
+c) *Haver* no sentido de existir concorda com o termo seguinte, como em *houveram problemas*.
+d) O sujeito oracional leva o verbo ao plural, porque a oração que o forma tem vários termos.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** aplique dois testes do capítulo — passe a construção com *se* para a passiva analítica, e substitua a oração-sujeito por *isso*. O primeiro teste derruba uma das erradas; o segundo derruba outra. A terceira cai ao se lembrar de que um verbo impessoal não tem com quem concordar.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+*50% dos alunos faltaram à aula de segunda-feira.*
+
+a) A construção está correta: com especificador no plural, o verbo pode concordar com ele.
+b) A construção está correta, porque toda porcentagem exige o verbo no plural.
+c) A construção está errada, porque o verbo deve concordar sempre com o numeral: *faltou*.
+d) A construção está correta, porque o número 50 é maior que 1 e por isso pede plural.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro aceitam a frase, e só uma explica por quê. Portanto duas das suas justificativas **não** podem ser *"a frase está errada"*. Compare com *50% da turma faltou*, que o capítulo também aceita: essa comparação derruba as duas razões erradas de uma vez.
+
+---
 ## Capítulo 2 — Concordância nominal
 
 **1.** Reescreva cada frase abaixo corrigindo a concordância nominal.
@@ -119,3 +146,31 @@ a) um adjetivo para vários substantivos
 b) vários adjetivos para um substantivo
 c) *mesmo* e *próprio*
 d) *possível* com superlativo
+
+---
+
+**7.** Assinale, entre as quatro frases, a única em que a concordância nominal está correta, e diga que erro há em cada uma das outras três.
+
+a) Segue anexo a fatura solicitada pela empresa.
+b) Estão inclusas as fotos do evento de sábado.
+c) É proibida entrada de pessoas estranhas ao setor.
+d) Havia menas pessoas na sala do que na semana passada.
+
+**Responda:** qual frase está correta, e que erro há em cada uma das outras três?
+
+**Confira você mesmo:** os três erros são de naturezas diferentes — um é de concordância com o substantivo, outro depende da **presença ou ausência do artigo**, e o terceiro usa uma forma que sequer existe na norma-padrão. Diga qual é qual e escreva a correção de cada uma.
+
+---
+
+**8.** Assinale, entre as quatro leituras do par a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+
+Duas frases: *"Ela ficou meio cansada"* e *"Ela comprou meia garrafa de suco"*.
+
+a) Nas duas, *meio* deveria variar, porque acompanha palavras femininas.
+b) Na primeira, *meio* equivale a "um pouco" e não varia; na segunda, é numeral e varia.
+c) Nas duas, *meio* deveria ficar invariável, porque essa palavra nunca concorda com nada.
+d) A diferença entre as duas está no verbo empregado, e não na palavra *meio*.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** aplique o teste do capítulo — troque *meio* por *muito* em cada frase e veja em qual delas a troca funciona. As três erradas escolhem caminhos diferentes: duas resolvem tudo por uma regra única, em sentidos opostos, e a terceira desloca a explicação para outra palavra da frase.

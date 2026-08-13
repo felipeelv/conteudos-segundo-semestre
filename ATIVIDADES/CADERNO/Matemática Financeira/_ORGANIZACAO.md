@@ -5,15 +5,15 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 1ª Série | Medidas de dispersão e probabilidade | 1 | 6 |
-| 2ª Série | Probabilidade condicional e crédito | 1 | 6 |
-| 6º Ano | Frequência, dados e probabilidade | 1 | 6 |
-| 7º Ano | Medidas de tendência central e plano cartesiano | 1 | 6 |
-| 8º Ano | Probabilidade e gráficos estatísticos | 1 | 6 |
-| 9º Ano | Educação financeira e probabilidade | 1 | 6 |
-| **Total** | | **6** | **36** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 1ª Série | Medidas de dispersão e probabilidade | 1 | 8 | 2 |
+| 2ª Série | Probabilidade condicional e crédito | 1 | 8 | 2 |
+| 6º Ano | Frequência, dados e probabilidade | 1 | 8 | 2 |
+| 7º Ano | Medidas de tendência central e plano cartesiano | 1 | 8 | 2 |
+| 8º Ano | Probabilidade e gráficos estatísticos | 1 | 8 | 2 |
+| 9º Ano | Educação financeira e probabilidade | 1 | 8 | 2 |
+| **Total** | | **6** | **48** | **12** |
 
 Todos os seis capítulos vinham da produção anterior (`CADERNO-Matematica-Financeira.md`), na condição *revisar o existente*. Nenhum capítulo foi produzido do zero — tipo e rubrica de cada questão foram preservados; só os enunciados que violavam §8.1, §8.2 ou uma das doze checagens do §8 foram reescritos.
 
@@ -31,6 +31,8 @@ Todos os seis capítulos vinham da produção anterior (`CADERNO-Matematica-Fina
 | 1 | 4 | ESC.b | R5 | os três termos obrigatórios e a unidade de cada medida |
 | 1 | 5 | ERR.a | R11 | 7 contra 8; subestimação de 12,5%; o efeito de $$n$$ maior |
 | 1 | 6 | CASO.a | R12 | máquina A; a situação em que B serve |
+| 1 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** sai em unidade ao quadrado; **c** é adimensional, em porcentagem; **d** dá sempre zero, em qualquer conjunto. A questão cobra o que cada uma devolve, não apenas que não é a unidade dos dados |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** toma a amplitude por descrição completa; **c** confunde centro com espalhamento; **d** inventa diferença de tamanho — os dois conjuntos têm cinco valores. Conferência: médias 35/5 = 7 nos dois; amplitudes 2 e 5 |
 
 ### 2ª Série
 
@@ -42,6 +44,8 @@ Todos os seis capítulos vinham da produção anterior (`CADERNO-Matematica-Fina
 | 1 | 4 | ERR.a | R11 | falácia da taxa-base: 180 de 1.160, cerca de 15,5% |
 | 1 | 5 | FON.a | R7 | autoria e data registradas; a prevalência é o que a fonte não traz |
 | 1 | 6 | CASO.b | R12 | a decisão depende do custo relativo dos dois erros |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** esquece o desconto da interseção — 13 + 12 = 25 contra 22 cartas reais; **c** confunde exclusivo com independente (exclusivos e não vazios são sempre **dependentes**); **d** apaga a diferença entre contar com e sem ordem |
+| 1 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão; **c** erra a conclusão e comete a **falácia do promotor**, trocando P(S|F) por P(F|S). Conferência: 100 × 0,90 = 90 · 900 × 0,05 = 45 · 90 ÷ 135 ≈ 66,7% |
 
 ### 6º Ano
 
@@ -53,6 +57,8 @@ Todos os seis capítulos vinham da produção anterior (`CADERNO-Matematica-Fina
 | 1 | 4 | TAB.a | R10 | as duas colunas ausentes do capítulo e a linha de parte do total, que a tabela do capítulo não cobre |
 | 1 | 5 | ERR.a | R11 | dupla contagem; o arredondamento descartado como causa |
 | 1 | 6 | CASO.a | R12 | o viés de seleção é o ponto da questão |
+| 1 | 7 | OBJ.b | R14 | letra **b**. Eliminações: **a** toma a proporção por suficiente; **c** inventa exigência falsa; **d** é a mais difícil — diz algo verdadeiro (a relativa **é** calculada com o total) e conclui algo falso (que ela **informa** o total a quem lê) |
+| 1 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **c** e **d** negam, cada uma, um dos dois testes de honestidade — Σf_a = n e Σf_r = 1; **a** troca a causa da diferença, atribuindo a erro de contagem o que vem do arredondamento |
 
 ### 7º Ano
 
@@ -64,6 +70,8 @@ Todos os seis capítulos vinham da produção anterior (`CADERNO-Matematica-Fina
 | 1 | 4 | ESC.b | R5 | os três termos obrigatórios e o caso em que a medida engana |
 | 1 | 5 | ERR.a | R11 | mediana como resposta; média deslocada, mediana não |
 | 1 | 6 | CASO.a | R12 | fila A; média 5 e mediana 5 nas duas, amplitudes 2 e 8; com quinze minutos o critério deixa de separar |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** nega que a média fique entre os extremos; **c** confunde desvio com módulo do desvio (a soma dá zero); **d** nega que a ponderada com pesos iguais devolva a simples. Conferência: média de 8, 7, 9, 5 é 7,25, e 0,75 − 0,25 + 1,75 − 2,25 = 0 |
+| 1 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a medida e erram a razão; **d** é o distrator central — **moda e mediana coincidem em R$ 2.100,00 neste conjunto**, o que faz a razão errada parecer certa; **c** erra a conclusão |
 
 ### 8º Ano
 
@@ -75,6 +83,8 @@ Todos os seis capítulos vinham da produção anterior (`CADERNO-Matematica-Fina
 | 1 | 4 | INV.a | R8 | previsão escrita antes das trinta retiradas |
 | 1 | 5 | ERR.c | R11 | resultado certo, justificativa errada — exclusividade, não complementaridade |
 | 1 | 6 | CASO.a | R12 | 16,67% contra 25%; a intuição contrariada |
+| 1 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** é exclusivo mas a união não cobre Ω; **c** tem interseção (4 e 6 estão nos dois); **d** tem um evento contido no outro. Cada um quebra uma condição diferente das duas que definem complementares |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** iguala chances por serem possíveis; **c** inverte, usando o tamanho do número; **d** confunde o **valor** da soma com o **número de caminhos**. Conferência: 6 pares somam 7, 1 par soma 2, em 36 |
 
 ### 9º Ano
 
@@ -86,6 +96,8 @@ Todos os seis capítulos vinham da produção anterior (`CADERNO-Matematica-Fina
 | 1 | 4 | ESC.b | R5 | os três termos obrigatórios e o que cada conceito não informa |
 | 1 | 5 | ERR.c | R11 | 4% é aproximação; o exato é ~3,77%; com 12% o real fica negativo |
 | 1 | 6 | CASO.a | R12 | liquidez como critério dominante em 6 meses |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** mistura períodos (1% ao mês com n = 3 anos); **c** troca a base do regime simples pelo saldo acumulado; **d** inverte o comportamento no prazo curto — em 12 meses a diferença é de R$ 6,83 |
+| 1 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — e **b** é desmentida pelo próprio caso, que fechou em −3%; **c** erra a conclusão, ignorando que a perda concentrada em A seria de 10%. Conferência: 500 × 0,90 = 450 · 500 × 1,04 = 520 · 450 + 520 = 970 · −3% |
 
 ---
 
@@ -142,6 +154,29 @@ Notas da checagem:
 - **Probabilidade em quatro dos seis capítulos** (6º trata frequência, 8º e 2ª tratam probabilidade, 7º e 1ª tratam medidas): a abordagem varia por ano — árvore e complementar no 8º, Bayes com falácia da taxa-base na 2ª.
 
 ---
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final da folha, numeradas em continuidade. **Nada foi re-sorteado**: as 36 questões anteriores seguem intactas. Contagem: 6 arquivos-ano · 6 capítulos · **36 → 48 questões**, sendo 12 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 6 de 6 |
+| T9 · itens distintos dentro do capítulo | 6 de 6 |
+| T6 · item não repete em capítulos consecutivos | não se aplica: cada ano tem um capítulo só. Os pares alternam entre os anos — `b·c` no 6º, `c·d` no 7º, `a·b` no 8º, `c·d` no 9º, `a·b` na 1ª, `c·d` na 2ª |
+| Faixa etária (§7.1) | 6º ao 9º: 4 alternativas, as três eliminações · 1ª e 2ª: 4 alternativas, as três **com o tipo de erro nomeado** |
+| Checagem 14 · distratores (§8.4) | 36 distratores conferidos um a um |
+| Gabarito fora da folha | sim |
+| §8.2 · calculadora financeira | **nenhuma `OBJ` exige tecla financeira.** As doze se resolvem por leitura, comparação e conta simples; as que trazem número trazem o número já calculado no enunciado ou no `Confira você mesmo:` |
+| §8.1 · §8.3 | 12 de 12 |
+
+**A confusão que esta disciplina permite medir melhor que qualquer outra: acertar o número pelo motivo errado.** Estatística e finanças estão cheias de coincidências numéricas que blindam um raciocínio ruim, e `OBJ.d` foi feito para elas. Três das quatro `OBJ.d` desta disciplina se apoiam numa coincidência real do próprio capítulo:
+
+- **7º ano** — no conjunto de cinco salários, **moda e mediana caem as duas em R$ 2.100,00**. Quem escolhe a mediana "porque é o valor que mais se repete" acerta a medida e descreve a moda;
+- **9º ano** — a carteira diversificada perde 3%, e a alternativa que diz *"carteira dividida nunca fecha no negativo"* chega à conclusão certa por uma regra que o próprio caso desmente;
+- **2ª série** — os 67% do filtro de spam são o resultado certo, e há duas maneiras erradas de explicá-los, uma delas aritmética (somar 90% e 5% e dividir por dois dá 47,5%, não 67%).
+
+**Todos os números foram recalculados contra o capítulo:** 12 + 8 + 6 + 4 = 30 e 12/30 = 40% (6º) · média 7,25 e soma dos desvios zero (7º) · 6 pares somam 7 e 1 par soma 2 em 36 (8º) · R$ 1.120,00 contra R$ 1.126,83 em 12 meses, e 450 + 520 = 970 (9º) · médias 7 e amplitudes 2 e 5 (1ª) · 90 + 45 = 135 e 90/135 ≈ 66,7% (2ª). Nenhuma alternativa apresenta número que não feche.
 
 ## 5. Revisões aplicadas ao material anterior
 

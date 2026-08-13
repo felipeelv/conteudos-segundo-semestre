@@ -1,7 +1,7 @@
 # Matemática Financeira — 1ª Série
 
 > **Bloco 1 · 05/08–25/08** · Medidas de dispersão e probabilidade
-> 1 capítulo · 6 questões.
+> 1 capítulo · 8 questões.
 
 ---
 
@@ -68,3 +68,31 @@ Calcule as duas variâncias e em quantos por cento o resultado do estudante sube
 Duas máquinas produzem parafusos com o mesmo comprimento médio. A máquina A tem desvio padrão de 0,2 mm e a B, de 0,8 mm.
 
 **Responda:** qual das duas deve ser usada, sob que critério, e em que situação a máquina B ainda assim seria aceitável?
+
+---
+
+**7.** Assinale, entre as quatro, a única medida que devolve o resultado na mesma unidade dos dados, e diga o que cada uma das outras três devolve.
+
+a) A variância de um conjunto de notas.
+b) O desvio padrão de um conjunto de notas.
+c) O coeficiente de variação de um conjunto de notas.
+d) A soma dos desvios em relação à média das notas.
+
+**Responda:** qual das quatro devolve o resultado na unidade dos dados, e o que cada uma das outras três devolve?
+
+**Confira você mesmo:** as outras três não são "não-medidas" — cada uma devolve alguma coisa, e as três devolvem coisas de naturezas diferentes: uma sai numa unidade que não é a dos dados, outra sai sem unidade nenhuma, e a terceira dá sempre o mesmo número, qualquer que seja o conjunto. Escreva o que cada uma devolve.
+
+---
+
+**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+Os conjuntos A = 6, 7, 7, 7, 8 e B = 4, 6, 7, 9, 9 têm a mesma média, 7. A amplitude de A é 2 e a de B é 5.
+
+a) A amplitude sozinha descreve o espalhamento, porque usa o maior e o menor valor.
+b) A amplitude usa só os extremos, e o desvio médio mostra o que acontece entre eles.
+c) Os dois conjuntos têm a mesma dispersão, porque a média é 7 nos dois casos.
+d) A amplitude de B é maior porque B tem mais valores no conjunto do que A.
+
+**Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** conte quantos valores há em cada conjunto — esse número derruba uma das erradas de imediato. As outras duas caem por caminhos diferentes: uma confunde **centro** com **espalhamento**, e a outra toma uma medida parcial por descrição completa.
