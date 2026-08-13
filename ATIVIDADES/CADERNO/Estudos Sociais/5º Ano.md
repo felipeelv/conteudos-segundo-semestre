@@ -1,7 +1,7 @@
 # Estudos Sociais — 5º Ano
 
 > **Bloco 1 · 05/08–25/08** · Do Império à República Brasileira
-> 2 capítulos · 12 questões.
+> 2 capítulos · 16 questões.
 
 ---
 
@@ -53,6 +53,32 @@ c) iluminação a gás
 Um estudante escreveu: *"O café enriqueceu o Brasil inteiro."*
 
 **Responda:** o que falta nessa frase? Quem de fato ficou rico com o café?
+
+---
+
+**7.** Assinale, entre as três frases sobre a subida de D. Pedro II ao trono, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) Pedro assumiu o trono em 1840 porque completou a idade que a lei exigia para governar.
+b) Pedro assumiu o trono aos 14 anos porque políticos anteciparam a sua maioridade.
+c) Pedro assumiu o trono em 1840 porque os regentes desistiram de governar o Brasil.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** o capítulo diz com quantos anos Pedro foi coroado e dá nome ao que aconteceu em 1840. Encontre os dois e veja qual deles derruba a frase que você escolheu.
+
+---
+
+**8.** Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Em 1854 foi inaugurada a primeira ferrovia brasileira. Nos anos seguintes, os trilhos avançaram para as regiões onde se plantava café.
+
+a) A ferrovia foi construída antes do café, e por isso o café pôde ser plantado no interior.
+b) O dinheiro do café ajudou a pagar os trilhos, e os trilhos levaram o café mais longe.
+c) A ferrovia não teve relação com o café, porque servia apenas para transportar pessoas.
+
+**Responda:** qual explicação está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** uma das explicações erradas inverte a ordem das coisas, e a outra corta a ligação entre elas. Veja qual das duas a explicação que você escolheu fez.
 
 ---
 
@@ -108,3 +134,27 @@ Diga, em cada texto, o que a lei prometia e o que de fato acontecia:
 a) Lei do Ventre Livre
 b) Lei dos Sexagenários
 c) Lei Áurea
+
+---
+
+**7.** Assinale, entre as três frases sobre a Lei Eusébio de Queirós, de 1850, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) A lei de 1850 acabou com a escravidão dentro do Brasil.
+b) A lei de 1850 proibiu a entrada de novos africanos escravizados.
+c) A lei de 1850 libertou as pessoas escravizadas com mais de 65 anos.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas confundem a lei de 1850 com outras coisas — uma a confunde com o fim da escravidão, e a outra a confunde com uma lei diferente, que tem outro nome e outro ano. Diga com o que a frase que você escolheu confundiu.
+
+---
+
+**8.** Assinale, entre as três frases sobre o fim da escravidão no Brasil, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) A escravidão acabou porque a princesa Isabel resolveu sozinha dar liberdade a todos.
+b) A escravidão acabou depois de muitos anos de resistência e de pressão dos abolicionistas.
+c) A escravidão acabou de uma vez em 1888, sem que houvesse nenhuma lei antes dessa.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** uma das frases erradas apaga as pessoas que lutaram, e a outra apaga as leis que vieram antes de 1888. Se você escolheu a que apaga as leis, escreva o ano de pelo menos uma delas.

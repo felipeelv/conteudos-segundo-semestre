@@ -5,15 +5,15 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 4º Ano | Formação do povo brasileiro e identidade nacional | 2 | 12 |
-| 5º Ano | Do Império à República Brasileira | 2 | 12 |
-| 6º Ano | Civilizações orientais, sistemas terrestres e Roma | 3 | 18 |
-| 7º Ano | Urbanização e redes; crise do feudalismo e modernidade | 3 | 18 |
-| 8º Ano | Independências nas Américas e Brasil no século XIX | 3 | 18 |
-| 9º Ano | Europa, Ásia, África e Oceania | 4 | 24 |
-| **Total** | | **17** | **102** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 4º Ano | Formação do povo brasileiro e identidade nacional | 2 | 16 | 4 |
+| 5º Ano | Do Império à República Brasileira | 2 | 16 | 4 |
+| 6º Ano | Civilizações orientais, sistemas terrestres e Roma | 3 | 24 | 6 |
+| 7º Ano | Urbanização e redes; crise do feudalismo e modernidade | 3 | 24 | 6 |
+| 8º Ano | Independências nas Américas e Brasil no século XIX | 3 | 24 | 6 |
+| 9º Ano | Europa, Ásia, África e Oceania | 4 | 32 | 8 |
+| **Total** | | **17** | **136** | **34** |
 
 Dos 17 capítulos, 16 vêm da produção anterior (`CADERNO-Estudos-Sociais.md`) e 1 é novo: **9º Ano · Cap. 4 — Oriente Médio e tensões regionais**.
 
@@ -33,12 +33,16 @@ Dois capítulos que existiam na produção anterior **saíram** desta pasta por 
 | 1 | 4 | VIS.a | R10 | legenda obrigatória |
 | 1 | 5 | ESC.b | R5 | origem e forma de chegada em cada grupo |
 | 1 | 6 | ERR.a | R11 | vinda forçada × decisão própria |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** supõe terra vazia; **c** erra o tempo — a ocupação começa em 1530, e nos primeiros 30 anos os portugueses só vinham buscar pau-brasil. EF1: 3 alternativas, **uma** eliminação cobrada, e os 5 pontos ficam nela inteiros |
+| 1 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **a** erra na diversidade (305 povos, 274 línguas, IBGE 2022); **c** erra no tempo, tratando indígena como personagem só do passado |
 | 2 | 1 | INV.c | R8 | cinco itens reais, com categoria e herança identificadas |
 | 2 | 2 | TAB.c | R10 | a tabela precisa permitir a comparação de frequência |
 | 2 | 3 | FON.a | R7 | leitura do Anexo; a importância do trabalho dele |
 | 2 | 4 | VIS.b | R10 | três palavras com significado correto |
 | 2 | 5 | ESC.b | R5 | exemplo vivo hoje em cada herança |
 | 2 | 6 | ESC.d | R5 | três informações do capítulo; herança corretamente identificada |
+| 2 | 7 | OBJ.b | R14 | letra **b**. Eliminações: **a** supõe que herança que muda deixa de ser herança; **c** inverte a origem da pizza |
+| 2 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** hierarquiza pela língua; **c** hierarquiza pela ordem de chegada. Dois critérios diferentes para o mesmo erro |
 
 ### 5º Ano
 
@@ -50,12 +54,16 @@ Dois capítulos que existiam na produção anterior **saíram** desta pasta por 
 | 1 | 4 | FON.a | R7 | leitura do Anexo; apoio **e** crítica |
 | 1 | 5 | ESC.b | R5 | mudança concreta na vida das pessoas |
 | 1 | 6 | ERR.a | R11 | a concentração da riqueza é o ponto |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** supõe idade legal alcançada — foi antecipada, e ele tinha 14 anos; **c** inventa a desistência dos regentes |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** inverte a ordem (o café já era plantado antes de 1854); **c** corta a ligação entre café e ferrovia |
 | 2 | 1 | LT.a | R3 | o que cada lei deixou sem resolver |
 | 2 | 2 | TAB.b | R10 | o alcance limitado das duas leis |
 | 2 | 3 | FON.a | R7 | leitura do Anexo; a trajetória singular de Luiz Gama |
 | 2 | 4 | TAB.b | R10 | os mesmos quatro critérios aplicados aos dois casos |
 | 2 | 5 | ERR.c | R11 | a ausência de terra, moradia e apoio |
 | 2 | 6 | ESC.b | R5 | promessa × prática em cada lei |
+| 2 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** confunde fim do tráfico com fim da escravidão; **c** troca pela Lei dos Sexagenários, de 1885 |
+| 2 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** apaga a resistência e o abolicionismo; **c** apaga as leis graduais de 1850, 1871 e 1885 |
 
 ### 6º Ano
 
@@ -67,18 +75,24 @@ Dois capítulos que existiam na produção anterior **saíram** desta pasta por 
 | 1 | 4 | ESQ.a | R4 | rótulo em cada seta |
 | 1 | 5 | TAB.a | R10 | o critério aplicável a uma decisão de governo |
 | 1 | 6 | ERR.a | R11 | a necessidade comercial de registro rápido |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** troca comércio por conquista territorial; **c** confunde alcance com lugar de origem; **d** inverte o efeito do relevo, que limitava a agricultura |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** atribui a obra a um só momento e a um só governante; **c** retira o papel dos governos organizados; **d** troca a finalidade (defesa × controle da água) e a dinastia |
 | 2 | 1 | TAB.a | R10 | a coluna da atividade humana |
 | 2 | 2 | ESQ.a | R4 | rótulo em cada seta do percurso da energia |
 | 2 | 3 | VIS.a | R10 | legenda; clima condicionante de cada bioma |
 | 2 | 4 | FON.a | R7 | o que o relato de viajante revela e o documento oficial não |
 | 2 | 5 | FON.a | R7 | duas cidades com fonte e ano; explicação pelos fatores climáticos |
 | 2 | 6 | ERR.c | R11 | natural × intensificado — o caso difícil |
+| 2 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** é tempo atmosférico, **c** descreve o relevo, **d** descreve a vegetação. Não basta *"não é clima"* — a questão cobra o nome do que cada uma descreve |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a ordem e erram o critério — **b** usa a velocidade, **d** classifica as duas como forças internas; **c** inverte a ordem dos processos |
 | 3 | 1 | LT.a | R3 | nexo causal entre os marcos |
 | 3 | 2 | VIS.a | R10 | legenda e título; três satrapias |
 | 3 | 3 | TAB.a | R10 | a tolerância como estratégia, não como virtude |
 | 3 | 4 | FON.c | R7 | o aspecto não abordado pela fonte |
 | 3 | 5 | ESC.b | R5 | função administrativa de cada elemento |
 | 3 | 6 | CASO.c | R12 | as duas decisões aceitas; avalia-se o critério e o custo |
+| 3 | 7 | OBJ.b | R14 | letra **b**. Eliminações: **a** toma por descrição o nome dado ao objeto depois; **c** descarta a fonte inteira por ser interessada; **d** confunde tolerância religiosa com igualdade política |
+| 3 | 8 | OBJ.c | R14 | letra **a**. Eliminações: **b** contraria a tolerância de Ciro; **c** contraria o capítulo, que registra comunidades vivas hoje; **d** troca o povo que professava a religião |
 
 ### 7º Ano
 
@@ -90,18 +104,24 @@ Dois capítulos que existiam na produção anterior **saíram** desta pasta por 
 | 1 | 4 | FON.c | R7 | o aspecto não discutido |
 | 1 | 5 | FON.a | R7 | fonte e ano; classificação justificada por serviços |
 | 1 | 6 | ERR.a | R11 | território ocupado × população residente |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **c** e **d** são o espelho uma da outra — dão à conurbação a condição legal e à região metropolitana a característica física; **a** apaga a distinção |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** e **c** escolhem causa única em lados opostos (expulsão × atração); **d** nega o fator da mecanização |
 | 2 | 1 | INV.c | R8 | categorias antes; o problema ausente é o achado |
 | 2 | 2 | VIS.a | R10 | legenda; símbolos coerentes com o que foi observado |
 | 2 | 3 | TAB.a | R10 | a coluna do nível de governo responsável |
 | 2 | 4 | FON.c | R7 | o contra-argumento ausente |
 | 2 | 5 | ESQ.a | R4 | mecanismo em cada seta |
 | 2 | 6 | CASO.c | R12 | as duas decisões aceitas; o que fica sem solução |
+| 2 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** é favelização, **c** é mobilidade urbana, **d** é segregação socioespacial. A questão cobra o nome de cada problema |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — a frequência da chuva e o asfalto que *atrai* chuva; **c** erra a conclusão |
 | 3 | 1 | VIS.d | R10 | espessura proporcional aos percentuais do capítulo; legenda e título |
 | 3 | 2 | TAB.a | R10 | o critério de decisão por tipo de carga |
 | 3 | 3 | FON.a | R7 | dado regional com fonte e ano; a leitura da diferença |
 | 3 | 4 | FON.c | R7 | o efeito sobre povos indígenas mencionado sem desenvolver |
 | 3 | 5 | ESQ.a | R4 | decisão política → consequência atual |
 | 3 | 6 | ERR.a | R11 | o dado do capítulo que contradiz a generalização |
+| 3 | 7 | OBJ.b | R14 | letra **b**. Eliminações: **a** otimiza tempo, critério que o caso não pede; **c** propõe modal incompatível com carga sólida; **d** confunde o mais usado (61%) com o mais adequado |
+| 3 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** apaga a infraestrutura; **c** apaga a desigualdade entre territórios e rendas; **d** transforma condição material em escolha individual |
 
 ### 8º Ano
 
@@ -113,18 +133,24 @@ Dois capítulos que existiam na produção anterior **saíram** desta pasta por 
 | 1 | 4 | VIS.a | R10 | legenda; o ponto de encontro em Guayaquil |
 | 1 | 5 | TAB.a | R10 | o critério sobre o fracasso da federação |
 | 1 | 6 | CASO.a | R12 | a reação das potências revela o limite das outras independências |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** troca os dois grupos por outros; **c** apaga a desigualdade de cargos; **d** troca o critério de nascimento pelo de riqueza |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** nega a vitória militar que o caso pressupõe; **c** iguala indenização imposta a empréstimo voluntário; **d** inventa causa ausente do caso |
 | 2 | 1 | LT.a | R3 | seis marcos com nexo causal |
 | 2 | 2 | TAB.a | R10 | a inviabilidade do retorno colonial |
 | 2 | 3 | FON.c | R7 | o aspecto não avaliado pela fonte |
 | 2 | 4 | ESQ.a | R4 | rótulo em cada seta |
 | 2 | 5 | ESC.b | R5 | efeito econômico de cada medida |
 | 2 | 6 | ERR.a | R11 | Bahia, Maranhão, Pará, Cisplatina |
+| 2 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** só em 1888, **c** só em 1889, **d** não ocorreu — as elites agrárias permaneceram. Dois anos e uma ausência |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — **b** usa um fato posterior (1822), **d** usa causa não registrada; **c** erra a conclusão |
 | 3 | 1 | LT.c | R3 | as três ligações cruzadas entre as faixas |
 | 3 | 2 | TAB.a | R10 | reivindicação e desfecho de cada revolta |
 | 3 | 3 | FON.a | R7 | posição política, evidência e desfecho |
 | 3 | 4 | VIS.a | R10 | legenda; regiões corretas |
 | 3 | 5 | ERR.a | R11 | a antecipação como solução política, não maturidade |
 | 3 | 6 | CASO.c | R12 | as duas leituras aceitas; avalia-se o critério |
+| 3 | 7 | OBJ.b | R14 | letra **a**. Eliminações: **b** é desmentida pelo próprio caso (a Assembleia foi dissolvida); **c** e **d** só caem pelo capítulo — Poder Moderador e voto censitário |
+| 3 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** inverte o sentido da medida; **c** atribui efeito que ela não teve — a Farroupilha vai até 1845; **d** atribui conteúdo que ela não tinha |
 
 ### 9º Ano
 
@@ -136,24 +162,32 @@ Dois capítulos que existiam na produção anterior **saíram** desta pasta por 
 | 1 | 4 | FON.c | R7 | a dificuldade não mencionada |
 | 1 | 5 | TAB.a | R10 | o critério para o país que pertence a só dois dos três |
 | 1 | 6 | CASO.a | R12 | a dimensão mais imediata; o que permanece |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** procura o limite no relevo; **c** no contorno do continente; **d** numa instituição do século XX |
+| 1 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** inverte o efeito sobre a saúde; **c** nega a variação de ritmo entre países; **d** corta a ligação entre migração e população ativa |
 | 2 | 1 | VIS.a | R10 | legenda e título |
 | 2 | 2 | TAB.a | R10 | a coluna que relaciona relevo e densidade |
 | 2 | 3 | FON.a | R7 | fonte e ano; população × densidade |
 | 2 | 4 | FON.c | R7 | a crítica ausente ao microcrédito |
 | 2 | 5 | TAB.a | R10 | a influência sobre a organização social |
 | 2 | 6 | ERR.a | R11 | condições agrícolas e hídricas, não área |
+| 2 | 7 | OBJ.c | R14 | letra **a**. Eliminações: **b** retira a sazonalidade; **c** desloca a região; **d** enxerga só um dos dois riscos — falta **e** excesso de chuva |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam *megacidade* e erram a razão — critério econômico no lugar do populacional, e afirmação que o caso desmente; **c** erra a conclusão |
 | 3 | 1 | LT.a | R3 | nexo causal entre os cinco marcos |
 | 3 | 2 | TAB.a | R10 | modelo **e** limite de cada país |
 | 3 | 3 | FON.c | R7 | o custo social não discutido |
 | 3 | 4 | VIS.a | R10 | legenda; zonas econômicas especiais |
 | 3 | 5 | FON.a | R7 | fonte e ano; a composição das trocas |
 | 3 | 6 | CASO.c | R12 | as duas escolhas aceitas; a condição histórica irrepetível |
+| 3 | 7 | OBJ.a | R14 | letra **b**. Eliminações: **a** é a China antes de 1978, **c** é o modelo dos Tigres Asiáticos, **d** é o Japão do pós-guerra. Cada uma é outro modelo do capítulo |
+| 3 | 8 | OBJ.b | R14 | letra **b**. Eliminações: **a** lê o PIB como medida de bem-estar; **c** descarta o dado por incoerência aparente; **d** desliga o crescimento dos custos que vieram com ele |
 | 4 | 1 | MC.a | R2 | rótulo em toda linha; nenhum fator como causa única |
 | 4 | 2 | LT.c | R3 | as três ligações cruzadas entre as faixas |
 | 4 | 3 | ESQ.a | R4 | reservas → OPEP → 1973 → dependência, com rótulo em cada seta |
 | 4 | 4 | FON.b | R7 | qual parte do Anexo sustenta cada afirmação — e a afirmação que nenhuma sustenta |
 | 4 | 5 | ESC.c | R5 | a objeção *"alguém poderia dizer que… mas…"* e os três fatores |
 | 4 | 6 | CASO.b | R12 | as três informações que faltam e o efeito de cada uma sobre a decisão |
+| 4 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** promove a região a continente; **c** a desloca para a África; **d** a reduz a um critério religioso |
+| 4 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam *cartel* e erram a razão — localização dos países e data de criação; **c** erra a conclusão com definição restritiva inventada |
 
 ## 3. Rodapé de produção
 
@@ -200,6 +234,25 @@ Os seeds dos 16 capítulos herdados são os da produção anterior, preservados.
 Verificações complementares do §8: sem `DEB` e sem `ORA` (T7) · sem `EX` na disciplina, logo nenhuma exigência de item ✓conf · as 3 questões de `INV` (4º · 2 · Q1 e Q6; 7º · 2 · Q1) pedem previsão ou categorias definidas **antes** da observação e nenhuma usa instrumento de medida · nenhum artefato entregue pronto para preencher: tabela, linha do tempo, esquema, mapa e mapa conceitual são construídos pelo aluno · nenhuma fonte fictícia: as questões de `FON` sobre biografia trabalham o Anexo do próprio capítulo, e as 5 que pedem dado externo aceitam fonte impressa, digital ou do acervo da escola.
 
 `MC` aparece 1× e só no capítulo novo. É o único tipo do pool que a produção anterior não usava em nenhum dos 16 capítulos — foi o que permitiu abrir o 9º · Cap. 4 sem repetir o tipo de abertura dos capítulos vizinhos (T1: o 9º · 2 abre em `VIS`, o 9º · 3 abre em `LT`).
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final do bloco de cada capítulo, numeradas em continuidade. **Nada foi re-sorteado**: as 102 questões anteriores seguem intactas em tipo, item, rubrica, critério e redação. Contagem: 6 arquivos-ano · 17 capítulos · **102 → 136 questões**, sendo 34 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 17 de 17 |
+| T9 · itens distintos dentro do capítulo | 17 de 17 |
+| T6 · item não repete em capítulos consecutivos | cumprida em **13** dos 17 · violada em **4**, todos de EF1: 4º Ano (`c` volta do cap. 1 ao cap. 2) e 5º Ano (`c` idem). A faixa EF1 dispõe de três itens apenas — `OBJ.d` é reservado a EF2 e EM (§5) —, e dois capítulos com duas questões cada exigiriam quatro itens distintos. Mesma violação registrada em Ciências, pela mesma causa estrutural. Nos anos de EF2, com quatro itens disponíveis, o rodízio fecha sem repetição: 6º `c·b`/`a·d`/`b·c` · 7º `c·b`/`a·d`/`b·c` · 8º `c·b`/`a·d`/`b·c` · 9º `c·b`/`c·d`/`a·b`/`c·d` |
+| Faixa etária (§7.1) | 4º e 5º: **3 alternativas**, uma eliminação cobrada · 6º ao 9º: **4 alternativas**, as três eliminações |
+| Checagem 14 · distratores (§8.4) | 86 distratores conferidos um a um (2 por questão nas 8 de EF1, 3 por questão nas 26 de EF2). Nenhum absurdo, nenhum indecidível, nenhuma alternativa correta mais longa que as erradas, nenhum *"todas as anteriores"* |
+| Gabarito fora da folha | sim — as 34 letras e os 86 motivos de eliminação estão só na seção 2 |
+| §8.1 · §8.2 · §8.3 | 34 de 34 |
+| Conteúdo religioso (§6 de `05`) | as `OBJ` que tocam religião — monoteísmo hebraico, zoroastrismo, religiões abraâmicas, sunitas e xiitas — tratam o tema **como conteúdo**, sem camada devocional e sem pontuar posição de fé. Nenhuma usa a seção devocional dos Anexos |
+
+**Os Anexos não entram nas `OBJ`, e isso é deliberado.** M5 está presente nos 17 capítulos e é o que sustenta as questões de `FON` desta disciplina. As objetivas, porém, não pedem leitura de anexo: **cada uma se resolve com o capítulo**, o que as mantém utilizáveis mesmo quando o professor imprime a folha sem o anexo correspondente. É a mesma exigência de §8.1 aplicada ao insumo, não só à questão vizinha.
+
+**Um problema recorrente de `OBJ.a` e como ele foi resolvido aqui.** O item pede que os distratores falhem em *condições diferentes* do conceito, e há perguntas em que isso não sai sozinho — *qual destas a Independência trouxe?* deixaria as três erradas caindo todas por "foi mantido". Em quatro questões a saída foi mudar o que o `Responda:` cobra, e não o distrator: **o 8º Cap. 2 Q7 pede o que aconteceu com cada uma** (1888, 1889, e uma que não aconteceu); o **7º Cap. 2 Q7 pede o nome do problema urbano de cada uma**; o **6º Cap. 2 Q7 pede o que cada descrição descreve**; o **9º Cap. 3 Q7 pede a que modelo cada uma corresponde**. Regra confirmada, a mesma anotada em Ciências: **quando a eliminação convergir, mude a pergunta, não o distrator.**
 
 ## 5. Revisões aplicadas ao material anterior
 

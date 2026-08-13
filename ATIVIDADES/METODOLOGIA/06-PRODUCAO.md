@@ -13,7 +13,7 @@ A repetição não vem de falta de repertório. Vem de três buracos entre o rep
 
 | Buraco | Efeito na geração |
 |---|---|
-| **Falta a camada de item.** Os 18 tipos são macro-tarefas. Entre "esta atividade é um MC" e o comando final não há nada especificado | O gerador preenche o vazio sozinho, e preenche sempre do mesmo jeito. 193 capítulos com a mesma cara |
+| **Falta a camada de item.** Os tipos são macro-tarefas. Entre "esta atividade é um MC" e o comando final não há nada especificado | O gerador preenche o vazio sozinho, e preenche sempre do mesmo jeito. 193 capítulos com a mesma cara |
 | **A escolha do tipo está em prosa** (seção 2 do [`03-REPERTORIO.md`](03-REPERTORIO.md)) | Prosa se interpreta; tabela de decisão se executa. Interpretação converge para o tipo mais fácil de escrever |
 | **Não há molde de saída** | Cada arquivo sai com estrutura própria. Nada é comparável, nada é revisável em lote |
 
@@ -28,8 +28,8 @@ A repetição não vem de falta de repertório. Vem de três buracos entre o rep
 Toda atividade é decidida em três níveis, nesta ordem. O nível 1 já existe; os níveis 2 e 3 são o que este arquivo acrescenta.
 
 ```
-Nível 1 · TIPO      (18 códigos)         → o que a tarefa é          → 03-REPERTORIO
-Nível 2 · ITEM      (56 formatos)        → como a tarefa é montada   → §5 deste arquivo
+Nível 1 · TIPO      (19 códigos)         → o que a tarefa é          → 03-REPERTORIO
+Nível 2 · ITEM      (60 formatos)        → como a tarefa é montada   → §5 deste arquivo
 Nível 3 · COMANDO   (banco de verbos)    → o que o aluno lê          → §6 deste arquivo
 ```
 
@@ -59,6 +59,7 @@ Mapeamento fixo. A rubrica sai do tipo, não do sorteio.
 | CONS | R10 | R1 | R10 com ajuste: *correção da informação* = correção da construção |
 | ORA | R9 | — | só no conjunto de sala |
 | POR | R13 | — | 1× por bimestre, na integradora |
+| OBJ | R14 | — | 2× por capítulo, fora do sorteio, sempre complementar |
 
 ---
 
@@ -91,6 +92,8 @@ pool = (dominantes da disciplina em 03 §3)
 
 Se o pool ficar com menos de 3 tipos, o capítulo vai para revisão manual — não force o sorteio.
 
+**`OBJ` está fora do pool, e isso é regra, não omissão.** As duas objetivas de cada capítulo não competem com os dezoito tipos por vaga: elas se somam ao que o sorteio produziu, ao final da folha daquele capítulo. Nenhum marcador as libera e nenhum as proíbe — o que decide se uma `OBJ` cabe é a existência de **confusão conceitual típica** no conteúdo do capítulo, e essa leitura se faz na hora de escrever o item, não na hora de montar o pool. Se um capítulo não oferecer duas confusões distintas que rendam distratores honestos, **pare e pergunte** em vez de inventar distrator absurdo.
+
 ---
 
 ## 4. Algoritmo de sorteio
@@ -120,7 +123,10 @@ Variedade reprodutível: re-rodar a disciplina inteira devolve exatamente o mesm
 5. derivar RUBRICA do tipo (§2)                → aplicar trava T5
 6. sortear VERBO compatível com a rubrica (§6)
 7. escrever o comando verbatim e os insumos
+8. escrever as 2 OBJ do capítulo (§5, §7.1)    → aplicar trava T9
 ```
+
+O passo 8 não sorteia nada: escolhe as duas confusões conceituais do capítulo e o item `OBJ` que melhor as expõe.
 
 ### 4.3 Travas
 
@@ -134,8 +140,13 @@ Variedade reprodutível: re-rodar a disciplina inteira devolve exatamente o mesm
 | T6 | Mesmo item (ex.: `EX.a`) não repete em capítulos consecutivos da disciplina | é aqui que mora a repetição percebida |
 | T7 | **Casa:** DEB e ORA fora do pool; todo EX usa item com conferência embutida (`EX.a`, `EX.c`, `EX.d`) | [`03`](03-REPERTORIO.md) §4, caderno sem gabarito |
 | T8 | Sala e casa do **mesmo capítulo** têm tipos diferentes | [`00-LEIA-ME.md`](00-LEIA-ME.md): "não se repetem" |
+| T9 | **OBJ:** as duas do capítulo usam **itens diferentes entre si**, atacam **confusões conceituais diferentes**, e nenhuma delas é a atividade principal | duas objetivas do mesmo formato sobre o mesmo ponto é uma questão repetida, não duas |
 
-Trava violada → re-sortear dentro do pool (máximo 5 tentativas). Esgotadas, aceitar a violação de menor peso nesta ordem de prioridade: **T8 > T7 > T2 > T1 > T6 > T5 > T4 > T3** — e registrar a exceção no rodapé do capítulo.
+Trava violada → re-sortear dentro do pool (máximo 5 tentativas). Esgotadas, aceitar a violação de menor peso nesta ordem de prioridade: **T8 > T7 > T9 > T2 > T1 > T6 > T5 > T4 > T3** — e registrar a exceção no rodapé do capítulo.
+
+**T9 não se resolve por re-sorteio**, porque `OBJ` não é sorteado: resolve-se reescrevendo uma das duas sobre outra confusão do mesmo capítulo. Se não houver segunda confusão, o caso é de pergunta à coordenação (§3).
+
+**T2 e T9 não colidem.** T2 mede concentração **entre as atividades principais** da disciplina, e `OBJ` nunca é principal — por isso duas objetivas em cada um dos 95 capítulos não empurram nenhum tipo para o teto de 40%.
 
 ### 4.4 Calibragem de tempo, não de quantidade
 
@@ -153,8 +164,8 @@ Desvios já registrados que o gerador **não** deve tentar corrigir: Estudos Soc
 
 ## 5. Catálogo de itens
 
-Os 56 formatos, em 18 tipos. O sorteio do nível 2 acontece aqui.
-Marcados com **✓conf** os itens que trazem conferência embutida — os únicos admissíveis para EX no caderno de casa.
+Os 60 formatos, em 19 tipos. O sorteio do nível 2 acontece aqui.
+Marcados com **✓conf** os itens que trazem conferência embutida — os únicos admissíveis para EX no caderno de casa. Os quatro de `OBJ` são todos ✓conf por construção: a conferência é a própria exigência de eliminar cada distrator por um motivo distinto.
 
 ### EX — exercício / prática de recuperação
 | Código | Formato |
@@ -284,6 +295,25 @@ Marcados com **✓conf** os itens que trazem conferência embutida — os único
 | POR.a | Seleção justificada de 3 evidências + o que mudou entre elas |
 | POR.b | Revisão de uma atividade anterior **com a rubrica na mão** |
 
+### OBJ — questão objetiva justificada *(2 por capítulo, fora do sorteio)*
+| Código | Formato |
+|---|---|
+| OBJ.a | **Situações paralelas:** cada alternativa é um caso concreto; só um satisfaz o conceito. As demais falham em **condições diferentes** do conceito **✓conf** |
+| OBJ.b | **Caso + leituras:** um caso descrito no enunciado e alternativas que o interpretam. Pelo menos um distrator é desmentido pelo próprio caso, e os outros só caem pelo conceito **✓conf** |
+| OBJ.c | **Afirmações sobre o mesmo fenômeno:** uma correta; as erradas são os erros que o conteúdo tipicamente produz — inversão de causa, generalização indevida, confusão entre dois termos vizinhos **✓conf** |
+| OBJ.d | **Certa com justificativa errada:** duas alternativas chegam à mesma conclusão correta, e só uma a sustenta pela razão certa. O caso mais difícil — espelha `ERR.c` e é reservado a EF2 e EM **✓conf** |
+
+**Como se escolhe entre os quatro.** `OBJ.a` cabe quando o conceito tem **condições** que o aluno aplica pela metade — exótica × invasora, fenômeno × catástrofe, dado × informação. `OBJ.b` cabe quando o capítulo permite construir um caso novo, e é o item que mais afasta a checagem 1, porque o caso não está impresso. `OBJ.c` é o mais direto e o que exige distratores mais bem pesquisados, porque sem erro típico documentado ele degenera em alternativa absurda. `OBJ.d` é o mais exigente e não entra em EF1.
+
+**Quatro regras de escrita dos distratores, que valem para os quatro itens:**
+
+| Regra | Por quê |
+|---|---|
+| Erro **plausível e típico**, nunca absurdo | distrator que ninguém marcaria não mede nada e reduz a questão a três alternativas |
+| Alternativas de **comprimento parecido** | a mais longa e mais qualificada denuncia a resposta sem que o aluno pense no conceito |
+| Cada errada cai por um **motivo diferente** | é o que a rubrica R14 mede e o que o `Confira você mesmo:` audita |
+| Sem *"todas as anteriores"*, *"nenhuma das anteriores"*, *"apenas I e II"* | testam leitura de enunciado, não o conceito, e não rendem eliminação argumentada |
+
 ---
 
 ## 6. Banco de verbos do comando
@@ -314,6 +344,9 @@ Marcados com **✓conf** os itens que trazem conferência embutida — os único
 | calcule | executar a operação e apresentar o resultado com as etapas | R1 | entregar só o resultado, sem o caminho |
 | elabore | produzir o artefato inteiro, do zero | R4, R10 | preencher um modelo já pronto |
 | redija | produzir texto próprio, na extensão e para o destinatário que o comando fixa | R5, R6 | comando sem destinatário nem extensão, que rebaixa a tarefa a "escreva sobre" |
+| assinale | escolher a alternativa que satisfaz o conceito **e sustentar a escolha eliminando as demais** | R14 | parar na letra, sem a eliminação — que é onde estão 8 dos 10 pontos |
+
+**`assinale` é o verbo de `OBJ`, e o único do banco cuja entrega tem duas partes.** A síntese diz o que assinalar e **já anuncia a eliminação**: *"…e justifique por que cada uma das outras três está errada"*. Sem essa segunda metade na primeira frase, a questão vira múltipla escolha comum, o `Responda:` cobra o que o enunciado não pediu, e R14 mede algo que a folha não exige — o defeito exato que a segunda linha de §9.1 existe para pegar. `marque`, `escolha` e `indique` **não entram no banco**: os três param na seleção, e é justamente a parada na seleção que `OBJ` foi desenhado para impedir.
 
 **Três verbos produzem, e o objeto decide qual.** `construa` produz figura **com instrumento** — compasso, transferidor, régua. `elabore` produz o artefato que dispensa instrumento — esquema, tabela, linha do tempo, história em quadrinhos. `redija` produz **texto**. Trocar um pelo outro descaracteriza o tipo, e os dois erros são simétricos: escrever *"desenhe"* onde cabe `construa` é exatamente o que a linha de `construa` nomeia como erro comum, e escrever *"escreva sobre"* onde cabe `redija` apaga o destinatário e a extensão sem os quais [`03`](03-REPERTORIO.md) §1 manda **não usar** `ESC` — a mesma exigência que a checagem 3 do §8 cobra.
 
@@ -392,7 +425,42 @@ Segundo exemplo calibrado — a questão dos climogramas da 1ª série de Geogra
 
 Note: reunir os dados e montar o gráfico são ações de natureza distinta e ficam em parágrafos separados; os cinco marcadores não têm ordem obrigatória entre si — são o que se confere no climograma pronto, e é isso que os autoriza pelo caso (b); o `Responda:` ganhou localização porque o produto está na página, e abriu os dois tempos porque *apontar o fator que explica a diferença* cobrava a identificação da diferença sem nunca pedi-la.
 
-**Seis a oito questões por capítulo**, sem repetir o par tipo+item. Um mesmo tipo pode voltar uma segunda vez se o item for outro — `FON.a` (pesquisar a fonte) e `FON.c` (analisar o que a fonte não diz) são tarefas distintas.
+#### O molde de `OBJ`
+
+A objetiva usa o mesmo esqueleto, com um bloco a mais e uma restrição a mais. Ordem:
+
+1. **Enunciado-síntese** com `assinale`, dizendo o que se procura entre as alternativas **e** anunciando a eliminação. As duas metades são obrigatórias.
+2. **Execução** — só em `OBJ.b`, e é o caso descrito em um parágrafo. Em `OBJ.a`, `OBJ.c` e `OBJ.d` não há execução: as alternativas vêm logo depois da síntese.
+3. **As alternativas**, em `a) b) c) d)`. São os subitens que §7.1 já admite, não marcadores — a regra dos dois casos de marcador não se aplica a elas.
+4. **`Responda:`** com as duas entregas na mesma pergunta: qual é a alternativa e por que cada uma das outras está errada.
+5. **`Confira você mesmo:`** sempre presente — os quatro itens de `OBJ` são ✓conf. Ele **não revela a letra**: aponta a estrutura das eliminações, para o aluno auditar o próprio raciocínio.
+
+**Calibragem por faixa, que é o que o pedido de "nível de cada aluno" significa aqui:**
+
+| Faixa | Alternativas | Eliminação cobrada | Distratores |
+|---|---:|---|---|
+| EF1 · 4º–5º | 3 | **uma**, nomeada no `Responda:` | erro concreto e visível; frase de até 15 palavras; sem `OBJ.d` |
+| EF2 · 6º–9º | 4 | as três | confusão entre termos vizinhos, condição aplicada pela metade, causa invertida |
+| EM · 1ª–2ª | 4 | as três, **com o tipo de erro nomeado** | generalização indevida, conclusão certa por razão errada, condição necessária tomada por suficiente |
+
+Exemplo calibrado de `OBJ` — 7º ano de Ciências, item `OBJ.b`:
+
+> **7.** Assinale, entre as quatro alternativas, a que explica o que aconteceu com a população de uma espécie depois que uma rodovia dividiu a mata em que ela vivia, e justifique por que cada uma das outras três está errada.
+>
+> Uma rodovia foi aberta no meio de uma área de mata e a dividiu em dois fragmentos. Nenhum animal foi retirado nem caçado, e a mata dos dois lados continuou de pé. Alguns anos depois, a população da espécie que vivia ali havia diminuído nos dois fragmentos.
+>
+> a) A rodovia não pode ser a causa, porque nenhum animal foi retirado da mata quando ela foi aberta.
+> b) Os dois grupos, agora separados, encontram menos parceiros e resistem menos a doenças e a eventos locais.
+> c) Os dois grupos viraram espécies diferentes no momento em que a rodovia os separou.
+> d) O que reduziu a população foi a perda de vegetação provocada pela obra.
+>
+> **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+>
+> **Confira você mesmo:** só uma das três erradas é desmentida pelo próprio caso; as outras duas só caem com o que o capítulo explica sobre populações isoladas. Se você descartou as três apenas relendo o caso, duas justificativas ainda não estão prontas.
+
+Note: as quatro alternativas têm comprimento próximo, e a certa não é a mais longa; `d` cai pela leitura do caso, `a` e `c` só caem pelo conceito, e é essa assimetria que o `Confira você mesmo:` torna verificável sem entregar a letra.
+
+**Oito a dez questões por capítulo:** as seis a oito sorteadas, sem repetir o par tipo+item, **mais as duas `OBJ` ao final**. Um mesmo tipo pode voltar uma segunda vez se o item for outro — `FON.a` (pesquisar a fonte) e `FON.c` (analisar o que a fonte não diz) são tarefas distintas.
 
 Três proibições no enunciado:
 
@@ -409,6 +477,10 @@ Três proibições no enunciado:
 | Imperativo no `Responda:` quando a forma de pergunta funciona | a pergunta define a entrega melhor que a ordem |
 | `Responda:` que cobra dois raciocínios e pergunta um só | *o fator que explica a maior diferença* faz o aluno identificar a diferença sem nunca pedir que ele a declare. Os dois tempos, explícitos |
 | Perder especificação técnica ao compactar a execução | a síntese resume; quem carrega medidas, quantidades e condições é a execução |
+| **OBJ:** síntese que manda assinalar sem mandar justificar | vira múltipla escolha comum, e R14 passa a medir o que a folha não pede |
+| **OBJ:** `Confira você mesmo:` que entrega a letra, ou diz "confira no capítulo" | o primeiro é gabarito na folha; o segundo não confere nada |
+| **OBJ:** alternativa mais longa e mais qualificada que as outras | denuncia a resposta pela forma, sem passar pelo conceito |
+| **OBJ:** *"todas as anteriores"*, *"nenhuma das anteriores"*, *"apenas I e II"* | testam leitura de enunciado e não rendem eliminação argumentada |
 
 ### 7.2 Grade de correção
 
@@ -419,6 +491,14 @@ No fim do arquivo, separada por `---`. É o que o professor usa e o aluno não r
 |---|---|---|---|
 | 1 | ESQ | R4 | <o ajuste, quando houver> |
 ```
+
+**`OBJ` é o único tipo cuja linha carrega gabarito**, e ele vive aqui — nunca na folha. A linha traz a letra **e** o motivo de eliminação esperado de cada distrator, porque é a eliminação que decide 8 dos 10 pontos:
+
+```markdown
+| 7 | OBJ.b | R14 | letra **b**; **d** cai pelo caso (a mata continuou de pé), **a** e **c** pelo conceito de população isolada. A letra sozinha vale 2 dos 10 |
+```
+
+Justificativa que descarta dois distratores pelo mesmo argumento não fecha o critério — está em [`04`](04-RUBRICAS.md), R14.
 
 ### 7.3 Rodapé de produção
 
@@ -452,7 +532,7 @@ O que a sala tem e a casa não: **`DEB` e `ORA` voltam ao pool**, porque T7 só 
 
 ## 8. Critérios de rejeição
 
-Antes de aceitar um capítulo gerado, treze checagens. Qualquer **não** manda re-sortear ou reescrever.
+Antes de aceitar um capítulo gerado, catorze checagens. Qualquer **não** manda re-sortear ou reescrever.
 
 | # | Pergunta | Se falhar |
 |---|---|---|
@@ -469,8 +549,9 @@ Antes de aceitar um capítulo gerado, treze checagens. Qualquer **não** manda r
 | 11 | A questão depende de outra questão para ser respondida? | reescrever autossuficiente (§8.1) |
 | 12 | A questão exige recurso que não todo aluno tem? | trocar o item (§8.2) |
 | 13 | **Casa:** a questão exige ação, resposta ou presença de outra pessoa? | reescrever para execução solitária, ou trocar o item (§8.3) |
+| 14 | **OBJ:** cada distrator é erro plausível, cai por motivo próprio, e as alternativas têm comprimento parecido? | reescrever os distratores (§8.4) |
 
-Checagem em lote, por disciplina, ao final: nenhum tipo acima do teto de T2; todos os dominantes de [`03`](03-REPERTORIO.md) §3 presentes ao menos 1×.
+Checagem em lote, por disciplina, ao final: nenhum tipo acima do teto de T2; todos os dominantes de [`03`](03-REPERTORIO.md) §3 presentes ao menos 1×; **duas `OBJ` em cada capítulo, com itens distintos dentro do capítulo** (T9).
 
 ### 8.1 Independência da questão
 
@@ -513,6 +594,20 @@ Três consequências:
 - **O destinatário de `ESC`/`RET` continua obrigatório (checagem 3), mas é leitor hipotético do texto, nunca tarefa de comunicação real.** Escreve-se *para quem faltou à aula*, *para um leitor que sustenta a posição contrária*, *para quem ainda não estudou o assunto*. Ninguém precisa existir nem estar presente para a questão ser feita.
 - **A palavra "colega" não entra na folha de casa.** No enunciado de erro (`ERR`), o personagem é *um estudante*. Pessoa como objeto de análise ou personagem de problema — *"Alguém deixou a porta aberta"*, *"uma pessoa que cuida de um familiar doente"* — não é interação e segue permitida, assim como a pergunta metalinguística (*"pergunte ao verbo: quem?"*).
 
+### 8.4 Qualidade do distrator
+
+A múltipla escolha falha por um caminho que nenhum outro tipo tem: **a questão parece pronta mesmo quando não mede nada**. Quatro alternativas alinhadas dão aparência de rigor, e o defeito só aparece quando se pergunta o que cada errada exige do aluno para ser descartada. A checagem 14 é essa pergunta, feita distrator a distrator.
+
+| Defeito | Como se reconhece | O que fazer |
+|---|---|---|
+| **Distrator absurdo** | ninguém da turma marcaria; o aluno chega à resposta por exclusão sem usar o conceito | trocar por um erro que o conteúdo realmente produz — os registrados nas seções de revisão dos `_ORGANIZACAO.md` são a melhor fonte |
+| **Distrator redundante** | dois caem pelo mesmo argumento | reescrever um dos dois atacando outra condição do conceito |
+| **Pista de forma** | a certa é a mais longa, a mais qualificada, ou a única com vocabulário do capítulo | igualar comprimento e registro entre as quatro |
+| **Distrator só verbal** | erra por uma palavra trocada, sem erro de raciocínio atrás | reescrever como afirmação inteira e coerente que chega à conclusão errada |
+| **Distrator indecidível** | defensável com o que o capítulo traz; não é errado, é discutível | ou tornar o caso mais específico, ou trocar o distrator — questão objetiva não comporta ambiguidade legítima |
+
+**A pergunta que fecha a checagem:** *se um aluno marcasse esta alternativa, que erro de raciocínio ele teria cometido?* Sem resposta clara e escrevível, o distrator não serve — e é essa resposta que vira o critério da linha na grade (§7.2).
+
 ---
 
 ## 9. Prompt de produção
@@ -524,7 +619,7 @@ Você vai produzir o arquivo de atividades de <DISCIPLINA>, conjunto <SALA|CASA>
 
 LEIA ANTES, NESTA ORDEM:
   METODOLOGIA/03-REPERTORIO.md   (tipos e distribuição da disciplina)
-  METODOLOGIA/04-RUBRICAS.md     (R1–R13)
+  METODOLOGIA/04-RUBRICAS.md     (R1–R14)
   METODOLOGIA/06-PRODUCAO.md     (este arquivo — obedeça §3 a §8)
   o arquivo-ano de referência já aprovado, como calibre de registro
 
@@ -535,8 +630,14 @@ PARA CADA CAPÍTULO, NESTA ORDEM:
   4. Escreva 6 a 8 questões no molde de §7.1 — enunciado-síntese com verbo do
      banco §6 · execução em prosa compacta · Responda: em pergunta · e os blocos
      Antes de começar / Registre / Confira você mesmo SÓ quando o item os tem.
-  5. Monte a grade de correção (§7.2) e o rodapé de produção (§7.3).
-  6. Rode as 13 checagens de §8 e corrija antes de passar ao próximo.
+  4b. Escreva as 2 OBJ do capítulo, ao final, numeradas em continuidade. Não
+     sorteie: identifique duas confusões conceituais DIFERENTES do capítulo e
+     escolha o item de §5 que expõe cada uma (T9). Alternativas conforme a
+     faixa etária (§7.1), síntese com `assinale` anunciando a eliminação,
+     Responda: com as duas entregas, Confira você mesmo: sem revelar a letra.
+  5. Monte a grade de correção (§7.2) — a linha de OBJ carrega a letra e o
+     motivo de eliminação de cada distrator — e o rodapé de produção (§7.3).
+  6. Rode as 14 checagens de §8 e corrija antes de passar ao próximo.
 
 REGRAS RÍGIDAS:
   - Um capítulo por vez dentro do agente. Não trate a disciplina inteira num só
@@ -550,8 +651,11 @@ REGRAS RÍGIDAS:
     trecho de livro, ou o aluno localiza a fonte, ou o item entra na lista de fontes a
     providenciar. Nunca escreva uma fonte fictícia.
   - Não acrescente camada devocional (05 §6).
-  - CASA: sem gabarito, sem DEB, sem ORA, sem INV.d, EX só com item ✓conf,
-    e nada que exija outra pessoa (§8.3).
+  - CASA: sem gabarito NA FOLHA, sem DEB, sem ORA, sem INV.d, EX só com item
+    ✓conf, e nada que exija outra pessoa (§8.3). O gabarito das OBJ vai para a
+    grade do _ORGANIZACAO.md, nunca para o arquivo-ano.
+  - OBJ: distrator plausível, motivo de eliminação próprio para cada um,
+    alternativas de comprimento parecido, e nada de "todas as anteriores" (§8.4).
   - Ao final da disciplina, imprima a tabela de checagem em lote (§8).
 ```
 
@@ -578,6 +682,9 @@ Três parâmetros foram fixados sem consulta prévia. São os primeiros a revisa
 | **Teto de concentração (T2)** | 40% geral · 55% para EX em Mat. EF1 e Português | 33%/50% deixa mais variado, mas fragiliza a fluência procedimental |
 | **Unidade de sorteio** | capítulo | sortear por ano, distribuindo os tipos antes, dá controle melhor da cobertura e pior da adequação capítulo a capítulo |
 | **Complementares** | tipos sorteados, distintos do principal | fixar as complementares como sempre EX + ESC economiza produção e reduz muito a variedade |
+| **Quantidade de `OBJ`** | 2 por capítulo, em todos os 95 | 1 por capítulo cobre menos confusões; 3 ou mais desequilibra a folha em favor da objetiva |
+| **`OBJ` fora do sorteio** | fixa, complementar, ao final da folha do capítulo | sortear `OBJ` como os outros dezoito a faria desaparecer em capítulos onde ela é justamente o que falta, e disputaria a vaga da principal |
+| **Peso da letra em R14** | 2 de 10 | 3 ou 4 tornam o chute lucrativo numa questão de 4 alternativas; 0 torna a marcação decorativa |
 
 ---
 
@@ -587,6 +694,6 @@ Três parâmetros foram fixados sem consulta prévia. São os primeiros a revisa
 |---|---|
 | O argumento e o diagnóstico | [`01-PROPOSTA.md`](01-PROPOSTA.md) |
 | A justificativa de cada tipo | [`02-BASE-DE-EVIDENCIA.md`](02-BASE-DE-EVIDENCIA.md) |
-| Os 18 tipos e a distribuição | [`03-REPERTORIO.md`](03-REPERTORIO.md) |
+| Os 19 tipos e a distribuição | [`03-REPERTORIO.md`](03-REPERTORIO.md) |
 | Os critérios de correção | [`04-RUBRICAS.md`](04-RUBRICAS.md) |
 | Peso, quantidade e aplicação | [`05-REGRAS-DE-APLICACAO.md`](05-REGRAS-DE-APLICACAO.md) |

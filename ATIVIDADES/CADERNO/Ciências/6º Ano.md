@@ -1,7 +1,7 @@
 # Ciências — 6º Ano
 
 > **Bloco 1 · 05/08–25/08** · Células e diversidade dos seres vivos
-> 2 capítulos · 13 questões.
+> 2 capítulos · 17 questões.
 
 ---
 
@@ -64,6 +64,32 @@ Arranque duas folhas parecidas de uma mesma planta — de um vaso, de um jardim,
 
 ---
 
+**8.** Assinale, entre as quatro células descritas, a única que é procarionte, e justifique por que cada uma das outras três não é.
+
+a) Uma bactéria do iogurte, com o material genético solto numa região do citoplasma.
+b) Um protozoário que vive sozinho na água de uma poça e tem núcleo delimitado por membrana.
+c) Uma hemácia madura, que perdeu o núcleo ao amadurecer e transporta oxigênio pelo corpo.
+d) Uma célula de folha, com parede celular rígida por fora da membrana plasmática.
+
+**Responda:** qual das quatro é procarionte, e por que cada uma das outras três não é?
+
+**Confira você mesmo:** as três erradas convidam a decidir por três coisas que não decidem nada aqui — viver sozinho, não ter núcleo neste momento, e ter parede celular. Escreva, para cada uma, qual dessas três armadilhas ela arma. Se em duas você escreveu a mesma, uma das justificativas ainda não está pronta.
+
+---
+
+**9.** Assinale, entre as quatro afirmações sobre a teoria celular, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) A teoria celular diz que todo ser vivo tem células e que toda célula vem de outra.
+b) A teoria celular ficou pronta em 1665, quando Hooke observou a cortiça e nomeou as células.
+c) A teoria celular vale para os seres vivos que enxergamos, mas não para os microscópicos.
+d) A teoria celular diz que a célula é a unidade da vida, exceto nos organismos unicelulares.
+
+**Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** as três erradas encolhem a teoria de maneiras diferentes — uma encolhe o tempo que ela levou para ficar de pé, outra encolhe os seres a que se aplica, e a terceira abre uma exceção justamente onde a teoria é mais evidente. Se as suas três justificativas disserem a mesma coisa, duas ainda não estão prontas.
+
+---
+
 ## Capítulo 2 — Níveis de organização dos seres vivos
 
 **1.** Elabore um esquema dos níveis de organização, da célula ao organismo.
@@ -103,3 +129,33 @@ Um estudante escreveu: *"Se uma célula do coração morre, o coração para de 
 As fontes podem ser um livro, uma revista, o acervo da biblioteca da escola ou a internet. Registre o autor e a data de cada uma.
 
 **Responda:** por que as duas fontes não trazem exatamente os mesmos números?
+
+---
+
+**7.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+
+Num laboratório, células musculares humanas são mantidas vivas dentro de um recipiente com nutrientes. Ali dentro elas se contraem, consomem nutrientes e originam novas células.
+
+a) O conteúdo do recipiente é um organismo, porque as células realizam as funções vitais.
+b) O conteúdo do recipiente não é um organismo: falta a organização em tecidos e sistemas.
+c) As células ali dentro deixaram de ser células vivas, porque estão fora de um corpo.
+d) O conteúdo é um organismo unicelular, porque cada célula vive por conta própria ali.
+
+**Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** as três erradas mexem em coisas diferentes — uma toma as funções vitais como suficientes, outra tira das células uma condição que elas mantêm, e a terceira troca o tipo de organismo. Se você descartou duas dizendo *"falta organização"*, uma dessas duas caiu pelo motivo errado.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+O estômago movimenta o alimento, produz substâncias digestivas e protege a própria parede.
+
+a) O estômago é um órgão, porque reúne tecidos diferentes que cooperam numa mesma função.
+b) O estômago é um órgão, porque é grande o bastante para ser visto sem microscópio.
+c) O estômago é um tecido, porque é formado por células que trabalham todas juntas.
+d) O estômago é um órgão, porque faz parte do sistema digestório junto com outros órgãos.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro chegam à mesma conclusão, e só uma chega por um motivo que se sustenta. Portanto duas das suas justificativas **não** podem ser *"não é órgão"* — a conclusão delas está certa, e o que falha é a razão. Se você descartou alguma pela conclusão, releia essa.

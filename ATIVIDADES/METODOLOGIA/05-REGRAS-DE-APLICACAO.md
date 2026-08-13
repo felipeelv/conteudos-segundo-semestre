@@ -26,7 +26,7 @@ Nenhuma atividade isolada deve valer a nota do bimestre.
 
 O aluno recebe a rubrica **junto com o comando**. Rubrica revelada só na correção não muda desempenho — ela apenas justifica a nota depois do fato.
 
-As treze rubricas estão em [`04-RUBRICAS.md`](04-RUBRICAS.md).
+As catorze rubricas estão em [`04-RUBRICAS.md`](04-RUBRICAS.md).
 
 ## 4. Reescrita onde houver R6
 
@@ -93,5 +93,5 @@ Este arquivo é o que mais deve mudar. Sugestão de uso: ao final de cada bimest
 |---|---|
 | O argumento e o diagnóstico | [`01-PROPOSTA.md`](01-PROPOSTA.md) |
 | A justificativa de cada tipo | [`02-BASE-DE-EVIDENCIA.md`](02-BASE-DE-EVIDENCIA.md) |
-| Os 18 tipos e a distribuição | [`03-REPERTORIO.md`](03-REPERTORIO.md) |
+| Os 19 tipos e a distribuição | [`03-REPERTORIO.md`](03-REPERTORIO.md) |
 | Os critérios de correção | [`04-RUBRICAS.md`](04-RUBRICAS.md) |

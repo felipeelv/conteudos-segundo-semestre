@@ -1,7 +1,7 @@
 # Biologia — 1ª Série
 
 > **Bloco 1 · 05/08–25/08** · Citologia e metabolismo
-> 2 capítulos · 16 questões.
+> 2 capítulos · 20 questões.
 
 ---
 
@@ -74,6 +74,32 @@ Um estudante registrou em seu relatório: *"Deixei a batata submersa em água co
 
 ---
 
+**9.** Assinale, entre as quatro afirmações sobre o transporte pela membrana, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+
+a) Todo transporte que depende de uma proteína da membrana consome ATP para acontecer.
+b) O transporte ativo desloca a substância contra o gradiente de concentração e consome ATP.
+c) Na osmose, a água se desloca do meio mais concentrado em solutos para o menos concentrado.
+d) A difusão facilitada consome menos ATP que o transporte ativo, porque a proteína reduz o gasto.
+
+**Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
+
+**Confira você mesmo:** as três erradas caem por caminhos diferentes — uma é derrubada por um único contraexemplo do próprio capítulo, outra inverte um sentido, e a terceira erra na grandeza, não no mecanismo. Se você escreveu a mesma justificativa duas vezes, uma delas está no caminho errado.
+
+---
+
+**10.** Assinale, entre as quatro descrições de célula, a única que corresponde a uma célula procarionte, e justifique por que cada uma das outras três não corresponde, nomeando o critério que ela aplica indevidamente.
+
+a) Célula de 2 µm com o DNA solto numa região do citoplasma, sem organelas delimitadas por membrana.
+b) Célula de 3 µm com o material genético guardado dentro de um envoltório de membrana próprio.
+c) Célula de 20 µm cujas mitocôndrias têm DNA circular próprio, herdado de bactérias ancestrais.
+d) Célula de 30 µm sem cloroplastos e sem parede celular, com núcleo e diversas organelas.
+
+**Responda:** qual das quatro é procarionte, e que critério cada uma das outras três aplica indevidamente?
+
+**Confira você mesmo:** as três erradas convidam a decidir por três critérios que não decidem nada aqui — o tamanho, a origem de uma organela e a ausência de certas estruturas. Se a sua justificativa para alguma delas começa por *"é pequena"* ou *"não tem"*, ela ainda não chegou ao critério que separa os dois tipos de célula.
+
+---
+
 ## Capítulo 2 — Citoplasma e organelas
 
 **1.** Elabore um esquema do trajeto de uma proteína destinada à exportação, do ribossomo até a saída da célula.
@@ -134,3 +160,33 @@ Procure em fonte impressa, digital ou do acervo da escola.
 ---
 
 **8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a compartimentação em organelas foi uma vantagem decisiva para as células eucariontes? Enuncie a posição na primeira linha, sustente-a com dois exemplos de organela e responda à objeção de que as procariontes realizam as mesmas funções vitais sem compartimentos.
+
+---
+
+**9.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela atribui à estrutura errada.
+
+Numa célula, o complexo golgiense para de funcionar. O retículo endoplasmático rugoso e os ribossomos permanecem íntegros.
+
+a) A célula deixa de produzir proteínas, porque é o golgiense que as monta a partir dos aminoácidos.
+b) A célula segue produzindo proteínas, mas elas deixam de ser modificadas, empacotadas e endereçadas.
+c) A célula continua funcionando por inteiro, porque o retículo já entrega a proteína pronta ao destino.
+d) A célula segue formando lisossomos normalmente, porque quem os produz é o retículo endoplasmático liso.
+
+**Responda:** qual é a leitura correta, e o que cada uma das outras três atribui à estrutura errada?
+
+**Confira você mesmo:** cada uma das três erradas empresta uma função de uma estrutura para outra, e são três empréstimos diferentes. Escreva, para cada uma, de quem é a função e a quem ela foi dada — se em alguma você não conseguir preencher os dois lados, essa justificativa ainda não está pronta.
+
+---
+
+**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Uma célula do fígado precisa neutralizar o peróxido de hidrogênio produzido pelas suas próprias reações.
+
+a) O peroxissomo faz esse trabalho, porque tem enzimas oxidativas e a catalase elimina o peróxido.
+b) O peroxissomo faz esse trabalho, porque é ele que digere as organelas gastas e as devolve à célula.
+c) O lisossomo faz esse trabalho, porque suas enzimas quebram qualquer substância tóxica da célula.
+d) O peroxissomo faz esse trabalho, porque nele o peróxido fica isolado até ser expulso da célula.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro apontam a mesma organela, e só uma delas chega lá pelo motivo certo. Portanto duas das suas justificativas **não** podem ser *"a organela está errada"* — a organela delas está certa, e o que falha é a razão. Se você descartou alguma pela organela, releia essa.

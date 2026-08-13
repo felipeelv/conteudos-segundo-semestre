@@ -5,12 +5,12 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 1ª Série | Citologia e metabolismo | 2 | 16 |
-| 2ª Série | Defesa, movimento e reprodução | 1 | 8 |
-| 9º Ano | Evolução | 2 | 16 |
-| **Total** | | **5** | **40** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 1ª Série | Citologia e metabolismo | 2 | 20 | 4 |
+| 2ª Série | Defesa, movimento e reprodução | 1 | 10 | 2 |
+| 9º Ano | Evolução | 2 | 20 | 4 |
+| **Total** | | **5** | **50** | **10** |
 
 ## 2. Grade de correção
 
@@ -26,6 +26,8 @@
 | 1 | 6 | FON.c | R7 | a informação que o texto não fornece |
 | 1 | 7 | ERR.a | R11 | nomear a osmose e o sentido do fluxo de água |
 | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** cai por contraexemplo — a difusão facilitada usa proteína e não gasta ATP; **c** inverte o sentido da osmose; **d** erra na grandeza, não no mecanismo — a difusão facilitada não gasta *menos* ATP, gasta *nenhum*. A letra sozinha vale 2 dos 10 |
+| 1 | 10 | OBJ.a | R14 | letra **a**. Eliminações: **b** aplica o tamanho como critério (3 µm, mas com núcleo delimitado); **c** confunde a origem endossimbiótica de uma organela com a natureza da célula; **d** toma a ausência de cloroplasto e parede por "simplicidade". O critério que decide é o núcleo delimitado por membrana |
 | 2 | 1 | ESQ.a | R4 | a via secretora completa, com rótulo em cada seta |
 | 2 | 2 | TAB.a | R10 | o critério de previsão por tipo celular |
 | 2 | 3 | ESC.b | R5 | a consequência da ausência é o que discrimina; os três termos obrigatórios no conjunto dos verbetes |
@@ -34,6 +36,8 @@
 | 2 | 6 | ERR.a | R11 | a célula vegetal também respira |
 | 2 | 7 | FON.c | R7 | a limitação do estudo que o texto não discute |
 | 2 | 8 | ESC.c | R5 | a objeção procarionte respondida |
+| 2 | 9 | OBJ.b | R14 | letra **b**. Eliminações: **a** dá ao golgiense a função do ribossomo; **c** dá ao retículo a modificação e o endereçamento; **d** dá ao retículo liso a formação dos lisossomos, que é do golgiense |
+| 2 | 10 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a organela e erram a razão — **b** empresta ao peroxissomo a digestão de organelas gastas, que é do lisossomo, e **d** troca a eliminação enzimática pelo isolamento e expulsão; **c** erra a organela. Justificativa que descarta **b** ou **d** "pela organela" não fecha o critério |
 
 ### 2ª Série
 
@@ -47,6 +51,8 @@
 | 1 | 6 | FON.c | R7 | a consequência epidemiológica que o texto não discute |
 | 1 | 7 | ERR.a | R11 | o soro não deixa memória |
 | 1 | 8 | ESC.c | R5 | a objeção da decisão individual respondida |
+| 1 | 9 | OBJ.b | R14 | letra **b**. Eliminações: **a** faz o músculo empurrar, e ele só traciona; **c** dispensa o par antagonista, supondo alongamento ativo; **d** dá ao tendão o encurtamento, que é do músculo. Cobre o par antagonista, que a seção 4 registrava sem questão própria |
+| 1 | 10 | OBJ.c | R14 | letra **b**. Eliminações: **a** troca quem destrói — o anticorpo identifica e entrega, quem engloba é o fagócito; **c** troca a especificidade pela inespecificidade da barreira; **d** troca o linfócito B pelo T na produção de anticorpo |
 
 > A grade anterior registrava para este capítulo apenas três linhas (ESC.d · ESQ.b · FON.a), que não correspondiam aos enunciados da folha. A grade acima foi remontada a partir dos oito enunciados efetivamente publicados. Nenhum tipo foi re-sorteado.
 
@@ -62,6 +68,8 @@
 | 1 | 6 | FON.c | R7 | a limitação que o texto não menciona |
 | 1 | 7 | ERR.a | R11 | explicar **por que** é erro, não só corrigir |
 | 1 | 8 | ESC.c | R5 | a resposta à objeção pesa mais que a posição |
+| 1 | 9 | OBJ.a | R14 | letra **a**. Eliminações: **b** é estrutura completa e em pleno uso, sem redução; **c** é mudança ocorrida no indivíduo durante a vida, não herança de ancestral; **d** falha na origem — é analogia, não redução. A letra sozinha vale 2 dos 10 |
+| 1 | 10 | OBJ.b | R14 | letra **b**. Eliminações: **a** confunde forma transicional com ancestral direto; **c** projeta nos peixes atuais uma mudança do passado; **d** exige do fóssil uma prova que nenhum fóssil daria |
 | 2 | 1 | TAB.a | R10 | o critério sustentado pela genética atual |
 | 2 | 2 | ESQ.a | R4 | os dois mecanismos distintos, com rótulo em cada seta |
 | 2 | 3 | ESC.b | R5 | autoria correta em cada conceito; os três termos obrigatórios no conjunto dos verbetes |
@@ -70,6 +78,8 @@
 | 2 | 6 | ERR.c | R11 | o valor histórico do lamarckismo |
 | 2 | 7 | FON.c | R7 | o risco lamarckista da formulação |
 | 2 | 8 | ESC.c | R5 | a objeção do argumento do desígnio respondida |
+| 2 | 9 | OBJ.c | R14 | letra **b**. Eliminações: **a** erra no momento em que a diferença aparece (criar × selecionar); **c** erra em quem muda (indivíduo × população entre gerações); **d** erra no critério (força × sucesso reprodutivo naquele ambiente) |
+| 2 | 10 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam a conclusão e erram a razão — **b** inventa uma recuperação nas gerações seguintes, **d** introduz a utilidade como critério de herança; **c** erra a conclusão, por lamarckismo. Justificativa que descarte **b** ou **d** "pela conclusão" não fecha o critério |
 
 ## 3. Rodapé de produção
 
@@ -98,6 +108,25 @@ Seeds preservados do rodapé da produção anterior. Nenhum capítulo do Bloco 1
 | Resposta impressa no capítulo (§8 #1) | 38 de 40 conformes. Duas questões foram reescritas na validação: 1ª Série cap. 1 Q2 reproduzia a tabela de §3.2 do capítulo com os mesmos critérios (proibição de M2) e 2ª Série Q2 pedia como "critério novo" a decisão soro × vacina em acidente peçonhento, que o capítulo já traz em §5.1 |
 | Insumo existente sem preparo extra (§8 #4) | 39 de 40 conformes. 9º Ano cap. 1 Q1 pedia a característica compartilhada em cada ramificação entre peixes, anfíbios, répteis e mamíferos — conteúdo que não está neste capítulo nem neste bloco. Reescrita para ramificar por evidência do próprio capítulo |
 | **T1 · T5 · T6 (travas de repetição)** | **violadas.** Os cinco capítulos repetem a mesma sequência de itens: ESQ.a · TAB · ESC.b · CASO.a · FON.a · ERR.a · FON.c · ESC.c. Em 1ª Série, cap. 1 e cap. 2 têm a mesma principal (ESQ.a), o que fere T1; ESC.b, CASO.a, FON.a e ESC.c reaparecem em capítulos consecutivos, o que fere T6; R5 e R7 se repetem em cadeia, o que fere T5. É a repetição que §1 de `06-PRODUCAO.md` existe para evitar. Corrigir exige re-sorteio de item por capítulo — fora do escopo desta validação, que não re-sorteia |
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final do bloco de cada capítulo, numeradas em continuidade. **Nada foi re-sorteado**: as 40 questões anteriores estão intactas em tipo, item, rubrica, critério e redação. Contagem: 3 arquivos-ano · 5 capítulos · **40 → 50 questões**, sendo 10 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 5 de 5 |
+| T9 · itens distintos dentro do capítulo | 5 de 5 — 1ª Série cap. 1 `c`+`a`, cap. 2 `b`+`d` · 2ª Série `b`+`c` · 9º cap. 1 `a`+`b`, cap. 2 `c`+`d` |
+| T6 · item não repete em capítulos consecutivos | cumprida nos dois anos com dois capítulos, por alternância deliberada dos pares de item. É a **única trava de repetição que esta disciplina cumpre** — T1, T5 e T6 seguem violadas nas questões sorteadas, como a linha correspondente da seção 4 registra |
+| Confusão conceitual distinta entre as duas do capítulo | 5 de 5 |
+| Faixa etária (§7.1) | 4 alternativas nos três anos; 9º Ano cobra as três eliminações, 1ª e 2ª Série cobram as três **com o tipo de erro nomeado**, como o EM exige |
+| Checagem 14 · distratores (§8.4) | 30 distratores conferidos um a um. Nenhum absurdo, nenhum indecidível, nenhum par redundante dentro da mesma questão, nenhuma alternativa correta mais longa que as três erradas, nenhum *"todas as anteriores"* |
+| Gabarito fora da folha | sim — as 10 letras e os 30 motivos de eliminação estão só na seção 2 deste arquivo |
+| §8.1 independência · §8.2 recurso · §8.3 execução individual | 10 de 10 — as objetivas se resolvem com o capítulo e o raciocínio, sozinho, sem material nenhum |
+
+**Uma lacuna de conteúdo fechada de passagem.** A nota logo abaixo registrava que a metade locomotora do capítulo da 2ª Série tinha uma única questão em oito, e que *articulações e o par muscular antagonista continuam sem questão própria*. A `OBJ` 9 desse capítulo é o par antagonista — bíceps traciona na flexão, tríceps na extensão —, montada sobre o fato de que o músculo só puxa. **Articulações seguem sem questão**, e continuam exigindo questão sorteada, que esta rodada não sorteia.
+
+**Uma escolha desfeita durante a rodada, registrada para não virar precedente.** A `OBJ` 9 da 2ª Série tinha sido escrita sobre a perda de massa óssea de um astronauta — carga mecânica —, e foi trocada: a Q5 da mesma folha já é carga mecânica, e duas questões sobre o mesmo ponto numa folha de dez desperdiçam a única outra vaga que a metade locomotora ganhou. O critério que decidiu foi **cobertura**, não trava: nenhuma regra proíbe duas questões sobre o mesmo conteúdo (§8.1 só proíbe dependência entre elas).
 
 **Cobertura interna do capítulo da 2ª Série.** O capítulo tem 6 aulas e duas metades: sistema imunológico (seções 1 a 5) e sistema locomotor (seção 6). As oito questões herdadas cobriam apenas a primeira metade. Na validação, a Q5 foi retematizada para a seção 6 — carga mecânica sobre o osso — preservando tipo `FON.a` e rubrica R7. A metade locomotora passa de zero a uma questão em oito; articulações e o par muscular antagonista continuam sem questão própria e só entram com uma questão nova, que esta validação não sorteia.
 

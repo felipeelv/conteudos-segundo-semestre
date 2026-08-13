@@ -1,4 +1,4 @@
-# 03 · Repertório dos 18 tipos e distribuição
+# 03 · Repertório dos 19 tipos e distribuição
 
 > Metodologia · Proposta de Atividades 2º Semestre · [índice](00-LEIA-ME.md)
 
@@ -6,7 +6,7 @@ Os **códigos** deste arquivo são usados em todos os arquivos de disciplina, no
 
 ---
 
-## 1. Os 18 tipos
+## 1. Os 19 tipos
 
 | Código | Tipo | Usar quando | **Não** usar quando |
 |---|---|---|---|
@@ -28,6 +28,11 @@ Os **códigos** deste arquivo são usados em todos os arquivos de disciplina, no
 | **CONS** | Construção geométrica, malha, planificação, manipulação | A propriedade se mostra construindo | — |
 | **ORA** | Oralidade: podcast, vídeo curto, seminário, explicação gravada | O objetivo inclui comunicar a terceiro | Só um aluno fala por aula |
 | **POR** | Portfólio e autoavaliação | Ao fim do bimestre | Como única nota |
+| **OBJ** | Questão objetiva justificada — alternativas, das quais uma satisfaz o conceito, e **eliminação argumentada das demais** | Existe distinção conceitual que o aluno confunde com outra plausível, e os erros típicos dessa confusão dão distratores honestos | O conceito não tem confusão típica documentada, e os distratores sairiam absurdos ou meramente verbais |
+
+**`OBJ` não é sorteado.** Os dezoito primeiros disputam a atividade principal e as duas complementares de cada capítulo. `OBJ` está fora desse sorteio: **entram duas por capítulo, sempre como complementares, sempre ao final da folha daquele capítulo**. Isso é o que impede a objetiva de tomar o lugar de uma tarefa de produção e o que preserva a trava T2, que mede concentração entre as principais ([`06`](06-PRODUCAO.md) §4.3).
+
+**O que `OBJ` mede não é a letra.** Assinalar sozinho vale 2 dos 10 pontos de R14 ([`04`](04-RUBRICAS.md)); os outros 8 estão na justificativa de por que cada distrator está errado. É essa exigência que resolve os três problemas que a múltipla escolha traz para este material: torna a questão autoverificável sem gabarito na folha, impede que o chute produza nota, e afasta a regra do fim desta seção — a alternativa correta pode ecoar o capítulo, mas **a razão pela qual as outras falham não está impressa em lugar nenhum**.
 
 ---
 
@@ -63,6 +68,8 @@ Tipos dominantes escolhidos conforme o diagnóstico em [`01-PROPOSTA.md`](01-PRO
 | Química | 9º, 1ª, 2ª | 6 | INV · ESQ · ERR · MOD | INV · MOD · ERR · ESQ |
 | Sociologia | 1ª, 2ª | 4 | FON · DEB · ESC · CASO | INV · FON · ESC · CASO |
 
+**`OBJ` não aparece nesta tabela porque não é dominante em lugar nenhum — é universal.** As duas objetivas por capítulo valem para as doze disciplinas, sem exceção e sem sorteio. A tabela acima segue governando a atividade principal e as duas complementares sorteadas; `OBJ` se soma a elas.
+
 **Onde os dois conjuntos divergem, e por quê:**
 
 - **DEB e ORA quase desaparecem no caderno de casa** — debate e seminário exigem turma. Onde o conteúdo pedia debate, a versão de casa usa **ESC** com objeção obrigatória, ou o **leitor de casa** como interlocutor.
@@ -82,6 +89,8 @@ O ponto mais questionado da proposta merece resposta explícita. **EX** aparece 
 | **EX não aparece** | Filosofia · Sociologia · História · Geografia · Estudos Sociais (do 6º ano em diante) | Não há nada nesses capítulos cuja compreensão apareça em resposta curta. São conceitos, causalidades e fontes — verificáveis só em uso. |
 
 No caderno de casa há uma exigência adicional: **todo bloco de EX traz a conferência embutida** — substituir de volta, fazer ao contrário, somar as partes, aplicar o teste que o próprio capítulo ensina. Sem gabarito, exercício sem conferência interna não podia entrar.
+
+**`OBJ` não é `EX` em outra roupa, e a diferença é a razão de as duas conviverem.** `EX` cobra fluência: executar o procedimento e chegar ao resultado. `OBJ` cobra discriminação conceitual: reconhecer, entre erros plausíveis, qual deles é erro e por quê. É por isso que `OBJ` entra também nas cinco disciplinas em que `EX` não aparece — Filosofia, Sociologia, História, Geografia e Estudos Sociais do 6º em diante. Ali não há resposta curta que revele compreensão, mas há confusão conceitual típica, e é exatamente essa que a eliminação argumentada expõe.
 
 ---
 

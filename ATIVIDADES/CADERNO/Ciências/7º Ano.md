@@ -1,7 +1,7 @@
 # Ciências — 7º Ano
 
 > **Bloco 1 · 05/08–25/08** · Impactos ambientais e saúde coletiva
-> 2 capítulos · 13 questões.
+> 2 capítulos · 17 questões.
 
 ---
 
@@ -58,6 +58,34 @@ Um estudante escreveu: *"Incêndios sempre existiram na natureza, então queimad
 Procure a reportagem em jornal ou revista impressos, no acervo da biblioteca da escola ou na internet.
 
 **Responda:** qual é o veículo, o autor e a data da reportagem? Como a espécie chegou, e que dano ela causa ao ecossistema local? E que medida de controle o texto não menciona?
+
+---
+
+**7.** Assinale, entre as quatro alternativas, a que explica o que aconteceu com a população de uma espécie depois que uma rodovia dividiu a mata em que ela vivia, e justifique por que cada uma das outras três está errada.
+
+Uma rodovia foi aberta no meio de uma área de mata e a dividiu em dois fragmentos. Nenhum animal foi retirado nem caçado, e a mata dos dois lados continuou de pé. Alguns anos depois, a população da espécie que vivia ali havia diminuído nos dois fragmentos.
+
+a) A rodovia não pode ser a causa, porque nenhum animal foi retirado da mata quando ela foi aberta.
+b) Os dois grupos, agora separados, encontram menos parceiros e resistem menos a doenças e a eventos locais.
+c) Os dois grupos viraram espécies diferentes no momento em que a rodovia os separou.
+d) O que reduziu a população foi a perda de vegetação provocada pela obra.
+
+**Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** só uma das três erradas é desmentida pelo próprio caso; as outras duas só caem com o que o capítulo explica sobre populações isoladas. Se você descartou as três apenas relendo o caso, duas justificativas ainda não estão prontas.
+
+---
+
+**8.** Assinale, entre as quatro situações, a única em que a espécie descrita é invasora, e justifique por que cada uma das outras três não é.
+
+a) Uma árvore trazida da Ásia é plantada nas ruas de uma cidade e fica restrita aos canteiros onde foi plantada.
+b) Um peixe trazido de outro continente escapa de um criadouro, se multiplica no rio e ocupa o alimento dos peixes nativos.
+c) Uma ave do próprio Cerrado aumenta muito de número depois de uma queimada e passa a dominar a região.
+d) Um javali vindo da Europa é mantido em uma criação cercada, de onde ele não sai.
+
+**Responda:** qual é a situação de espécie invasora, e por que cada uma das outras três não é?
+
+**Confira você mesmo:** o capítulo dá duas condições para uma espécie ser invasora, e as três situações erradas falham por motivos diferentes — uma falha na primeira condição, duas na segunda. Se as suas três justificativas repetiram a mesma frase, uma delas está apoiada no motivo errado.
 
 ---
 
@@ -122,3 +150,31 @@ O mapa precisa trazer:
 - título e legenda;
 - setas separadas para os três caminhos possíveis — reduzir, reutilizar e reciclar;
 - a marcação do ponto em que cada um dos três interrompe o fluxo que levaria a garrafa ao lixo.
+
+---
+
+**8.** Assinale, entre as quatro afirmações sobre o que torna uma atividade sustentável, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) Uma atividade é sustentável quando não retira nada do ambiente e nada é produzido ali.
+b) Uma atividade é sustentável quando a retirada não supera o que o ambiente consegue repor.
+c) Uma atividade é sustentável quando gera renda suficiente para pagar o dano que ela causa.
+d) Uma atividade é sustentável quando usa fonte renovável, e por isso não tem impacto nenhum.
+
+**Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** as três erradas trocam a sustentabilidade por outra coisa, e são três trocas diferentes — uma a troca por não usar nada, outra por um só dos três pilares, e a terceira por um tipo de fonte de energia. Escreva, para cada uma, por que ela trocou. Se em duas você escreveu o mesmo, uma ainda não está pronta.
+
+---
+
+**9.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Duas áreas protegidas ficam separadas por uma região de fazendas. Uma faixa de mata que acompanha um rio liga uma à outra.
+
+a) A faixa é um corredor ecológico, porque permite o movimento dos animais entre as duas áreas.
+b) A faixa é um corredor ecológico, porque substitui as duas áreas protegidas em tamanho e função.
+c) A faixa não é um corredor ecológico, porque corredor precisa ser uma área protegida por lei.
+d) A faixa é um corredor ecológico, porque toda mata à beira de rio recebe esse nome.
+
+**Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro chegam à mesma conclusão, e só uma chega por um motivo que se sustenta. Portanto duas das suas justificativas **não** podem ser *"não é corredor"* — a conclusão delas está certa, e o que falha é a razão. Se você descartou alguma pela conclusão, releia essa.

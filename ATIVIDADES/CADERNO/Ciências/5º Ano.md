@@ -1,7 +1,7 @@
 # Ciências — 5º Ano
 
 > **Bloco 1 · 05/08–25/08** · Alimentação, Saúde e Energia
-> 2 capítulos · 12 questões.
+> 2 capítulos · 16 questões.
 
 ---
 
@@ -53,6 +53,30 @@ Escreva o nome de um alimento em cada parte do prato e diga qual nutriente ele t
 
 ---
 
+**7.** Assinale, entre as três frases sobre as vitaminas, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) A vitamina é pouco importante, porque o corpo precisa dela em pouca quantidade.
+b) A vitamina é necessária em pouca quantidade, e a falta dela pode causar doença.
+c) A vitamina dá muita energia, por isso é a parte mais importante de um almoço.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas erram em coisas diferentes — uma erra ao dizer **quanto** a vitamina vale, e a outra erra ao dizer **o que** ela faz no corpo. Veja em qual das duas coisas a frase que você escolheu errou.
+
+---
+
+**8.** Assinale, entre as três frases sobre o feijão, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) O feijão só serve para o corpo crescer, porque ele é o alimento das proteínas.
+b) O feijão traz material para crescer, energia e também ferro para o sangue.
+c) O feijão não precisa de mais nada no prato, porque tem todos os nutrientes.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas puxam para lados opostos — uma diminui demais o que o feijão traz, e a outra aumenta demais. Veja para que lado a frase que você escolheu puxou.
+
+---
+
 ## Capítulo 2 — Cuidar do corpo e da mente: comida, movimento e descanso
 
 **1.** Registre, durante cinco dias, quanto você dormiu e quanto se movimentou, e compare o registro com a sua previsão.
@@ -98,3 +122,29 @@ Um estudante escreveu: *"Quem é magro é saudável e quem é gordo não é."*
 Uma criança da sua idade dorme cinco horas, pula o café da manhã e passa o dia sentada.
 
 **Responda:** qual das três coisas ela deveria mudar primeiro? Qual é o motivo da sua decisão? E o que continuaria errado mesmo depois dessa mudança?
+
+---
+
+**7.** Assinale, entre as três leituras do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Numa terça-feira, uma criança brincou 20 minutos no recreio, caminhou 15 minutos até em casa e dançou 25 minutos à tarde. Nesse dia ela não teve nenhuma aula de esporte.
+
+a) Ela não se movimentou o bastante, porque não teve aula de esporte nem treino.
+b) Ela alcançou os 60 minutos do dia, somando os três momentos de movimento.
+c) Ela passou muito dos 60 minutos, porque cada um dos três já vale uma hora.
+
+**Responda:** qual leitura está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** uma das leituras erradas erra na conta e a outra erra na ideia do que conta como movimento. Some 20, 15 e 25 e veja qual das duas é a que erra na conta — a que sobrar erra na ideia.
+
+---
+
+**8.** Assinale, entre as três frases sobre a fome e a saciedade, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) A saciedade é uma ordem exata: quando ela chega, ninguém consegue comer mais.
+b) A saciedade avisa que já foi suficiente, e comer devagar ajuda a percebê-la.
+c) A saciedade não existe de verdade, porque quem decide quanto comer é a vontade.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas vão para lados opostos — uma transforma o sinal do corpo numa ordem que ninguém desobedece, e a outra diz que esse sinal não existe. Veja para que lado a frase que você escolheu foi.

@@ -1,7 +1,7 @@
 # Biologia — 9º Ano
 
 > **Bloco 1 · 05/08–25/08** · Evolução
-> 2 capítulos · 16 questões.
+> 2 capítulos · 20 questões.
 
 ---
 
@@ -74,6 +74,34 @@ Um estudante escreveu em seu caderno: *"A asa do morcego e a asa do inseto mostr
 
 ---
 
+**9.** Assinale, entre as quatro estruturas a seguir, a única que é vestigial, e justifique por que cada uma das outras três não é.
+
+a) O cóccix humano, remanescente de uma cauda ancestral, hoje ligado a músculos e ligamentos.
+b) A asa do morcego, com úmero, rádio, ulna e dedos alongados, que sustenta o voo do animal.
+c) O braço de uma pessoa que ficou meses sem treinar e perdeu boa parte da massa muscular.
+d) A asa do inseto, formada por expansões do exoesqueleto, sem nenhum osso em seu interior.
+
+**Responda:** qual das quatro é vestigial, e por que cada uma das outras três não é?
+
+**Confira você mesmo:** as três que não são vestigiais falham em pontos diferentes — uma na redução da estrutura, outra em ter sido herdada de um ancestral, e a terceira na origem da estrutura comparada. Se você descartou mais de uma escrevendo apenas *"não é reduzida"*, uma das justificativas ainda está pela metade.
+
+---
+
+**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+
+O *Tiktaalik* é um fóssil de peixe de nadadeiras lobadas, com pescoço móvel e ossos semelhantes aos dos primeiros vertebrados de quatro patas. Ele é apresentado como forma transicional entre peixes e tetrápodes.
+
+a) O fóssil prova que o *Tiktaalik* é o ancestral direto de todos os tetrápodes que existem hoje.
+b) O fóssil reúne traços dos dois grupos, sem precisar ser ancestral direto de nenhum deles.
+c) O fóssil mostra que os peixes atuais estão a caminho de virar animais de quatro patas.
+d) O fóssil não vale como evidência, porque nenhum peixe vivo hoje tem pescoço móvel.
+
+**Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** as três leituras erradas erram em coisas de naturezas distintas — uma no parentesco que um fóssil é capaz de estabelecer, outra no tempo em que a mudança aconteceu, e a terceira no que se pode exigir de um fóssil como prova. Se as suas três justificativas couberam numa mesma frase, releia: elas não deveriam caber.
+
+---
+
 ## Capítulo 2 — Teorias evolutivas: Lamarck e Darwin
 
 **1.** Elabore uma tabela que compare as explicações de Lamarck e de Darwin para o pescoço longo da girafa.
@@ -134,3 +162,31 @@ Procure em fonte impressa, digital ou do acervo da escola.
 ---
 
 **8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a seleção natural tem um objetivo? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que estruturas muito bem ajustadas à função sugerem planejamento prévio.
+
+---
+
+**9.** Assinale, entre as quatro afirmações sobre a seleção natural, a única correta, e justifique por que cada uma das outras três está errada.
+
+a) A seleção natural cria as características que o ambiente exige no momento em que ele passa a exigi-las.
+b) A seleção natural atua sobre diferenças hereditárias que já existiam na população antes da mudança do ambiente.
+c) A seleção natural age sobre o indivíduo, que se transforma ao longo da vida para caber no ambiente em que vive.
+d) A seleção natural elimina os indivíduos mais fracos, de modo que sobrevivem sempre os mais fortes da população.
+
+**Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
+
+**Confira você mesmo:** as três erradas erram em pontos diferentes do mesmo conceito — uma no momento em que a diferença aparece, outra em quem muda, e a terceira no critério que decide quem deixa mais descendentes. Se as suas três justificativas apontaram o mesmo ponto, duas ainda não estão prontas.
+
+---
+
+**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+
+Uma pessoa perdeu um dedo em um acidente e, anos depois, teve filhos.
+
+a) Os filhos nascem com todos os dedos, porque o acidente não alterou a informação hereditária dos gametas.
+b) Os filhos nascem com todos os dedos, porque o corpo recupera nas gerações seguintes o que foi perdido em uma delas.
+c) Os filhos podem nascer sem o dedo, porque o que acontece ao corpo durante a vida passa aos descendentes.
+d) Os filhos nascem com todos os dedos, porque só as características adquiridas que são úteis chegam a ser transmitidas.
+
+**Responda:** qual é a afirmação que se sustenta por inteiro, e o que há de errado em cada uma das outras três?
+
+**Confira você mesmo:** três das quatro afirmações chegam à mesma conclusão, e só uma chega por um motivo que se sustenta. Portanto duas das suas justificativas **não** podem ser *"a conclusão está errada"* — a conclusão delas está certa, e o que falha é a razão. Se você descartou alguma pela conclusão, releia essa.

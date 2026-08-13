@@ -5,14 +5,14 @@
 
 ## 1. Cobertura
 
-| Ano | Tema do bloco | Caps. | Questões |
-|---|---|---:|---:|
-| 4º Ano | Ecossistemas e tecnologia | 2 | 12 |
-| 5º Ano | Alimentação, Saúde e Energia | 2 | 12 |
-| 6º Ano | Células e diversidade dos seres vivos | 2 | 13 |
-| 7º Ano | Impactos ambientais e saúde coletiva | 2 | 13 |
-| 8º Ano | Reprodução, sistemas integrados e reações químicas | 2 | 14 |
-| **Total** | | **10** | **64** |
+| Ano | Tema do bloco | Caps. | Questões | das quais `OBJ` |
+|---|---|---:|---:|---:|
+| 4º Ano | Ecossistemas e tecnologia | 2 | 16 | 4 |
+| 5º Ano | Alimentação, Saúde e Energia | 2 | 16 | 4 |
+| 6º Ano | Células e diversidade dos seres vivos | 2 | 17 | 4 |
+| 7º Ano | Impactos ambientais e saúde coletiva | 2 | 17 | 4 |
+| 8º Ano | Reprodução, sistemas integrados e reações químicas | 2 | 18 | 4 |
+| **Total** | | **10** | **84** | **20** |
 
 ## 2. Grade de correção
 
@@ -26,12 +26,16 @@
 | 1 | 4 | ESC.b | R5 | verbete de até cinco linhas com os três termos obrigatórios; o que decide a nota é a cadeia entre minhoca, raiz e predador, não a definição de cada um |
 | 1 | 5 | ERR.b | R11 | os dois erros nomeados; o efeito da ausência de minhocas sobre solo **e** plantas |
 | 1 | 6 | INV.c | R8 | as três categorias definidas antes de observar; a comparação com o chão de cimento |
+| 1 | 7 | OBJ.a | R14 | letra **a**. Eliminações: **b** confunde movimento com vida; **c** confunde *não é vivo* com *não faz falta*. EF1: 3 alternativas, uma eliminação cobrada, e os 5 pontos de eliminação ficam nela inteiros |
+| 1 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** supõe que quem caça não pode ser caçado; **c** decide o papel pelo tamanho e pela força, não pela relação |
 | 2 | 1 | TAB.a | R10 | as colunas são do aluno — a tabela precisa revelar a incompatibilidade entre ecossistemas |
 | 2 | 2 | FON.a | R7 | autoria, ano e finalidade registrados; as duas adaptações e o que a fonte não conta |
 | 2 | 3 | VIS.a | R10 | legenda e título obrigatórios; traçado distinto, não cor |
 | 2 | 4 | ERR.a | R11 | o pressuposto errado sobre *ambiente bom* precisa ser nomeado e refutado com uma adaptação concreta |
 | 2 | 5 | ESC.b | R5 | verbete de até cinco linhas com os três termos obrigatórios; o encadeamento entre dois dos problemas |
 | 2 | 6 | CASO.c | R12 | as duas escolhas são aceitas; avalia-se o motivo e o problema que fica sem solução |
+| 2 | 7 | OBJ.b | R14 | letra **a**. Eliminações: **b** toma a distância por impedimento; **c** supõe que só existe um caminho até o rio |
+| 2 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **a** tem raízes segurando os grãos; **c** tem folhas que reduzem a força das gotas — dois mecanismos distintos, e a justificativa precisa nomear o do barranco escolhido |
 
 ### 5º Ano
 
@@ -43,12 +47,16 @@
 | 1 | 4 | ESC.b | R5 | verbete de até cinco linhas com os três termos obrigatórios; o que decide a nota é o que falta ao corpo na ausência de cada um, não a função copiada |
 | 1 | 5 | ERR.a | R11 | reduzir ≠ eliminar; gordura como reserva de energia e função estrutural |
 | 1 | 6 | VIS.b | R10 | nutriente identificado em cada parte do prato + a frase de conclusão |
+| 1 | 7 | OBJ.c | R14 | letra **b**. Eliminações: **a** confunde quantidade necessária com importância; **c** dá à vitamina a função do carboidrato |
+| 1 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **a** reduz o alimento a um nutriente só; **c** faz o oposto e supõe que um alimento basta. Os dois erros puxam para lados contrários |
 | 2 | 1 | INV.b | R8 | previsão antes; as cinco noites estimadas e registradas uma a uma |
 | 2 | 2 | FON.a | R7 | quem publicou, em que ano e para quem; o que a recomendação não diz sobre o próprio sono |
 | 2 | 3 | TAB.a | R10 | a coluna do que se percebe no dia seguinte |
 | 2 | 4 | ESQ.c | R4 | frase curta em cada seta + o efeito da falta de sono sobre os outros dois |
 | 2 | 5 | ERR.b | R11 | os dois erros; desnutrição e obesidade como problemas nutricionais |
 | 2 | 6 | CASO.a | R12 | o que continua errado depois da mudança escolhida |
+| 2 | 7 | OBJ.b | R14 | letra **b**. 20 + 15 + 25 = 60. Eliminações: **a** exige que movimento seja aula ou treino; **c** erra a conta, tomando cada trecho por uma hora |
+| 2 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** transforma o sinal do corpo em ordem absoluta; **c** nega o sinal. Erros opostos |
 
 ### 6º Ano
 
@@ -61,12 +69,16 @@
 | 1 | 5 | ERR.a | R11 | simples ≠ incompleta |
 | 1 | 6 | CASO.c | R12 | as duas decisões são aceitas; avalia-se o critério de individualidade |
 | 1 | 7 | INV.a | R8 | previsão antes; a folha no copo com água é o controle |
+| 1 | 8 | OBJ.a | R14 | letra **a**. Eliminações: **b** confunde unicelular com procarionte; **c** confunde ausência de núcleo adquirida na maturação com organização procarionte; **d** usa a parede celular como critério. O critério é o núcleo delimitado |
+| 1 | 9 | OBJ.c | R14 | letra **a**. Eliminações: **b** toma o primeiro registro (1665) pela formulação da teoria, que só se fecha em 1855; **c** restringe o alcance por tamanho; **d** abre exceção justamente no unicelular, onde a célula é o organismo |
 | 2 | 1 | ESQ.a | R4 | o rótulo diz o que se ganha ao subir de nível |
 | 2 | 2 | TAB.c | R10 | a dependência recíproca visível entre os três sistemas |
 | 2 | 3 | ESC.a | R5 | destinatário e extensão respeitados; todos os níveis presentes no exemplo |
 | 2 | 4 | ESC.b | R5 | verbete de até cinco linhas com os três termos obrigatórios; o que decide a nota é o ganho de cada nível sobre o anterior, não a definição impressa |
 | 2 | 5 | ERR.a | R11 | redundância do tecido |
 | 2 | 6 | FON.b | R7 | a divergência entre as duas fontes é o objeto |
+| 2 | 7 | OBJ.b | R14 | letra **b**. Eliminações: **a** toma as funções vitais por suficientes; **c** nega que a célula siga viva fora do corpo, o que o capítulo afirma; **d** troca célula isolada de multicelular por organismo unicelular |
+| 2 | 8 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam *órgão* e erram a razão — **b** usa o tamanho, **d** é circular (pertencer a um sistema não define órgão); **c** erra a conclusão. Descartar **b** ou **d** "porque não é órgão" não fecha o critério |
 
 ### 7º Ano
 
@@ -78,6 +90,8 @@
 | 1 | 4 | TAB.a | R10 | escala e velocidade como critérios de distinção |
 | 1 | 5 | ERR.c | R11 | a primeira parte da frase está certa — é o caso difícil |
 | 1 | 6 | FON.c | R7 | a medida de controle que o texto não menciona |
+| 1 | 7 | OBJ.b | R14 | letra **b**. Eliminações: **d** cai pelo próprio caso (a mata dos dois lados continuou de pé); **a** e **c** só caem pelo conceito de população isolada. A assimetria é o que o `Confira` audita |
+| 1 | 8 | OBJ.a | R14 | letra **b**. Eliminações: **c** falha na primeira condição (é nativa); **a** e **d** falham na segunda (não se estabeleceram nem causaram prejuízo) |
 | 2 | 1 | INV.c | R8 | categorias definidas antes; sem manuseio do resíduo |
 | 2 | 2 | MOD.a | R12 | fração calculada sobre dado próprio + a justificativa da hierarquia dos Rs |
 | 2 | 3 | TAB.a | R10 | o critério que permite aplicar a categoria a uma área |
@@ -85,6 +99,8 @@
 | 2 | 5 | ESC.b | R5 | verbete de até cinco linhas com os três termos obrigatórios; a pergunta de cada pilar **e** a resposta que reprovaria o projeto |
 | 2 | 6 | CASO.b | R12 | dois pilares não bastam — é o ponto |
 | 2 | 7 | VIS.d | R10 | título e legenda; o ponto em que cada um dos três Rs interrompe o fluxo |
+| 2 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** troca sustentabilidade por preservação total; **c** por um só dos três pilares; **d** por *fonte renovável*, ignorando que renovável não é sem impacto |
+| 2 | 9 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam *corredor* e erram a razão — **b** supõe que ele substitui as áreas, **d** faz o nome vir da localização e não da função; **c** erra a conclusão, inventando exigência legal |
 
 ### 8º Ano
 
@@ -97,6 +113,8 @@
 | 1 | 5 | ERR.c | R11 | duas situações em que a assexuada é vantajosa |
 | 1 | 6 | ESC.b | R5 | verbete de até cinco linhas com os três termos obrigatórios; o custo de cada estratégia e a condição em que ele se paga |
 | 1 | 7 | FON.a | R7 | autoria, data e finalidade; o que o texto não informa sobre o risco |
+| 1 | 8 | OBJ.c | R14 | letra **b**. Eliminações: **a** quebra a redução da meiose; **c** quebra a reunião da fecundação; **d** produz exatamente o resultado que o par existe para impedir |
+| 1 | 9 | OBJ.b | R14 | letra **b**. Eliminações: **a** generaliza *sempre pior*, que o capítulo nega; **c** troca a causa genética por proximidade física; **d** separa em dois o que é um só motivo |
 | 2 | 1 | INV.c | R8 | as quatro categorias definidas antes; nada colhido |
 | 2 | 2 | ESC.a | R5 | destinatário e extensão respeitados; coevolução não é escolha da planta |
 | 2 | 3 | TAB.c | R10 | as três linhas saem de três sementes realmente vistas, uma por agente; a tabela do capítulo não resolve a coluna do agente ausente |
@@ -104,6 +122,8 @@
 | 2 | 5 | ERR.c | R11 | finalidade aparente × vantagem seletiva |
 | 2 | 6 | ESC.b | R5 | verbete de até cinco linhas com os três termos obrigatórios; origem dos nutrientes e o ambiente que cada forma torna arriscado |
 | 2 | 7 | VIS.d | R10 | as duas vistas corretas; legenda com o local de produção de cada gameta |
+| 2 | 8 | OBJ.a | R14 | letra **a**. Eliminações: **b** é caule (tubérculo), **c** é semente, **d** é folha. Não basta *"não vem da flor"* — a questão cobra o nome da estrutura de cada uma |
+| 2 | 9 | OBJ.d | R14 | letra **a**. Eliminações: **b** e **d** acertam *externa* e erram a razão — **b** troca causa por consequência (o número de gametas), **d** usa *menos evoluída*, critério que §4.2 recusa; **c** erra a conclusão |
 
 ## 3. Rodapé de produção
 
@@ -136,6 +156,24 @@ Seeds preservados da produção anterior. **M5 não ocorre em nenhum capítulo**
 | Distribuição de verbos | recontada por comando em 12/08, depois da reformatação §7.1. Verbo de abertura de cada uma das 64: `Elabore` 20× (6 esquemas, 9 tabelas, 1 mapa, 1 mapa de fluxos, 1 HQ, 1 desenho de prato, 1 desenho de flor) · `Explique` 6× · `Redija` 5× · `Localize` 5× · `Registre` 5× · `Decida` 4× · `Preveja` 3× · `Identifique` 3× · `Escreva um verbete` 3× · `Diagnostique` 2× · `Ordene` 1× · `Pesquise` 1× = 58. As **6 restantes** — 7º cap 1 Q1 e Q2, 7º cap 2 Q1, 8º cap 1 Q1 e Q2, 8º cap 2 Q1 — abrem pela previsão ou pelo preparo (*"Antes de sair, escreva…"*, *"Ponha a germinar…"*) e carregam o verbo do banco dentro da execução: `registre`, compatível com a R8 das seis (§6 admite o verbo no corpo do comando, não só na primeira frase). Só as 3 de `Escreva um verbete` seguem fora do banco. **`Construa` não ocorre mais**: nenhuma questão de Ciências é construção geométrica, e §8.2 reserva `construa` ao artefato feito com compasso, transferidor ou régua — tabela, esquema, mapa, HQ e desenho são artefato livre e pedem `elabore`. Fica registrado o efeito colateral: 20 das 64 questões abrem com o mesmo verbo. Não é violação de regra (§6 não tem teto de verbo), mas é monotonia de folha; se a coordenação quiser variar, R10 também aceita `compare` e `classifique` (§6) nas tabelas de contraste, sem mexer em tipo nem rubrica |
 | T6 (item não repete em capítulos consecutivos) | **violada.** `TAB.a` em 7 dos 10 capítulos, `ESC.b` em 8, `ERR` em 9 — quase todos consecutivos. Herança do sorteio anterior; corrigir exige re-sortear tipo e item, fora do escopo desta validação |
 | Carga de INV por capítulo | **atenção.** 4º cap 1 tem três INV (Q1, Q2, Q6) e 5º cap 1, 7º cap 1, 8º cap 1 têm duas cada, com procedimento quase idêntico entre o par e vários dias de observação. Se o professor aplicar as duas, o aluno monta dois experimentos parecidos. Recomenda-se selecionar uma por capítulo |
+
+### Rodada `OBJ` — 13/08
+
+Acréscimo de **2 questões objetivas justificadas por capítulo** (tipo `OBJ`, rubrica `R14`), ao final do bloco de cada capítulo, numeradas em continuidade. **Nada foi re-sorteado**: as 64 questões anteriores seguem intactas em tipo, item, rubrica, critério e redação. Contagem: 5 arquivos-ano · 10 capítulos · **64 → 84 questões**, sendo 20 `OBJ`.
+
+| Verificação | Resultado |
+|---|---|
+| Duas `OBJ` por capítulo | 10 de 10 |
+| T9 · itens distintos dentro do capítulo | 10 de 10 |
+| T6 · item não repete em capítulos consecutivos | 5 de 5 anos — os pares de item alternam entre os dois capítulos de cada ano: 4º `a·c`/`b·a`, 5º `c·a`/`b·c`, 6º `a·c`/`b·d`, 7º `b·a`/`c·d`, 8º `c·b`/`a·d`. **Dois anos repetem um item entre capítulos vizinhos** — 4º (`a`) e 5º (`c`) —, porque a faixa EF1 dispõe de três itens apenas (`OBJ.d` é reservado a EF2 e EM, §5) e duas questões por capítulo em dois capítulos exigiriam quatro. Violação de T6, a trava de menor peso depois de T3 na ordem de §4.3, registrada e aceita |
+| Faixa etária (§7.1) | 4º e 5º: **3 alternativas**, frases curtas, **uma** eliminação cobrada, sem `OBJ.d` · 6º, 7º e 8º: **4 alternativas**, as três eliminações |
+| Checagem 14 · distratores (§8.4) | 62 distratores conferidos um a um (2 por questão nas 8 de EF1, 3 por questão nas 12 de EF2). Nenhum absurdo, nenhum indecidível, nenhuma alternativa correta mais longa que as erradas, nenhum *"todas as anteriores"* |
+| Gabarito fora da folha | sim — as 20 letras e os 62 motivos de eliminação estão só na seção 2 |
+| §8.1 · §8.2 · §8.3 | 20 de 20 — resolvem-se com o capítulo e o raciocínio, sozinho, sem material nenhum |
+
+**Um risco de redundância que mudou a redação de duas questões.** `OBJ.a` pede que os distratores falhem em *condições diferentes* do conceito, e há perguntas em que isso não acontece sozinho: em *qual destas é fruto?*, as três erradas cairiam todas por "não vem do ovário da flor". A saída, no 8º Cap. 2 Q8, foi mudar o que o `Responda:` cobra — **não "por que não é fruto", e sim "que estrutura é"** —, o que separa caule, semente e folha em três respostas distintas. Mesmo movimento no 4º Cap. 1 Q8, onde os dois barrancos protegidos exigem nomear qual dos dois mecanismos protege cada um. Fica como regra prática para as próximas disciplinas: **quando a eliminação convergir, mude a pergunta, não o distrator.**
+
+**O que esta rodada não resolve.** A linha `T6 (item não repete em capítulos consecutivos)` da seção 4 — `TAB.a` em 7 dos 10 capítulos, `ESC.b` em 8, `ERR` em 9 — continua violada nas questões sorteadas, e a `Carga de INV por capítulo` continua em atenção. Nenhuma das duas se resolve acrescentando questão: exigem re-sortear tipo e item.
 
 ## 5. Revisões aplicadas ao material anterior
 

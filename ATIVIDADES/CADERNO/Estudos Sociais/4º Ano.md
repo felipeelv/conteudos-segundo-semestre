@@ -1,7 +1,7 @@
 # Estudos Sociais — 4º Ano
 
 > **Bloco 1 · 05/08–25/08** · Formação do povo brasileiro e identidade nacional
-> 2 capítulos · 12 questões.
+> 2 capítulos · 16 questões.
 
 ---
 
@@ -60,6 +60,30 @@ Um estudante escreveu: *"Os africanos vieram para o Brasil procurar trabalho, ig
 
 ---
 
+**7.** Assinale, entre as três frases sobre a chegada dos portugueses, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) Os portugueses descobriram o Brasil em 1500, porque antes ninguém vivia nestas terras.
+b) Os portugueses chegaram ao Brasil em 1500, e aqui já viviam povos com aldeias e roças.
+c) Os portugueses chegaram ao Brasil em 1500 e logo começaram a ocupar o território.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas erram em coisas diferentes — uma erra sobre **quem** já estava aqui, e a outra erra sobre **quando** a ocupação começou. Procure no capítulo o ano em que os portugueses passaram a ocupar o território e veja se a frase que você escolheu bate com ele.
+
+---
+
+**8.** Assinale, entre as três frases sobre os povos indígenas, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) Os povos indígenas eram todos iguais, com a mesma língua e os mesmos costumes.
+b) Existiam muitos povos indígenas diferentes, e eles continuam existindo no Brasil hoje.
+c) Existiam muitos povos indígenas diferentes, mas todos desapareceram há muito tempo.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** o capítulo traz dois números do IBGE de 2022 que derrubam as duas frases erradas, e cada número derruba uma delas. Encontre os dois números e veja qual deles derruba a frase que você escolheu.
+
+---
+
 ## Capítulo 2 — A herança cultural dos povos formadores
 
 **1.** Preveja quantas das cinco categorias de herança você vai encontrar dentro da sua casa e depois compare o palpite com o que você encontrar.
@@ -105,3 +129,29 @@ c) herança portuguesa
 **6.** Redija, em primeira pessoa e em até dez linhas, o relato de uma criança que vive um costume herdado de um dos povos estudados — uma festa, uma comida ou uma palavra.
 
 Seu texto precisa dizer de qual herança o costume vem e precisa conter três informações que aparecem no capítulo.
+
+---
+
+**7.** Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+A pizza chegou ao Brasil com os imigrantes italianos. Hoje existem no Brasil sabores de pizza que não existem na Itália.
+
+a) A pizza brasileira deixou de ser herança italiana, porque mudou de sabor aqui.
+b) A pizza continua sendo herança italiana, e o que mudou foi o modo de fazê-la aqui.
+c) A pizza sempre foi brasileira, porque foi aqui que ela ganhou mais sabores.
+
+**Responda:** qual explicação está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas explicações erradas mexem em coisas diferentes — uma mexe no que acontece com a herança quando ela muda, e a outra mexe no lugar de onde a pizza veio. Veja em qual das duas a explicação que você escolheu mexeu.
+
+---
+
+**8.** Assinale, entre as três frases sobre as heranças do Brasil, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) A herança portuguesa vale mais que as outras, porque dela veio a língua que falamos.
+b) As heranças indígena, africana, portuguesa e dos imigrantes formaram juntas o Brasil.
+c) Só a herança indígena é brasileira de verdade, porque os indígenas chegaram primeiro.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas colocam uma herança acima das outras, mas cada uma usa um motivo diferente para isso — uma usa a língua, a outra usa a ordem de chegada. Escreva qual desses dois motivos a frase que você escolheu usou.

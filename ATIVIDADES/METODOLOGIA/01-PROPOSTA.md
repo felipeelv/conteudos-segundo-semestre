@@ -9,7 +9,7 @@ Este é o argumento do material: **o que ele é** e **por que o conteúdo atual 
 
 ## 1. O que este material é
 
-Um **caderno de atividades redesenhado**. O modelo anterior — lista de exercícios por capítulo — foi substituído por um repertório de 18 tipos de tarefa, escolhidos capítulo por capítulo conforme o que aquele conteúdo realmente permite avaliar.
+Um **caderno de atividades redesenhado**. O modelo anterior — lista de exercícios por capítulo — foi substituído por um repertório de 19 tipos de tarefa, escolhidos capítulo por capítulo conforme o que aquele conteúdo realmente permite avaliar.
 
 Cada capítulo recebe:
 

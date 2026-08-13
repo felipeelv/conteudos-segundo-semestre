@@ -1,7 +1,7 @@
 # Ciências — 4º Ano
 
 > **Bloco 1 · 05/08–25/08** · Ecossistemas e tecnologia
-> 2 capítulos · 12 questões.
+> 2 capítulos · 16 questões.
 
 ---
 
@@ -59,6 +59,30 @@ Antes de sair, escreva as três categorias em que vai separar o que encontrar: s
 
 ---
 
+**7.** Assinale, entre as três frases, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) A água do lago não é um ser vivo, mas sem ela os peixes não sobrevivem ali.
+b) A água do lago é um ser vivo, porque ela se mexe e os peixes precisam dela.
+c) A água do lago não é um ser vivo, então ela não faz falta nenhuma ao lago.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas erram em coisas diferentes — uma erra ao dizer **o que** a água é, e a outra erra ao dizer **para que** ela serve. Veja em qual das duas coisas a frase que você escolheu errou.
+
+---
+
+**8.** Assinale, entre as três frases sobre o sapo, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+a) O sapo é só predador, porque ele caça insetos para comer.
+b) O sapo é predador do inseto e presa da cobra ao mesmo tempo.
+c) O sapo é só presa, porque a cobra é maior e mais forte que ele.
+
+**Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas frases erradas param no meio do caminho: cada uma enxerga só um dos dois papéis do sapo. Escreva qual papel a frase que você escolheu deixou de fora.
+
+---
+
 ## Capítulo 2 — Os ecossistemas do Brasil e o cuidado com o ambiente
 
 **1.** Elabore uma tabela com os cinco ecossistemas brasileiros, com colunas que permitam descobrir, só de olhar para a tabela, por que um animal de um deles não conseguiria viver no outro.
@@ -102,3 +126,29 @@ O verbete precisa mostrar como um desses três problemas faz outro deles piorar.
 Uma prefeitura tem dinheiro para uma só coisa: criar um parque protegido longe da cidade ou plantar árvores nas ruas do centro.
 
 **Responda:** qual das duas ela deve fazer? Qual é o motivo da sua decisão? E qual problema a outra opção resolveria e a sua não?
+
+---
+
+**7.** Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+
+Um saco de lixo é deixado na calçada, longe de qualquer rio. Dias depois, aparece um plástico igual boiando no rio da cidade.
+
+a) O plástico chegou ao rio porque a chuva levou o lixo da rua até o bueiro.
+b) O plástico não pode ser o mesmo, porque a calçada fica longe do rio.
+c) O plástico só chegaria ao rio se alguém o jogasse dentro da água.
+
+**Responda:** qual explicação está certa? Escolha uma das outras duas e escreva por que ela está errada.
+
+**Confira você mesmo:** as duas explicações erradas fecham caminhos diferentes — uma fecha o caminho por causa da distância, e a outra por achar que só existe um jeito de o lixo chegar ao rio. Veja qual caminho a explicação que você escolheu fechou.
+
+---
+
+**8.** Assinale, entre os três barrancos, o único em que a chuva vai levar mais terra embora, e escreva por que **um** dos outros dois perde menos terra.
+
+a) Um barranco coberto de capim, com as raízes segurando o chão.
+b) Um barranco onde a vegetação foi retirada e o chão ficou descoberto.
+c) Um barranco embaixo de árvores, coberto de folhas caídas no chão.
+
+**Responda:** em qual barranco a chuva leva mais terra? Escolha um dos outros dois e escreva por que ele perde menos.
+
+**Confira você mesmo:** os dois barrancos que perdem menos terra estão protegidos de jeitos diferentes — num deles as raízes seguram os grãos de terra, no outro as folhas diminuem a força das gotas que caem. Veja se a sua explicação diz qual desses dois jeitos é o do barranco que você escolheu.

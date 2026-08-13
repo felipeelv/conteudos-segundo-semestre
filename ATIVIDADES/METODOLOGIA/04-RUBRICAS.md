@@ -1,4 +1,4 @@
-# 04 · Rubricas-modelo R1–R13
+# 04 · Rubricas-modelo R1–R14
 
 > Metodologia · Proposta de Atividades 2º Semestre · [índice](00-LEIA-ME.md)
 
@@ -10,7 +10,7 @@ Isso existe para que a rubrica não seja reescrita 286 vezes, e para que um ajus
 
 ---
 
-## Índice das treze
+## Índice das catorze
 
 | Código | Para que tipo de tarefa | Critério que pesa mais |
 |---|---|---|
@@ -27,6 +27,7 @@ Isso existe para que a rubrica não seja reescrita 286 vezes, e para que um ajus
 | [R11](#r11--análise-de-erro) | Análise de erro | Explicar **por que** é erro (4) |
 | [R12](#r12--modelagem--projeto) | Modelagem, projeto | Tradução + cálculo + interpretação (3+3+3) |
 | [R13](#r13--portfólio--autoavaliação) | Portfólio, autoavaliação | Identificação do próprio avanço (4) |
+| [R14](#r14--questão-objetiva-justificada) | Questão objetiva justificada | **Eliminação argumentada dos distratores (5)** |
 
 ---
 
@@ -134,11 +135,23 @@ Isso existe para que a rubrica não seja reescrita 286 vezes, e para que um ajus
 | Revisão de uma atividade anterior | 2 |
 | Organização | 1 |
 
+### R14 — Questão objetiva justificada
+| Critério | Peso |
+|---|---|
+| Alternativa correta assinalada | 2 |
+| **Eliminação argumentada de cada distrator** | 5 |
+| Precisão do conceito usado na justificativa | 2 |
+| Clareza | 1 |
+
+**Por que a letra vale só 2.** Numa questão de quatro alternativas, o chute acerta uma em cada quatro; com peso alto, o acaso viraria nota. A tarefa que `OBJ` existe para medir é a outra — dizer **por que** cada alternativa errada está errada —, e ela carrega metade da nota. Os 5 pontos se repartem igualmente entre os distratores: com três, 1,67 cada; com dois, 2,5 cada, na faixa EF1, onde só uma eliminação é cobrada e os 5 pontos ficam nela inteiros.
+
+**Um erro comum de correção que a rubrica previne:** justificativas que descartam dois distratores pelo mesmo argumento. Se dois deles caem pela mesma razão, ou o aluno não distinguiu os erros, ou a questão foi mal escrita — e o `Confira você mesmo:` de cada `OBJ` é escrito justamente para tornar isso visível ao aluno antes de o professor ver.
+
 ---
 
 ## Três padrões de peso, e o que cada um protege
 
-Olhando as treze juntas, os pesos não são arbitrários — eles seguem três desenhos:
+Olhando as catorze juntas, os pesos não são arbitrários — eles seguem três desenhos:
 
 **1. Um critério com peso 4 (R1 a R5, R8 a R11, R13).** Há um ponto que a tarefa existe para medir, e ele carrega 40% da nota. Nas rubricas em negrito na tabela do índice, esse ponto é justamente o que o aluno tende a pular: nomear a ligação do mapa, escrever o nexo causal, dizer o que a fonte não diz, explicar por que o erro é erro.
 
@@ -156,7 +169,7 @@ Um ajuste legítimo **redistribui** pesos dentro do total 10, sem inventar crit�
 > *"R8, com ajuste — os 4 pontos de conclusão sustentada estão inteiramente nos itens (a) e (b)."*
 > *"R10, com ajuste — as três frases sobre as setas valem 4 dos 10 pontos."*
 
-**O que não é ajuste:** acrescentar um sexto critério, elevar o total acima de 10, ou transferir todo o peso para o acabamento. Se uma tarefa exige critério que nenhuma das treze cobre, o caso é criar **R14** aqui — e não deformar uma rubrica existente dentro do arquivo de disciplina.
+**O que não é ajuste:** acrescentar um sexto critério, elevar o total acima de 10, ou transferir todo o peso para o acabamento. Se uma tarefa exige critério que nenhuma das catorze cobre, o caso é criar **R15** aqui — e não deformar uma rubrica existente dentro do arquivo de disciplina. Foi assim que **R14** nasceu: a múltipla escolha justificada mede *eliminação argumentada*, critério que nenhuma das treze anteriores tinha, e forçá-la em R1 ou R11 teria feito a correção medir procedimento ou diagnóstico de erro alheio em vez do que a tarefa pede.
 
 **Quando revisar uma rubrica:** quando ela não discriminar na correção. Se numa turma inteira todos tiraram o mesmo em determinado critério, ele não está medindo nada — ou é óbvio demais, ou está mal descrito.
 
@@ -164,6 +177,8 @@ Um ajuste legítimo **redistribui** pesos dentro do total 10, sem inventar crit�
 
 ## Nota sobre o caderno de casa
 
-O caderno de casa **não usa estas rubricas**. Ele foi desenhado sem gabarito e sem correção por nota: cada atividade traz um mecanismo de autoverificação e uma **ficha de autoavaliação** que o próprio aluno preenche. As treze rubricas aqui valem para as atividades de sala, em `../ATIVIDADES/`.
+**A folha do aluno não traz rubrica, mas a grade traz.** Cada questão do caderno de casa tem tipo e rubrica registrados na seção 2 do `_ORGANIZACAO.md` da disciplina — é de lá que o professor lê o *critério que decide a nota*. O que o caderno de casa não tem é **gabarito na folha**: a conferência chega ao aluno pelo bloco `Confira você mesmo:` da própria questão, e não por uma lista de respostas.
 
-O critério de leitura dos cadernos de casa está em `../CADERNO/CADERNO-00-Instrucoes.md`, na seção *Para o professor*.
+`OBJ` é o único tipo cuja resposta é uma letra, e por isso é o único cujo gabarito precisa existir em algum lugar. **Ele vive na seção 2 do `_ORGANIZACAO.md`, junto com o critério** — nunca na folha. Duas consequências: o aluno que só marca a letra não recebe confirmação nenhuma, o que é o desenho pretendido, e o professor que corrige tem a letra e os motivos de eliminação esperados na mesma linha.
+
+O texto anterior desta nota dizia que o caderno de casa *não usa estas rubricas*. Estava desatualizado desde a produção do Bloco 1: as 624 questões já saíram com rubrica na grade. Corrigido aqui.

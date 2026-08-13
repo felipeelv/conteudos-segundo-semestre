@@ -1,7 +1,7 @@
 # Biologia — 2ª Série
 
 > **Bloco 1 · 05/08–25/08** · Defesa, movimento e reprodução
-> 1 capítulo · 8 questões.
+> 1 capítulo · 10 questões.
 
 ---
 
@@ -65,3 +65,31 @@ Um estudante escreveu: *"Tomei o soro antitetânico, então agora estou imunizad
 ---
 
 **8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a vacinação deve ser obrigatória? Enuncie a posição defendida na primeira linha, sustente-a com o conceito de imunidade de rebanho e responda à objeção de quem alega que a decisão de se vacinar afeta apenas quem a toma.
+
+---
+
+**9.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela atribui à estrutura errada.
+
+Uma pessoa flexiona o cotovelo, levando a mão em direção ao ombro, e em seguida o estende de volta.
+
+a) O bíceps puxa o antebraço na flexão e o empurra de volta na extensão do cotovelo.
+b) O bíceps puxa o antebraço na flexão, e o tríceps traciona o osso na extensão.
+c) O bíceps se alonga por conta própria para estender o cotovelo, sem outro músculo.
+d) O movimento é produzido pelo tendão, que encurta e move o osso nos dois sentidos.
+
+**Responda:** qual é a leitura correta, e o que cada uma das outras três atribui à estrutura errada?
+
+**Confira você mesmo:** as três erradas pedem do aparelho locomotor uma coisa que ele não faz, e são três pedidos diferentes — um sobre o sentido da força que o músculo aplica, outro sobre precisar ou não de um par, e o terceiro sobre qual estrutura encurta. Se as suas três justificativas disserem todas *"o músculo só puxa"*, duas ainda não estão prontas.
+
+---
+
+**10.** Assinale, entre as quatro afirmações sobre os anticorpos, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela troca de lugar.
+
+a) O anticorpo destrói o invasor por conta própria, dissolvendo a membrana dele no ponto em que se liga.
+b) O anticorpo se liga ao antígeno de forma específica e, com isso, neutraliza, marca ou agrega o invasor.
+c) O anticorpo reconhece qualquer invasor que apareça, do mesmo modo que as barreiras químicas fazem.
+d) O anticorpo é produzido pelo linfócito T, que por isso destrói as células já infectadas pelo vírus.
+
+**Responda:** qual é a afirmação correta, e o que cada uma das outras três troca de lugar?
+
+**Confira você mesmo:** as três erradas trocam coisas de naturezas diferentes — uma troca quem executa a destruição, outra troca uma propriedade da resposta, e a terceira troca a célula que fabrica. Escreva, para cada uma, o que foi trocado pelo quê: se em alguma você não conseguir nomear os dois lados, essa justificativa ainda não está pronta.

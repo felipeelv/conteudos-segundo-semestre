@@ -149,9 +149,9 @@ Nunca comece a gerar sem ter lido, nesta ordem:
 
 | # | Arquivo | Por quê |
 |---|---|---|
-| 1 | `ATIVIDADES/METODOLOGIA/03-REPERTORIO.md` | os 18 tipos, quando **não** usar cada um, e os tipos dominantes da disciplina |
-| 2 | `ATIVIDADES/METODOLOGIA/04-RUBRICAS.md` | R1–R13, total sempre 10 |
-| 3 | `ATIVIDADES/METODOLOGIA/06-PRODUCAO.md` | **o arquivo operacional**: marcadores, pool, sorteio, travas, banco de verbos (§6), catálogo de **56 itens em 18 tipos** (§5), molde de saída (§7), as **13 checagens** (§8) — com §8.1 independência, §8.2 acessibilidade e §8.3 execução individual |
+| 1 | `ATIVIDADES/METODOLOGIA/03-REPERTORIO.md` | os 19 tipos, quando **não** usar cada um, os tipos dominantes da disciplina, e por que `OBJ` fica fora do sorteio |
+| 2 | `ATIVIDADES/METODOLOGIA/04-RUBRICAS.md` | R1–R14, total sempre 10 — R14 é a da objetiva justificada |
+| 3 | `ATIVIDADES/METODOLOGIA/06-PRODUCAO.md` | **o arquivo operacional**: marcadores, pool, sorteio, travas T1–T9, banco de verbos (§6), catálogo de **60 itens em 19 tipos** (§5), molde de saída (§7, com o molde de `OBJ` e a calibragem por faixa etária), as **14 checagens** (§8) — com §8.1 independência, §8.2 acessibilidade, §8.3 execução individual e §8.4 qualidade do distrator |
 | 4 | `ATIVIDADES/METODOLOGIA/05-REGRAS-DE-APLICACAO.md` | quando o pedido envolver peso na nota, quantidade ou aplicação |
 
 Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fundamentação — leia quando o pedido for justificar uma escolha, não para produzir.
@@ -167,7 +167,7 @@ Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fu
 3. **O comando entre aspas é o texto final do aluno.** Nunca escrever *"peça que o aluno..."*.
 4. **Se a resposta esperada já está impressa no capítulo em forma quase idêntica, o tipo está errado.** Re-sorteie.
 5. **Sala e casa do mesmo capítulo não repetem tipo.** Os dois conjuntos cobrem os mesmos 193 capítulos por caminhos diferentes.
-6. **Caderno de casa: sem gabarito, sem DEB, sem ORA.** Todo bloco de exercício precisa de conferência embutida.
+6. **Caderno de casa: sem gabarito na folha, sem DEB, sem ORA.** Todo bloco de exercício precisa de conferência embutida. O gabarito das `OBJ` é a única resposta registrada, e fica no `_ORGANIZACAO.md`.
 7. **Nenhum dado inventado.** Se um item exige dado real e ele não existe, troque o item.
 8. **Cada questão é independente** (`06-PRODUCAO.md` §8.1). O professor seleciona o que entra na folha, e nem tudo entra — uma questão que dependa de outra quebra quando a outra é descartada. Proibido *"a tabela que você construiu na questão 2"*.
 9. **Só recurso que todo aluno tem** (§8.2): capítulo, caderno, lápis, material de geometria (régua, compasso, transferidor), calculadora comum, observação e raciocínio. Nada de termômetro, balança, cronômetro, celular, internet, impressora, deslocamento, compra ou **calculadora financeira**.
@@ -175,7 +175,9 @@ Os arquivos `01-PROPOSTA.md` e `02-BASE-DE-EVIDENCIA.md` são o argumento e a fu
 11. **O verbo do comando sai do banco do §6 e é aferido no enunciado-síntese** (§7.1). `construa` produz figura com instrumento · `elabore`, artefato sem instrumento · `redija`, texto. Os imperativos internos da execução (*trace*, *marque*, *percorra*) não são verbos de comando.
 12. **A folha separa fazer de entregar** (§7.1). Enunciado-síntese → execução em prosa compacta → `Responda:` em pergunta → `Confira você mesmo:`. Nunca etapas rotuladas ("Etapa 1 — a malha"), nunca a questão inteira em lista plana. **Marcador só em dois casos:** (a) sub-sequência cuja ordem importa — a construção com régua e compasso, a sequência de teclas da calculadora; (b) especificações paralelas de um mesmo produto — as colunas de uma tabela, os elementos que um mapa precisa ter. O marcador lista requisito verificável, nunca entrega o artefato montado.
 13. **O `Responda:` admite complemento de localização e abre nos dois tempos** (§7.1). `Responda, abaixo dos gráficos:` quando a questão gera produto na página; e pergunta que comprime dois raciocínios se desdobra — *apontar o fator que explica a maior diferença* vira *qual é a maior diferença, e que fator a explica?*. Ao abrir o segundo tempo, a linha da grade acompanha na mesma passada.
-14. **Rode as 13 checagens de `06-PRODUCAO.md` §8** antes de passar ao capítulo seguinte.
+14. **Toda folha traz 2 questões objetivas por capítulo** (`OBJ`, tipo 19), ao final do bloco daquele capítulo, numeradas em continuidade. Elas **não são sorteadas** e nunca são a atividade principal: escolhem-se duas confusões conceituais distintas do capítulo (T9). A síntese usa `assinale` e **anuncia a eliminação na primeira frase**; o `Responda:` cobra a letra **e** por que cada distrator está errado; o `Confira você mesmo:` aponta a estrutura das eliminações **sem revelar a letra**. Alternativas por faixa: **3 no EF1** (uma eliminação cobrada) · **4 no EF2 e no EM** (as três, com o tipo de erro nomeado no EM).
+15. **O gabarito das `OBJ` vive na grade do `_ORGANIZACAO.md`, nunca na folha.** A linha traz a letra e o motivo de eliminação esperado de cada distrator — é a eliminação que decide 8 dos 10 pontos de R14.
+16. **Rode as 14 checagens de `06-PRODUCAO.md` §8** antes de passar ao capítulo seguinte. A 14ª é a dos distratores (§8.4): erro plausível, motivo próprio para cada um, comprimento parecido, e nada de *"todas as anteriores"*.
 
 ---
 
