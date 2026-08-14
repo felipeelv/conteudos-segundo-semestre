@@ -9,13 +9,10 @@
 
 **1.** Classifique a forma nominal de cada verbo destacado abaixo.
 
-a) É preciso **estudar** todos os dias.
-
-b) **Estudando** com regularidade, você aprende.
-
-c) Tinha **estudado** antes da prova.
-
-d) Ao **chegarmos**, o portão já estava fechado.
+- a) É preciso **estudar** todos os dias.
+- b) **Estudando** com regularidade, você aprende.
+- c) Tinha **estudado** antes da prova.
+- d) Ao **chegarmos**, o portão já estava fechado.
 
 **Responda:** que forma nominal é cada um dos quatro verbos destacados?
 
@@ -25,9 +22,8 @@ d) Ao **chegarmos**, o portão já estava fechado.
 
 **2.** Explique a diferença de uso entre as duas frases abaixo, que empregam o mesmo particípio.
 
-a) Eu tinha feito o trabalho.
-
-b) O trabalho foi feito por mim.
+- a) Eu tinha feito o trabalho.
+- b) O trabalho foi feito por mim.
 
 **Responda:** qual é a diferença de uso entre as duas, e por que a mesma forma serve às duas funções?
 
@@ -45,9 +41,8 @@ A tabela precisa trazer, para cada uma das três formas nominais:
 
 **4.** Reescreva as frases abaixo substituindo o gerúndio por outra construção de mesmo sentido.
 
-a) Chegando em casa, tomei banho.
-
-b) Ele saiu correndo.
+- a) Chegando em casa, tomei banho.
+- b) Ele saiu correndo.
 
 ---
 
@@ -69,13 +64,10 @@ Procure o texto em livro, revista, jornal, página da internet ou no acervo da e
 
 **7.** Assinale, entre as quatro formas destacadas, a única que é **gerúndio**, e diga o que é cada uma das outras três.
 
-a) É importante **ouvir** com atenção.
-
-b) Caminhava **ouvindo** música no fone.
-
-c) A equipe tinha **encerrado** o treino.
-
-d) A equipe **encerrou** o treino às seis.
+- a) É importante **ouvir** com atenção.
+- b) Caminhava **ouvindo** música no fone.
+- c) A equipe tinha **encerrado** o treino.
+- d) A equipe **encerrou** o treino às seis.
 
 **Responda:** qual das quatro é gerúndio, e o que é cada uma das outras três?
 
@@ -87,13 +79,10 @@ d) A equipe **encerrou** o treino às seis.
 
 Num atendimento telefônico, o funcionário diz: *"Vou estar transferindo a sua ligação."*
 
-a) O gerúndio está errado, porque o gerúndio nunca deve ser usado em português.
-
-b) O gerúndio é inadequado aqui: não há duração a destacar, e bastaria *vou transferir*.
-
-c) A construção está adequada, porque toda ação futura pede a forma com gerúndio.
-
-d) A construção está errada, porque o certo seria *vou estar transferido a sua ligação*.
+- a) O gerúndio está errado, porque o gerúndio nunca deve ser usado em português.
+- b) O gerúndio é inadequado aqui: não há duração a destacar, e bastaria *vou transferir*.
+- c) A construção está adequada, porque toda ação futura pede a forma com gerúndio.
+- d) A construção está errada, porque o certo seria *vou estar transferido a sua ligação*.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -104,11 +93,9 @@ d) A construção está errada, porque o certo seria *vou estar transferido a su
 
 **1.** Reescreva cada frase abaixo da voz ativa para a voz passiva analítica.
 
-a) A polícia prendeu o suspeito.
-
-b) Os alunos organizaram a festa.
-
-c) O vento derrubou a árvore.
+- a) A polícia prendeu o suspeito.
+- b) Os alunos organizaram a festa.
+- c) O vento derrubou a árvore.
 
 **Confira você mesmo:** o objeto direto da ativa tem de virar sujeito da passiva. Se não houver objeto direto, a transformação é impossível — e isso é uma informação sobre a frase, não um erro seu.
 
@@ -116,9 +103,8 @@ c) O vento derrubou a árvore.
 
 **2.** Classifique as duas construções abaixo, ambas na voz passiva, e explique o que cada uma pode esconder.
 
-a) O suspeito foi preso.
-
-b) Prendeu-se o suspeito.
+- a) O suspeito foi preso.
+- b) Prendeu-se o suspeito.
 
 **Responda:** qual é analítica e qual é sintética, e o que a segunda esconde que a primeira também pode esconder?
 
@@ -154,13 +140,10 @@ Um estudante escreveu: *"'A casa foi construída' e 'construiu-se a casa' são i
 
 **7.** Assinale, entre as quatro afirmações sobre as vozes verbais, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) Em *Vendem-se livros*, a voz é ativa, porque o verbo não vem com o auxiliar *ser*.
-
-b) Em *Vendem-se livros*, a voz é passiva sintética: equivale a *livros são vendidos*.
-
-c) Em *Maria se penteou*, a voz é passiva, porque a presença do *se* indica passiva.
-
-d) O agente da passiva é obrigatório em qualquer frase construída na voz passiva.
+- a) Em *Vendem-se livros*, a voz é ativa, porque o verbo não vem com o auxiliar *ser*.
+- b) Em *Vendem-se livros*, a voz é passiva sintética: equivale a *livros são vendidos*.
+- c) Em *Maria se penteou*, a voz é passiva, porque a presença do *se* indica passiva.
+- d) O agente da passiva é obrigatório em qualquer frase construída na voz passiva.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -172,13 +155,10 @@ d) O agente da passiva é obrigatório em qualquer frase construída na voz pass
 
 Um comunicado diz: *"Foram cometidos erros na apuração."*
 
-a) A construção é passiva e omite quem cometeu os erros, porque não traz agente da passiva.
-
-b) A construção é passiva e omite quem cometeu os erros, porque a palavra *erros* está no plural.
-
-c) A construção é ativa, porque o verbo *cometer* indica uma ação praticada por alguém.
-
-d) A construção é passiva e omite quem cometeu os erros, porque toda passiva omite o agente.
+- a) A construção é passiva e omite quem cometeu os erros, porque não traz agente da passiva.
+- b) A construção é passiva e omite quem cometeu os erros, porque a palavra *erros* está no plural.
+- c) A construção é ativa, porque o verbo *cometer* indica uma ação praticada por alguém.
+- d) A construção é passiva e omite quem cometeu os erros, porque toda passiva omite o agente.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 
@@ -189,13 +169,10 @@ d) A construção é passiva e omite quem cometeu os erros, porque toda passiva 
 
 **1.** Reescreva cada frase abaixo corrigindo a concordância.
 
-a) Fazem dois anos que não o vejo.
-
-b) Houveram muitos problemas.
-
-c) Segue anexo as fotos.
-
-d) É proibido entrada de estranhos.
+- a) Fazem dois anos que não o vejo.
+- b) Houveram muitos problemas.
+- c) Segue anexo as fotos.
+- d) É proibido entrada de estranhos.
 
 **Confira você mesmo:** passe cada frase para o plural e para o singular. Se o verbo não mudar junto com o sujeito, ele é impessoal — e a forma que você escreveu tem de ficar no singular.
 
@@ -203,9 +180,8 @@ d) É proibido entrada de estranhos.
 
 **2.** Explique se as duas frases abaixo são aceitáveis e o que muda no sentido de cada uma.
 
-a) A maioria dos alunos passou.
-
-b) A maioria dos alunos passaram.
+- a) A maioria dos alunos passou.
+- b) A maioria dos alunos passaram.
 
 **Responda:** as duas são aceitáveis? O que muda no sentido de cada uma, e qual delas a norma escrita prefere?
 
@@ -239,25 +215,19 @@ Um estudante escreveu: *"'Meio' sempre concorda com o substantivo, então é 'me
 
 **6.** Redija, para cada regra a seguir, um verbete de até quatro linhas que outro estudante possa consultar, com um exemplo próprio em cada:
 
-a) concordância com sujeito composto antes do verbo
-
-b) concordância com sujeito composto depois do verbo
-
-c) concordância de *anexo*
-
-d) concordância de *é proibido*
+- a) concordância com sujeito composto antes do verbo
+- b) concordância com sujeito composto depois do verbo
+- c) concordância de *anexo*
+- d) concordância de *é proibido*
 
 ---
 
 **7.** Assinale, entre as quatro frases, a única em que toda a concordância está correta, e diga que erro de concordância há em cada uma das outras três.
 
-a) A caixa de livros caiu no chão da sala.
-
-b) A caixa de livros caíram no chão da sala.
-
-c) É proibida entrada de pessoas estranhas.
-
-d) As belas paisagem atraíram muitos visitantes.
+- a) A caixa de livros caiu no chão da sala.
+- b) A caixa de livros caíram no chão da sala.
+- c) É proibida entrada de pessoas estranhas.
+- d) As belas paisagem atraíram muitos visitantes.
 
 **Responda:** qual frase está correta, e que erro de concordância há em cada uma das outras três?
 
@@ -269,13 +239,10 @@ d) As belas paisagem atraíram muitos visitantes.
 
 Um estudante escreveu: *"Ela estava meia cansada depois do treino."*
 
-a) Está certo, porque *meia* concorda com *ela*, que é uma palavra feminina.
-
-b) Está errado: aqui *meio* significa "um pouco" e não varia — *meio cansada*.
-
-c) Está errado, porque o certo seria *ela estava meio cansado*, no masculino.
-
-d) Está certo, porque *meio* e *meia* são formas equivalentes em qualquer frase.
+- a) Está certo, porque *meia* concorda com *ela*, que é uma palavra feminina.
+- b) Está errado: aqui *meio* significa "um pouco" e não varia — *meio cansada*.
+- c) Está errado, porque o certo seria *ela estava meio cansado*, no masculino.
+- d) Está certo, porque *meio* e *meia* são formas equivalentes em qualquer frase.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -286,13 +253,10 @@ d) Está certo, porque *meio* e *meia* são formas equivalentes em qualquer fras
 
 **1.** Analise, em cada frase abaixo, quem praticou a ação.
 
-a) A prefeitura interditou a ponte.
-
-b) A ponte foi interditada pela prefeitura.
-
-c) A ponte foi interditada.
-
-d) Interditou-se a ponte.
+- a) A prefeitura interditou a ponte.
+- b) A ponte foi interditada pela prefeitura.
+- c) A ponte foi interditada.
+- d) Interditou-se a ponte.
 
 **Responda:** quem praticou a ação em cada uma das quatro frases?
 
@@ -346,13 +310,10 @@ O parágrafo precisa conter uma objeção construída na forma *"alguém poderia
 
 **8.** Assinale, entre as quatro afirmações sobre as escolhas verbais de um texto, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) A voz passiva serve apenas para esconder o responsável por um fato narrado.
-
-b) A escolha da voz decide o que aparece no início da frase e o que pode ser omitido.
-
-c) O infinitivo em avisos e em placas é sempre um erro de escrita formal.
-
-d) O gerúndio num texto sempre indica que a ação está acontecendo neste momento.
+- a) A voz passiva serve apenas para esconder o responsável por um fato narrado.
+- b) A escolha da voz decide o que aparece no início da frase e o que pode ser omitido.
+- c) O infinitivo em avisos e em placas é sempre um erro de escrita formal.
+- d) O gerúndio num texto sempre indica que a ação está acontecendo neste momento.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -364,13 +325,10 @@ d) O gerúndio num texto sempre indica que a ação está acontecendo neste mome
 
 Duas versões da mesma informação: *"A comissão cometeu erros"* e *"Foram cometidos erros"*.
 
-a) As duas relatam o mesmo fato, e a segunda deixa de nomear quem cometeu os erros.
-
-b) As duas relatam o mesmo fato, e a segunda é sempre a forma mais adequada num texto.
-
-c) As duas relatam fatos diferentes, porque a segunda fala de outros erros, não os da comissão.
-
-d) As duas relatam o mesmo fato, e a segunda muda o tempo verbal usado na primeira.
+- a) As duas relatam o mesmo fato, e a segunda deixa de nomear quem cometeu os erros.
+- b) As duas relatam o mesmo fato, e a segunda é sempre a forma mais adequada num texto.
+- c) As duas relatam fatos diferentes, porque a segunda fala de outros erros, não os da comissão.
+- d) As duas relatam o mesmo fato, e a segunda muda o tempo verbal usado na primeira.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

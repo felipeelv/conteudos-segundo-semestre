@@ -76,13 +76,10 @@ Uma marcenaria vai fabricar uma placa em forma de losango de 17 cm de lado, cuja
 
 **7.** Assinale, entre os quatro, o único que descreve um **diâmetro**, e diga o que é cada um dos outros três.
 
-a) Segmento que liga o centro O a um ponto qualquer da circunferência.
-
-b) Segmento com as duas extremidades na circunferência, passando pelo centro.
-
-c) Segmento com as duas extremidades na circunferência, sem passar pelo centro.
-
-d) Parte da circunferência compreendida entre dois de seus pontos.
+- a) Segmento que liga o centro O a um ponto qualquer da circunferência.
+- b) Segmento com as duas extremidades na circunferência, passando pelo centro.
+- c) Segmento com as duas extremidades na circunferência, sem passar pelo centro.
+- d) Parte da circunferência compreendida entre dois de seus pontos.
 
 **Responda:** qual dos quatro é o diâmetro, e o que é cada um dos outros três?
 
@@ -94,13 +91,10 @@ d) Parte da circunferência compreendida entre dois de seus pontos.
 
 Uma placa redonda de metal vai receber fita no contorno e tinta na face inteira.
 
-a) A fita contorna a circunferência, e a tinta cobre o círculo, que é a região com a borda.
-
-b) A fita e a tinta cobrem as duas o círculo, porque círculo e circunferência são o mesmo.
-
-c) A fita contorna o círculo, e a tinta cobre a circunferência, que é a superfície da placa.
-
-d) A fita contorna a circunferência, e a tinta cobre o arco, que é a parte interna dela.
+- a) A fita contorna a circunferência, e a tinta cobre o círculo, que é a região com a borda.
+- b) A fita e a tinta cobrem as duas o círculo, porque círculo e circunferência são o mesmo.
+- c) A fita contorna o círculo, e a tinta cobre a circunferência, que é a superfície da placa.
+- d) A fita contorna a circunferência, e a tinta cobre o arco, que é a parte interna dela.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 

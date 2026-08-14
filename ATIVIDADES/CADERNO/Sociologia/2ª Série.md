@@ -29,13 +29,10 @@ O esquema precisa trazer:
 
 **3.** Redija um verbete de até cinco linhas sobre cada movimento a seguir, dirigido a quem faltou às aulas. Em cada verbete, empregue obrigatoriamente os termos *identidade coletiva*, *adversário* e *projeto*, aplicados àquele movimento e não repetidos como definição geral, e explique por que a reivindicação central daquele movimento precisou de mobilização para avançar em vez de ser simplesmente concedida, citando um marco da sua trajetória:
 
-a) movimento negro
-
-b) movimento feminista
-
-c) movimento do campo
-
-d) movimento indígena
+- a) movimento negro
+- b) movimento feminista
+- c) movimento do campo
+- d) movimento indígena
 
 ---
 
@@ -79,13 +76,10 @@ Enuncie a posição na primeira linha, sustente-a com dois casos brasileiros e r
 
 **9.** Assinale, entre as quatro afirmações sobre o método de análise dos movimentos sociais, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-a) A análise precisa decidir primeiro se a causa é justa, e só depois descrever o movimento.
-
-b) A análise descreve identidade, adversário, projeto e repertório antes de julgar a causa.
-
-c) Descrever um movimento social equivale a militar por ele, porque descrever é aprovar.
-
-d) A Sociologia só estuda os movimentos cujos projetos ela considera justos e legítimos.
+- a) A análise precisa decidir primeiro se a causa é justa, e só depois descrever o movimento.
+- b) A análise descreve identidade, adversário, projeto e repertório antes de julgar a causa.
+- c) Descrever um movimento social equivale a militar por ele, porque descrever é aprovar.
+- d) A Sociologia só estuda os movimentos cujos projetos ela considera justos e legítimos.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 
@@ -97,13 +91,10 @@ d) A Sociologia só estuda os movimentos cujos projetos ela considera justos e l
 
 Em 1988 o racismo passou a ser crime na Constituição; em 2010 veio o Estatuto da Igualdade Racial; em 2012, a Lei de Cotas federal, revisada em 2023.
 
-a) Conquistas legais não encerram sozinhas a desigualdade, porque ela se reproduz nas instituições.
-
-b) Conquistas legais não encerram sozinhas a desigualdade, porque nenhuma lei brasileira é cumprida.
-
-c) A sequência de leis mostra que a desigualdade racial foi encerrada no Brasil em 2012.
-
-d) Conquistas legais não encerram sozinhas a desigualdade, porque as leis mudam com frequência.
+- a) Conquistas legais não encerram sozinhas a desigualdade, porque ela se reproduz nas instituições.
+- b) Conquistas legais não encerram sozinhas a desigualdade, porque nenhuma lei brasileira é cumprida.
+- c) A sequência de leis mostra que a desigualdade racial foi encerrada no Brasil em 2012.
+- d) Conquistas legais não encerram sozinhas a desigualdade, porque as leis mudam com frequência.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

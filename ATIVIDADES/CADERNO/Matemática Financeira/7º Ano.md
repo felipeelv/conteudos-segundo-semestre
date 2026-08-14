@@ -37,13 +37,10 @@ Mostre os dois cálculos, o da média ponderada e o da média simples. Depois al
 
 **4.** Redija, para quem faltou à aula, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "valor extremo", "ordenar" e "peso", e feche com um caso em que usar aquela medida daria uma ideia errada do conjunto:
 
-a) média simples
-
-b) média ponderada
-
-c) moda
-
-d) mediana
+- a) média simples
+- b) média ponderada
+- c) moda
+- d) mediana
 
 ---
 
@@ -67,13 +64,10 @@ Calcule média, mediana e amplitude de cada uma das duas filas.
 
 **7.** Assinale, entre as quatro afirmações sobre a média, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) Uma média pode ficar acima do maior valor do conjunto, se houver muitos valores.
-
-b) A média fica sempre entre o menor e o maior valor, e a soma dos desvios dá zero.
-
-c) A soma dos desvios em relação à média é sempre positiva, porque distância não é negativa.
-
-d) A média ponderada com todos os pesos iguais dá resultado diferente da média simples.
+- a) Uma média pode ficar acima do maior valor do conjunto, se houver muitos valores.
+- b) A média fica sempre entre o menor e o maior valor, e a soma dos desvios dá zero.
+- c) A soma dos desvios em relação à média é sempre positiva, porque distância não é negativa.
+- d) A média ponderada com todos os pesos iguais dá resultado diferente da média simples.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -85,13 +79,10 @@ d) A média ponderada com todos os pesos iguais dá resultado diferente da médi
 
 Numa empresa, cinco salários são R$ 2.000,00; R$ 2.100,00; R$ 2.100,00; R$ 2.300,00 e R$ 8.000,00.
 
-a) A mediana resume melhor o grupo, porque o valor extremo desloca a média e não a posição central.
-
-b) A mediana resume melhor o grupo, porque ela é sempre a medida mais confiável das três.
-
-c) A média resume melhor o grupo, porque usa todos os cinco salários no seu cálculo.
-
-d) A mediana resume melhor o grupo, porque é o valor que mais se repete no conjunto.
+- a) A mediana resume melhor o grupo, porque o valor extremo desloca a média e não a posição central.
+- b) A mediana resume melhor o grupo, porque ela é sempre a medida mais confiável das três.
+- c) A média resume melhor o grupo, porque usa todos os cinco salários no seu cálculo.
+- d) A mediana resume melhor o grupo, porque é o valor que mais se repete no conjunto.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

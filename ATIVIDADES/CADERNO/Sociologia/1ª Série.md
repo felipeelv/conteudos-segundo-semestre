@@ -45,13 +45,10 @@ O esquema precisa trazer:
 
 **4.** Redija, para cada conceito a seguir, um verbete de até cinco linhas dirigido a quem faltou às aulas, explicando o que aquele conceito permite entender que os outros três não permitem:
 
-a) divisão técnica do trabalho
-
-b) divisão social do trabalho
-
-c) anomia
-
-d) divisão patológica do trabalho
+- a) divisão técnica do trabalho
+- b) divisão social do trabalho
+- c) anomia
+- d) divisão patológica do trabalho
 
 ---
 
@@ -87,13 +84,10 @@ Enuncie a posição na primeira linha, sustente-a com dois casos e responda à o
 
 **9.** Assinale, entre as quatro situações, a única que descreve **anomia**, e diga que conceito do capítulo descreve cada uma das outras três.
 
-a) Numa mudança social rápida, as regras que orientavam expectativas ficam insuficientes.
-
-b) Numa fábrica, cada pessoa executa uma etapa distinta do mesmo processo produtivo.
-
-c) Pessoas de ocupações diferentes dependem umas das outras para viver e produzir.
-
-d) Um trabalhador sem contrato tem renda irregular e não tem direitos garantidos.
+- a) Numa mudança social rápida, as regras que orientavam expectativas ficam insuficientes.
+- b) Numa fábrica, cada pessoa executa uma etapa distinta do mesmo processo produtivo.
+- c) Pessoas de ocupações diferentes dependem umas das outras para viver e produzir.
+- d) Um trabalhador sem contrato tem renda irregular e não tem direitos garantidos.
 
 **Responda:** qual das quatro é anomia, e que conceito do capítulo descreve cada uma das outras três?
 
@@ -105,13 +99,10 @@ d) Um trabalhador sem contrato tem renda irregular e não tem direitos garantido
 
 Uma empresa dobrou a produção depois de reorganizar as etapas do processo produtivo. No mesmo período, ampliou a proporção de trabalhadores sem contrato formal.
 
-a) A empresa melhorou nos dois aspectos, porque produzir mais já protege quem trabalha.
-
-b) A eficiência aumentou, mas a integração social pelo trabalho não acompanhou o ganho.
-
-c) A informalidade é irrelevante aqui, porque a Sociologia mede é a produtividade.
-
-d) Não é possível avaliar o caso, porque eficiência e integração medem a mesma coisa.
+- a) A empresa melhorou nos dois aspectos, porque produzir mais já protege quem trabalha.
+- b) A eficiência aumentou, mas a integração social pelo trabalho não acompanhou o ganho.
+- c) A informalidade é irrelevante aqui, porque a Sociologia mede é a produtividade.
+- d) Não é possível avaliar o caso, porque eficiência e integração medem a mesma coisa.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 

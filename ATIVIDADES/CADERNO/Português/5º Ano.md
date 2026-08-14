@@ -9,13 +9,10 @@
 
 **1.** Classifique o sujeito de cada frase abaixo em simples, composto ou oculto.
 
-a) Os meninos e as meninas chegaram cedo.
-
-b) Saímos antes da chuva.
-
-c) A professora explicou a tarefa.
-
-d) Chegaram meu tio e minha prima.
+- a) Os meninos e as meninas chegaram cedo.
+- b) Saímos antes da chuva.
+- c) A professora explicou a tarefa.
+- d) Chegaram meu tio e minha prima.
 
 **Responda:** qual é o sujeito de cada uma das quatro frases, e de que tipo ele é?
 
@@ -25,9 +22,8 @@ d) Chegaram meu tio e minha prima.
 
 **2.** Explique qual das duas frases abaixo tem sujeito oculto e como esse sujeito aparece.
 
-a) Nós fomos ao cinema.
-
-b) Fomos ao cinema.
+- a) Nós fomos ao cinema.
+- b) Fomos ao cinema.
 
 **Responda:** qual das duas tem sujeito oculto, e como você descobriu o sujeito da segunda?
 
@@ -69,11 +65,9 @@ Procure o parágrafo em livro, revista, jornal, página da internet ou no acervo
 
 **7.** Assinale, entre os três sujeitos destacados, o único que é **composto**, e escreva qual é o núcleo de cada um dos outros dois.
 
-a) **As meninas** chegaram cedo ao treino.
-
-b) **O cachorro e o gato** dormiram no tapete.
-
-c) **As crianças da escola** entraram na sala.
+- a) **As meninas** chegaram cedo ao treino.
+- b) **O cachorro e o gato** dormiram no tapete.
+- c) **As crianças da escola** entraram na sala.
 
 **Responda:** qual dos três é sujeito composto, e qual é o núcleo de cada um dos outros dois?
 
@@ -85,11 +79,9 @@ c) **As crianças da escola** entraram na sala.
 
 Um estudante leu a frase *"Sentamos em silêncio"* e disse que ela não tem sujeito.
 
-a) Ele está certo: a frase não tem sujeito, porque nenhuma palavra aparece antes do verbo.
-
-b) Ele está errado: o sujeito é *nós*, e a forma do verbo *sentamos* mostra isso.
-
-c) Ele está errado: o sujeito é *silêncio*, que é a palavra que vem depois do verbo.
+- a) Ele está certo: a frase não tem sujeito, porque nenhuma palavra aparece antes do verbo.
+- b) Ele está errado: o sujeito é *nós*, e a forma do verbo *sentamos* mostra isso.
+- c) Ele está errado: o sujeito é *silêncio*, que é a palavra que vem depois do verbo.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -100,13 +92,10 @@ c) Ele está errado: o sujeito é *silêncio*, que é a palavra que vem depois d
 
 **1.** Classifique o predicado de cada frase abaixo em verbal, nominal ou verbo-nominal.
 
-a) O menino correu.
-
-b) O menino está cansado.
-
-c) O menino chegou cansado.
-
-d) A chuva molhou o quintal.
+- a) O menino correu.
+- b) O menino está cansado.
+- c) O menino chegou cansado.
+- d) A chuva molhou o quintal.
 
 **Responda:** de que tipo é o predicado de cada uma das quatro frases?
 
@@ -118,9 +107,8 @@ d) A chuva molhou o quintal.
 
 As duas usam o mesmo verbo.
 
-a) Ele ficou na sala.
-
-b) Ele ficou triste.
+- a) Ele ficou na sala.
+- b) Ele ficou triste.
 
 **Responda:** em qual das duas *ficou* é verbo de ligação, e como você descobriu?
 
@@ -138,9 +126,8 @@ A tabela precisa ter, para cada um dos três tipos:
 
 **4.** Reescreva as frases abaixo transformando o predicado verbal em nominal, sem mudar o assunto.
 
-a) O cachorro latiu.
-
-b) A menina correu.
+- a) O cachorro latiu.
+- b) A menina correu.
 
 ---
 
@@ -162,11 +149,9 @@ Use pelo menos dois predicados nominais e sublinhe cada um deles por inteiro, co
 
 **7.** Assinale, entre as três frases sobre *"A menina ficou nervosa"*, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-a) O predicado é verbal, porque a frase tem um verbo, e todo verbo indica ação.
-
-b) O predicado é nominal, porque *ficou* liga a menina a uma característica dela.
-
-c) A palavra *nervosa* é o sujeito da frase, porque vem no fim, depois do verbo.
+- a) O predicado é verbal, porque a frase tem um verbo, e todo verbo indica ação.
+- b) O predicado é nominal, porque *ficou* liga a menina a uma característica dela.
+- c) A palavra *nervosa* é o sujeito da frase, porque vem no fim, depois do verbo.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -176,11 +161,9 @@ c) A palavra *nervosa* é o sujeito da frase, porque vem no fim, depois do verbo
 
 **8.** Assinale, entre os três predicados destacados, o único que é **verbo-nominal**, e escreva que tipo é cada um dos outros dois.
 
-a) O atleta **correu depressa** na pista.
-
-b) O atleta **chegou cansado** à linha final.
-
-c) O atleta **estava cansado** naquele dia.
+- a) O atleta **correu depressa** na pista.
+- b) O atleta **chegou cansado** à linha final.
+- c) O atleta **estava cansado** naquele dia.
 
 **Responda:** qual dos três é verbo-nominal, e que tipo de predicado é cada um dos outros dois?
 
@@ -191,13 +174,10 @@ c) O atleta **estava cansado** naquele dia.
 
 **1.** Decida a forma verbal que completa cada frase abaixo.
 
-a) Os alunos da minha turma ____ cedo. *(chegar)*
-
-b) A gente ____ para a escola a pé. *(ir)*
-
-c) João e Maria ____ o trabalho juntos. *(fazer)*
-
-d) Chegaram o professor e os alunos — ou chegou? Escolha e justifique.
+- a) Os alunos da minha turma ____ cedo. *(chegar)*
+- b) A gente ____ para a escola a pé. *(ir)*
+- c) João e Maria ____ o trabalho juntos. *(fazer)*
+- d) Chegaram o professor e os alunos — ou chegou? Escolha e justifique.
 
 **Responda:** que forma do verbo entra em cada uma das quatro frases?
 
@@ -209,9 +189,8 @@ d) Chegaram o professor e os alunos — ou chegou? Escolha e justifique.
 
 Uma delas tem erro de concordância.
 
-a) A caixa de bombons acabou.
-
-b) A caixa de bombons acabaram.
+- a) A caixa de bombons acabou.
+- b) A caixa de bombons acabaram.
 
 **Responda:** qual das duas está certa, e qual palavra o verbo tem de acompanhar?
 
@@ -229,9 +208,8 @@ A tabela precisa ter, para cada caso:
 
 **4.** Reescreva cada frase abaixo colocando o sujeito depois do verbo e ajustando a concordância.
 
-a) Meu tio e minha prima chegaram.
-
-b) Os livros e os cadernos sumiram.
+- a) Meu tio e minha prima chegaram.
+- b) Os livros e os cadernos sumiram.
 
 **Confira você mesmo:** volte cada frase à ordem direta, com o sujeito antes do verbo. Se a forma verbal continuar a mesma nas duas ordens, a concordância está ajustada; se mudar, a inversão levou o verbo para a forma errada.
 
@@ -257,11 +235,9 @@ Procure o texto em livro, revista, jornal, página da internet ou no acervo da e
 
 Um estudante escreveu: *"A caixa de lápis sumiram."*
 
-a) A frase está certa, porque *lápis* está no plural e o verbo acompanhou essa palavra.
-
-b) A frase está errada: o núcleo do sujeito é *caixa*, e o certo é *a caixa de lápis sumiu*.
-
-c) A frase está errada, porque o certo seria *as caixa de lápis sumiram*, com o artigo no plural.
+- a) A frase está certa, porque *lápis* está no plural e o verbo acompanhou essa palavra.
+- b) A frase está errada: o núcleo do sujeito é *caixa*, e o certo é *a caixa de lápis sumiu*.
+- c) A frase está errada, porque o certo seria *as caixa de lápis sumiram*, com o artigo no plural.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -271,11 +247,9 @@ c) A frase está errada, porque o certo seria *as caixa de lápis sumiram*, com 
 
 **8.** Assinale, entre as três frases, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-a) *Você estudas* está certo, porque *você* é a pessoa com quem se fala.
-
-b) *Você estuda* está certo, porque *você* pede o verbo na mesma forma de *ele*.
-
-c) *A gente fomos* está certo, porque *a gente* quer dizer a mesma coisa que *nós*.
+- a) *Você estudas* está certo, porque *você* é a pessoa com quem se fala.
+- b) *Você estuda* está certo, porque *você* pede o verbo na mesma forma de *ele*.
+- c) *A gente fomos* está certo, porque *a gente* quer dizer a mesma coisa que *nós*.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 

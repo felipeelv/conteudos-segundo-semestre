@@ -59,13 +59,10 @@ Marque com interrogação a ligação menos previsível de todo o esquema.
 
 **5.** Redija, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada massa de ar a seguir. Cada verbete precisa dizer por que a região de origem da massa produz nela essa temperatura e essa umidade, em que região do Brasil e em que estação a atuação dela é mais sentida, e um efeito de tempo que quem vive nessa região percebe quando ela chega:
 
-a) mEc
-
-b) mTa
-
-c) mTc
-
-d) mPa
+- a) mEc
+- b) mTa
+- c) mTc
+- d) mPa
 
 ---
 
@@ -91,13 +88,10 @@ Procure, em jornal ou revista impressos, em site de notícias ou no acervo da bi
 
 **9.** Assinale, entre os quatro, o único que é um **fator** climático, e diga o que é cada um dos outros três.
 
-a) A altitude de uma cidade situada a 1.600 metros acima do nível do mar.
-
-b) A umidade relativa medida por uma estação meteorológica ao meio-dia.
-
-c) O clima subtropical, que caracteriza o Sul do Brasil.
-
-d) A friagem que derruba a temperatura no sul da Amazônia em julho.
+- a) A altitude de uma cidade situada a 1.600 metros acima do nível do mar.
+- b) A umidade relativa medida por uma estação meteorológica ao meio-dia.
+- c) O clima subtropical, que caracteriza o Sul do Brasil.
+- d) A friagem que derruba a temperatura no sul da Amazônia em julho.
 
 **Responda:** qual dos quatro é um fator climático, e o que é cada um dos outros três?
 
@@ -109,13 +103,10 @@ d) A friagem que derruba a temperatura no sul da Amazônia em julho.
 
 Uma massa de ar úmido vinda do oceano encontra uma serra litorânea, sobe pela encosta voltada para o mar e ali produz chuva. Do outro lado da serra, o ar desce seco.
 
-a) A chuva da encosta é convectiva, porque o ar quente da superfície subiu por conta própria.
-
-b) A chuva da encosta é orográfica, e o lado seco é a sombra de chuva da mesma serra.
-
-c) A chuva da encosta é frontal, porque houve encontro entre duas massas de ar distintas.
-
-d) O lado seco não tem relação com a serra, porque a chuva depende só da massa de ar.
+- a) A chuva da encosta é convectiva, porque o ar quente da superfície subiu por conta própria.
+- b) A chuva da encosta é orográfica, e o lado seco é a sombra de chuva da mesma serra.
+- c) A chuva da encosta é frontal, porque houve encontro entre duas massas de ar distintas.
+- d) O lado seco não tem relação com a serra, porque a chuva depende só da massa de ar.
 
 **Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
 
@@ -160,13 +151,10 @@ Numa bacia hidrográfica, uma indústria despeja efluente no curso principal, no
 
 **4.** Redija, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada elemento da rede de drenagem a seguir. Cada verbete precisa dizer o que define a posição desse elemento na bacia — a montante ou a jusante de quê —, um modo de reconhecê-lo em um mapa e até onde chegaria, dentro da bacia, o efeito de uma poluição lançada nesse ponto:
 
-a) nascente
-
-b) afluente
-
-c) confluência
-
-d) foz
+- a) nascente
+- b) afluente
+- c) confluência
+- d) foz
 
 ---
 
@@ -202,13 +190,10 @@ Depois de uma chuva, ou logo após molhar os dois trechos com água, observe cad
 
 **9.** Assinale, entre as quatro afirmações sobre a água do planeta, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-a) Cerca de 97% da água da Terra é doce, e por isso a escassez é só um problema local.
-
-b) Cerca de 97% da água é salgada, e a maior parte da doce está congelada ou no subsolo.
-
-c) Toda a água doce do planeta está prontamente disponível em rios e lagos de superfície.
-
-d) O ciclo hidrológico cria água nova a cada ano, aumentando o volume total do planeta.
+- a) Cerca de 97% da água da Terra é doce, e por isso a escassez é só um problema local.
+- b) Cerca de 97% da água é salgada, e a maior parte da doce está congelada ou no subsolo.
+- c) Toda a água doce do planeta está prontamente disponível em rios e lagos de superfície.
+- d) O ciclo hidrológico cria água nova a cada ano, aumentando o volume total do planeta.
 
 **Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
 
@@ -220,13 +205,10 @@ d) O ciclo hidrológico cria água nova a cada ano, aumentando o volume total do
 
 Uma indústria instalada num município lança efluente em um afluente. Rio abaixo, já em outro estado, três municípios captam água do mesmo curso principal.
 
-a) A gestão precisa cobrir a bacia inteira, porque o que se faz a montante alcança a água a jusante.
-
-b) A gestão precisa cobrir a bacia inteira, porque toda bacia coincide com os limites dos estados.
-
-c) A gestão cabe só ao município onde está a indústria, porque o dano começa dentro dele.
-
-d) A gestão precisa cobrir a bacia inteira, porque toda bacia brasileira é do tipo exorreica.
+- a) A gestão precisa cobrir a bacia inteira, porque o que se faz a montante alcança a água a jusante.
+- b) A gestão precisa cobrir a bacia inteira, porque toda bacia coincide com os limites dos estados.
+- c) A gestão cabe só ao município onde está a indústria, porque o dano começa dentro dele.
+- d) A gestão precisa cobrir a bacia inteira, porque toda bacia brasileira é do tipo exorreica.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

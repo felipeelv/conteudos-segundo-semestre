@@ -42,11 +42,9 @@ Marque a fazenda, a ferrovia e o porto, e escreva o que acontecia em cada lugar.
 
 Diga, em cada texto, o que a novidade mudou na vida das pessoas:
 
-a) ferrovia
-
-b) telégrafo
-
-c) iluminação a gás
+- a) ferrovia
+- b) telégrafo
+- c) iluminação a gás
 
 ---
 
@@ -60,11 +58,9 @@ Um estudante escreveu: *"O café enriqueceu o Brasil inteiro."*
 
 **7.** Assinale, entre as três frases sobre a subida de D. Pedro II ao trono, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-a) Pedro assumiu o trono em 1840 porque completou a idade que a lei exigia para governar.
-
-b) Pedro assumiu o trono aos 14 anos porque políticos anteciparam a sua maioridade.
-
-c) Pedro assumiu o trono em 1840 porque os regentes desistiram de governar o Brasil.
+- a) Pedro assumiu o trono em 1840 porque completou a idade que a lei exigia para governar.
+- b) Pedro assumiu o trono aos 14 anos porque políticos anteciparam a sua maioridade.
+- c) Pedro assumiu o trono em 1840 porque os regentes desistiram de governar o Brasil.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -76,11 +72,9 @@ c) Pedro assumiu o trono em 1840 porque os regentes desistiram de governar o Bra
 
 Em 1854 foi inaugurada a primeira ferrovia brasileira. Nos anos seguintes, os trilhos avançaram para as regiões onde se plantava café.
 
-a) A ferrovia foi construída antes do café, e por isso o café pôde ser plantado no interior.
-
-b) O dinheiro do café ajudou a pagar os trilhos, e os trilhos levaram o café mais longe.
-
-c) A ferrovia não teve relação com o café, porque servia apenas para transportar pessoas.
+- a) A ferrovia foi construída antes do café, e por isso o café pôde ser plantado no interior.
+- b) O dinheiro do café ajudou a pagar os trilhos, e os trilhos levaram o café mais longe.
+- c) A ferrovia não teve relação com o café, porque servia apenas para transportar pessoas.
 
 **Responda:** qual explicação está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -137,21 +131,17 @@ Um estudante escreveu: *"Depois da Lei Áurea, as pessoas libertas ficaram livre
 
 Diga, em cada texto, o que a lei prometia e o que de fato acontecia:
 
-a) Lei do Ventre Livre
-
-b) Lei dos Sexagenários
-
-c) Lei Áurea
+- a) Lei do Ventre Livre
+- b) Lei dos Sexagenários
+- c) Lei Áurea
 
 ---
 
 **7.** Assinale, entre as três frases sobre a Lei Eusébio de Queirós, de 1850, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-a) A lei de 1850 acabou com a escravidão dentro do Brasil.
-
-b) A lei de 1850 proibiu a entrada de novos africanos escravizados.
-
-c) A lei de 1850 libertou as pessoas escravizadas com mais de 65 anos.
+- a) A lei de 1850 acabou com a escravidão dentro do Brasil.
+- b) A lei de 1850 proibiu a entrada de novos africanos escravizados.
+- c) A lei de 1850 libertou as pessoas escravizadas com mais de 65 anos.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -161,11 +151,9 @@ c) A lei de 1850 libertou as pessoas escravizadas com mais de 65 anos.
 
 **8.** Assinale, entre as três frases sobre o fim da escravidão no Brasil, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-a) A escravidão acabou porque a princesa Isabel resolveu sozinha dar liberdade a todos.
-
-b) A escravidão acabou depois de muitos anos de resistência e de pressão dos abolicionistas.
-
-c) A escravidão acabou de uma vez em 1888, sem que houvesse nenhuma lei antes dessa.
+- a) A escravidão acabou porque a princesa Isabel resolveu sozinha dar liberdade a todos.
+- b) A escravidão acabou depois de muitos anos de resistência e de pressão dos abolicionistas.
+- c) A escravidão acabou de uma vez em 1888, sem que houvesse nenhuma lei antes dessa.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
 

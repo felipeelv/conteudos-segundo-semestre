@@ -67,13 +67,10 @@ Procure em um livro, numa revista, no acervo da biblioteca da escola ou na inter
 
 **8.** Assinale, entre as quatro afirmações sobre a meiose e a fecundação, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) A meiose produz gametas 2n, e a fecundação reúne dois deles num zigoto 4n.
-
-b) A meiose produz gametas n, e a fecundação reúne dois deles num zigoto 2n.
-
-c) A meiose produz gametas n, e a fecundação devolve o zigoto à condição n.
-
-d) A meiose e a fecundação dobram o material genético a cada nova geração.
+- a) A meiose produz gametas 2n, e a fecundação reúne dois deles num zigoto 4n.
+- b) A meiose produz gametas n, e a fecundação reúne dois deles num zigoto 2n.
+- c) A meiose produz gametas n, e a fecundação devolve o zigoto à condição n.
+- d) A meiose e a fecundação dobram o material genético a cada nova geração.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -85,13 +82,10 @@ d) A meiose e a fecundação dobram o material genético a cada nova geração.
 
 Um bananal foi formado por mudas geneticamente iguais. Durante dez anos a produção se manteve alta e estável. No décimo primeiro ano, um fungo novo chegou à região e a plantação inteira adoeceu.
 
-a) O fungo prova que a reprodução assexuada é sempre pior que a sexuada.
-
-b) O que sustentou dez anos e falhou no décimo primeiro é a mesma uniformidade genética.
-
-c) O fungo atingiu a plantação porque as bananeiras cresceram muito próximas entre si.
-
-d) A produção alta dos dez anos mostra que a uniformidade não teve papel no episódio.
+- a) O fungo prova que a reprodução assexuada é sempre pior que a sexuada.
+- b) O que sustentou dez anos e falhou no décimo primeiro é a mesma uniformidade genética.
+- c) O fungo atingiu a plantação porque as bananeiras cresceram muito próximas entre si.
+- d) A produção alta dos dez anos mostra que a uniformidade não teve papel no episódio.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -159,13 +153,10 @@ Os dois desenhos precisam trazer:
 
 **8.** Assinale, entre as quatro, a única que é um fruto na Botânica, e diga que estrutura é cada uma das outras três.
 
-a) A abóbora, que se desenvolve da flor da aboboreira e guarda sementes por dentro.
-
-b) A batata, estrutura subterrânea com reservas, que brota pelos seus próprios olhos.
-
-c) O feijão de dentro da vagem, com tegumento, reservas e embrião no seu interior.
-
-d) A folha que, deitada sobre a terra úmida, origina uma planta inteira e nova.
+- a) A abóbora, que se desenvolve da flor da aboboreira e guarda sementes por dentro.
+- b) A batata, estrutura subterrânea com reservas, que brota pelos seus próprios olhos.
+- c) O feijão de dentro da vagem, com tegumento, reservas e embrião no seu interior.
+- d) A folha que, deitada sobre a terra úmida, origina uma planta inteira e nova.
 
 **Responda:** qual das quatro é fruto, e que estrutura é cada uma das outras três?
 
@@ -177,13 +168,10 @@ d) A folha que, deitada sobre a terra úmida, origina uma planta inteira e nova.
 
 Uma rã libera muitos gametas na água de uma poça, e a maior parte deles não chega a formar zigoto.
 
-a) A fecundação da rã é externa, porque os gametas se encontram fora do corpo, no ambiente.
-
-b) A fecundação da rã é externa, porque produz muitos gametas, e quem produz muitos fecunda fora.
-
-c) A fecundação da rã é externa, porque a fecundação externa é menos evoluída que a interna.
-
-d) A fecundação da rã é interna, porque só assim tantos gametas poderiam ser produzidos.
+- a) A fecundação da rã é externa, porque os gametas se encontram fora do corpo, no ambiente.
+- b) A fecundação da rã é externa, porque produz muitos gametas, e quem produz muitos fecunda fora.
+- c) A fecundação da rã é externa, porque a fecundação externa é menos evoluída que a interna.
+- d) A fecundação da rã é interna, porque só assim tantos gametas poderiam ser produzidos.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

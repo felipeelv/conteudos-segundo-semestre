@@ -29,13 +29,10 @@ Cada seta do esquema precisa de um rótulo, e um dos rótulos deve enunciar a ca
 
 **3.** Redija, para cada família a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, informando o número de elétrons de valência e explicando por que esse número produz a tendência de reatividade da família. Empregue obrigatoriamente os termos camada de valência, energia de ionização e cátion ou ânion:
 
-a) metais alcalinos
-
-b) alcalino-terrosos
-
-c) halogênios
-
-d) gases nobres
+- a) metais alcalinos
+- b) alcalino-terrosos
+- c) halogênios
+- d) gases nobres
 
 ---
 
@@ -79,13 +76,10 @@ Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda
 
 **9.** Assinale, entre as quatro afirmações, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-a) Afinidade eletrônica e eletronegatividade são o mesmo conceito, com dois nomes.
-
-b) Afinidade eletrônica é variação de energia; eletronegatividade é medida relativa numa ligação.
-
-c) O flúor tem a maior afinidade eletrônica, porque é o elemento mais eletronegativo.
-
-d) A eletronegatividade é medida em kJ/mol, como a energia de ionização.
+- a) Afinidade eletrônica e eletronegatividade são o mesmo conceito, com dois nomes.
+- b) Afinidade eletrônica é variação de energia; eletronegatividade é medida relativa numa ligação.
+- c) O flúor tem a maior afinidade eletrônica, porque é o elemento mais eletronegativo.
+- d) A eletronegatividade é medida em kJ/mol, como a energia de ionização.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 
@@ -97,13 +91,10 @@ d) A eletronegatividade é medida em kJ/mol, como a energia de ionização.
 
 Mendeleev ordenou os elementos por massa atômica, e algumas inversões não se explicavam por esse critério. Em 1913, Moseley relacionou espectros de raios X à carga nuclear.
 
-a) O critério passou a ser o número atômico, porque ele resolve as inversões causadas pela massa.
-
-b) O critério passou a ser o número atômico, porque Moseley trabalhou depois de Mendeleev.
-
-c) O critério continuou sendo a massa atômica, porque as previsões de Mendeleev se confirmaram.
-
-d) O critério passou a ser o número atômico, porque a massa atômica é impossível de medir.
+- a) O critério passou a ser o número atômico, porque ele resolve as inversões causadas pela massa.
+- b) O critério passou a ser o número atômico, porque Moseley trabalhou depois de Mendeleev.
+- c) O critério continuou sendo a massa atômica, porque as previsões de Mendeleev se confirmaram.
+- d) O critério passou a ser o número atômico, porque a massa atômica é impossível de medir.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

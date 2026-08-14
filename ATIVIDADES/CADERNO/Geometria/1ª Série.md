@@ -71,13 +71,10 @@ Refaça em seguida a mesma conta uma única vez, trocando 50 m por 60 m, e extra
 
 **7.** Assinale, entre os quatro, o único que descreve um **ângulo de segmento**, e diga o que é cada um dos outros três.
 
-a) Vértice no centro, lados formados por dois raios.
-
-b) Vértice na circunferência, lados formados por uma corda e uma tangente.
-
-c) Vértice na circunferência, lados formados por duas cordas.
-
-d) Vértice fora da circunferência, lados formados por duas secantes.
+- a) Vértice no centro, lados formados por dois raios.
+- b) Vértice na circunferência, lados formados por uma corda e uma tangente.
+- c) Vértice na circunferência, lados formados por duas cordas.
+- d) Vértice fora da circunferência, lados formados por duas secantes.
 
 **Responda:** qual dos quatro é o ângulo de segmento, e o que é cada um dos outros três?
 
@@ -89,13 +86,10 @@ d) Vértice fora da circunferência, lados formados por duas secantes.
 
 De um ponto P externo sai uma secante que corta a circunferência em A e em B, com PA = 4 cm e PB = 9 cm. Do mesmo ponto P sai uma tangente que toca a curva em T.
 
-a) PT mede 6 cm, porque o produto PA · PB é igual a PT², e 36 tem raiz 6.
-
-b) PT mede 6,5 cm, porque PT é a média entre as medidas 4 cm e 9 cm.
-
-c) PT mede 13 cm, porque a tangente é a soma dos dois segmentos da secante.
-
-d) PT depende da secante escolhida, e por isso não pode ser determinado aqui.
+- a) PT mede 6 cm, porque o produto PA · PB é igual a PT², e 36 tem raiz 6.
+- b) PT mede 6,5 cm, porque PT é a média entre as medidas 4 cm e 9 cm.
+- c) PT mede 13 cm, porque a tangente é a soma dos dois segmentos da secante.
+- d) PT depende da secante escolhida, e por isso não pode ser determinado aqui.
 
 **Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
 

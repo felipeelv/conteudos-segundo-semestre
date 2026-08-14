@@ -11,11 +11,9 @@
 
 Uma balança está equilibrada com 3 laranjas de um lado e 6 limões do outro.
 
-a) Quantos limões equilibram 1 laranja?
-
-b) Se você tirar 1 laranja de um lado, quantos limões precisa tirar do outro para manter o equilíbrio?
-
-c) Se você dobrar a quantidade dos dois lados, a balança continua equilibrada? Escreva quantas laranjas e quantos limões ficam.
+- a) Quantos limões equilibram 1 laranja?
+- b) Se você tirar 1 laranja de um lado, quantos limões precisa tirar do outro para manter o equilíbrio?
+- c) Se você dobrar a quantidade dos dois lados, a balança continua equilibrada? Escreva quantas laranjas e quantos limões ficam.
 
 **Confira você mesmo:** em cada item, faça a conta dos dois lados. Os dois resultados precisam dar o mesmo número; se derem números diferentes, a balança que você escreveu não está equilibrada.
 
@@ -23,9 +21,8 @@ c) Se você dobrar a quantidade dos dois lados, a balança continua equilibrada?
 
 **2.** Calcule os dois lados de cada uma das igualdades a seguir. Uma é verdadeira e a outra é falsa.
 
-a) 12 + 8 = 15 + 5
-
-b) 12 + 8 = 15 + 6
+- a) 12 + 8 = 15 + 5
+- b) 12 + 8 = 15 + 6
 
 **Responda:** qual é a igualdade falsa, por que ela é falsa e o que mudar no lado direito para que ela fique verdadeira?
 
@@ -79,11 +76,9 @@ O bilhete precisa deixar claro que ele **não** quer dizer "aqui vem a resposta"
 
 **8.** Assinale, entre as três mudanças feitas na igualdade 7 + 3 = 10, a única que deixa a igualdade verdadeira, e escreva por que **uma** das outras duas não deixa.
 
-a) Multiplicar os dois lados por 2, escrevendo 14 + 6 = 20.
-
-b) Multiplicar só o lado esquerdo por 2, escrevendo 14 + 6 = 10.
-
-c) Multiplicar o lado esquerdo por 2 e o direito por 3, escrevendo 14 + 6 = 30.
+- a) Multiplicar os dois lados por 2, escrevendo 14 + 6 = 20.
+- b) Multiplicar só o lado esquerdo por 2, escrevendo 14 + 6 = 10.
+- c) Multiplicar o lado esquerdo por 2 e o direito por 3, escrevendo 14 + 6 = 30.
 
 **Responda:** qual mudança mantém a igualdade verdadeira? Escolha uma das outras duas e escreva por que ela não mantém.
 
@@ -95,11 +90,9 @@ c) Multiplicar o lado esquerdo por 2 e o direito por 3, escrevendo 14 + 6 = 30.
 
 Numa balança em equilíbrio, o prato da esquerda tem 3 laranjas iguais e o prato da direita tem 6 limões iguais.
 
-a) Tirar 1 laranja da esquerda e não tirar nada da direita.
-
-b) Tirar 1 laranja da esquerda e 2 limões da direita.
-
-c) Tirar 1 laranja da esquerda e 1 limão da direita.
+- a) Tirar 1 laranja da esquerda e não tirar nada da direita.
+- b) Tirar 1 laranja da esquerda e 2 limões da direita.
+- c) Tirar 1 laranja da esquerda e 1 limão da direita.
 
 **Responda:** qual retirada mantém o equilíbrio? Escolha uma das outras duas e escreva por que ela não mantém.
 
@@ -110,11 +103,9 @@ c) Tirar 1 laranja da esquerda e 1 limão da direita.
 
 **1.** Calcule os três itens na ordem — o resultado de cada um entra no próximo.
 
-a) Descubra o valor: ▢ + 7 = 19.
-
-b) Use o valor que você encontrou no lugar do ▢: ▢ × 3 = ?
-
-c) Agora descubra: 60 ÷ ▢ = ?, usando o mesmo valor do item a.
+- a) Descubra o valor: ▢ + 7 = 19.
+- b) Use o valor que você encontrou no lugar do ▢: ▢ × 3 = ?
+- c) Agora descubra: 60 ÷ ▢ = ?, usando o mesmo valor do item a.
 
 **Confira você mesmo:** coloque o número que você encontrou de volta em cada sentença. Se a sentença ficar verdadeira, está certo; se ficar falsa, o valor do ▢ está errado.
 
@@ -122,9 +113,8 @@ c) Agora descubra: 60 ÷ ▢ = ?, usando o mesmo valor do item a.
 
 **2.** Calcule as duas sentenças a seguir, que parecem iguais.
 
-a) ▢ − 6 = 10
-
-b) 6 − ▢ = 10
+- a) ▢ − 6 = 10
+- b) 6 − ▢ = 10
 
 **Responda:** qual das duas não tem resposta entre os números que você conhece, e por quê?
 
@@ -132,11 +122,9 @@ b) 6 − ▢ = 10
 
 **3.** Calcule os termos que faltam nas três sequências, na ordem.
 
-a) Na sequência 3, 6, 12, 24, ..., escreva os três próximos termos.
-
-b) Na sequência 729, 243, 81, 27, ..., escreva os três próximos termos.
-
-c) Uma sequência começa em 5, e cada termo é o dobro do anterior menos 1. Escreva os cinco primeiros termos.
+- a) Na sequência 3, 6, 12, 24, ..., escreva os três próximos termos.
+- b) Na sequência 729, 243, 81, 27, ..., escreva os três próximos termos.
+- c) Uma sequência começa em 5, e cada termo é o dobro do anterior menos 1. Escreva os cinco primeiros termos.
 
 **Responda:** qual é a regra de cada uma das três sequências, em uma frase?
 
@@ -184,11 +172,9 @@ Conte quantos lápis, canetas e borrachas há no seu material escolar e escreva 
 
 **8.** Assinale, entre as três conferências, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-a) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 − 4 dá 9.
-
-b) Em ▢ − 4 = 9, o valor 5 está certo, porque 9 − 4 dá 5.
-
-c) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 é maior que 9.
+- a) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 − 4 dá 9.
+- b) Em ▢ − 4 = 9, o valor 5 está certo, porque 9 − 4 dá 5.
+- c) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 é maior que 9.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -198,11 +184,9 @@ c) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 é maior que 9.
 
 **9.** Assinale, entre as três regras, a única que produz a sequência 3, 6, 12, 24, e escreva por que **uma** das outras duas não produz.
 
-a) Somar 3 a cada termo para achar o próximo.
-
-b) Multiplicar cada termo por 2 para achar o próximo.
-
-c) Somar o termo anterior com o termo de antes dele.
+- a) Somar 3 a cada termo para achar o próximo.
+- b) Multiplicar cada termo por 2 para achar o próximo.
+- c) Somar o termo anterior com o termo de antes dele.
 
 **Responda:** qual regra produz a sequência? Escolha uma das outras duas e escreva por que ela não produz.
 
@@ -277,11 +261,9 @@ Percorra o caminho contando os passos de cada trecho reto.
 
 Numa sala, as carteiras estão organizadas em linhas e colunas. Alguém diz apenas: *"a minha carteira está na linha 3"*.
 
-a) A informação basta para achar a carteira, porque existe só uma linha 3.
-
-b) A informação não basta, porque falta a coluna: a linha 3 tem várias carteiras.
-
-c) A informação basta, porque a pessoa deve estar na primeira carteira da linha 3.
+- a) A informação basta para achar a carteira, porque existe só uma linha 3.
+- b) A informação não basta, porque falta a coluna: a linha 3 tem várias carteiras.
+- c) A informação basta, porque a pessoa deve estar na primeira carteira da linha 3.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -291,11 +273,9 @@ c) A informação basta, porque a pessoa deve estar na primeira carteira da linh
 
 **9.** Assinale, entre as três frases sobre o par ordenado (2, 5), a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-a) O ponto (2, 5) fica em cima do eixo horizontal, porque o par começa pelo 2.
-
-b) No par (2, 5), o 2 é contado no eixo horizontal e o 5 no eixo vertical.
-
-c) No par (2, 5), tanto faz qual número vem primeiro, porque os dois são lidos juntos.
+- a) O ponto (2, 5) fica em cima do eixo horizontal, porque o par começa pelo 2.
+- b) No par (2, 5), o 2 é contado no eixo horizontal e o 5 no eixo vertical.
+- c) No par (2, 5), tanto faz qual número vem primeiro, porque os dois são lidos juntos.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -324,11 +304,9 @@ Marina refletiu uma figura em um eixo vertical da malha e escreveu: *"Este vért
 
 **3.** Calcule as medidas dos lados das figuras nos três itens, na ordem.
 
-a) Um retângulo na malha tem lados de 3 e 4 quadrados e passa por uma ampliação em que todos os lados dobram. Escreva as medidas dos lados da figura ampliada.
-
-b) Um retângulo na malha tem lados de 6 e 4 quadrados e passa por uma redução à metade. Escreva as medidas dos lados da figura reduzida.
-
-c) Depois de uma ampliação em que todos os lados dobraram, um retângulo ficou com lados de 10 e 6 quadrados. Escreva as medidas que ele tinha antes.
+- a) Um retângulo na malha tem lados de 3 e 4 quadrados e passa por uma ampliação em que todos os lados dobram. Escreva as medidas dos lados da figura ampliada.
+- b) Um retângulo na malha tem lados de 6 e 4 quadrados e passa por uma redução à metade. Escreva as medidas dos lados da figura reduzida.
+- c) Depois de uma ampliação em que todos os lados dobraram, um retângulo ficou com lados de 10 e 6 quadrados. Escreva as medidas que ele tinha antes.
 
 **Confira você mesmo:** aplique a regra ao contrário em cada item. Se você voltar às medidas iniciais, a resposta está certa; se não voltar, a regra foi aplicada no sentido errado.
 
@@ -380,11 +358,9 @@ Com a régua, construa no caderno duas malhas quadriculadas de 10 por 10 quadrad
 
 **8.** Assinale, entre as três transformações, a única que muda o **tamanho** da figura, e escreva o que é cada uma das outras duas.
 
-a) A figura é deslocada 4 quadrados para a direita na malha.
-
-b) Todos os lados da figura ficam com o dobro do comprimento.
-
-c) A figura é virada para o outro lado de um eixo vertical.
+- a) A figura é deslocada 4 quadrados para a direita na malha.
+- b) Todos os lados da figura ficam com o dobro do comprimento.
+- c) A figura é virada para o outro lado de um eixo vertical.
 
 **Responda:** qual transformação muda o tamanho, e que nome tem cada uma das outras duas?
 
@@ -396,11 +372,9 @@ c) A figura é virada para o outro lado de um eixo vertical.
 
 Uma figura desenhada na malha quadriculada foi refletida em um eixo vertical.
 
-a) A figura ficou com o mesmo tamanho e a mesma forma, e com a orientação invertida.
-
-b) A figura ficou maior, porque a reflexão dobra a distância dela até o eixo.
-
-c) A figura ficou com o mesmo tamanho, e a orientação continuou igual à original.
+- a) A figura ficou com o mesmo tamanho e a mesma forma, e com a orientação invertida.
+- b) A figura ficou maior, porque a reflexão dobra a distância dela até o eixo.
+- c) A figura ficou com o mesmo tamanho, e a orientação continuou igual à original.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 

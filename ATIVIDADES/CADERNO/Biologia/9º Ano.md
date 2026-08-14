@@ -31,13 +31,10 @@ A tabela precisa trazer, para cada um dos dois tipos de estrutura:
 
 **3.** Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das evidências da evolução relacionadas a seguir, indicando o que ela permite concluir e qual é o seu limite. Os termos *ancestralidade comum*, *linhagem* e *homologia* precisam aparecer no conjunto dos quatro verbetes:
 
-a) registro fóssil
-
-b) anatomia comparada
-
-c) desenvolvimento embrionário
-
-d) comparação de sequências de DNA
+- a) registro fóssil
+- b) anatomia comparada
+- c) desenvolvimento embrionário
+- d) comparação de sequências de DNA
 
 ---
 
@@ -79,13 +76,10 @@ Um estudante escreveu em seu caderno: *"A asa do morcego e a asa do inseto mostr
 
 **9.** Assinale, entre as quatro estruturas a seguir, a única que é vestigial, e justifique por que cada uma das outras três não é.
 
-a) O cóccix humano, remanescente de uma cauda ancestral, hoje ligado a músculos e ligamentos.
-
-b) A asa do morcego, com úmero, rádio, ulna e dedos alongados, que sustenta o voo do animal.
-
-c) O braço de uma pessoa que ficou meses sem treinar e perdeu boa parte da massa muscular.
-
-d) A asa do inseto, formada por expansões do exoesqueleto, sem nenhum osso em seu interior.
+- a) O cóccix humano, remanescente de uma cauda ancestral, hoje ligado a músculos e ligamentos.
+- b) A asa do morcego, com úmero, rádio, ulna e dedos alongados, que sustenta o voo do animal.
+- c) O braço de uma pessoa que ficou meses sem treinar e perdeu boa parte da massa muscular.
+- d) A asa do inseto, formada por expansões do exoesqueleto, sem nenhum osso em seu interior.
 
 **Responda:** qual das quatro é vestigial, e por que cada uma das outras três não é?
 
@@ -97,13 +91,10 @@ d) A asa do inseto, formada por expansões do exoesqueleto, sem nenhum osso em s
 
 O *Tiktaalik* é um fóssil de peixe de nadadeiras lobadas, com pescoço móvel e ossos semelhantes aos dos primeiros vertebrados de quatro patas. Ele é apresentado como forma transicional entre peixes e tetrápodes.
 
-a) O fóssil prova que o *Tiktaalik* é o ancestral direto de todos os tetrápodes que existem hoje.
-
-b) O fóssil reúne traços dos dois grupos, sem precisar ser ancestral direto de nenhum deles.
-
-c) O fóssil mostra que os peixes atuais estão a caminho de virar animais de quatro patas.
-
-d) O fóssil não vale como evidência, porque nenhum peixe vivo hoje tem pescoço móvel.
+- a) O fóssil prova que o *Tiktaalik* é o ancestral direto de todos os tetrápodes que existem hoje.
+- b) O fóssil reúne traços dos dois grupos, sem precisar ser ancestral direto de nenhum deles.
+- c) O fóssil mostra que os peixes atuais estão a caminho de virar animais de quatro patas.
+- d) O fóssil não vale como evidência, porque nenhum peixe vivo hoje tem pescoço móvel.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -131,13 +122,10 @@ Cada seta precisa de um rótulo que nomeie o mecanismo proposto.
 
 **3.** Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos conceitos a seguir, indicando a quem pertence e o que ele afirma. Os termos *variabilidade*, *hereditário* e *população* precisam aparecer no conjunto dos quatro verbetes:
 
-a) lei do uso e desuso
-
-b) herança dos caracteres adquiridos
-
-c) variabilidade prévia
-
-d) seleção natural
+- a) lei do uso e desuso
+- b) herança dos caracteres adquiridos
+- c) variabilidade prévia
+- d) seleção natural
 
 ---
 
@@ -179,13 +167,10 @@ Procure em fonte impressa, digital ou do acervo da escola.
 
 **9.** Assinale, entre as quatro afirmações sobre a seleção natural, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) A seleção natural cria as características que o ambiente exige no momento em que ele passa a exigi-las.
-
-b) A seleção natural atua sobre diferenças hereditárias que já existiam na população antes da mudança do ambiente.
-
-c) A seleção natural age sobre o indivíduo, que se transforma ao longo da vida para caber no ambiente em que vive.
-
-d) A seleção natural elimina os indivíduos mais fracos, de modo que sobrevivem sempre os mais fortes da população.
+- a) A seleção natural cria as características que o ambiente exige no momento em que ele passa a exigi-las.
+- b) A seleção natural atua sobre diferenças hereditárias que já existiam na população antes da mudança do ambiente.
+- c) A seleção natural age sobre o indivíduo, que se transforma ao longo da vida para caber no ambiente em que vive.
+- d) A seleção natural elimina os indivíduos mais fracos, de modo que sobrevivem sempre os mais fortes da população.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -197,13 +182,10 @@ d) A seleção natural elimina os indivíduos mais fracos, de modo que sobrevive
 
 Uma pessoa perdeu um dedo em um acidente e, anos depois, teve filhos.
 
-a) Os filhos nascem com todos os dedos, porque o acidente não alterou a informação hereditária dos gametas.
-
-b) Os filhos nascem com todos os dedos, porque o corpo recupera nas gerações seguintes o que foi perdido em uma delas.
-
-c) Os filhos podem nascer sem o dedo, porque o que acontece ao corpo durante a vida passa aos descendentes.
-
-d) Os filhos nascem com todos os dedos, porque só as características adquiridas que são úteis chegam a ser transmitidas.
+- a) Os filhos nascem com todos os dedos, porque o acidente não alterou a informação hereditária dos gametas.
+- b) Os filhos nascem com todos os dedos, porque o corpo recupera nas gerações seguintes o que foi perdido em uma delas.
+- c) Os filhos podem nascer sem o dedo, porque o que acontece ao corpo durante a vida passa aos descendentes.
+- d) Os filhos nascem com todos os dedos, porque só as características adquiridas que são úteis chegam a ser transmitidas.
 
 **Responda:** qual é a afirmação que se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

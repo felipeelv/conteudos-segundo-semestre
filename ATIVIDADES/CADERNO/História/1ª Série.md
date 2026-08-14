@@ -23,13 +23,10 @@ Indique as atribuições de cada cargo e rotule cada seta de contenção com o m
 
 **3.** Redija um verbete de cinco linhas sobre cada uma das instituições a seguir, indicando em cada caso que poder ela exercia e sobre quem. Empregue, ao longo dos quatro verbetes, os termos *colegialidade*, *magistratura* e *plebe*:
 
-a) Senado
-
-b) cônsules
-
-c) tribunos da plebe
-
-d) Comícios
+- a) Senado
+- b) cônsules
+- c) tribunos da plebe
+- d) Comícios
 
 ---
 
@@ -71,13 +68,10 @@ Enuncie a posição na primeira linha, sustente-a com dois marcos datados e resp
 
 **9.** Assinale, entre as quatro afirmações sobre as instituições republicanas romanas, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-a) As magistraturas correspondiam aos poderes Executivo, Legislativo e Judiciário de hoje.
-
-b) As magistraturas limitavam o poder pessoal por mandatos curtos e por colegialidade.
-
-c) Cada magistratura era ocupada por uma única pessoa, para evitar disputas internas.
-
-d) O ditador romano governava sem prazo, como os ditadores do mundo contemporâneo.
+- a) As magistraturas correspondiam aos poderes Executivo, Legislativo e Judiciário de hoje.
+- b) As magistraturas limitavam o poder pessoal por mandatos curtos e por colegialidade.
+- c) Cada magistratura era ocupada por uma única pessoa, para evitar disputas internas.
+- d) O ditador romano governava sem prazo, como os ditadores do mundo contemporâneo.
 
 **Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
 
@@ -89,13 +83,10 @@ d) O ditador romano governava sem prazo, como os ditadores do mundo contemporân
 
 Em Atenas, os cidadãos decidiam diretamente muitos assuntos na assembleia. Em Roma, as decisões se distribuíam entre magistrados, Senado e Comícios.
 
-a) Roma era mais democrática que Atenas, porque distribuía as decisões entre três instâncias.
-
-b) Os dois sistemas excluíam mulheres, estrangeiros e pessoas escravizadas das decisões.
-
-c) Em Roma, o voto dos Comícios pesava igualmente para todos os cidadãos que votavam.
-
-d) Atenas e Roma funcionavam do mesmo modo, mudando apenas o nome das instituições.
+- a) Roma era mais democrática que Atenas, porque distribuía as decisões entre três instâncias.
+- b) Os dois sistemas excluíam mulheres, estrangeiros e pessoas escravizadas das decisões.
+- c) Em Roma, o voto dos Comícios pesava igualmente para todos os cidadãos que votavam.
+- d) Atenas e Roma funcionavam do mesmo modo, mudando apenas o nome das instituições.
 
 **Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
 
@@ -121,13 +112,10 @@ Rotule cada seta com o mecanismo que liga uma etapa à seguinte.
 
 **3.** Redija um verbete de cinco linhas sobre cada um dos episódios a seguir, indicando em cada caso o interesse em jogo e o desfecho. Empregue, ao longo dos quatro verbetes, os termos *tribuno*, *latifúndio* e *exército*:
 
-a) as reformas dos irmãos Graco
-
-b) a revolta de Espártaco
-
-c) as reformas de recrutamento de Caio Mário
-
-d) o Primeiro Triunvirato
+- a) as reformas dos irmãos Graco
+- b) a revolta de Espártaco
+- c) as reformas de recrutamento de Caio Mário
+- d) o Primeiro Triunvirato
 
 ---
 
@@ -167,13 +155,10 @@ Um estudante escreveu: *"A República acabou porque César quis ser rei."*
 
 **8.** Assinale, entre as quatro afirmações sobre o Primeiro Triunvirato, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-a) O Primeiro Triunvirato era uma magistratura criada por lei para governar Roma.
-
-b) O Primeiro Triunvirato era uma aliança privada, formada fora das regras da República.
-
-c) O Primeiro Triunvirato reunia César, Pompeu e Otávio contra o Senado romano.
-
-d) O Primeiro Triunvirato foi dissolvido pelo Senado, que o declarou ilegal em 60 a.C.
+- a) O Primeiro Triunvirato era uma magistratura criada por lei para governar Roma.
+- b) O Primeiro Triunvirato era uma aliança privada, formada fora das regras da República.
+- c) O Primeiro Triunvirato reunia César, Pompeu e Otávio contra o Senado romano.
+- d) O Primeiro Triunvirato foi dissolvido pelo Senado, que o declarou ilegal em 60 a.C.
 
 **Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
 
@@ -185,13 +170,10 @@ d) O Primeiro Triunvirato foi dissolvido pelo Senado, que o declarou ilegal em 6
 
 Entre 133 a.C. e 31 a.C., Roma viu a morte dos irmãos Graco, a marcha de Sila sobre a cidade, dois triunviratos, a travessia do Rubicão, o assassinato de César e a vitória de Otávio em Ácio.
 
-a) A República terminou por uma sequência de rupturas, e não por um único golpe de Estado.
-
-b) A República terminou por uma sequência de rupturas, porque o Senado nunca se opôs a nenhuma delas.
-
-c) A República terminou no dia em que César atravessou o Rubicão, em 49 a.C., de uma vez só.
-
-d) A República terminou por uma sequência de rupturas, porque todos os envolvidos queriam a monarquia.
+- a) A República terminou por uma sequência de rupturas, e não por um único golpe de Estado.
+- b) A República terminou por uma sequência de rupturas, porque o Senado nunca se opôs a nenhuma delas.
+- c) A República terminou no dia em que César atravessou o Rubicão, em 49 a.C., de uma vez só.
+- d) A República terminou por uma sequência de rupturas, porque todos os envolvidos queriam a monarquia.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

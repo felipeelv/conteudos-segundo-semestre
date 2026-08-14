@@ -27,7 +27,7 @@ Uma série hipotética de preços tem média R$ 1.200,00 e desvio padrão R$ 96,
 
 **3.** Considere a série hipotética 12, 15, 15, 18, 20 e 22.
 
-a) Elabore a tabela do cálculo do desvio padrão amostral, com as colunas de valor, desvio e desvio ao quadrado. Na calculadora comum, siga esta ordem:
+- a) Elabore a tabela do cálculo do desvio padrão amostral, com as colunas de valor, desvio e desvio ao quadrado. Na calculadora comum, siga esta ordem:
 
 - some os seis valores e divida a soma por 6, para achar a média;
 - subtraia a média de cada um dos seis valores;
@@ -38,9 +38,8 @@ a) Elabore a tabela do cálculo do desvio padrão amostral, com as colunas de va
 
 Apresente o resultado com duas casas decimais.
 
-b) Refaça o cálculo para a mesma série de seis valores, tratando-a agora como população inteira: muda uma única conta — divida a soma dos quadrados dos desvios por 6 em vez de 5 antes de extrair a raiz. Apresente o resultado com duas casas decimais e escreva qual dos dois é maior e por quê.
-
-c) Some 10 a cada um dos seis valores e refaça a sequência inteira sobre a nova série — média, seis desvios, seis quadrados, soma, divisão por 5 e raiz quadrada: explique o que aconteceu com a média e por que o desvio padrão não mudou.
+- b) Refaça o cálculo para a mesma série de seis valores, tratando-a agora como população inteira: muda uma única conta — divida a soma dos quadrados dos desvios por 6 em vez de 5 antes de extrair a raiz. Apresente o resultado com duas casas decimais e escreva qual dos dois é maior e por quê.
+- c) Some 10 a cada um dos seis valores e refaça a sequência inteira sobre a nova série — média, seis desvios, seis quadrados, soma, divisão por 5 e raiz quadrada: explique o que aconteceu com a média e por que o desvio padrão não mudou.
 
 **Confira você mesmo:** some a coluna dos desvios de cada um dos três itens — ela tem de dar zero em todos. Se não der, o erro está no cálculo da média.
 
@@ -48,13 +47,10 @@ c) Some 10 a cada um dos seis valores e refaça a sequência inteira sobre a nov
 
 **4.** Redija, para quem ainda não estudou dispersão, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "unidade", "média" e "espalhamento", diga em que unidade aquela medida se expressa, e feche com uma situação em que aquela medida sozinha levaria a uma conclusão errada:
 
-a) amplitude
-
-b) variância
-
-c) desvio padrão
-
-d) coeficiente de variação
+- a) amplitude
+- b) variância
+- c) desvio padrão
+- d) coeficiente de variação
 
 ---
 
@@ -78,13 +74,10 @@ Duas máquinas produzem parafusos com o mesmo comprimento médio. A máquina A t
 
 **7.** Assinale, entre as quatro, a única medida que devolve o resultado na mesma unidade dos dados, e diga o que cada uma das outras três devolve.
 
-a) A variância de um conjunto de notas.
-
-b) O desvio padrão de um conjunto de notas.
-
-c) O coeficiente de variação de um conjunto de notas.
-
-d) A soma dos desvios em relação à média das notas.
+- a) A variância de um conjunto de notas.
+- b) O desvio padrão de um conjunto de notas.
+- c) O coeficiente de variação de um conjunto de notas.
+- d) A soma dos desvios em relação à média das notas.
 
 **Responda:** qual das quatro devolve o resultado na unidade dos dados, e o que cada uma das outras três devolve?
 
@@ -96,13 +89,10 @@ d) A soma dos desvios em relação à média das notas.
 
 Os conjuntos A = 6, 7, 7, 7, 8 e B = 4, 6, 7, 9, 9 têm a mesma média, 7. A amplitude de A é 2 e a de B é 5.
 
-a) A amplitude sozinha descreve o espalhamento, porque usa o maior e o menor valor.
-
-b) A amplitude usa só os extremos, e o desvio médio mostra o que acontece entre eles.
-
-c) Os dois conjuntos têm a mesma dispersão, porque a média é 7 nos dois casos.
-
-d) A amplitude de B é maior porque B tem mais valores no conjunto do que A.
+- a) A amplitude sozinha descreve o espalhamento, porque usa o maior e o menor valor.
+- b) A amplitude usa só os extremos, e o desvio médio mostra o que acontece entre eles.
+- c) Os dois conjuntos têm a mesma dispersão, porque a média é 7 nos dois casos.
+- d) A amplitude de B é maior porque B tem mais valores no conjunto do que A.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 

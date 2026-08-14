@@ -375,12 +375,14 @@ Nenhum bloco foi inventado. Os dois `Antes de começar` novos são as `INV.a` e 
 **Adendo de 12/08 — leitura do `Registre:` fixada.** O §7.1 §4 dizia *"registro contínuo ou periódico"*, e por essa leitura estrita um bloco desta disciplina foi desfeito nesta rodada. A regra foi reescrita para *"várias observações"* — vale a repetição no tempo **e** a repetição em número, porque o que decide o bloco é separar dado bruto de conclusão, não o calendário. O bloco desfeito foi restaurado. A contagem de `Registre:` da disciplina sobe em 1 em relação ao que a seção anterior registrou.
 
 
-### Quebra de linha nas alternativas — 14/08
+### Alternativas em lista Markdown — 14/08
 
-As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **20 blocos** desta disciplina, todos de alternativas de `OBJ` (nenhuma outra questão usa subitem `a) b) c)`), somando **72** linhas `a)`–`d)`: **52 linhas em branco inseridas**.
+As alternativas e os subitens estavam escritos como linhas soltas de prosa. Nesse formato o Markdown funde a lista inteira num parágrafo único — ao renderizar e, sobretudo, **ao colar a folha no Google Docs**, que é o caminho pelo qual ela chega ao papel. Convertidos **20 blocos** desta disciplina, todos de alternativas de `OBJ` (nenhuma outra questão usa subitem `a) b) c)`), somando **72** itens, agora em lista Markdown: uma linha por item, iniciada por `- `, com linha em branco antes do primeiro e nenhuma entre eles.
 
-**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+**Foram duas passadas no mesmo dia.** A primeira separou os itens por linha em branco: resolve a renderização, não resolve a colagem. A lista resolve as duas, porque item de lista ocupa linha própria tanto no texto cru quanto na pré-visualização renderizada — e é de um desses dois que sai a cópia.
 
-**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+**Nada além do formato foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou; a conferência comparou cada folha com a versão em `git HEAD` ignorando o prefixo `- ` e as linhas vazias, e não houve divergência de texto em nenhum arquivo.
 
-A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.
+**Nenhuma linha da grade mudou.** A correção é de formato, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra consta em `06-PRODUCAO.md` §7.1 (subitens, com exemplo), no molde de `OBJ`, no exemplo calibrado da objetiva da rodovia e nas regras rígidas do prompt de produção (§9); em `00-LEIA-ME.md`, no índice do §7.1; e no `CLAUDE.md` §5, item 17.

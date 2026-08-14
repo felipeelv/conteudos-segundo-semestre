@@ -51,13 +51,10 @@ A independência haitiana foi a única das Américas conduzida por pessoas escra
 
 **7.** Assinale, entre as quatro afirmações sobre criollos e peninsulares, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) Criollos eram os indígenas da América espanhola, e peninsulares, os africanos escravizados.
-
-b) Criollos eram brancos nascidos na América; peninsulares, brancos nascidos na Espanha.
-
-c) Criollos e peninsulares tinham exatamente os mesmos direitos e ocupavam os mesmos cargos.
-
-d) Criollos eram os pobres das colônias, e peninsulares, os proprietários de terra e comércio.
+- a) Criollos eram os indígenas da América espanhola, e peninsulares, os africanos escravizados.
+- b) Criollos eram brancos nascidos na América; peninsulares, brancos nascidos na Espanha.
+- c) Criollos e peninsulares tinham exatamente os mesmos direitos e ocupavam os mesmos cargos.
+- d) Criollos eram os pobres das colônias, e peninsulares, os proprietários de terra e comércio.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -69,13 +66,10 @@ d) Criollos eram os pobres das colônias, e peninsulares, os proprietários de t
 
 Em 1825, a França exigiu do Haiti uma indenização em dinheiro para reconhecer a sua independência. O valor cobria as perdas dos antigos proprietários de terras e de pessoas escravizadas.
 
-a) A cobrança mostra que a independência haitiana não havia sido conquistada militarmente.
-
-b) O país que se libertou pela guerra pagou, em dinheiro, a quem o havia escravizado.
-
-c) A cobrança foi um empréstimo comum, igual ao que outros países novos tomaram.
-
-d) A França cobrou porque o Haiti destruiu as plantações durante a sua revolução.
+- a) A cobrança mostra que a independência haitiana não havia sido conquistada militarmente.
+- b) O país que se libertou pela guerra pagou, em dinheiro, a quem o havia escravizado.
+- c) A cobrança foi um empréstimo comum, igual ao que outros países novos tomaram.
+- d) A França cobrou porque o Haiti destruiu as plantações durante a sua revolução.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -111,11 +105,9 @@ Cada seta do esquema precisa de um rótulo.
 
 **5.** Redija, para o glossário da sua turma, um verbete de quatro a cinco linhas sobre cada medida a seguir, indicando em cada caso o efeito econômico que ela produziu:
 
-a) abertura dos portos
-
-b) criação do Banco do Brasil
-
-c) elevação a Reino Unido
+- a) abertura dos portos
+- b) criação do Banco do Brasil
+- c) elevação a Reino Unido
 
 ---
 
@@ -129,13 +121,10 @@ Um estudante escreveu: *"A Independência do Brasil foi pacífica, porque não h
 
 **7.** Assinale, entre as quatro mudanças, a única que a Independência de 1822 de fato trouxe, e diga o que aconteceu com cada uma das outras três.
 
-a) O fim do domínio político de Portugal sobre o território brasileiro.
-
-b) O fim da escravidão nas fazendas e nas cidades do novo país.
-
-c) A substituição da monarquia por uma república presidencialista.
-
-d) A perda de poder das elites agrárias sobre a política do Império.
+- a) O fim do domínio político de Portugal sobre o território brasileiro.
+- b) O fim da escravidão nas fazendas e nas cidades do novo país.
+- c) A substituição da monarquia por uma república presidencialista.
+- d) A perda de poder das elites agrárias sobre a política do Império.
 
 **Responda:** qual das quatro a Independência trouxe, e o que aconteceu com cada uma das outras três?
 
@@ -147,13 +136,10 @@ d) A perda de poder das elites agrárias sobre a política do Império.
 
 Em 1820, a Revolução Liberal do Porto exigiu uma Constituição para Portugal e, ao mesmo tempo, o retorno das províncias brasileiras à submissão a Lisboa.
 
-a) O movimento era liberal em Portugal e restritivo para o Brasil, porque pedia Constituição lá e submissão aqui.
-
-b) O movimento era liberal em Portugal e restritivo para o Brasil, porque D. Pedro se recusou a voltar a Lisboa.
-
-c) O movimento era liberal dos dois lados, porque toda Constituição limita o rei em qualquer território.
-
-d) O movimento era liberal em Portugal e restritivo para o Brasil, porque a Inglaterra o financiou por interesse.
+- a) O movimento era liberal em Portugal e restritivo para o Brasil, porque pedia Constituição lá e submissão aqui.
+- b) O movimento era liberal em Portugal e restritivo para o Brasil, porque D. Pedro se recusou a voltar a Lisboa.
+- c) O movimento era liberal dos dois lados, porque toda Constituição limita o rei em qualquer território.
+- d) O movimento era liberal em Portugal e restritivo para o Brasil, porque a Inglaterra o financiou por interesse.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 
@@ -215,13 +201,10 @@ O Período Regencial foi o mais instável da história do Império.
 
 Em 1823, D. Pedro I dissolveu a Assembleia Constituinte. No ano seguinte, entregou ao país uma Constituição escrita por homens de sua confiança, que criava um Poder Moderador exclusivo do imperador.
 
-a) A Constituição foi outorgada, e o Poder Moderador deixava o imperador interferir nos outros poderes.
-
-b) A Constituição foi votada pela Assembleia, que a aprovou depois de uma longa discussão.
-
-c) A Constituição limitou o poder do imperador, que passou a depender sempre do Legislativo.
-
-d) A Constituição garantiu o voto a toda a população, sem nenhuma exigência de renda.
+- a) A Constituição foi outorgada, e o Poder Moderador deixava o imperador interferir nos outros poderes.
+- b) A Constituição foi votada pela Assembleia, que a aprovou depois de uma longa discussão.
+- c) A Constituição limitou o poder do imperador, que passou a depender sempre do Legislativo.
+- d) A Constituição garantiu o voto a toda a população, sem nenhuma exigência de renda.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -231,13 +214,10 @@ d) A Constituição garantiu o voto a toda a população, sem nenhuma exigência
 
 **8.** Assinale, entre as quatro afirmações sobre o Ato Adicional de 1834, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) O Ato Adicional centralizou o poder nas mãos do regente, tirando-o das províncias.
-
-b) O Ato Adicional deu assembleias próprias às províncias e ampliou diferenças regionais.
-
-c) O Ato Adicional encerrou as revoltas regenciais em todo o território do Império.
-
-d) O Ato Adicional restabeleceu o Poder Moderador, suspenso desde a abdicação.
+- a) O Ato Adicional centralizou o poder nas mãos do regente, tirando-o das províncias.
+- b) O Ato Adicional deu assembleias próprias às províncias e ampliou diferenças regionais.
+- c) O Ato Adicional encerrou as revoltas regenciais em todo o território do Império.
+- d) O Ato Adicional restabeleceu o Poder Moderador, suspenso desde a abdicação.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 

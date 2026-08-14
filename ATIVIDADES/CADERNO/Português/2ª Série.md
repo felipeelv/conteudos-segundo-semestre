@@ -9,13 +9,10 @@
 
 **1.** Justifique a próclise em cada caso abaixo, nomeando o fator atrativo.
 
-a) Nada me disseram.
-
-b) Talvez se resolva sozinho.
-
-c) O documento que lhe entreguei sumiu.
-
-d) Poucos o conhecem de fato.
+- a) Nada me disseram.
+- b) Talvez se resolva sozinho.
+- c) O documento que lhe entreguei sumiu.
+- d) Poucos o conhecem de fato.
 
 **Responda:** que fator atrativo exige a próclise em cada um dos quatro casos?
 
@@ -27,9 +24,8 @@ d) Poucos o conhecem de fato.
 
 A norma trata as duas de formas diferentes.
 
-a) Me empresta a caneta.
-
-b) Empresta-me a caneta.
+- a) Me empresta a caneta.
+- b) Empresta-me a caneta.
 
 **Responda:** qual delas a norma escrita prescreve, qual predomina na fala, e por que a mesma língua comporta as duas?
 
@@ -69,13 +65,10 @@ As duas fontes são um texto jornalístico — impresso, digital ou do acervo da
 
 Duas frases: *"Aqui se trabalha muito"* e *"Aqui, trabalha-se muito"*.
 
-a) As duas estão corretas: a pausa marcada pela vírgula desfaz a atração do advérbio.
-
-b) Só a primeira está correta, porque advérbio sempre atrai o pronome para antes do verbo.
-
-c) Só a segunda está correta, porque a ênclise é a única colocação da norma escrita.
-
-d) As duas estão erradas, porque advérbio nenhum influencia a colocação pronominal.
+- a) As duas estão corretas: a pausa marcada pela vírgula desfaz a atração do advérbio.
+- b) Só a primeira está correta, porque advérbio sempre atrai o pronome para antes do verbo.
+- c) Só a segunda está correta, porque a ênclise é a única colocação da norma escrita.
+- d) As duas estão erradas, porque advérbio nenhum influencia a colocação pronominal.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 
@@ -85,13 +78,10 @@ d) As duas estão erradas, porque advérbio nenhum influencia a colocação pron
 
 **8.** Assinale, entre as quatro frases, a única de acordo com a norma escrita, e diga que colocação a norma pede em cada uma das outras três.
 
-a) Me disseram que a reunião mudou de horário.
-
-b) Não me disseram que a reunião mudou de horário.
-
-c) Não disseram-me que a reunião mudou de horário.
-
-d) Não dir-me-ão que a reunião mudou de horário.
+- a) Me disseram que a reunião mudou de horário.
+- b) Não me disseram que a reunião mudou de horário.
+- c) Não disseram-me que a reunião mudou de horário.
+- d) Não dir-me-ão que a reunião mudou de horário.
 
 **Responda:** qual frase está de acordo com a norma escrita, e que colocação a norma pede em cada uma das outras três?
 
@@ -102,11 +92,9 @@ d) Não dir-me-ão que a reunião mudou de horário.
 
 **1.** Elabore a forma com mesóclise de cada combinação abaixo.
 
-a) fazer + se (futuro do presente)
-
-b) dizer + lhe (futuro do pretérito)
-
-c) trazer + nos (futuro do presente)
+- a) fazer + se (futuro do presente)
+- b) dizer + lhe (futuro do pretérito)
+- c) trazer + nos (futuro do presente)
 
 **Confira você mesmo:** separe a forma em três partes. Se o pronome não estiver entre o radical do infinitivo e a desinência de futuro, a construção está errada.
 
@@ -116,9 +104,8 @@ c) trazer + nos (futuro do presente)
 
 As duas estão no futuro.
 
-a) Far-se-á o pagamento.
-
-b) Não se fará o pagamento.
+- a) Far-se-á o pagamento.
+- b) Não se fará o pagamento.
 
 **Responda:** por que a segunda não admite mesóclise, e que fator responde por isso?
 
@@ -132,9 +119,8 @@ Inclua um exemplo próprio de cada e a forma resultante com pronome.
 
 **4.** Reescreva as frases abaixo em registro contemporâneo, sem mesóclise, mantendo o sentido.
 
-a) Dir-lhe-ei a verdade amanhã.
-
-b) Far-se-ão as devidas correções.
+- a) Dir-lhe-ei a verdade amanhã.
+- b) Far-se-ão as devidas correções.
 
 ---
 
@@ -156,13 +142,10 @@ Procure em texto jurídico, literário ou jornalístico — impresso, digital ou
 
 **7.** Assinale, entre as quatro afirmações sobre a mesóclise, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-a) A mesóclise ocorre em qualquer tempo verbal, desde que não haja palavra atrativa.
-
-b) A mesóclise ocorre no futuro do presente e no futuro do pretérito, sem palavra atrativa.
-
-c) A mesóclise é obrigatória sempre que o verbo estiver no futuro, mesmo havendo atrator.
-
-d) A mesóclise é forma incorreta, que a norma escrita não admite em nenhuma situação.
+- a) A mesóclise ocorre em qualquer tempo verbal, desde que não haja palavra atrativa.
+- b) A mesóclise ocorre no futuro do presente e no futuro do pretérito, sem palavra atrativa.
+- c) A mesóclise é obrigatória sempre que o verbo estiver no futuro, mesmo havendo atrator.
+- d) A mesóclise é forma incorreta, que a norma escrita não admite em nenhuma situação.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 
@@ -174,13 +157,10 @@ d) A mesóclise é forma incorreta, que a norma escrita não admite em nenhuma s
 
 *Nunca lhe contaria a verdade.*
 
-a) A colocação é próclise, porque *nunca* é palavra atrativa e impede a mesóclise.
-
-b) A colocação é próclise, porque o verbo está no futuro do pretérito.
-
-c) A colocação é mesóclise, porque o verbo está num dos dois tempos que a admitem.
-
-d) A colocação é próclise, porque a próclise é a forma preferida na fala brasileira.
+- a) A colocação é próclise, porque *nunca* é palavra atrativa e impede a mesóclise.
+- b) A colocação é próclise, porque o verbo está no futuro do pretérito.
+- c) A colocação é mesóclise, porque o verbo está num dos dois tempos que a admitem.
+- d) A colocação é próclise, porque a próclise é a forma preferida na fala brasileira.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 
@@ -191,11 +171,9 @@ d) A colocação é próclise, porque a próclise é a forma preferida na fala b
 
 **1.** Elabore a forma com ênclise de cada combinação abaixo.
 
-a) Entregar + me (imperativo afirmativo)
-
-b) Ver + o (infinitivo)
-
-c) Levantar + se (gerúndio)
+- a) Entregar + me (imperativo afirmativo)
+- b) Ver + o (infinitivo)
+- c) Levantar + se (gerúndio)
 
 **Confira você mesmo:** leia cada forma em voz alta. Se o pronome vier depois do verbo e a forma estiver hifenizada corretamente, a ênclise está bem construída; sem o hífen, a construção não se sustenta.
 
@@ -205,9 +183,8 @@ c) Levantar + se (gerúndio)
 
 Uma exige ênclise e a outra a proíbe.
 
-a) Diga-me a verdade.
-
-b) Não me diga isso.
+- a) Diga-me a verdade.
+- b) Não me diga isso.
 
 **Responda:** o que determina a colocação em cada uma, e que fator está presente na segunda?
 
@@ -249,13 +226,10 @@ Cada versão precisa conter pelo menos dois pronomes átonos.
 
 **7.** Assinale, entre as quatro formas, a única escrita corretamente, e escreva a forma correta de cada uma das outras três.
 
-a) fazer + o → fazer-o
-
-b) dar + a → dá-la
-
-c) pôr + os → pô-lo
-
-d) convidar + a → convidar-a
+- a) fazer + o → fazer-o
+- b) dar + a → dá-la
+- c) pôr + os → pô-lo
+- d) convidar + a → convidar-a
 
 **Responda:** qual forma está correta, e qual é a forma correta de cada uma das outras três?
 
@@ -267,13 +241,10 @@ d) convidar + a → convidar-a
 
 Numa conversa, alguém diz *"Me diga a verdade"*. Num documento oficial, escreve-se *"Diga-me a verdade"*.
 
-a) A forma da conversa está errada, porque em português existe uma única forma correta.
-
-b) As duas existem: a norma escrita pede ênclise no início da frase, e a fala prefere a próclise.
-
-c) A forma do documento está errada, porque ninguém fala assim no Brasil de hoje.
-
-d) As duas são equivalentes, porque a posição do pronome não muda nada na frase.
+- a) A forma da conversa está errada, porque em português existe uma única forma correta.
+- b) As duas existem: a norma escrita pede ênclise no início da frase, e a fala prefere a próclise.
+- c) A forma do documento está errada, porque ninguém fala assim no Brasil de hoje.
+- d) As duas são equivalentes, porque a posição do pronome não muda nada na frase.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 
@@ -284,13 +255,10 @@ d) As duas são equivalentes, porque a posição do pronome não muda nada na fr
 
 **1.** Decida a posição do pronome átono na locução verbal de cada caso abaixo.
 
-a) *vou / explicar* + **lhe** — sem palavra atrativa
-
-b) *não vou / pedir* + **lhe** — com palavra atrativa
-
-c) *tinha / contado* + **lhe** — verbo principal no particípio
-
-d) *nunca haviam / enviado* + **nos** — palavra atrativa e particípio
+- a) *vou / explicar* + **lhe** — sem palavra atrativa
+- b) *não vou / pedir* + **lhe** — com palavra atrativa
+- c) *tinha / contado* + **lhe** — verbo principal no particípio
+- d) *nunca haviam / enviado* + **nos** — palavra atrativa e particípio
 
 **Responda:** em que posição fica o pronome em cada um dos quatro casos?
 
@@ -359,13 +327,10 @@ O parágrafo precisa conter uma objeção construída na forma *"alguém poderia
 
 **8.** Assinale, entre as quatro afirmações sobre colocação em locuções verbais, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-a) Numa locução com particípio, o pronome pode ficar depois dele: *tinha contado-lhe*.
-
-b) Numa locução com particípio, o pronome não fica depois dele: *tinha-lhe contado*.
-
-c) Numa locução com infinitivo, existe uma única posição possível para o pronome átono.
-
-d) Havendo palavra atrativa, o pronome deve ficar depois do verbo principal da locução.
+- a) Numa locução com particípio, o pronome pode ficar depois dele: *tinha contado-lhe*.
+- b) Numa locução com particípio, o pronome não fica depois dele: *tinha-lhe contado*.
+- c) Numa locução com infinitivo, existe uma única posição possível para o pronome átono.
+- d) Havendo palavra atrativa, o pronome deve ficar depois do verbo principal da locução.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 
@@ -377,13 +342,10 @@ d) Havendo palavra atrativa, o pronome deve ficar depois do verbo principal da l
 
 Duas construções: *"Não lhe vou pedir uma cópia"* e *"Não vou lhe pedir uma cópia"*.
 
-a) As duas são aceitas: com atrator, o pronome fica antes do auxiliar ou antes do principal.
-
-b) As duas são aceitas, porque em locução verbal o pronome pode ficar em qualquer lugar.
-
-c) Só a primeira é aceita, porque o pronome deve vir imediatamente após a palavra atrativa.
-
-d) As duas são aceitas, porque o verbo *ir* admite qualquer colocação de pronome átono.
+- a) As duas são aceitas: com atrator, o pronome fica antes do auxiliar ou antes do principal.
+- b) As duas são aceitas, porque em locução verbal o pronome pode ficar em qualquer lugar.
+- c) Só a primeira é aceita, porque o pronome deve vir imediatamente após a palavra atrativa.
+- d) As duas são aceitas, porque o verbo *ir* admite qualquer colocação de pronome átono.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 
@@ -396,9 +358,8 @@ d) As duas são aceitas, porque o verbo *ir* admite qualquer colocação de pron
 
 As duas usam o mesmo verbo no futuro.
 
-a) Nunca contar-lhe-ei a verdade.
-
-b) Nunca lhe contarei a verdade.
+- a) Nunca contar-lhe-ei a verdade.
+- b) Nunca lhe contarei a verdade.
 
 **Responda:** qual das duas a norma escrita admite, e que fator decide?
 
@@ -462,13 +423,10 @@ O parágrafo precisa empregar três pronomes átonos em posições diferentes: u
 
 **9.** Assinale, entre as quatro situações, a única em que a **mesóclise** é a colocação recomendada, e diga qual é a colocação recomendada em cada uma das outras três.
 
-a) Início de frase em texto formal, verbo no presente: *Conte___ tudo o que sabe.*
-
-b) Futuro do presente sem palavra atrativa: *Dir___ei o resultado amanhã cedo.*
-
-c) Frase com palavra atrativa antes do verbo: *Nunca ___ disseram a verdade.*
-
-d) Locução verbal com particípio e atrator: *Não ___ tinha contado o combinado.*
+- a) Início de frase em texto formal, verbo no presente: *Conte___ tudo o que sabe.*
+- b) Futuro do presente sem palavra atrativa: *Dir___ei o resultado amanhã cedo.*
+- c) Frase com palavra atrativa antes do verbo: *Nunca ___ disseram a verdade.*
+- d) Locução verbal com particípio e atrator: *Não ___ tinha contado o combinado.*
 
 **Responda:** em qual das quatro a mesóclise é recomendada, e qual é a colocação recomendada em cada uma das outras três?
 
@@ -480,13 +438,10 @@ d) Locução verbal com particípio e atrator: *Não ___ tinha contado o combina
 
 Numa mensagem de aplicativo para um amigo, alguém escreve: *"Dir-te-ei o horário assim que souber."*
 
-a) A frase está gramaticalmente errada, porque a mesóclise não existe mais em português.
-
-b) A frase está correta, mas soa artificial no registro de uma conversa entre amigos.
-
-c) A frase está correta e é a mais adequada, porque a norma escrita vale em todo contexto.
-
-d) A frase está errada, porque o certo seria *te direi*, única forma admitida hoje em dia.
+- a) A frase está gramaticalmente errada, porque a mesóclise não existe mais em português.
+- b) A frase está correta, mas soa artificial no registro de uma conversa entre amigos.
+- c) A frase está correta e é a mais adequada, porque a norma escrita vale em todo contexto.
+- d) A frase está errada, porque o certo seria *te direi*, única forma admitida hoje em dia.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
 

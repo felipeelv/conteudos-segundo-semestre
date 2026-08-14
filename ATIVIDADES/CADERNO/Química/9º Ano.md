@@ -35,13 +35,10 @@ A tabela precisa trazer, para cada uma das três:
 
 **3.** Redija, para cada substância a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, informando a fórmula, explicando o que acontece com a substância quando ela é colocada em água e por que o pH da solução resultante fica acima ou abaixo de 7. Empregue obrigatoriamente os termos ionização ou dissociação, íon e pH:
 
-a) ácido clorídrico
-
-b) ácido acético
-
-c) hidróxido de sódio
-
-d) hidróxido de magnésio
+- a) ácido clorídrico
+- b) ácido acético
+- c) hidróxido de sódio
+- d) hidróxido de magnésio
 
 ---
 
@@ -83,13 +80,10 @@ Enuncie a posição na primeira linha, sustente-a com dois exemplos de materiais
 
 **9.** Assinale, entre os quatro, o único caso de **dissociação**, e diga o que é cada um dos outros três.
 
-a) O NaOH sólido colocado em água separa íons Na⁺ e OH⁻ que já existiam nele.
-
-b) O HCl molecular colocado em água forma H₃O⁺ e Cl⁻, que antes não existiam.
-
-c) O HCl e o H₂SO₄ em solução conduzem corrente elétrica por terem íons móveis.
-
-d) O tornassol azul colocado em meio ácido passa a apresentar a cor vermelha.
+- a) O NaOH sólido colocado em água separa íons Na⁺ e OH⁻ que já existiam nele.
+- b) O HCl molecular colocado em água forma H₃O⁺ e Cl⁻, que antes não existiam.
+- c) O HCl e o H₂SO₄ em solução conduzem corrente elétrica por terem íons móveis.
+- d) O tornassol azul colocado em meio ácido passa a apresentar a cor vermelha.
 
 **Responda:** qual dos quatro é dissociação, e o que é cada um dos outros três?
 
@@ -99,13 +93,10 @@ d) O tornassol azul colocado em meio ácido passa a apresentar a cor vermelha.
 
 **10.** Assinale, entre as quatro afirmações sobre a escala de pH, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) O pH indica o caráter da solução; o risco depende também de concentração e composição.
-
-b) O pH mede diretamente o risco: quanto mais longe de 7, mais perigosa é a substância.
-
-c) O pH próximo de 7 aponta sempre a substância mais perigosa entre as comparadas.
-
-d) O pH não informa nada sobre a solução, porque depende do indicador utilizado.
+- a) O pH indica o caráter da solução; o risco depende também de concentração e composição.
+- b) O pH mede diretamente o risco: quanto mais longe de 7, mais perigosa é a substância.
+- c) O pH próximo de 7 aponta sempre a substância mais perigosa entre as comparadas.
+- d) O pH não informa nada sobre a solução, porque depende do indicador utilizado.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 

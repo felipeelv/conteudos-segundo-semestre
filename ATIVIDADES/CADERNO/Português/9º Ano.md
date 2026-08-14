@@ -9,13 +9,10 @@
 
 **1.** Reescreva cada frase abaixo corrigindo a concordância verbal.
 
-a) Houveram muitas reclamações.
-
-b) A maioria dos candidatos desistiu.
-
-c) Cerca de 20% dos alunos faltou.
-
-d) Vossa Senhoria está enganado.
+- a) Houveram muitas reclamações.
+- b) A maioria dos candidatos desistiu.
+- c) Cerca de 20% dos alunos faltou.
+- d) Vossa Senhoria está enganado.
 
 **Confira você mesmo:** substitua o sujeito por um pronome pessoal simples. Se o verbo mudar de forma, o sujeito não era o que você supunha — e a correção daquela frase partiu do termo errado.
 
@@ -25,9 +22,8 @@ d) Vossa Senhoria está enganado.
 
 As duas estão corretas.
 
-a) Mais de um aluno se cumprimentaram.
-
-b) Mais de um aluno chegou atrasado.
+- a) Mais de um aluno se cumprimentaram.
+- b) Mais de um aluno chegou atrasado.
 
 **Responda:** o que, em cada frase, decide o número do verbo?
 
@@ -69,13 +65,10 @@ Procure em texto impresso, em página da internet ou no acervo da escola, e regi
 
 **7.** Assinale, entre as quatro afirmações sobre concordância verbal, a única correta, e justifique por que cada uma das outras três está errada.
 
-a) Em *Vendem-se casas*, o *se* indetermina o sujeito, e o verbo deveria ficar no singular.
-
-b) Em *Vendem-se casas*, o *se* é apassivador: *casas* é o sujeito, e o verbo vai ao plural.
-
-c) *Haver* no sentido de existir concorda com o termo seguinte, como em *houveram problemas*.
-
-d) O sujeito oracional leva o verbo ao plural, porque a oração que o forma tem vários termos.
+- a) Em *Vendem-se casas*, o *se* indetermina o sujeito, e o verbo deveria ficar no singular.
+- b) Em *Vendem-se casas*, o *se* é apassivador: *casas* é o sujeito, e o verbo vai ao plural.
+- c) *Haver* no sentido de existir concorda com o termo seguinte, como em *houveram problemas*.
+- d) O sujeito oracional leva o verbo ao plural, porque a oração que o forma tem vários termos.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -87,13 +80,10 @@ d) O sujeito oracional leva o verbo ao plural, porque a oração que o forma tem
 
 *50% dos alunos faltaram à aula de segunda-feira.*
 
-a) A construção está correta: com especificador no plural, o verbo pode concordar com ele.
-
-b) A construção está correta, porque toda porcentagem exige o verbo no plural.
-
-c) A construção está errada, porque o verbo deve concordar sempre com o numeral: *faltou*.
-
-d) A construção está correta, porque o número 50 é maior que 1 e por isso pede plural.
+- a) A construção está correta: com especificador no plural, o verbo pode concordar com ele.
+- b) A construção está correta, porque toda porcentagem exige o verbo no plural.
+- c) A construção está errada, porque o verbo deve concordar sempre com o numeral: *faltou*.
+- d) A construção está correta, porque o número 50 é maior que 1 e por isso pede plural.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 
@@ -104,13 +94,10 @@ d) A construção está correta, porque o número 50 é maior que 1 e por isso p
 
 **1.** Reescreva cada frase abaixo corrigindo a concordância nominal.
 
-a) Ela está meia cansada.
-
-b) Seguem anexo as planilhas.
-
-c) É proibido a entrada.
-
-d) Comprei bastantes livros.
+- a) Ela está meia cansada.
+- b) Seguem anexo as planilhas.
+- c) É proibido a entrada.
+- d) Comprei bastantes livros.
 
 **Confira você mesmo:** substitua a palavra em análise por um adjetivo comum. Se ele variar e a palavra original não variar, ela é advérbio — e tem de ficar invariável na sua correção.
 
@@ -120,9 +107,8 @@ d) Comprei bastantes livros.
 
 A mesma palavra aparece nas duas.
 
-a) Ela comprou meio quilo de queijo.
-
-b) Ela está meio cansada.
+- a) Ela comprou meio quilo de queijo.
+- b) Ela está meio cansada.
 
 **Responda:** em qual das duas *meio* varia, e por quê?
 
@@ -156,25 +142,19 @@ Um estudante escreveu: *"'Obrigado' é invariável, é sempre 'obrigado'."*
 
 **6.** Redija, para cada regra a seguir, um verbete de até quatro linhas que outro estudante possa consultar, com um exemplo próprio em cada:
 
-a) um adjetivo para vários substantivos
-
-b) vários adjetivos para um substantivo
-
-c) *mesmo* e *próprio*
-
-d) *possível* com superlativo
+- a) um adjetivo para vários substantivos
+- b) vários adjetivos para um substantivo
+- c) *mesmo* e *próprio*
+- d) *possível* com superlativo
 
 ---
 
 **7.** Assinale, entre as quatro frases, a única em que a concordância nominal está correta, e diga que erro há em cada uma das outras três.
 
-a) Segue anexo a fatura solicitada pela empresa.
-
-b) Estão inclusas as fotos do evento de sábado.
-
-c) É proibida entrada de pessoas estranhas ao setor.
-
-d) Havia menas pessoas na sala do que na semana passada.
+- a) Segue anexo a fatura solicitada pela empresa.
+- b) Estão inclusas as fotos do evento de sábado.
+- c) É proibida entrada de pessoas estranhas ao setor.
+- d) Havia menas pessoas na sala do que na semana passada.
 
 **Responda:** qual frase está correta, e que erro há em cada uma das outras três?
 
@@ -186,13 +166,10 @@ d) Havia menas pessoas na sala do que na semana passada.
 
 Duas frases: *"Ela ficou meio cansada"* e *"Ela comprou meia garrafa de suco"*.
 
-a) Nas duas, *meio* deveria variar, porque acompanha palavras femininas.
-
-b) Na primeira, *meio* equivale a "um pouco" e não varia; na segunda, é numeral e varia.
-
-c) Nas duas, *meio* deveria ficar invariável, porque essa palavra nunca concorda com nada.
-
-d) A diferença entre as duas está no verbo empregado, e não na palavra *meio*.
+- a) Nas duas, *meio* deveria variar, porque acompanha palavras femininas.
+- b) Na primeira, *meio* equivale a "um pouco" e não varia; na segunda, é numeral e varia.
+- c) Nas duas, *meio* deveria ficar invariável, porque essa palavra nunca concorda com nada.
+- d) A diferença entre as duas está no verbo empregado, e não na palavra *meio*.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
