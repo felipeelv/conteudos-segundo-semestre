@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — A célula, unidade da vida
 
-**1.** Ordene, numa linha do tempo, os quatro marcos estudados da descoberta da célula.
+### ATIVIDADE 01
+
+Ordene, numa linha do tempo, os quatro marcos estudados da descoberta da célula.
 
 A linha do tempo precisa trazer:
 
@@ -17,13 +19,17 @@ A linha do tempo precisa trazer:
 
 ---
 
-**2.** Elabore uma tabela que compare célula animal e célula vegetal.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare célula animal e célula vegetal.
 
 Além das estruturas que as distinguem, inclua uma coluna que relacione cada diferença ao modo de vida do organismo.
 
 ---
 
-**3.** Elabore uma história em quadrinhos de quatro quadros que mostre uma célula por dentro.
+### ATIVIDADE 03
+
+Elabore uma história em quadrinhos de quatro quadros que mostre uma célula por dentro.
 
 A história precisa trazer:
 
@@ -32,13 +38,17 @@ A história precisa trazer:
 
 ---
 
-**4.** Redija um verbete de até cinco linhas sobre a relação entre a forma e a função de uma célula, empregando obrigatoriamente os termos **neurônio**, **hemácia** e **cloroplasto**.
+### ATIVIDADE 04
+
+Redija um verbete de até cinco linhas sobre a relação entre a forma e a função de uma célula, empregando obrigatoriamente os termos **neurônio**, **hemácia** e **cloroplasto**.
 
 Em cada um dos três, o verbete precisa explicar o que aquela célula deixaria de conseguir fazer se tivesse a forma de uma das outras.
 
 ---
 
-**5.** Diagnostique o erro na afirmação a seguir sobre as bactérias.
+### ATIVIDADE 05
+
+Diagnostique o erro na afirmação a seguir sobre as bactérias.
 
 Um estudante escreveu: *"Bactéria é um ser vivo mais simples, então ela é uma célula incompleta."*
 
@@ -46,7 +56,9 @@ Um estudante escreveu: *"Bactéria é um ser vivo mais simples, então ela é um
 
 ---
 
-**6.** Decida qual de duas células você chamaria de *ser vivo*.
+### ATIVIDADE 06
+
+Decida qual de duas células você chamaria de *ser vivo*.
 
 Uma bactéria e uma célula do seu braço são as duas células vivas.
 
@@ -54,7 +66,9 @@ Uma bactéria e uma célula do seu braço são as duas células vivas.
 
 ---
 
-**7.** Preveja o que vai acontecer com duas folhas de uma mesma planta — uma deixada ao ar, outra com o cabo na água — e confronte a previsão com o que observar no dia seguinte.
+### ATIVIDADE 07
+
+Preveja o que vai acontecer com duas folhas de uma mesma planta — uma deixada ao ar, outra com o cabo na água — e confronte a previsão com o que observar no dia seguinte.
 
 **Antes de começar, responda por escrito:** o que você espera encontrar em cada uma das duas folhas no dia seguinte?
 
@@ -64,7 +78,9 @@ Arranque duas folhas parecidas de uma mesma planta — de um vaso, de um jardim,
 
 ---
 
-**8.** Assinale, entre as quatro células descritas, a única que é procarionte, e justifique por que cada uma das outras três não é.
+### ATIVIDADE 08
+
+Assinale, entre as quatro células descritas, a única que é procarionte, e justifique por que cada uma das outras três não é.
 
 a) Uma bactéria do iogurte, com o material genético solto numa região do citoplasma.  
 b) Um protozoário que vive sozinho na água de uma poça e tem núcleo delimitado por membrana.  
@@ -77,7 +93,9 @@ d) Uma célula de folha, com parede celular rígida por fora da membrana plasmá
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre a teoria celular, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre a teoria celular, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) A teoria celular diz que todo ser vivo tem células e que toda célula vem de outra.  
 b) A teoria celular ficou pronta em 1665, quando Hooke observou a cortiça e nomeou as células.  
@@ -92,31 +110,41 @@ d) A teoria celular diz que a célula é a unidade da vida, exceto nos organismo
 
 ## Capítulo 2 — Níveis de organização dos seres vivos
 
-**1.** Elabore um esquema dos níveis de organização, da célula ao organismo.
+### ATIVIDADE 01
+
+Elabore um esquema dos níveis de organização, da célula ao organismo.
 
 Use um exemplo real do corpo humano em cada nível, e dê a cada seta um rótulo dizendo o que se ganha ao subir de nível.
 
 ---
 
-**2.** Elabore uma tabela com três sistemas do corpo humano em que fique visível a dependência entre eles.
+### ATIVIDADE 02
+
+Elabore uma tabela com três sistemas do corpo humano em que fique visível a dependência entre eles.
 
 Para cada um dos três sistemas, a tabela precisa registrar o que ele fornece aos outros dois e o que recebe deles.
 
 ---
 
-**3.** Explique todos os níveis de organização envolvidos no ato de levantar o braço, do tecido ao sistema.
+### ATIVIDADE 03
+
+Explique todos os níveis de organização envolvidos no ato de levantar o braço, do tecido ao sistema.
 
 **Responda, em um parágrafo de até seis linhas, para quem faltou à aula:** que níveis de organização entram em ação quando você levanta o braço, do tecido ao sistema?
 
 ---
 
-**4.** Redija um verbete de até cinco linhas explicando por que subir de nível de organização não é apenas juntar mais peças, empregando obrigatoriamente os termos **tecido**, **órgão** e **sistema**.
+### ATIVIDADE 04
+
+Redija um verbete de até cinco linhas explicando por que subir de nível de organização não é apenas juntar mais peças, empregando obrigatoriamente os termos **tecido**, **órgão** e **sistema**.
 
 Em cada um dos três, o verbete precisa dizer o que passa a ser possível nesse nível e não era possível no nível anterior.
 
 ---
 
-**5.** Diagnostique o erro na afirmação a seguir sobre o coração.
+### ATIVIDADE 05
+
+Diagnostique o erro na afirmação a seguir sobre o coração.
 
 Um estudante escreveu: *"Se uma célula do coração morre, o coração para de funcionar."*
 
@@ -124,7 +152,9 @@ Um estudante escreveu: *"Se uma célula do coração morre, o coração para de 
 
 ---
 
-**6.** Localize, em duas fontes diferentes, quantas células aproximadamente tem o corpo humano adulto e quantos tipos diferentes de célula existem.
+### ATIVIDADE 06
+
+Localize, em duas fontes diferentes, quantas células aproximadamente tem o corpo humano adulto e quantos tipos diferentes de célula existem.
 
 As fontes podem ser um livro, uma revista, o acervo da biblioteca da escola ou a internet. Registre o autor e a data de cada uma.
 
@@ -132,7 +162,9 @@ As fontes podem ser um livro, uma revista, o acervo da biblioteca da escola ou a
 
 ---
 
-**7.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Num laboratório, células musculares humanas são mantidas vivas dentro de um recipiente com nutrientes. Ali dentro elas se contraem, consomem nutrientes e originam novas células.
 
@@ -147,7 +179,9 @@ d) O conteúdo é um organismo unicelular, porque cada célula vive por conta pr
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 O estômago movimenta o alimento, produz substâncias digestivas e protege a própria parede.
 

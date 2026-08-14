@@ -368,6 +368,8 @@ Questões numeradas, na voz do aluno. **Sem campo de resposta, sem linha pontilh
 
 A questão separa o que o aluno **faz** do que o aluno **pensa e entrega**. A execução vai em prosa compacta; a entrega intelectual vai em blocos rotulados em negrito — ela é o centro da questão e não pode ficar escondida entre instruções mecânicas, com o mesmo peso visual de "pegue a régua". Os dois extremos falham: o checklist de etapas rotuladas faz o aluno executar sem pensar, e o parágrafo único corrido mistura ação, registro e pergunta.
 
+**O rótulo da questão é `### ATIVIDADE NN`, em linha própria.** Dois dígitos com zero à esquerda (`01`, não `1`), e a numeração **reinicia a cada capítulo** — a grade do §7.2 referencia a questão pelo par (Cap, Q), e é esse par que o rótulo espelha. O enunciado começa no parágrafo seguinte, sem o número grudado nele. A hierarquia da folha fica em três níveis: `#` disciplina e ano · `##` capítulo · `###` atividade.
+
 Estrutura, nesta ordem — os blocos 2, 4 e 6 só existem quando o item os tem:
 
 1. **Enunciado-síntese.** A primeira frase, com o verbo do banco do §6, dando o arco completo da questão (construir → transformar → registrar) sem detalhar o como. **A checagem 2 do §8 se afere aqui** — os imperativos internos da execução (*trace*, *marque*, *percorra*) não são verbos de comando. Se a questão pede previsão, a síntese não pode revelar o resultado esperado.
@@ -378,9 +380,11 @@ Estrutura, nesta ordem — os blocos 2, 4 e 6 só existem quando o item os tem:
 6. **`Confira você mesmo:`** — só quando o item tem conferência embutida. Diz o que o erro **significa**, não apenas que ele existe.
 
 ```markdown
-### Capítulo N — <título do capítulo>
+## Capítulo N — <título do capítulo>
 
-**1.** <enunciado-síntese, verbo do banco §6>
+### ATIVIDADE 01
+
+<enunciado-síntese, verbo do banco §6>
 
 <execução em prosa compacta; marcadores só onde a ordem importa>
 
@@ -405,7 +409,9 @@ Sem eles, o Markdown funde as linhas num parágrafo único ao renderizar **e ao 
 
 Exemplo calibrado — a questão de transformações do 8º ano de Geometria:
 
-> **1.** Construa uma malha quadriculada, aplique a um triângulo três transformações em sequência e registre o que muda e o que permanece em cada uma.
+> ### ATIVIDADE 01
+>
+> Construa uma malha quadriculada, aplique a um triângulo três transformações em sequência e registre o que muda e o que permanece em cada uma.
 >
 > Trace no caderno uma malha de 1 cm — pelo menos doze quadrados de lado — e, nela, um triângulo com os três vértices sobre pontos da malha. Aplique nesta ordem:
 >
@@ -421,7 +427,9 @@ Note: montar a malha e traçar o triângulo são uma frase de prosa, não "Etapa
 
 Segundo exemplo calibrado — a questão dos climogramas da 1ª série de Geografia, que mostra os outros três recursos: execução em dois parágrafos, marcador do caso (b) e `Responda:` em dois tempos.
 
-> **1.** Elabore dois climogramas de cidades brasileiras de climas contrastantes, com dados que você mesmo reunir, e identifique a maior diferença entre eles e o fator do clima que a explica.
+> ### ATIVIDADE 01
+>
+> Elabore dois climogramas de cidades brasileiras de climas contrastantes, com dados que você mesmo reunir, e identifique a maior diferença entre eles e o fator do clima que a explica.
 >
 > Consulte um atlas, um livro didático ou uma fonte digital e reúna a temperatura média e a precipitação de cada um dos doze meses de duas cidades — uma da Amazônia ou do litoral, outra do interior do Nordeste, do planalto do Sudeste ou do Sul. Se a fonte já trouxer o climograma pronto, transcreva dela os valores mês a mês.
 >
@@ -457,7 +465,9 @@ A objetiva usa o mesmo esqueleto, com um bloco a mais e uma restrição a mais. 
 
 Exemplo calibrado de `OBJ` — 7º ano de Ciências, item `OBJ.b`:
 
-> **7.** Assinale, entre as quatro alternativas, a que explica o que aconteceu com a população de uma espécie depois que uma rodovia dividiu a mata em que ela vivia, e justifique por que cada uma das outras três está errada.
+> ### ATIVIDADE 07
+>
+> Assinale, entre as quatro alternativas, a que explica o que aconteceu com a população de uma espécie depois que uma rodovia dividiu a mata em que ela vivia, e justifique por que cada uma das outras três está errada.
 >
 > Uma rodovia foi aberta no meio de uma área de mata e a dividiu em dois fragmentos. Nenhum animal foi retirado nem caçado, e a mata dos dois lados continuou de pé. Alguns anos depois, a população da espécie que vivia ali havia diminuído nos dois fragmentos.
 >
@@ -654,6 +664,10 @@ PARA CADA CAPÍTULO, NESTA ORDEM:
 REGRAS RÍGIDAS:
   - Um capítulo por vez dentro do agente. Não trate a disciplina inteira num só
     passe de raciocínio.
+  - Rótulo da questão: "### ATIVIDADE NN" em linha própria, dois dígitos com zero
+    à esquerda, reiniciando a cada capítulo. O enunciado vem no parágrafo
+    seguinte, nunca com o número grudado nele. Hierarquia: # ano · ## capítulo ·
+    ### atividade.
   - O enunciado é o texto final do aluno. Não escreva "peça que o aluno...".
   - Sem campo de resposta, sem linha pontilhada, sem moldura: só o enunciado.
   - Sem instrução de andaime ("você escolhe", "pode ser qualquer").

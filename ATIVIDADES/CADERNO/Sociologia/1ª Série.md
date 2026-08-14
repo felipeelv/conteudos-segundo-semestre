@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — O trabalho como atividade social
 
-**1.** Elabore uma tabela que classifique, como trabalho, como emprego ou como os dois ao mesmo tempo, três casos que o capítulo não menciona.
+### ATIVIDADE 01
+
+Elabore uma tabela que classifique, como trabalho, como emprego ou como os dois ao mesmo tempo, três casos que o capítulo não menciona.
 
 Os três casos são:
 
@@ -21,7 +23,9 @@ Defina as colunas de critério da tabela e inclua entre elas um critério ausent
 
 ---
 
-**2.** Registre, em um levantamento pelo caminho que você faz habitualmente entre a sua casa e a escola, as ocupações em funcionamento que encontrar, e compare a contagem com a previsão feita antes de sair.
+### ATIVIDADE 02
+
+Registre, em um levantamento pelo caminho que você faz habitualmente entre a sua casa e a escola, as ocupações em funcionamento que encontrar, e compare a contagem com a previsão feita antes de sair.
 
 **Antes de começar, responda por escrito:** em que categorias você vai classificar as ocupações que encontrar, e qual delas você prevê que aparecerá mais vezes?
 
@@ -33,7 +37,9 @@ Percorra o caminho observando as ocupações em funcionamento. Não registre nom
 
 ---
 
-**3.** Elabore um esquema da divisão técnica do trabalho na produção de um objeto de uso diário — um caderno, uma camiseta, um pão ou um par de sapatos.
+### ATIVIDADE 03
+
+Elabore um esquema da divisão técnica do trabalho na produção de um objeto de uso diário — um caderno, uma camiseta, um pão ou um par de sapatos.
 
 O esquema precisa trazer:
 
@@ -43,7 +49,9 @@ O esquema precisa trazer:
 
 ---
 
-**4.** Redija, para cada conceito a seguir, um verbete de até cinco linhas dirigido a quem faltou às aulas, explicando o que aquele conceito permite entender que os outros três não permitem:
+### ATIVIDADE 04
+
+Redija, para cada conceito a seguir, um verbete de até cinco linhas dirigido a quem faltou às aulas, explicando o que aquele conceito permite entender que os outros três não permitem:
 
 a) divisão técnica do trabalho  
 b) divisão social do trabalho  
@@ -52,7 +60,9 @@ d) divisão patológica do trabalho
 
 ---
 
-**5.** Decida qual das duas maneiras de aumentar a produção descritas no caso a seguir Adam Smith recomendaria.
+### ATIVIDADE 05
+
+Decida qual das duas maneiras de aumentar a produção descritas no caso a seguir Adam Smith recomendaria.
 
 Uma fábrica com 40 trabalhadores pode aumentar a produção de duas maneiras: reorganizar a linha de montagem para que cada pessoa execute uma única etapa, ou manter a organização atual e contratar mais 10 pessoas.
 
@@ -60,7 +70,9 @@ Uma fábrica com 40 trabalhadores pode aumentar a produção de duas maneiras: r
 
 ---
 
-**6.** Pesquise dados oficiais sobre a distribuição da população ocupada brasileira entre os setores da economia e identifique a que forma histórica de trabalho eles correspondem.
+### ATIVIDADE 06
+
+Pesquise dados oficiais sobre a distribuição da população ocupada brasileira entre os setores da economia e identifique a que forma histórica de trabalho eles correspondem.
 
 Consulte fonte impressa, digital ou o acervo da biblioteca da escola e registre a referência — órgão, ano, pesquisa consultada e para que ela foi produzida.
 
@@ -68,7 +80,9 @@ Consulte fonte impressa, digital ou o acervo da biblioteca da escola e registre 
 
 ---
 
-**7.** Localize uma reportagem sobre condições de trabalho em plataformas digitais e analise como o texto caracteriza a atividade e o que deixa de mencionar.
+### ATIVIDADE 07
+
+Localize uma reportagem sobre condições de trabalho em plataformas digitais e analise como o texto caracteriza a atividade e o que deixa de mencionar.
 
 A reportagem deve ter sido publicada nos últimos cinco anos e pode vir de jornal impresso, de site de notícias ou do acervo da biblioteca da escola.
 
@@ -76,13 +90,17 @@ A reportagem deve ter sido publicada nos últimos cinco anos e pode vir de jorna
 
 ---
 
-**8.** Redija, para um leitor que não estudou este capítulo, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: toda especialização do trabalho produz anomia?
+### ATIVIDADE 08
+
+Redija, para um leitor que não estudou este capítulo, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: toda especialização do trabalho produz anomia?
 
 Enuncie a posição na primeira linha, sustente-a com dois casos e responda à objeção de que sociedades pouco especializadas também apresentam desregramento normativo.
 
 ---
 
-**9.** Assinale, entre as quatro situações, a única que descreve **anomia**, e diga que conceito do capítulo descreve cada uma das outras três.
+### ATIVIDADE 09
+
+Assinale, entre as quatro situações, a única que descreve **anomia**, e diga que conceito do capítulo descreve cada uma das outras três.
 
 a) Numa mudança social rápida, as regras que orientavam expectativas ficam insuficientes.  
 b) Numa fábrica, cada pessoa executa uma etapa distinta do mesmo processo produtivo.  
@@ -95,7 +113,9 @@ d) Um trabalhador sem contrato tem renda irregular e não tem direitos garantido
 
 ---
 
-**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 10
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Uma empresa dobrou a produção depois de reorganizar as etapas do processo produtivo. No mesmo período, ampliou a proporção de trabalhadores sem contrato formal.
 

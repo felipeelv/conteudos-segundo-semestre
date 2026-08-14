@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Movimentos sociais no Brasil
 
-**1.** Elabore uma tabela que compare os movimentos clássicos e os novos movimentos sociais e aplique-a a um movimento brasileiro surgido depois de 2010.
+### ATIVIDADE 01
+
+Elabore uma tabela que compare os movimentos clássicos e os novos movimentos sociais e aplique-a a um movimento brasileiro surgido depois de 2010.
 
 Compare os dois perfis por dois critérios que a tabela do capítulo não utiliza; um desses critérios precisa ser capaz de decidir em qual dos dois perfis o movimento surgido depois de 2010 se encaixa.
 
@@ -15,7 +17,9 @@ Compare os dois perfis por dois critérios que a tabela do capítulo não utiliz
 
 ---
 
-**2.** Elabore um esquema que represente o percurso de uma reivindicação, desde a identificação de um problema coletivo até a sua conversão em política pública ou norma legal.
+### ATIVIDADE 02
+
+Elabore um esquema que represente o percurso de uma reivindicação, desde a identificação de um problema coletivo até a sua conversão em política pública ou norma legal.
 
 O esquema precisa trazer:
 
@@ -27,7 +31,9 @@ O esquema precisa trazer:
 
 ---
 
-**3.** Redija um verbete de até cinco linhas sobre cada movimento a seguir, dirigido a quem faltou às aulas. Em cada verbete, empregue obrigatoriamente os termos *identidade coletiva*, *adversário* e *projeto*, aplicados àquele movimento e não repetidos como definição geral, e explique por que a reivindicação central daquele movimento precisou de mobilização para avançar em vez de ser simplesmente concedida, citando um marco da sua trajetória:
+### ATIVIDADE 03
+
+Redija um verbete de até cinco linhas sobre cada movimento a seguir, dirigido a quem faltou às aulas. Em cada verbete, empregue obrigatoriamente os termos *identidade coletiva*, *adversário* e *projeto*, aplicados àquele movimento e não repetidos como definição geral, e explique por que a reivindicação central daquele movimento precisou de mobilização para avançar em vez de ser simplesmente concedida, citando um marco da sua trajetória:
 
 a) movimento negro  
 b) movimento feminista  
@@ -36,7 +42,9 @@ d) movimento indígena
 
 ---
 
-**4.** Decida qual das duas propostas do caso a seguir atenderia à reivindicação mais urgente.
+### ATIVIDADE 04
+
+Decida qual das duas propostas do caso a seguir atenderia à reivindicação mais urgente.
 
 Um município recebe duas propostas para um mesmo terreno público: a instalação de um centro de referência para atendimento a mulheres em situação de violência, ou a regularização de uma ocupação com 60 famílias já instaladas no local há oito anos.
 
@@ -44,7 +52,9 @@ Um município recebe duas propostas para um mesmo terreno público: a instalaç�
 
 ---
 
-**5.** Pesquise o conteúdo do artigo da Constituição de 1988 que trata dos direitos territoriais indígenas e identifique o que ele converteu em norma e o que ficou de fora.
+### ATIVIDADE 05
+
+Pesquise o conteúdo do artigo da Constituição de 1988 que trata dos direitos territoriais indígenas e identifique o que ele converteu em norma e o que ficou de fora.
 
 Consulte fonte impressa, digital ou o acervo da biblioteca da escola e registre a referência — número do artigo e texto consultado.
 
@@ -52,7 +62,9 @@ Consulte fonte impressa, digital ou o acervo da biblioteca da escola e registre 
 
 ---
 
-**6.** Localize uma reportagem sobre uma manifestação ocorrida no Brasil e analise o que ela informa e o que deixa de informar sobre o movimento.
+### ATIVIDADE 06
+
+Localize uma reportagem sobre uma manifestação ocorrida no Brasil e analise o que ela informa e o que deixa de informar sobre o movimento.
 
 A reportagem deve ter sido publicada nos últimos cinco anos e pode vir de jornal impresso, de site de notícias ou do acervo da biblioteca da escola.
 
@@ -60,7 +72,9 @@ A reportagem deve ter sido publicada nos últimos cinco anos e pode vir de jorna
 
 ---
 
-**7.** Diagnostique os dois problemas da afirmação a seguir e reescreva-a de modo compatível com o que o capítulo apresenta.
+### ATIVIDADE 07
+
+Diagnostique os dois problemas da afirmação a seguir e reescreva-a de modo compatível com o que o capítulo apresenta.
 
 Um estudante escreveu: *"Os novos movimentos sociais substituíram os antigos, porque hoje ninguém mais luta por questões econômicas."*
 
@@ -68,13 +82,17 @@ Um estudante escreveu: *"Os novos movimentos sociais substituíram os antigos, p
 
 ---
 
-**8.** Redija, para um leitor que não estudou este capítulo, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: um movimento social precisa de organização formal para obter resultados?
+### ATIVIDADE 08
+
+Redija, para um leitor que não estudou este capítulo, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: um movimento social precisa de organização formal para obter resultados?
 
 Enuncie a posição na primeira linha, sustente-a com dois casos brasileiros e responda à objeção de que mobilizações sem estrutura se dissolvem sem deixar conquista.
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre o método de análise dos movimentos sociais, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre o método de análise dos movimentos sociais, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) A análise precisa decidir primeiro se a causa é justa, e só depois descrever o movimento.  
 b) A análise descreve identidade, adversário, projeto e repertório antes de julgar a causa.  
@@ -87,7 +105,9 @@ d) A Sociologia só estuda os movimentos cujos projetos ela considera justos e l
 
 ---
 
-**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 10
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Em 1988 o racismo passou a ser crime na Constituição; em 2010 veio o Estatuto da Igualdade Racial; em 2012, a Lei de Cotas federal, revisada em 2023.
 

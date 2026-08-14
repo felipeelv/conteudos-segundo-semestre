@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Pronomes
 
-**1.** Classifique os pronomes destacados abaixo.
+### ATIVIDADE 01
+
+Classifique os pronomes destacados abaixo.
 
 a) O livro **que** comprei é ótimo.  
 b) **Alguém** deixou isto aqui.  
@@ -20,19 +22,25 @@ d) **Quantos** vieram?
 
 ---
 
-**2.** Elabore uma tabela com as classes de pronome estudadas.
+### ATIVIDADE 02
+
+Elabore uma tabela com as classes de pronome estudadas.
 
 Além da função de cada uma, inclua uma coluna com um erro frequente associado a ela.
 
 ---
 
-**3.** Reescreva o parágrafo abaixo substituindo as repetições por pronomes relativos, unindo as orações.
+### ATIVIDADE 03
+
+Reescreva o parágrafo abaixo substituindo as repetições por pronomes relativos, unindo as orações.
 
 *"O projeto foi aprovado. O projeto estava parado há dois anos. A coordenadora defendeu o projeto na reunião."*
 
 ---
 
-**4.** Reescreva em registro formal o bilhete informal abaixo, ajustando os pronomes de tratamento.
+### ATIVIDADE 04
+
+Reescreva em registro formal o bilhete informal abaixo, ajustando os pronomes de tratamento.
 
 *"Oi, você pode me mandar aquele arquivo? Preciso dele hoje."*
 
@@ -42,7 +50,9 @@ Ao lado da versão reescrita, registre em um quadro cada alteração feita.
 
 ---
 
-**5.** Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
+### ATIVIDADE 05
+
+Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
 
 Um estudante escreveu: *"'Vós cantais' não existe mais, então não precisa aprender."*
 
@@ -50,7 +60,9 @@ Um estudante escreveu: *"'Vós cantais' não existe mais, então não precisa ap
 
 ---
 
-**6.** Localize três pronomes relativos em um texto publicado e analise cada um deles.
+### ATIVIDADE 06
+
+Localize três pronomes relativos em um texto publicado e analise cada um deles.
 
 Procure o texto impresso, digital ou no acervo da escola, e registre a fonte.
 
@@ -58,7 +70,9 @@ Procure o texto impresso, digital ou no acervo da escola, e registre a fonte.
 
 ---
 
-**7.** Assinale, entre os quatro empregos de pronome relativo, o único correto, e diga que erro há em cada um dos outros três.
+### ATIVIDADE 07
+
+Assinale, entre os quatro empregos de pronome relativo, o único correto, e diga que erro há em cada um dos outros três.
 
 a) A cidade **onde** nasci fica no interior do estado.  
 b) A situação **onde** me encontro é bastante delicada.  
@@ -71,7 +85,9 @@ d) A autora **que** falei ontem escreveu o prefácio.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Num artigo, o autor comenta um livro que está em suas mãos naquele momento e outro que o leitor havia mencionado na carta.
 
@@ -87,7 +103,9 @@ d) Tanto faz qual demonstrativo usar, porque os três indicam exatamente a mesma
 ---
 ## Capítulo 2 — Verbo
 
-**1.** Classifique cada verbo abaixo quanto à regularidade.
+### ATIVIDADE 01
+
+Classifique cada verbo abaixo quanto à regularidade.
 
 a) cantar  
 b) caber  
@@ -100,7 +118,9 @@ d) chover
 
 ---
 
-**2.** Explique o que a construção passiva apaga e em que situação um texto escolheria cada uma das duas frases abaixo.
+### ATIVIDADE 02
+
+Explique o que a construção passiva apaga e em que situação um texto escolheria cada uma das duas frases abaixo.
 
 As duas usam o mesmo verbo em vozes diferentes.
 
@@ -111,7 +131,9 @@ b) Cem funcionários foram demitidos.
 
 ---
 
-**3.** Elabore uma tabela com as classificações verbais estudadas.
+### ATIVIDADE 03
+
+Elabore uma tabela com as classificações verbais estudadas.
 
 A tabela precisa trazer, para cada classificação:
 
@@ -121,7 +143,9 @@ A tabela precisa trazer, para cada classificação:
 
 ---
 
-**4.** Reescreva a notícia abaixo em três linhas, primeiro na voz ativa com o agente explícito e depois na passiva sem agente.
+### ATIVIDADE 04
+
+Reescreva a notícia abaixo em três linhas, primeiro na voz ativa com o agente explícito e depois na passiva sem agente.
 
 *"Houve um vazamento de dados em uma plataforma de serviços."*
 
@@ -131,7 +155,9 @@ Coloque as duas versões lado a lado.
 
 ---
 
-**5.** Diagnostique o erro da afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro da afirmação a seguir.
 
 Um estudante escreveu: *"Verbo defectivo é o mesmo que verbo irregular."*
 
@@ -139,7 +165,9 @@ Um estudante escreveu: *"Verbo defectivo é o mesmo que verbo irregular."*
 
 ---
 
-**6.** Redija, para cada classificação a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando um verbo exemplar em cada:
+### ATIVIDADE 06
+
+Redija, para cada classificação a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando um verbo exemplar em cada:
 
 a) regular  
 b) irregular  
@@ -148,7 +176,9 @@ d) abundante
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre classificação verbal, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre classificação verbal, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) *Ser* e *ir* são irregulares comuns, porque apenas algumas terminações mudam.  
 b) *Ser* e *ir* são anômalos: apresentam radicais diferentes ao longo da conjugação.  
@@ -161,7 +191,9 @@ d) Verbo abundante é o que não apresenta todas as formas usuais, como *falir*.
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 *É importante os alunos estudarem para a prova.*
 
@@ -177,7 +209,9 @@ d) A forma *estudarem* está correta, porque *alunos* é uma palavra que está n
 ---
 ## Capítulo 3 — Advérbio e palavras denotativas
 
-**1.** Classifique cada palavra destacada abaixo como advérbio ou como palavra denotativa.
+### ATIVIDADE 01
+
+Classifique cada palavra destacada abaixo como advérbio ou como palavra denotativa.
 
 a) **Apenas** dois alunos faltaram.  
 b) Ele chegou **cedo**.  
@@ -190,7 +224,9 @@ d) Falou **muito** bem.
 
 ---
 
-**2.** Explique o efeito que a segunda das formas abaixo produz e o mecanismo linguístico que o produz.
+### ATIVIDADE 02
+
+Explique o efeito que a segunda das formas abaixo produz e o mecanismo linguístico que o produz.
 
 Os dois anúncios trazem o mesmo preço.
 
@@ -201,13 +237,17 @@ b) Apenas R$ 99,90
 
 ---
 
-**3.** Elabore uma tabela que distinga advérbios de palavras denotativas.
+### ATIVIDADE 03
+
+Elabore uma tabela que distinga advérbios de palavras denotativas.
 
 Além do critério gramatical, inclua uma coluna com o efeito de sentido de cada grupo.
 
 ---
 
-**4.** Localize três peças publicitárias que usem palavras denotativas e analise cada uma delas.
+### ATIVIDADE 04
+
+Localize três peças publicitárias que usem palavras denotativas e analise cada uma delas.
 
 Procure peças impressas, digitais, em embalagem ou no acervo da escola, e registre onde encontrou cada uma.
 
@@ -215,7 +255,9 @@ Procure peças impressas, digitais, em embalagem ou no acervo da escola, e regis
 
 ---
 
-**5.** Diagnostique o erro da afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro da afirmação a seguir.
 
 Um estudante escreveu: *"Palavras denotativas são advérbios, só que com outro nome."*
 
@@ -223,13 +265,17 @@ Um estudante escreveu: *"Palavras denotativas são advérbios, só que com outro
 
 ---
 
-**6.** Reescreva três vezes a frase publicitária *"Apenas R$ 99,90 na loja toda"*, mudando em cada versão somente a palavra denotativa.
+### ATIVIDADE 06
+
+Reescreva três vezes a frase publicitária *"Apenas R$ 99,90 na loja toda"*, mudando em cada versão somente a palavra denotativa.
 
 **Responda:** o que muda na leitura de cada uma das três versões?
 
 ---
 
-**7.** Assinale, entre as quatro palavras destacadas, a única que é palavra denotativa de **exclusão**, e diga o que é cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro palavras destacadas, a única que é palavra denotativa de **exclusão**, e diga o que é cada uma das outras três.
 
 a) **Até** ele veio à reunião de sábado.  
 b) **Apenas** dois estudantes faltaram hoje.  
@@ -242,7 +288,9 @@ d) **Certamente** o prazo já terminou.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Uma peça publicitária anuncia *"Apenas R$ 99,90"* em vez de escrever somente *"R$ 99,90"*.
 

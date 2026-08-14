@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Medidas de dispersão
 
-**1.** Registre, em duas páginas já escritas do seu caderno, de matérias diferentes, a quantidade de palavras por linha, e decida por qual medida a comparação entre as duas páginas se sustenta.
+### ATIVIDADE 01
+
+Registre, em duas páginas já escritas do seu caderno, de matérias diferentes, a quantidade de palavras por linha, e decida por qual medida a comparação entre as duas páginas se sustenta.
 
 **Antes de começar, responda por escrito:** em qual das duas páginas você espera que a quantidade de palavras por linha varie mais?
 
@@ -17,7 +19,9 @@ Conte as palavras de cada uma das dez primeiras linhas escritas de cada página 
 
 ---
 
-**2.** Decida, pelo coeficiente de variação, qual de duas séries hipotéticas tem a maior dispersão relativa e teste o limite a partir do qual a medida deixa de ser informativa.
+### ATIVIDADE 02
+
+Decida, pelo coeficiente de variação, qual de duas séries hipotéticas tem a maior dispersão relativa e teste o limite a partir do qual a medida deixa de ser informativa.
 
 Uma série hipotética de preços tem média R$ 1.200,00 e desvio padrão R$ 96,00. Uma série de notas de prova tem média 6,0 e desvio padrão 1,5. Calcule o coeficiente de variação das duas e classifique a dispersão de cada uma pelas faixas de referência. Depois recalcule o coeficiente para uma terceira série, de variações diárias, com média 0,3 e desvio padrão 1,5.
 
@@ -25,7 +29,9 @@ Uma série hipotética de preços tem média R$ 1.200,00 e desvio padrão R$ 96,
 
 ---
 
-**3.** Considere a série hipotética 12, 15, 15, 18, 20 e 22.
+### ATIVIDADE 03
+
+Considere a série hipotética 12, 15, 15, 18, 20 e 22.
 
 a) Elabore a tabela do cálculo do desvio padrão amostral, com as colunas de valor, desvio e desvio ao quadrado. Na calculadora comum, siga esta ordem:
 
@@ -45,7 +51,9 @@ c) Some 10 a cada um dos seis valores e refaça a sequência inteira sobre a nov
 
 ---
 
-**4.** Redija, para quem ainda não estudou dispersão, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "unidade", "média" e "espalhamento", diga em que unidade aquela medida se expressa, e feche com uma situação em que aquela medida sozinha levaria a uma conclusão errada:
+### ATIVIDADE 04
+
+Redija, para quem ainda não estudou dispersão, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "unidade", "média" e "espalhamento", diga em que unidade aquela medida se expressa, e feche com uma situação em que aquela medida sozinha levaria a uma conclusão errada:
 
 a) amplitude  
 b) variância  
@@ -54,7 +62,9 @@ d) coeficiente de variação
 
 ---
 
-**5.** Diagnostique o efeito do erro de um estudante que trocou o divisor no cálculo da variância de uma amostra.
+### ATIVIDADE 05
+
+Diagnostique o efeito do erro de um estudante que trocou o divisor no cálculo da variância de uma amostra.
 
 Um estudante calculou a variância de uma amostra de oito dados dividindo a soma dos quadrados dos desvios por 8 em vez de 7. Essa soma era 56.
 
@@ -64,7 +74,9 @@ Calcule as duas variâncias e em quantos por cento o resultado do estudante sube
 
 ---
 
-**6.** Decida qual de duas máquinas deve ser usada na produção de uma peça de precisão.
+### ATIVIDADE 06
+
+Decida qual de duas máquinas deve ser usada na produção de uma peça de precisão.
 
 Duas máquinas produzem parafusos com o mesmo comprimento médio. A máquina A tem desvio padrão de 0,2 mm e a B, de 0,8 mm.
 
@@ -72,7 +84,9 @@ Duas máquinas produzem parafusos com o mesmo comprimento médio. A máquina A t
 
 ---
 
-**7.** Assinale, entre as quatro, a única medida que devolve o resultado na mesma unidade dos dados, e diga o que cada uma das outras três devolve.
+### ATIVIDADE 07
+
+Assinale, entre as quatro, a única medida que devolve o resultado na mesma unidade dos dados, e diga o que cada uma das outras três devolve.
 
 a) A variância de um conjunto de notas.  
 b) O desvio padrão de um conjunto de notas.  
@@ -85,7 +99,9 @@ d) A soma dos desvios em relação à média das notas.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Os conjuntos A = 6, 7, 7, 7, 8 e B = 4, 6, 7, 9, 9 têm a mesma média, 7. A amplitude de A é 2 e a de B é 5.
 

@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Clima
 
-**1.** Elabore dois climogramas de cidades brasileiras de climas contrastantes, com dados que você mesmo reunir, e identifique a maior diferença entre eles e o fator do clima que a explica.
+### ATIVIDADE 01
+
+Elabore dois climogramas de cidades brasileiras de climas contrastantes, com dados que você mesmo reunir, e identifique a maior diferença entre eles e o fator do clima que a explica.
 
 Consulte um atlas, um livro didático ou uma fonte digital e reúna a temperatura média e a precipitação de cada um dos doze meses de duas cidades — uma da Amazônia ou do litoral, outra do interior do Nordeste, do planalto do Sudeste ou do Sul. Se a fonte já trouxer o climograma pronto, transcreva dela os valores mês a mês.
 
@@ -23,7 +25,9 @@ Monte um climograma para cada cidade, com:
 
 ---
 
-**2.** Elabore uma tabela que classifique Manaus, Petrolina (no interior de Pernambuco) e Curitiba em um dos grupos de Köppen e registre o que a sigla, sozinha, não diz sobre elas.
+### ATIVIDADE 02
+
+Elabore uma tabela que classifique Manaus, Petrolina (no interior de Pernambuco) e Curitiba em um dos grupos de Köppen e registre o que a sigla, sozinha, não diz sobre elas.
 
 A tabela precisa trazer, para cada uma das três cidades:
 
@@ -35,7 +39,9 @@ Acrescente uma última coluna com uma diferença entre as três cidades que a si
 
 ---
 
-**3.** Explique por que duas cidades na mesma latitude podem ter regimes de chuva opostos.
+### ATIVIDADE 03
+
+Explique por que duas cidades na mesma latitude podem ter regimes de chuva opostos.
 
 Duas cidades do Nordeste oriental estão praticamente na mesma latitude: uma fica na encosta atlântica e recebe chuva com regularidade, a outra fica no interior próximo e enfrenta estiagem.
 
@@ -43,7 +49,9 @@ Duas cidades do Nordeste oriental estão praticamente na mesma latitude: uma fic
 
 ---
 
-**4.** Elabore um esquema do ENSO que ligue cada fase do fenômeno aos efeitos mais frequentes sobre as chuvas no Brasil.
+### ATIVIDADE 04
+
+Elabore um esquema do ENSO que ligue cada fase do fenômeno aos efeitos mais frequentes sobre as chuvas no Brasil.
 
 Organize o esquema em três faixas — fase neutra, El Niño e La Niña. Cada faixa precisa trazer:
 
@@ -57,7 +65,9 @@ Marque com interrogação a ligação menos previsível de todo o esquema.
 
 ---
 
-**5.** Redija, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada massa de ar a seguir. Cada verbete precisa dizer por que a região de origem da massa produz nela essa temperatura e essa umidade, em que região do Brasil e em que estação a atuação dela é mais sentida, e um efeito de tempo que quem vive nessa região percebe quando ela chega:
+### ATIVIDADE 05
+
+Redija, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada massa de ar a seguir. Cada verbete precisa dizer por que a região de origem da massa produz nela essa temperatura e essa umidade, em que região do Brasil e em que estação a atuação dela é mais sentida, e um efeito de tempo que quem vive nessa região percebe quando ela chega:
 
 a) mEc  
 b) mTa  
@@ -66,7 +76,9 @@ d) mPa
 
 ---
 
-**6.** Decida qual de dois bairros atingidos pela mesma onda de calor deve receber ação prioritária da prefeitura, separando o que é efeito do clima do que é efeito da desigualdade urbana.
+### ATIVIDADE 06
+
+Decida qual de dois bairros atingidos pela mesma onda de calor deve receber ação prioritária da prefeitura, separando o que é efeito do clima do que é efeito da desigualdade urbana.
 
 Uma onda de calor de mesma intensidade atinge dois bairros da mesma cidade: um com 40% de cobertura arbórea e ruas largas, outro com 3% de cobertura e telhado metálico predominante.
 
@@ -74,7 +86,9 @@ Uma onda de calor de mesma intensidade atinge dois bairros da mesma cidade: um c
 
 ---
 
-**7.** Localize uma reportagem recente sobre um evento climático extremo ocorrido no Brasil e analise o que o texto informa — e o que deixa de informar — sobre ele.
+### ATIVIDADE 07
+
+Localize uma reportagem recente sobre um evento climático extremo ocorrido no Brasil e analise o que o texto informa — e o que deixa de informar — sobre ele.
 
 Procure, em jornal ou revista impressos, em site de notícias ou no acervo da biblioteca da escola, uma reportagem publicada nos últimos cinco anos sobre um evento climático extremo ocorrido no Brasil.
 
@@ -82,11 +96,15 @@ Procure, em jornal ou revista impressos, em site de notícias ou no acervo da bi
 
 ---
 
-**8.** Redija, em seis a dez linhas, para um leitor que discorda da sua posição, uma resposta à pergunta: uma média de trinta anos é suficiente para afirmar que o clima de um lugar mudou? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que médias longas escondem justamente os extremos que importam.
+### ATIVIDADE 08
+
+Redija, em seis a dez linhas, para um leitor que discorda da sua posição, uma resposta à pergunta: uma média de trinta anos é suficiente para afirmar que o clima de um lugar mudou? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que médias longas escondem justamente os extremos que importam.
 
 ---
 
-**9.** Assinale, entre os quatro, o único que é um **fator** climático, e diga o que é cada um dos outros três.
+### ATIVIDADE 09
+
+Assinale, entre os quatro, o único que é um **fator** climático, e diga o que é cada um dos outros três.
 
 a) A altitude de uma cidade situada a 1.600 metros acima do nível do mar.  
 b) A umidade relativa medida por uma estação meteorológica ao meio-dia.  
@@ -99,7 +117,9 @@ d) A friagem que derruba a temperatura no sul da Amazônia em julho.
 
 ---
 
-**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 10
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Uma massa de ar úmido vinda do oceano encontra uma serra litorânea, sobe pela encosta voltada para o mar e ali produz chuva. Do outro lado da serra, o ar desce seco.
 
@@ -116,7 +136,9 @@ d) O lado seco não tem relação com a serra, porque a chuva depende só da mas
 
 ## Capítulo 2 — Ciclo hidrológico e bacias hidrográficas
 
-**1.** Elabore um esquema completo do ciclo hidrológico, marque onde a ação humana interfere nele e antecipe o efeito da interrupção de uma das etapas.
+### ATIVIDADE 01
+
+Elabore um esquema completo do ciclo hidrológico, marque onde a ação humana interfere nele e antecipe o efeito da interrupção de uma das etapas.
 
 O esquema precisa trazer:
 
@@ -128,7 +150,9 @@ O esquema precisa trazer:
 
 ---
 
-**2.** Elabore um croqui de uma bacia hidrográfica com dois vales.
+### ATIVIDADE 02
+
+Elabore um croqui de uma bacia hidrográfica com dois vales.
 
 O croqui precisa trazer:
 
@@ -141,7 +165,9 @@ O croqui precisa trazer:
 
 ---
 
-**3.** Decida qual de dois sítios corre risco de receber o efluente de uma indústria, justificando pelo caminho que a água percorre.
+### ATIVIDADE 03
+
+Decida qual de dois sítios corre risco de receber o efluente de uma indústria, justificando pelo caminho que a água percorre.
 
 Numa bacia hidrográfica, uma indústria despeja efluente no curso principal, no terço superior. Um sítio capta água no terço inferior desse mesmo curso. Um segundo sítio está a 800 metros do rio principal, mas do outro lado do divisor de águas.
 
@@ -149,7 +175,9 @@ Numa bacia hidrográfica, uma indústria despeja efluente no curso principal, no
 
 ---
 
-**4.** Redija, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada elemento da rede de drenagem a seguir. Cada verbete precisa dizer o que define a posição desse elemento na bacia — a montante ou a jusante de quê —, um modo de reconhecê-lo em um mapa e até onde chegaria, dentro da bacia, o efeito de uma poluição lançada nesse ponto:
+### ATIVIDADE 04
+
+Redija, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada elemento da rede de drenagem a seguir. Cada verbete precisa dizer o que define a posição desse elemento na bacia — a montante ou a jusante de quê —, um modo de reconhecê-lo em um mapa e até onde chegaria, dentro da bacia, o efeito de uma poluição lançada nesse ponto:
 
 a) nascente  
 b) afluente  
@@ -158,7 +186,9 @@ d) foz
 
 ---
 
-**5.** Pesquise em qual bacia hidrográfica está o município onde você mora e o que acontece com a água antes de ela chegar até você.
+### ATIVIDADE 05
+
+Pesquise em qual bacia hidrográfica está o município onde você mora e o que acontece com a água antes de ela chegar até você.
 
 Consulte um mapa de bacias hidrográficas em atlas, livro didático ou fonte digital e registre a fonte consultada com autoria e ano.
 
@@ -166,11 +196,15 @@ Consulte um mapa de bacias hidrográficas em atlas, livro didático ou fonte dig
 
 ---
 
-**6.** Elabore uma tabela que compare bacias exorreicas, endorreicas e arreicas pelo destino final da água e acrescente a ela um critério, ausente do capítulo, que permita classificar uma bacia a partir apenas da observação de um mapa físico.
+### ATIVIDADE 06
+
+Elabore uma tabela que compare bacias exorreicas, endorreicas e arreicas pelo destino final da água e acrescente a ela um critério, ausente do capítulo, que permita classificar uma bacia a partir apenas da observação de um mapa físico.
 
 ---
 
-**7.** Diagnostique o erro conceitual na afirmação a seguir e reescreva-a corretamente.
+### ATIVIDADE 07
+
+Diagnostique o erro conceitual na afirmação a seguir e reescreva-a corretamente.
 
 Um estudante escreveu: *"O ciclo hidrológico renova a água, então a poluição de um rio se resolve sozinha com o tempo."*
 
@@ -178,7 +212,9 @@ Um estudante escreveu: *"O ciclo hidrológico renova a água, então a poluiçã
 
 ---
 
-**8.** Preveja em qual de duas superfícies a água desaparece mais depressa e confronte a previsão com a observação.
+### ATIVIDADE 08
+
+Preveja em qual de duas superfícies a água desaparece mais depressa e confronte a previsão com a observação.
 
 **Antes de começar, responda por escrito:** em qual das duas superfícies a água desaparece mais depressa — um trecho de terra ou grama, ou um trecho de piso, calçada ou asfalto?
 
@@ -188,7 +224,9 @@ Depois de uma chuva, ou logo após molhar os dois trechos com água, observe cad
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre a água do planeta, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre a água do planeta, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) Cerca de 97% da água da Terra é doce, e por isso a escassez é só um problema local.  
 b) Cerca de 97% da água é salgada, e a maior parte da doce está congelada ou no subsolo.  
@@ -201,7 +239,9 @@ d) O ciclo hidrológico cria água nova a cada ano, aumentando o volume total do
 
 ---
 
-**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 10
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Uma indústria instalada num município lança efluente em um afluente. Rio abaixo, já em outro estado, três municípios captam água do mesmo curso principal.
 

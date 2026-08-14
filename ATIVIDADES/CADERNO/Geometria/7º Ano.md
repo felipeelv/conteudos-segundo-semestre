@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Circunferência e círculo
 
-**1.** Preveja qual figura se forma reunindo todos os pontos que ficam à mesma distância de um ponto fixo e confronte a previsão com a construção.
+### ATIVIDADE 01
+
+Preveja qual figura se forma reunindo todos os pontos que ficam à mesma distância de um ponto fixo e confronte a previsão com a construção.
 
 **Antes de começar, responda por escrito:** qual figura você espera obter reunindo todos os pontos que ficam a exatamente 5 cm de um mesmo ponto O?
 
@@ -19,7 +21,9 @@ Marque um ponto O no caderno e, com a régua, marque doze pontos a exatamente 5 
 
 ---
 
-**2.** Construa uma circunferência e três retas em posições distintas em relação a ela e registre como a distância ao centro decide a posição de cada reta.
+### ATIVIDADE 02
+
+Construa uma circunferência e três retas em posições distintas em relação a ela e registre como a distância ao centro decide a posição de cada reta.
 
 Trace com o compasso uma circunferência de 4 cm de raio e centro O. Marque um ponto externo à curva e trace, a partir dele, três retas:
 
@@ -35,7 +39,9 @@ Meça a menor distância de O a cada uma das três retas, traçando com o transf
 
 ---
 
-**3.** Decida quantas voltas completas a roda de uma bicicleta precisaria dar para percorrer, sem escorregar, um trecho medido pelos seus próprios passos.
+### ATIVIDADE 03
+
+Decida quantas voltas completas a roda de uma bicicleta precisaria dar para percorrer, sem escorregar, um trecho medido pelos seus próprios passos.
 
 A roda é de uma bicicleta de adulto e tem 60 cm de diâmetro.
 
@@ -49,7 +55,9 @@ Estime então o comprimento de um trecho reto que você possa percorrer a pé �
 
 ---
 
-**4.** Redija um verbete de até cinco linhas para cada elemento a seguir, destinado a quem precisa identificá-los num desenho sem legenda. Cada verbete tem de empregar os termos *centro*, *extremidade* e *distância*, e terminar com o teste que distingue aquele elemento dos outros três:
+### ATIVIDADE 04
+
+Redija um verbete de até cinco linhas para cada elemento a seguir, destinado a quem precisa identificá-los num desenho sem legenda. Cada verbete tem de empregar os termos *centro*, *extremidade* e *distância*, e terminar com o teste que distingue aquele elemento dos outros três:
 
 a) raio  
 b) corda  
@@ -58,7 +66,9 @@ d) arco
 
 ---
 
-**5.** Diagnostique o erro na afirmação a seguir, separando o que está certo do que está errado.
+### ATIVIDADE 05
+
+Diagnostique o erro na afirmação a seguir, separando o que está certo do que está errado.
 
 Um estudante escreveu: *"O diâmetro é a maior corda da circunferência, então toda corda que passa perto do centro é quase um diâmetro."*
 
@@ -66,7 +76,9 @@ Um estudante escreveu: *"O diâmetro é a maior corda da circunferência, então
 
 ---
 
-**6.** Decida quantos metros de cerca comprar para o canteiro descrito a seguir.
+### ATIVIDADE 06
+
+Decida quantos metros de cerca comprar para o canteiro descrito a seguir.
 
 Um canteiro circular de 3 m de raio será cercado, e o portão de acesso terá 1,2 m.
 
@@ -74,7 +86,9 @@ Um canteiro circular de 3 m de raio será cercado, e o portão de acesso terá 1
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre o número π, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre o número π, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O número π é exatamente 3,14, e por isso os cálculos com ele são exatos.  
 b) O número π é irracional: sua escrita decimal não termina nem se repete periodicamente.  
@@ -87,7 +101,9 @@ d) O número π é a razão entre o comprimento da circunferência e o seu raio.
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Um canteiro circular tem raio de 6 m. A distância perpendicular do centro do canteiro até uma calçada reta é de 4 m.
 

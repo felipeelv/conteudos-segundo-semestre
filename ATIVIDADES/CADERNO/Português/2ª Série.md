@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Próclise
 
-**1.** Justifique a próclise em cada caso abaixo, nomeando o fator atrativo.
+### ATIVIDADE 01
+
+Justifique a próclise em cada caso abaixo, nomeando o fator atrativo.
 
 a) Nada me disseram.  
 b) Talvez se resolva sozinho.  
@@ -20,7 +22,9 @@ d) Poucos o conhecem de fato.
 
 ---
 
-**2.** Explique por que a mesma língua comporta as duas construções abaixo.
+### ATIVIDADE 02
+
+Explique por que a mesma língua comporta as duas construções abaixo.
 
 A norma trata as duas de formas diferentes.
 
@@ -31,13 +35,17 @@ b) Empresta-me a caneta.
 
 ---
 
-**3.** Elabore uma tabela com os três grupos de fatores atrativos.
+### ATIVIDADE 03
+
+Elabore uma tabela com os três grupos de fatores atrativos.
 
 Para cada grupo, inclua dois exemplos próprios e o teste de remoção.
 
 ---
 
-**4.** Reescreva o parágrafo abaixo ajustando todas as colocações pronominais à norma escrita.
+### ATIVIDADE 04
+
+Reescreva o parágrafo abaixo ajustando todas as colocações pronominais à norma escrita.
 
 *"Não disseram-me nada. Quando avisaram-nos, já era tarde, e ninguém preparou-se."*
 
@@ -45,7 +53,9 @@ Para cada grupo, inclua dois exemplos próprios e o teste de remoção.
 
 ---
 
-**5.** Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
+### ATIVIDADE 05
+
+Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
 
 Um estudante escreveu: *"Em início de frase nunca se usa próclise, então 'Me diga' está sempre errado."*
 
@@ -53,7 +63,9 @@ Um estudante escreveu: *"Em início de frase nunca se usa próclise, então 'Me 
 
 ---
 
-**6.** Localize duas fontes e compare, nelas, a colocação pronominal empregada.
+### ATIVIDADE 06
+
+Localize duas fontes e compare, nelas, a colocação pronominal empregada.
 
 As duas fontes são um texto jornalístico — impresso, digital ou do acervo da escola — e uma fala transcrita, que você registre a partir de uma conversa ouvida ou copie de uma legenda ou de uma postagem. Copie três ocorrências de pronome átono em cada e registre as duas fontes.
 
@@ -61,7 +73,9 @@ As duas fontes são um texto jornalístico — impresso, digital ou do acervo da
 
 ---
 
-**7.** Assinale, entre as quatro leituras do par a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 07
+
+Assinale, entre as quatro leituras do par a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Duas frases: *"Aqui se trabalha muito"* e *"Aqui, trabalha-se muito"*.
 
@@ -76,7 +90,9 @@ d) As duas estão erradas, porque advérbio nenhum influencia a colocação pron
 
 ---
 
-**8.** Assinale, entre as quatro frases, a única de acordo com a norma escrita, e diga que colocação a norma pede em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro frases, a única de acordo com a norma escrita, e diga que colocação a norma pede em cada uma das outras três.
 
 a) Me disseram que a reunião mudou de horário.  
 b) Não me disseram que a reunião mudou de horário.  
@@ -90,7 +106,9 @@ d) Não dir-me-ão que a reunião mudou de horário.
 ---
 ## Capítulo 2 — Mesóclise
 
-**1.** Elabore a forma com mesóclise de cada combinação abaixo.
+### ATIVIDADE 01
+
+Elabore a forma com mesóclise de cada combinação abaixo.
 
 a) fazer + se (futuro do presente)  
 b) dizer + lhe (futuro do pretérito)  
@@ -100,7 +118,9 @@ c) trazer + nos (futuro do presente)
 
 ---
 
-**2.** Explique por que a segunda das frases abaixo não admite mesóclise e nomeie o fator responsável.
+### ATIVIDADE 02
+
+Explique por que a segunda das frases abaixo não admite mesóclise e nomeie o fator responsável.
 
 As duas estão no futuro.
 
@@ -111,20 +131,26 @@ b) Não se fará o pagamento.
 
 ---
 
-**3.** Elabore uma tabela que distinga os dois tempos verbais que admitem mesóclise.
+### ATIVIDADE 03
+
+Elabore uma tabela que distinga os dois tempos verbais que admitem mesóclise.
 
 Inclua um exemplo próprio de cada e a forma resultante com pronome.
 
 ---
 
-**4.** Reescreva as frases abaixo em registro contemporâneo, sem mesóclise, mantendo o sentido.
+### ATIVIDADE 04
+
+Reescreva as frases abaixo em registro contemporâneo, sem mesóclise, mantendo o sentido.
 
 a) Dir-lhe-ei a verdade amanhã.  
 b) Far-se-ão as devidas correções.
 
 ---
 
-**5.** Diagnostique o problema da afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o problema da afirmação a seguir.
 
 Um estudante escreveu: *"Mesóclise é a colocação mais correta, por isso os textos formais deveriam usá-la sempre."*
 
@@ -132,7 +158,9 @@ Um estudante escreveu: *"Mesóclise é a colocação mais correta, por isso os t
 
 ---
 
-**6.** Localize uma ocorrência de mesóclise em texto publicado e analise o registro que ela produz.
+### ATIVIDADE 06
+
+Localize uma ocorrência de mesóclise em texto publicado e analise o registro que ela produz.
 
 Procure em texto jurídico, literário ou jornalístico — impresso, digital ou do acervo da escola — e registre a fonte.
 
@@ -140,7 +168,9 @@ Procure em texto jurídico, literário ou jornalístico — impresso, digital ou
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre a mesóclise, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre a mesóclise, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) A mesóclise ocorre em qualquer tempo verbal, desde que não haja palavra atrativa.  
 b) A mesóclise ocorre no futuro do presente e no futuro do pretérito, sem palavra atrativa.  
@@ -153,7 +183,9 @@ d) A mesóclise é forma incorreta, que a norma escrita não admite em nenhuma s
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 *Nunca lhe contaria a verdade.*
 
@@ -169,7 +201,9 @@ d) A colocação é próclise, porque a próclise é a forma preferida na fala b
 ---
 ## Capítulo 3 — Ênclise
 
-**1.** Elabore a forma com ênclise de cada combinação abaixo.
+### ATIVIDADE 01
+
+Elabore a forma com ênclise de cada combinação abaixo.
 
 a) Entregar + me (imperativo afirmativo)  
 b) Ver + o (infinitivo)  
@@ -179,7 +213,9 @@ c) Levantar + se (gerúndio)
 
 ---
 
-**2.** Explique o que determina a colocação em cada uma das duas frases abaixo e nomeie o fator presente na segunda.
+### ATIVIDADE 02
+
+Explique o que determina a colocação em cada uma das duas frases abaixo e nomeie o fator presente na segunda.
 
 Uma exige ênclise e a outra a proíbe.
 
@@ -190,7 +226,9 @@ b) Não me diga isso.
 
 ---
 
-**3.** Elabore uma tabela com as três colocações pronominais.
+### ATIVIDADE 03
+
+Elabore uma tabela com as três colocações pronominais.
 
 A tabela precisa trazer, para cada uma das três colocações:
 
@@ -200,7 +238,9 @@ A tabela precisa trazer, para cada uma das três colocações:
 
 ---
 
-**4.** Reescreva o parágrafo abaixo ajustando todas as colocações à norma escrita.
+### ATIVIDADE 04
+
+Reescreva o parágrafo abaixo ajustando todas as colocações à norma escrita.
 
 *"Me diga onde deixaram-no. Quando encontrei-o, ele tinha se escondido, e ninguém tinha-me avisado."*
 
@@ -208,7 +248,9 @@ A tabela precisa trazer, para cada uma das três colocações:
 
 ---
 
-**5.** Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
+### ATIVIDADE 05
+
+Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
 
 Um estudante escreveu: *"A ênclise é a colocação natural do português, e a próclise é influência do falar brasileiro."*
 
@@ -216,7 +258,9 @@ Um estudante escreveu: *"A ênclise é a colocação natural do português, e a 
 
 ---
 
-**6.** Redija o mesmo pedido — a liberação da quadra para um treino no sábado — em dois registros: um bilhete informal de até cinco linhas para outro estudante e um ofício formal de até dez linhas para a direção da escola.
+### ATIVIDADE 06
+
+Redija o mesmo pedido — a liberação da quadra para um treino no sábado — em dois registros: um bilhete informal de até cinco linhas para outro estudante e um ofício formal de até dez linhas para a direção da escola.
 
 Cada versão precisa conter pelo menos dois pronomes átonos.
 
@@ -224,7 +268,9 @@ Cada versão precisa conter pelo menos dois pronomes átonos.
 
 ---
 
-**7.** Assinale, entre as quatro formas, a única escrita corretamente, e escreva a forma correta de cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro formas, a única escrita corretamente, e escreva a forma correta de cada uma das outras três.
 
 a) fazer + o → fazer-o  
 b) dar + a → dá-la  
@@ -237,7 +283,9 @@ d) convidar + a → convidar-a
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Numa conversa, alguém diz *"Me diga a verdade"*. Num documento oficial, escreve-se *"Diga-me a verdade"*.
 
@@ -253,7 +301,9 @@ d) As duas são equivalentes, porque a posição do pronome não muda nada na fr
 ---
 ## Capítulo 4 — Colocação em locuções verbais
 
-**1.** Decida a posição do pronome átono na locução verbal de cada caso abaixo.
+### ATIVIDADE 01
+
+Decida a posição do pronome átono na locução verbal de cada caso abaixo.
 
 a) *vou / explicar* + **lhe** — sem palavra atrativa  
 b) *não vou / pedir* + **lhe** — com palavra atrativa  
@@ -266,7 +316,9 @@ d) *nunca haviam / enviado* + **nos** — palavra atrativa e particípio
 
 ---
 
-**2.** Elabore um fluxograma do procedimento de decisão da colocação do pronome átono em locução verbal.
+### ATIVIDADE 02
+
+Elabore um fluxograma do procedimento de decisão da colocação do pronome átono em locução verbal.
 
 O fluxograma precisa trazer:
 
@@ -277,7 +329,9 @@ O fluxograma precisa trazer:
 
 ---
 
-**3.** Elabore uma tabela de contraste entre as três combinações de locução verbal: auxiliar com infinitivo, auxiliar com gerúndio e auxiliar com particípio.
+### ATIVIDADE 03
+
+Elabore uma tabela de contraste entre as três combinações de locução verbal: auxiliar com infinitivo, auxiliar com gerúndio e auxiliar com particípio.
 
 Compare as três por três critérios:
 
@@ -289,7 +343,9 @@ A última linha da tabela precisa dizer onde as três se comportam do mesmo modo
 
 ---
 
-**4.** Reescreva o trecho abaixo em registro formal escrito, ajustando a colocação dos pronomes nas locuções verbais.
+### ATIVIDADE 04
+
+Reescreva o trecho abaixo em registro formal escrito, ajustando a colocação dos pronomes nas locuções verbais.
 
 *"Eu vou te mandar o arquivo hoje. Não tinha te avisado antes porque estava esperando o retorno. A gente já estava te procurando."*
 
@@ -303,7 +359,9 @@ Ao lado da versão reescrita, monte um quadro de três colunas:
 
 ---
 
-**5.** Diagnostique a correção devolvida por um revisor.
+### ATIVIDADE 05
+
+Diagnostique a correção devolvida por um revisor.
 
 Um revisor recebeu a frase *"Não tinha contado-lhe o resultado"* e devolveu a correção *"Não tinha-lhe contado o resultado"*.
 
@@ -311,7 +369,9 @@ Um revisor recebeu a frase *"Não tinha contado-lhe o resultado"* e devolveu a c
 
 ---
 
-**6.** Localize um edital, um regulamento, um contrato ou uma notícia que traga uma locução verbal com pronome átono, e analise o registro do documento.
+### ATIVIDADE 06
+
+Localize um edital, um regulamento, um contrato ou uma notícia que traga uma locução verbal com pronome átono, e analise o registro do documento.
 
 Procure impresso, digital ou no acervo da escola, e registre quem publicou, quando e com que finalidade.
 
@@ -319,13 +379,17 @@ Procure impresso, digital ou no acervo da escola, e registre quem publicou, quan
 
 ---
 
-**7.** Redija, em dez a doze linhas e para um leitor que sustenta que as duas formas são intercambiáveis, um parágrafo mostrando que *vou lhe explicar* e *vou explicar-lhe* não têm o mesmo valor em todos os textos.
+### ATIVIDADE 07
+
+Redija, em dez a doze linhas e para um leitor que sustenta que as duas formas são intercambiáveis, um parágrafo mostrando que *vou lhe explicar* e *vou explicar-lhe* não têm o mesmo valor em todos os textos.
 
 O parágrafo precisa conter uma objeção construída na forma *"alguém poderia dizer que… mas…"* e precisa nomear um gênero em que cada uma das duas formas é a mais adequada.
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre colocação em locuções verbais, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre colocação em locuções verbais, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) Numa locução com particípio, o pronome pode ficar depois dele: *tinha contado-lhe*.  
 b) Numa locução com particípio, o pronome não fica depois dele: *tinha-lhe contado*.  
@@ -338,7 +402,9 @@ d) Havendo palavra atrativa, o pronome deve ficar depois do verbo principal da l
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre o par a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre o par a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Duas construções: *"Não lhe vou pedir uma cópia"* e *"Não vou lhe pedir uma cópia"*.
 
@@ -354,7 +420,9 @@ d) As duas são aceitas, porque o verbo *ir* admite qualquer colocação de pron
 ---
 ## Capítulo 5 — Colocação pronominal: norma e uso
 
-**1.** Explique qual das duas construções abaixo a norma escrita admite e nomeie o fator que decide.
+### ATIVIDADE 01
+
+Explique qual das duas construções abaixo a norma escrita admite e nomeie o fator que decide.
 
 As duas usam o mesmo verbo no futuro.
 
@@ -367,13 +435,17 @@ b) Nunca lhe contarei a verdade.
 
 ---
 
-**2.** Elabore um mapa conceitual da colocação pronominal usando estes dez conceitos: *norma escrita, uso oral brasileiro, diglossia, hipercorreção, eufonia, palavra atrativa, próclise, mesóclise, ênclise, adequação ao registro*.
+### ATIVIDADE 02
+
+Elabore um mapa conceitual da colocação pronominal usando estes dez conceitos: *norma escrita, uso oral brasileiro, diglossia, hipercorreção, eufonia, palavra atrativa, próclise, mesóclise, ênclise, adequação ao registro*.
 
 Toda linha precisa trazer escrito sobre ela o nome da relação, e os conceitos mais gerais precisam ficar acima dos mais específicos.
 
 ---
 
-**3.** Decida, sob dois critérios diferentes, a colocação do pronome em uma fala de romance histórico.
+### ATIVIDADE 03
+
+Decida, sob dois critérios diferentes, a colocação do pronome em uma fala de romance histórico.
 
 Um autor escreve um romance ambientado em 1890 e precisa decidir a colocação do pronome em uma fala de personagem que, em português atual, seria *"eu te contaria tudo"*. Decida primeiro sob o critério da verossimilhança de época e depois sob o critério da leitura fluente para o público de hoje.
 
@@ -381,7 +453,9 @@ Um autor escreve um romance ambientado em 1890 e precisa decidir a colocação d
 
 ---
 
-**4.** Redija, em até cinco linhas cada, o mesmo pedido de reagendamento de uma prova em duas versões: uma mensagem para outro estudante e um requerimento à secretaria da escola.
+### ATIVIDADE 04
+
+Redija, em até cinco linhas cada, o mesmo pedido de reagendamento de uma prova em duas versões: uma mensagem para outro estudante e um requerimento à secretaria da escola.
 
 Cada versão precisa conter pelo menos dois pronomes átonos. Coloque as duas lado a lado.
 
@@ -389,7 +463,9 @@ Cada versão precisa conter pelo menos dois pronomes átonos. Coloque as duas la
 
 ---
 
-**5.** Diagnostique as duas correções devolvidas por revisores diferentes.
+### ATIVIDADE 05
+
+Diagnostique as duas correções devolvidas por revisores diferentes.
 
 Dois revisores receberam a frase *"Me parece que resolver-se-á tudo até sexta"*. O primeiro devolveu *"Parece-me que se resolverá tudo até sexta"*. O segundo devolveu *"Me parece que se resolverá tudo até sexta"*.
 
@@ -397,7 +473,9 @@ Dois revisores receberam a frase *"Me parece que resolver-se-á tudo até sexta"
 
 ---
 
-**6.** Localize duas fontes e decida qual delas sustenta cada uma de duas afirmações sobre a colocação pronominal.
+### ATIVIDADE 06
+
+Localize duas fontes e decida qual delas sustenta cada uma de duas afirmações sobre a colocação pronominal.
 
 As duas fontes são um texto formal publicado — edital, contrato, decisão judicial ou reportagem — e uma fala transcrita, que você registre a partir de uma conversa ouvida ou copie de uma legenda ou de uma postagem; as duas podem ser impressas, digitais ou do acervo da escola. Copie de cada uma duas ocorrências de pronome átono e registre as duas fontes.
 
@@ -405,7 +483,9 @@ As duas fontes são um texto formal publicado — edital, contrato, decisão jud
 
 ---
 
-**7.** Redija, em até oito linhas e para um estudante do 9º ano, uma explicação do que é hipercorreção.
+### ATIVIDADE 07
+
+Redija, em até oito linhas e para um estudante do 9º ano, uma explicação do que é hipercorreção.
 
 Use um exemplo de colocação pronominal dentro da explicação.
 
@@ -413,7 +493,9 @@ Use um exemplo de colocação pronominal dentro da explicação.
 
 ---
 
-**8.** Redija um parágrafo dissertativo de oito a dez linhas sobre o acesso à leitura, e depois uma segunda versão do mesmo parágrafo já corrigida.
+### ATIVIDADE 08
+
+Redija um parágrafo dissertativo de oito a dez linhas sobre o acesso à leitura, e depois uma segunda versão do mesmo parágrafo já corrigida.
 
 O parágrafo precisa empregar três pronomes átonos em posições diferentes: uma próclise por atração, uma ênclise em início de oração e um pronome junto ao auxiliar de uma locução verbal. Entregue as duas versões.
 
@@ -421,7 +503,9 @@ O parágrafo precisa empregar três pronomes átonos em posições diferentes: u
 
 ---
 
-**9.** Assinale, entre as quatro situações, a única em que a **mesóclise** é a colocação recomendada, e diga qual é a colocação recomendada em cada uma das outras três.
+### ATIVIDADE 09
+
+Assinale, entre as quatro situações, a única em que a **mesóclise** é a colocação recomendada, e diga qual é a colocação recomendada em cada uma das outras três.
 
 a) Início de frase em texto formal, verbo no presente: *Conte___ tudo o que sabe.*  
 b) Futuro do presente sem palavra atrativa: *Dir___ei o resultado amanhã cedo.*  
@@ -434,7 +518,9 @@ d) Locução verbal com particípio e atrator: *Não ___ tinha contado o combina
 
 ---
 
-**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 10
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Numa mensagem de aplicativo para um amigo, alguém escreve: *"Dir-te-ei o horário assim que souber."*
 

@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Trigonometria no triângulo retângulo
 
-**1.** Construa uma malha quadriculada, trace nela três triângulos retângulos de tamanhos crescentes e registre o que muda e o que permanece de um para o outro.
+### ATIVIDADE 01
+
+Construa uma malha quadriculada, trace nela três triângulos retângulos de tamanhos crescentes e registre o que muda e o que permanece de um para o outro.
 
 **Antes de começar, responda por escrito:** o que você espera que aconteça com o seno, o cosseno e a tangente do ângulo oposto ao cateto menor quando o triângulo é ampliado?
 
@@ -19,7 +21,9 @@ Trace com a régua uma malha de 1 cm e, nela, três triângulos retângulos com 
 
 ---
 
-**2.** Explique por que a tangente de um ângulo agudo não depende do tamanho do triângulo retângulo que o contém.
+### ATIVIDADE 02
+
+Explique por que a tangente de um ângulo agudo não depende do tamanho do triângulo retângulo que o contém.
 
 Dois triângulos retângulos têm catetos de 2 cm e 5 cm e catetos de 6 cm e 15 cm.
 
@@ -27,7 +31,9 @@ Dois triângulos retângulos têm catetos de 2 cm e 5 cm e catetos de 6 cm e 15 
 
 ---
 
-**3.** Preveja o que acontece com a tangente de um ângulo agudo quando o ângulo cresce e confronte a previsão com um experimento de cateto fixo.
+### ATIVIDADE 03
+
+Preveja o que acontece com a tangente de um ângulo agudo quando o ângulo cresce e confronte a previsão com um experimento de cateto fixo.
 
 **Antes de começar, responda por escrito:** o que você espera que aconteça com a tangente de um ângulo agudo quando o ângulo cresce — ela aumenta, diminui ou se mantém?
 
@@ -39,7 +45,9 @@ Trace com a régua um segmento horizontal de 10 cm, que será o cateto adjacente
 
 ---
 
-**4.** Construa um quadrado e um triângulo de três lados iguais e deduza das duas figuras a tabela dos ângulos notáveis de 30°, 45° e 60°.
+### ATIVIDADE 04
+
+Construa um quadrado e um triângulo de três lados iguais e deduza das duas figuras a tabela dos ângulos notáveis de 30°, 45° e 60°.
 
 Construa com régua, transferidor e compasso um quadrado de 6 cm de lado — os quatro ângulos retos marcados com o transferidor — e trace uma de suas diagonais. Construa também um triângulo de três lados iguais a 6 cm, cruzando com o compasso dois arcos de 6 cm a partir das extremidades do primeiro lado, e trace a altura relativa a um dos lados.
 
@@ -49,7 +57,9 @@ Construa com régua, transferidor e compasso um quadrado de 6 cm de lado — os 
 
 ---
 
-**5.** Diagnostique o erro na afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro na afirmação a seguir.
 
 Um estudante escreveu: *"Se o seno de um ângulo é 0,8, o cosseno é 0,2, porque os dois somam 1."*
 
@@ -57,7 +67,9 @@ Um estudante escreveu: *"Se o seno de um ângulo é 0,8, o cosseno é 0,2, porqu
 
 ---
 
-**6.** Decida qual é o comprimento horizontal mínimo da rampa descrita a seguir.
+### ATIVIDADE 06
+
+Decida qual é o comprimento horizontal mínimo da rampa descrita a seguir.
 
 Uma rampa de acessibilidade precisa vencer um desnível de 60 cm, e a norma exige inclinação máxima de 8,33%.
 
@@ -65,7 +77,9 @@ Uma rampa de acessibilidade precisa vencer um desnível de 60 cm, e a norma exig
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre o triângulo retângulo, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre o triângulo retângulo, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O cateto oposto é sempre o mais comprido dos dois catetos do triângulo.  
 b) Ao trocar o ângulo agudo de referência, oposto e adjacente trocam de papel.  
@@ -78,7 +92,9 @@ d) O seno de um ângulo agudo pode passar de 1 quando os catetos são grandes.
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Um teodolito é colocado a 50 m da base de um prédio e mede 30° a partir da horizontal até o topo.
 

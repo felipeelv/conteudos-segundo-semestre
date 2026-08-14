@@ -7,13 +7,17 @@
 
 ## Capítulo 1 — Defesa e movimento (imunológico e locomotor)
 
-**1.** Elabore um fluxograma da resposta inflamatória, do momento em que a barreira física é rompida até a chegada das células fagocitárias.
+### ATIVIDADE 01
+
+Elabore um fluxograma da resposta inflamatória, do momento em que a barreira física é rompida até a chegada das células fagocitárias.
 
 Assinale, ao lado de cada etapa, o sinal clínico que ela produz.
 
 ---
 
-**2.** Elabore uma tabela que compare a imunização por vacina e a imunização por soro.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare a imunização por vacina e a imunização por soro.
 
 A tabela precisa trazer, para cada uma das duas formas de imunização:
 
@@ -23,7 +27,9 @@ A tabela precisa trazer, para cada uma das duas formas de imunização:
 
 ---
 
-**3.** Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos componentes do sistema imunológico relacionados a seguir, indicando o que ele reconhece e como age. Os termos *antígeno*, *inespecífico* e *memória imunológica* precisam aparecer no conjunto dos quatro verbetes:
+### ATIVIDADE 03
+
+Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos componentes do sistema imunológico relacionados a seguir, indicando o que ele reconhece e como age. Os termos *antígeno*, *inespecífico* e *memória imunológica* precisam aparecer no conjunto dos quatro verbetes:
 
 a) barreira química  
 b) célula fagocitária  
@@ -32,7 +38,9 @@ d) linfócito T
 
 ---
 
-**4.** Decida qual das duas campanhas a secretaria de saúde deve realizar no caso a seguir.
+### ATIVIDADE 04
+
+Decida qual das duas campanhas a secretaria de saúde deve realizar no caso a seguir.
 
 Um município tem 62% da população infantil vacinada contra o sarampo e registra os primeiros casos da doença em vinte anos. A secretaria de saúde dispõe de recursos para uma única campanha: ampliar a cobertura vacinal ou distribuir soro aos casos já confirmados.
 
@@ -40,7 +48,9 @@ Um município tem 62% da população infantil vacinada contra o sarampo e regist
 
 ---
 
-**5.** Pesquise uma recomendação oficial de prática de atividade física para adolescentes e analise o que ela declara — e o que não fornece.
+### ATIVIDADE 05
+
+Pesquise uma recomendação oficial de prática de atividade física para adolescentes e analise o que ela declara — e o que não fornece.
 
 Consulte fonte impressa, digital ou do acervo da escola e registre a referência consultada — órgão emissor e ano.
 
@@ -48,7 +58,9 @@ Consulte fonte impressa, digital ou do acervo da escola e registre a referência
 
 ---
 
-**6.** Localize uma notícia publicada nos últimos cinco anos sobre queda da cobertura vacinal no Brasil e analise o que ela afirma — e o que não discute.
+### ATIVIDADE 06
+
+Localize uma notícia publicada nos últimos cinco anos sobre queda da cobertura vacinal no Brasil e analise o que ela afirma — e o que não discute.
 
 Procure em jornal ou revista impressos, em site de divulgação científica ou no acervo da escola.
 
@@ -56,7 +68,9 @@ Procure em jornal ou revista impressos, em site de divulgação científica ou n
 
 ---
 
-**7.** Diagnostique o erro conceitual na frase a seguir e reescreva-a de modo correto.
+### ATIVIDADE 07
+
+Diagnostique o erro conceitual na frase a seguir e reescreva-a de modo correto.
 
 Um estudante escreveu: *"Tomei o soro antitetânico, então agora estou imunizado contra o tétano e não preciso mais me preocupar."*
 
@@ -64,11 +78,15 @@ Um estudante escreveu: *"Tomei o soro antitetânico, então agora estou imunizad
 
 ---
 
-**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a vacinação deve ser obrigatória? Enuncie a posição defendida na primeira linha, sustente-a com o conceito de imunidade de rebanho e responda à objeção de quem alega que a decisão de se vacinar afeta apenas quem a toma.
+### ATIVIDADE 08
+
+Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a vacinação deve ser obrigatória? Enuncie a posição defendida na primeira linha, sustente-a com o conceito de imunidade de rebanho e responda à objeção de quem alega que a decisão de se vacinar afeta apenas quem a toma.
 
 ---
 
-**9.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela atribui à estrutura errada.
+### ATIVIDADE 09
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela atribui à estrutura errada.
 
 Uma pessoa flexiona o cotovelo, levando a mão em direção ao ombro, e em seguida o estende de volta.
 
@@ -83,7 +101,9 @@ d) O movimento é produzido pelo tendão, que encurta e move o osso nos dois sen
 
 ---
 
-**10.** Assinale, entre as quatro afirmações sobre os anticorpos, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela troca de lugar.
+### ATIVIDADE 10
+
+Assinale, entre as quatro afirmações sobre os anticorpos, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela troca de lugar.
 
 a) O anticorpo destrói o invasor por conta própria, dissolvendo a membrana dele no ponto em que se liga.  
 b) O anticorpo se liga ao antígeno de forma específica e, com isso, neutraliza, marca ou agrega o invasor.  

@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Concordância verbal
 
-**1.** Reescreva cada frase abaixo corrigindo a concordância verbal.
+### ATIVIDADE 01
+
+Reescreva cada frase abaixo corrigindo a concordância verbal.
 
 a) Houveram muitas reclamações.  
 b) A maioria dos candidatos desistiu.  
@@ -18,7 +20,9 @@ d) Vossa Senhoria está enganado.
 
 ---
 
-**2.** Explique por que a mesma expressão admite verbo no plural em uma das frases abaixo e no singular na outra.
+### ATIVIDADE 02
+
+Explique por que a mesma expressão admite verbo no plural em uma das frases abaixo e no singular na outra.
 
 As duas estão corretas.
 
@@ -29,7 +33,9 @@ b) Mais de um aluno chegou atrasado.
 
 ---
 
-**3.** Elabore uma tabela com os casos especiais de concordância verbal estudados.
+### ATIVIDADE 03
+
+Elabore uma tabela com os casos especiais de concordância verbal estudados.
 
 A tabela precisa trazer, para cada caso especial:
 
@@ -39,7 +45,9 @@ A tabela precisa trazer, para cada caso especial:
 
 ---
 
-**4.** Reescreva o parágrafo abaixo corrigindo todos os erros de concordância.
+### ATIVIDADE 04
+
+Reescreva o parágrafo abaixo corrigindo todos os erros de concordância.
 
 *"Houveram problemas na entrega. Fazem duas semanas que aguardamos. A maior parte dos pedidos foram cancelados, e alugam-se salas no mesmo prédio."*
 
@@ -47,7 +55,9 @@ A tabela precisa trazer, para cada caso especial:
 
 ---
 
-**5.** Diagnostique o erro da afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro da afirmação a seguir.
 
 Um estudante escreveu: *"'Alugam-se casas' está errado, o certo é 'aluga-se casas', porque o sujeito é indeterminado."*
 
@@ -55,7 +65,9 @@ Um estudante escreveu: *"'Alugam-se casas' está errado, o certo é 'aluga-se ca
 
 ---
 
-**6.** Localize uma construção com o verbo *haver* ou com expressão partitiva e analise a concordância empregada nela.
+### ATIVIDADE 06
+
+Localize uma construção com o verbo *haver* ou com expressão partitiva e analise a concordância empregada nela.
 
 Procure em texto impresso, em página da internet ou no acervo da escola, e registre a fonte.
 
@@ -63,7 +75,9 @@ Procure em texto impresso, em página da internet ou no acervo da escola, e regi
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre concordância verbal, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre concordância verbal, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Em *Vendem-se casas*, o *se* indetermina o sujeito, e o verbo deveria ficar no singular.  
 b) Em *Vendem-se casas*, o *se* é apassivador: *casas* é o sujeito, e o verbo vai ao plural.  
@@ -76,7 +90,9 @@ d) O sujeito oracional leva o verbo ao plural, porque a oração que o forma tem
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 *50% dos alunos faltaram à aula de segunda-feira.*
 
@@ -92,7 +108,9 @@ d) A construção está correta, porque o número 50 é maior que 1 e por isso p
 ---
 ## Capítulo 2 — Concordância nominal
 
-**1.** Reescreva cada frase abaixo corrigindo a concordância nominal.
+### ATIVIDADE 01
+
+Reescreva cada frase abaixo corrigindo a concordância nominal.
 
 a) Ela está meia cansada.  
 b) Seguem anexo as planilhas.  
@@ -103,7 +121,9 @@ d) Comprei bastantes livros.
 
 ---
 
-**2.** Explique em qual das duas frases abaixo *meio* varia e qual é a razão gramatical da diferença.
+### ATIVIDADE 02
+
+Explique em qual das duas frases abaixo *meio* varia e qual é a razão gramatical da diferença.
 
 A mesma palavra aparece nas duas.
 
@@ -114,7 +134,9 @@ b) Ela está meio cansada.
 
 ---
 
-**3.** Elabore uma tabela com as palavras de concordância variável estudadas.
+### ATIVIDADE 03
+
+Elabore uma tabela com as palavras de concordância variável estudadas.
 
 A tabela precisa trazer, para cada palavra:
 
@@ -124,7 +146,9 @@ A tabela precisa trazer, para cada palavra:
 
 ---
 
-**4.** Reescreva o parágrafo abaixo corrigindo todos os erros de concordância nominal.
+### ATIVIDADE 04
+
+Reescreva o parágrafo abaixo corrigindo todos os erros de concordância nominal.
 
 *"Segue anexo os relatórios. É necessário paciência e atenção. Ela mesmo conferiu tudo, e ficou meia surpresa com o resultado."*
 
@@ -132,7 +156,9 @@ A tabela precisa trazer, para cada palavra:
 
 ---
 
-**5.** Diagnostique o erro da afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro da afirmação a seguir.
 
 Um estudante escreveu: *"'Obrigado' é invariável, é sempre 'obrigado'."*
 
@@ -140,7 +166,9 @@ Um estudante escreveu: *"'Obrigado' é invariável, é sempre 'obrigado'."*
 
 ---
 
-**6.** Redija, para cada regra a seguir, um verbete de até quatro linhas que outro estudante possa consultar, com um exemplo próprio em cada:
+### ATIVIDADE 06
+
+Redija, para cada regra a seguir, um verbete de até quatro linhas que outro estudante possa consultar, com um exemplo próprio em cada:
 
 a) um adjetivo para vários substantivos  
 b) vários adjetivos para um substantivo  
@@ -149,7 +177,9 @@ d) *possível* com superlativo
 
 ---
 
-**7.** Assinale, entre as quatro frases, a única em que a concordância nominal está correta, e diga que erro há em cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro frases, a única em que a concordância nominal está correta, e diga que erro há em cada uma das outras três.
 
 a) Segue anexo a fatura solicitada pela empresa.  
 b) Estão inclusas as fotos do evento de sábado.  
@@ -162,7 +192,9 @@ d) Havia menas pessoas na sala do que na semana passada.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do par a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do par a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Duas frases: *"Ela ficou meio cansada"* e *"Ela comprou meia garrafa de suco"*.
 

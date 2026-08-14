@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Sujeito
 
-**1.** Classifique o sujeito de cada oração abaixo.
+### ATIVIDADE 01
+
+Classifique o sujeito de cada oração abaixo.
 
 a) Choveu muito ontem.  
 b) Disseram que vai melhorar.  
@@ -20,7 +22,9 @@ d) Faz dois anos que ele partiu.
 
 ---
 
-**2.** Classifique as duas frases abaixo, uma de sujeito indeterminado e outra sem sujeito, e explique a diferença entre os dois casos.
+### ATIVIDADE 02
+
+Classifique as duas frases abaixo, uma de sujeito indeterminado e outra sem sujeito, e explique a diferença entre os dois casos.
 
 a) Precisa-se de funcionários.  
 b) Trata-se de um engano.
@@ -29,20 +33,26 @@ b) Trata-se de um engano.
 
 ---
 
-**3.** Elabore uma tabela com os seis casos de sujeito estudados.
+### ATIVIDADE 03
+
+Elabore uma tabela com os seis casos de sujeito estudados.
 
 Além da definição, inclua uma coluna com o teste que identifica cada um.
 
 ---
 
-**4.** Reescreva as frases abaixo transformando o sujeito determinado em indeterminado, sem mudar o sentido.
+### ATIVIDADE 04
+
+Reescreva as frases abaixo transformando o sujeito determinado em indeterminado, sem mudar o sentido.
 
 a) Os moradores reclamaram do barulho.  
 b) Alguém deixou a porta aberta.
 
 ---
 
-**5.** Diagnostique o erro da afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro da afirmação a seguir.
 
 Um estudante escreveu: *"'Choveu' tem sujeito oculto, que é 'a chuva'."*
 
@@ -50,7 +60,9 @@ Um estudante escreveu: *"'Choveu' tem sujeito oculto, que é 'a chuva'."*
 
 ---
 
-**6.** Localize um texto publicado e classifique quatro orações dele com tipos diferentes de sujeito.
+### ATIVIDADE 06
+
+Localize um texto publicado e classifique quatro orações dele com tipos diferentes de sujeito.
 
 Procure o texto em livro, revista, jornal, página da internet ou no acervo da escola, copie as quatro orações e registre a fonte.
 
@@ -58,7 +70,9 @@ Procure o texto em livro, revista, jornal, página da internet ou no acervo da e
 
 ---
 
-**7.** Assinale, entre as quatro orações, a única de **sujeito composto**, e classifique o sujeito de cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro orações, a única de **sujeito composto**, e classifique o sujeito de cada uma das outras três.
 
 a) A equipe de robótica apresentou o projeto na feira.  
 b) O roteiro da apresentação e as imagens ficaram prontos.  
@@ -71,7 +85,9 @@ d) Disseram isso no corredor, durante o intervalo.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Um estudante escreveu: *"Haviam muitos livros na estante."*
 
@@ -87,7 +103,9 @@ d) Está errado, porque *haver* não pode ser usado nesse sentido; só cabe *exi
 ---
 ## Capítulo 2 — Predicado
 
-**1.** Classifique o predicado de cada oração abaixo e localize o predicativo, quando houver.
+### ATIVIDADE 01
+
+Classifique o predicado de cada oração abaixo e localize o predicativo, quando houver.
 
 a) O juiz considerou o réu culpado.  
 b) A criança chegou feliz.  
@@ -100,7 +118,9 @@ d) Ela permaneceu calada.
 
 ---
 
-**2.** Explique o critério que decide em qual das duas frases abaixo o verbo é de ligação.
+### ATIVIDADE 02
+
+Explique o critério que decide em qual das duas frases abaixo o verbo é de ligação.
 
 As duas têm o mesmo verbo.
 
@@ -111,7 +131,9 @@ b) Ele ficou nervoso.
 
 ---
 
-**3.** Elabore uma tabela com os três tipos de predicado.
+### ATIVIDADE 03
+
+Elabore uma tabela com os três tipos de predicado.
 
 A tabela precisa trazer, para cada um dos três tipos:
 
@@ -121,13 +143,17 @@ A tabela precisa trazer, para cada um dos três tipos:
 
 ---
 
-**4.** Reescreva o parágrafo abaixo transformando os predicados verbais em verbo-nominais, acrescentando uma característica ao sujeito em cada oração.
+### ATIVIDADE 04
+
+Reescreva o parágrafo abaixo transformando os predicados verbais em verbo-nominais, acrescentando uma característica ao sujeito em cada oração.
 
 *"O menino entrou. Sentou-se na cadeira. Abriu o caderno."*
 
 ---
 
-**5.** Diagnostique o erro da afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro da afirmação a seguir.
 
 Um estudante escreveu: *"Predicativo do objeto não existe, porque predicativo é sempre do sujeito."*
 
@@ -135,7 +161,9 @@ Um estudante escreveu: *"Predicativo do objeto não existe, porque predicativo �
 
 ---
 
-**6.** Redija, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando a que termo ele se refere:
+### ATIVIDADE 06
+
+Redija, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando a que termo ele se refere:
 
 a) predicativo do sujeito  
 b) predicativo do objeto  
@@ -144,7 +172,9 @@ d) núcleo do predicado
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre o predicado, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre o predicado, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Em *Chegaram os convidados*, o sujeito é *chegaram*, porque vem primeiro na oração.  
 b) Em *Chegaram os convidados*, o predicado vem antes do sujeito, que é *os convidados*.  
@@ -157,7 +187,9 @@ d) Uma oração com verbo de ligação tem predicado verbal, porque nela existe 
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre a oração a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre a oração a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 *A menina ficou feliz com o resultado.*
 
@@ -173,7 +205,9 @@ d) O predicado é nominal, porque toda oração com adjetivo tem predicado nomin
 ---
 ## Capítulo 3 — Sujeito e predicado no texto
 
-**1.** Localize uma notícia e um trecho de narrativa literária e classifique sujeito e predicado em orações de cada um.
+### ATIVIDADE 01
+
+Localize uma notícia e um trecho de narrativa literária e classifique sujeito e predicado em orações de cada um.
 
 Procure os dois em material impresso, em página da internet ou no acervo da escola, copie três orações de cada e registre as duas fontes.
 
@@ -181,7 +215,9 @@ Procure os dois em material impresso, em página da internet ou no acervo da esc
 
 ---
 
-**2.** Redija, em até dez linhas e para outro estudante, uma explicação de qual dos dois gêneros usa mais sujeito explícito e qual usa mais sujeito oculto: a notícia ou a narrativa literária.
+### ATIVIDADE 02
+
+Redija, em até dez linhas e para outro estudante, uma explicação de qual dos dois gêneros usa mais sujeito explícito e qual usa mais sujeito oculto: a notícia ou a narrativa literária.
 
 Escreva de sua autoria uma oração de cada gênero para sustentar o que você afirmar.
 
@@ -189,7 +225,9 @@ Escreva de sua autoria uma oração de cada gênero para sustentar o que você a
 
 ---
 
-**3.** Elabore uma tabela que relacione três gêneros textuais aos tipos de sujeito e predicado predominantes em cada um.
+### ATIVIDADE 03
+
+Elabore uma tabela que relacione três gêneros textuais aos tipos de sujeito e predicado predominantes em cada um.
 
 A tabela precisa trazer, para cada um dos três gêneros:
 
@@ -199,13 +237,17 @@ A tabela precisa trazer, para cada um dos três gêneros:
 
 ---
 
-**4.** Redija, em até cinco linhas cada, duas versões da mesma informação — *a escola inaugurou o laboratório de ciências na quarta-feira*: uma como notícia e outra como relato pessoal.
+### ATIVIDADE 04
+
+Redija, em até cinco linhas cada, duas versões da mesma informação — *a escola inaugurou o laboratório de ciências na quarta-feira*: uma como notícia e outra como relato pessoal.
 
 **Responda:** em que diferem as escolhas de sujeito feitas em cada uma das duas versões?
 
 ---
 
-**5.** Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
+### ATIVIDADE 05
+
+Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
 
 Um estudante escreveu: *"Texto bom é o que sempre deixa o sujeito explícito."*
 
@@ -213,7 +255,9 @@ Um estudante escreveu: *"Texto bom é o que sempre deixa o sujeito explícito."*
 
 ---
 
-**6.** Localize uma manchete que omita o agente da ação e analise o efeito dessa omissão.
+### ATIVIDADE 06
+
+Localize uma manchete que omita o agente da ação e analise o efeito dessa omissão.
 
 Procure a manchete em jornal impresso, em página da internet ou no acervo da escola, e registre a fonte.
 
@@ -221,7 +265,9 @@ Procure a manchete em jornal impresso, em página da internet ou no acervo da es
 
 ---
 
-**7.** Assinale, entre as quatro orações, a única de **sujeito indeterminado**, e classifique o sujeito de cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro orações, a única de **sujeito indeterminado**, e classifique o sujeito de cada uma das outras três.
 
 a) Roubaram o computador da sala de aula ontem à noite.  
 b) Marina entrou na sala e sentou perto da janela.  
@@ -234,7 +280,9 @@ d) O laboratório foi inaugurado pela direção da escola.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do par a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do par a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Duas manchetes possíveis: *"A escola inaugurou o laboratório"* e *"O laboratório foi inaugurado"*.
 

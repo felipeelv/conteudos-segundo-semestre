@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Frequência e representação de dados
 
-**1.** Registre, numa tabela de frequência completa, como as 50 primeiras palavras da seção 1 deste capítulo se distribuem por faixas de tamanho.
+### ATIVIDADE 01
+
+Registre, numa tabela de frequência completa, como as 50 primeiras palavras da seção 1 deste capítulo se distribuem por faixas de tamanho.
 
 **Antes de começar, responda por escrito:** qual destas quatro faixas você espera que reúna mais palavras — de 1 a 3 letras, de 4 a 6 letras, de 7 a 9 letras, de 10 letras ou mais?
 
@@ -17,7 +19,9 @@ Percorra as 50 primeiras palavras do texto da seção 1, desconsiderando número
 
 ---
 
-**2.** Numa contagem hipotética de 40 respostas sobre o meio de transporte usado para chegar à escola, registraram-se ônibus 18, caminhada 12, bicicleta 6 e carona 4.
+### ATIVIDADE 02
+
+Numa contagem hipotética de 40 respostas sobre o meio de transporte usado para chegar à escola, registraram-se ônibus 18, caminhada 12, bicicleta 6 e carona 4.
 
 a) Elabore a tabela de frequência dessas quatro categorias, com frequência absoluta, relativa e percentual.  
 b) Numa segunda contagem, também de 40 respostas, aparecem apenas ônibus 18, caminhada 12 e bicicleta 6, e os percentuais somam 90%. Calcule quantas respostas ficaram fora da tabela e explique qual das duas somas de conferência revelou a falta.  
@@ -27,7 +31,9 @@ c) Numa terceira contagem, a categoria caminhada aparece com 35% de um total de 
 
 ---
 
-**3.** Construa dois gráficos — um de barras e um de setores — para uma mesma contagem hipotética e compare o que cada um deixa enxergar.
+### ATIVIDADE 03
+
+Construa dois gráficos — um de barras e um de setores — para uma mesma contagem hipotética e compare o que cada um deixa enxergar.
 
 Numa contagem hipotética de 40 respostas sobre a bebida escolhida no intervalo, registraram-se suco 20, água 10, leite 5 e chá 5. Construa os dois gráficos com esses quatro valores, cada um com título e legenda:
 
@@ -38,7 +44,9 @@ Numa contagem hipotética de 40 respostas sobre a bebida escolhida no intervalo,
 
 ---
 
-**4.** Elabore uma tabela que relacione cada tipo de dado ao gráfico adequado a ele, cobrindo dado de categoria, contagem, parte do total e evolução no tempo.
+### ATIVIDADE 04
+
+Elabore uma tabela que relacione cada tipo de dado ao gráfico adequado a ele, cobrindo dado de categoria, contagem, parte do total e evolução no tempo.
 
 A tabela precisa trazer, para cada um dos quatro tipos de dado:
 
@@ -50,7 +58,9 @@ As duas últimas colunas o capítulo não traz.
 
 ---
 
-**5.** Diagnostique o erro por trás de uma tabela de pesquisa cujos percentuais somam mais de 100%.
+### ATIVIDADE 05
+
+Diagnostique o erro por trás de uma tabela de pesquisa cujos percentuais somam mais de 100%.
 
 Um estudante fez uma pesquisa com 25 pessoas e apresentou uma tabela em que os percentuais somavam 103%.
 
@@ -58,7 +68,9 @@ Um estudante fez uma pesquisa com 25 pessoas e apresentou uma tabela em que os p
 
 ---
 
-**6.** Decida quem deve ser ouvido numa pesquisa escolar para que o resultado não saia distorcido.
+### ATIVIDADE 06
+
+Decida quem deve ser ouvido numa pesquisa escolar para que o resultado não saia distorcido.
 
 Uma escola quer saber qual esporte oferecer no contraturno e pode fazer a pesquisa com todos os alunos ou apenas com os que já praticam algum esporte.
 
@@ -66,7 +78,9 @@ Uma escola quer saber qual esporte oferecer no contraturno e pode fazer a pesqui
 
 ---
 
-**7.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Uma manchete diz: *"50% dos entrevistados aprovaram a nova regra"*. O texto não informa quantas pessoas foram entrevistadas.
 
@@ -81,7 +95,9 @@ d) O total não importa, porque a frequência relativa já foi calculada com ele
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre tabelas de frequência, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre tabelas de frequência, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Se as porcentagens arredondadas somam 99,99%, houve erro na contagem das respostas.  
 b) Se as porcentagens arredondadas somam 99,99%, a diferença vem do arredondamento.  

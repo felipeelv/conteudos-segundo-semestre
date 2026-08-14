@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Medidas de tendência central
 
-**1.** Meça o comprimento de oito objetos ao seu alcance e registre o que média, moda, mediana e amplitude revelam sobre o conjunto.
+### ATIVIDADE 01
+
+Meça o comprimento de oito objetos ao seu alcance e registre o que média, moda, mediana e amplitude revelam sobre o conjunto.
 
 **Antes de começar, responda por escrito:** qual comprimento você espera que apareça mais de uma vez?
 
@@ -17,7 +19,9 @@ Meça com a régua, em centímetros inteiros, oito objetos alongados que estejam
 
 ---
 
-**2.** Decida qual medida de tendência central responde a cada uma de duas perguntas diferentes sobre o mesmo conjunto de preços.
+### ATIVIDADE 02
+
+Decida qual medida de tendência central responde a cada uma de duas perguntas diferentes sobre o mesmo conjunto de preços.
 
 Oito preços hipotéticos de um mesmo livro, em oito livrarias diferentes: R$ 30,00; R$ 32,00; R$ 32,00; R$ 34,00; R$ 35,00; R$ 36,00; R$ 38,00 e R$ 96,00 — este último numa loja de aeroporto. A primeira pergunta: quanto uma pessoa provavelmente vai pagar por esse livro? A segunda: quanto as oito livrarias arrecadam se cada uma vender um exemplar?
 
@@ -27,7 +31,9 @@ Calcule a média e a mediana dos oito preços antes de decidir.
 
 ---
 
-**3.** Elabore uma tabela de notas com pesos diferentes que produza uma média ponderada de exatamente 7,0, mas cuja média simples seja diferente de 7,0, e teste até onde os pesos conseguem levar a ponderada.
+### ATIVIDADE 03
+
+Elabore uma tabela de notas com pesos diferentes que produza uma média ponderada de exatamente 7,0, mas cuja média simples seja diferente de 7,0, e teste até onde os pesos conseguem levar a ponderada.
 
 Mostre os dois cálculos, o da média ponderada e o da média simples. Depois altere apenas os pesos, mantendo as mesmas notas.
 
@@ -35,7 +41,9 @@ Mostre os dois cálculos, o da média ponderada e o da média simples. Depois al
 
 ---
 
-**4.** Redija, para quem faltou à aula, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "valor extremo", "ordenar" e "peso", e feche com um caso em que usar aquela medida daria uma ideia errada do conjunto:
+### ATIVIDADE 04
+
+Redija, para quem faltou à aula, um verbete de cinco linhas sobre cada medida a seguir. Em cada verbete use obrigatoriamente os termos "valor extremo", "ordenar" e "peso", e feche com um caso em que usar aquela medida daria uma ideia errada do conjunto:
 
 a) média simples  
 b) média ponderada  
@@ -44,7 +52,9 @@ d) mediana
 
 ---
 
-**5.** Diagnostique o erro de um estudante que resumiu pela média os salários de uma empresa.
+### ATIVIDADE 05
+
+Diagnostique o erro de um estudante que resumiu pela média os salários de uma empresa.
 
 Numa empresa hipotética de dez funcionários, nove ganham entre R$ 2.000,00 e R$ 2.600,00, somando R$ 21.400,00, e um ganha R$ 20.000,00. Um estudante calculou a média, encontrou R$ 4.140,00 e escreveu: *"a maioria dos funcionários ganha perto disso."*
 
@@ -52,7 +62,9 @@ Numa empresa hipotética de dez funcionários, nove ganham entre R$ 2.000,00 e R
 
 ---
 
-**6.** Decida, pelas medidas de cada conjunto, em qual de duas filas de caixa entrar.
+### ATIVIDADE 06
+
+Decida, pelas medidas de cada conjunto, em qual de duas filas de caixa entrar.
 
 Em duas filas hipotéticas do mesmo caixa, os tempos de espera registrados, em minutos, foram: fila A — 4, 5, 5, 6 e 5; fila B — 1, 2, 5, 8 e 9. Você dispõe de exatamente sete minutos.
 
@@ -62,7 +74,9 @@ Calcule média, mediana e amplitude de cada uma das duas filas.
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre a média, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre a média, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Uma média pode ficar acima do maior valor do conjunto, se houver muitos valores.  
 b) A média fica sempre entre o menor e o maior valor, e a soma dos desvios dá zero.  
@@ -75,7 +89,9 @@ d) A média ponderada com todos os pesos iguais dá resultado diferente da médi
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Numa empresa, cinco salários são R$ 2.000,00; R$ 2.100,00; R$ 2.100,00; R$ 2.300,00 e R$ 8.000,00.
 

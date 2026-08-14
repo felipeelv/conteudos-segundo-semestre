@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Igualdade e equivalência entre expressões
 
-**1.** Calcule os três itens na ordem.
+### ATIVIDADE 01
+
+Calcule os três itens na ordem.
 
 Uma balança está equilibrada com 3 laranjas de um lado e 6 limões do outro.
 
@@ -19,7 +21,9 @@ c) Se você dobrar a quantidade dos dois lados, a balança continua equilibrada?
 
 ---
 
-**2.** Calcule os dois lados de cada uma das igualdades a seguir. Uma é verdadeira e a outra é falsa.
+### ATIVIDADE 02
+
+Calcule os dois lados de cada uma das igualdades a seguir. Uma é verdadeira e a outra é falsa.
 
 a) 12 + 8 = 15 + 5  
 b) 12 + 8 = 15 + 6
@@ -28,13 +32,17 @@ b) 12 + 8 = 15 + 6
 
 ---
 
-**3.** Elabore um esquema com uma balança em três momentos: equilibrada, depois de somar o mesmo número dos dois lados, e depois de somar números diferentes.
+### ATIVIDADE 03
+
+Elabore um esquema com uma balança em três momentos: equilibrada, depois de somar o mesmo número dos dois lados, e depois de somar números diferentes.
 
 Escreva embaixo de cada momento o que aconteceu, ligue os três momentos com setas e escreva sobre cada seta o que foi feito para passar de um momento ao seguinte.
 
 ---
 
-**4.** Explique o que está errado na regra a seguir.
+### ATIVIDADE 04
+
+Explique o que está errado na regra a seguir.
 
 Rafael escreveu: *"Se eu somar 5 de um lado da igualdade, posso subtrair 5 do outro que continua igual."*
 
@@ -44,7 +52,9 @@ Mostre com um exemplo numérico por que ele está errado.
 
 ---
 
-**5.** Elabore uma tabela com quatro igualdades verdadeiras, uma para cada operação — adição, subtração, multiplicação e divisão —, todas com o resultado 24 nos dois lados.
+### ATIVIDADE 05
+
+Elabore uma tabela com quatro igualdades verdadeiras, uma para cada operação — adição, subtração, multiplicação e divisão —, todas com o resultado 24 nos dois lados.
 
 Cada linha precisa ter:
 
@@ -54,7 +64,9 @@ Cada linha precisa ter:
 
 ---
 
-**6.** Preveja se será fácil ou difícil encontrar, num dia comum, duas coisas diferentes que valem o mesmo, e confronte a previsão com o que você observar do seu dia de ontem.
+### ATIVIDADE 06
+
+Preveja se será fácil ou difícil encontrar, num dia comum, duas coisas diferentes que valem o mesmo, e confronte a previsão com o que você observar do seu dia de ontem.
 
 **Antes de começar, responda por escrito:** você espera achar fácil ou difícil encontrar duas situações desse tipo?
 
@@ -68,13 +80,17 @@ Observe o seu dia de ontem e procure duas situações: uma em que dois usos dife
 
 ---
 
-**7.** Redija um bilhete de cinco linhas, para outro estudante, explicando o que significa o sinal de igual.
+### ATIVIDADE 07
+
+Redija um bilhete de cinco linhas, para outro estudante, explicando o que significa o sinal de igual.
 
 O bilhete precisa deixar claro que ele **não** quer dizer "aqui vem a resposta".
 
 ---
 
-**8.** Assinale, entre as três mudanças feitas na igualdade 7 + 3 = 10, a única que deixa a igualdade verdadeira, e escreva por que **uma** das outras duas não deixa.
+### ATIVIDADE 08
+
+Assinale, entre as três mudanças feitas na igualdade 7 + 3 = 10, a única que deixa a igualdade verdadeira, e escreva por que **uma** das outras duas não deixa.
 
 a) Multiplicar os dois lados por 2, escrevendo 14 + 6 = 20.  
 b) Multiplicar só o lado esquerdo por 2, escrevendo 14 + 6 = 10.  
@@ -86,7 +102,9 @@ c) Multiplicar o lado esquerdo por 2 e o direito por 3, escrevendo 14 + 6 = 30.
 
 ---
 
-**9.** Assinale, entre as três retiradas do caso a seguir, a única que mantém a balança equilibrada, e escreva por que **uma** das outras duas não mantém.
+### ATIVIDADE 09
+
+Assinale, entre as três retiradas do caso a seguir, a única que mantém a balança equilibrada, e escreva por que **uma** das outras duas não mantém.
 
 Numa balança em equilíbrio, o prato da esquerda tem 3 laranjas iguais e o prato da direita tem 6 limões iguais.
 
@@ -101,7 +119,9 @@ c) Tirar 1 laranja da esquerda e 1 limão da direita.
 ---
 ## Capítulo 2 — Termo desconhecido e padrões numéricos
 
-**1.** Calcule os três itens na ordem — o resultado de cada um entra no próximo.
+### ATIVIDADE 01
+
+Calcule os três itens na ordem — o resultado de cada um entra no próximo.
 
 a) Descubra o valor: ▢ + 7 = 19.  
 b) Use o valor que você encontrou no lugar do ▢: ▢ × 3 = ?  
@@ -111,7 +131,9 @@ c) Agora descubra: 60 ÷ ▢ = ?, usando o mesmo valor do item a.
 
 ---
 
-**2.** Calcule as duas sentenças a seguir, que parecem iguais.
+### ATIVIDADE 02
+
+Calcule as duas sentenças a seguir, que parecem iguais.
 
 a) ▢ − 6 = 10  
 b) 6 − ▢ = 10
@@ -120,7 +142,9 @@ b) 6 − ▢ = 10
 
 ---
 
-**3.** Calcule os termos que faltam nas três sequências, na ordem.
+### ATIVIDADE 03
+
+Calcule os termos que faltam nas três sequências, na ordem.
 
 a) Na sequência 3, 6, 12, 24, ..., escreva os três próximos termos.  
 b) Na sequência 729, 243, 81, 27, ..., escreva os três próximos termos.  
@@ -132,7 +156,9 @@ c) Uma sequência começa em 5, e cada termo é o dobro do anterior menos 1. Esc
 
 ---
 
-**4.** Explique o que está errado na resolução a seguir.
+### ATIVIDADE 04
+
+Explique o que está errado na resolução a seguir.
 
 Bruno resolveu assim: *"▢ × 5 = 35, então ▢ = 35 × 5 = 175."*
 
@@ -140,7 +166,9 @@ Bruno resolveu assim: *"▢ × 5 = 35, então ▢ = 35 × 5 = 175."*
 
 ---
 
-**5.** Elabore uma tabela com três sequências numéricas, todas começando no número 6.
+### ATIVIDADE 05
+
+Elabore uma tabela com três sequências numéricas, todas começando no número 6.
 
 As três sequências são:
 
@@ -152,7 +180,9 @@ Para cada uma, escreva os cinco primeiros termos e a regra.
 
 ---
 
-**6.** Preveja de quanto em quanto crescem os números dos dias do mês em que cai sempre o mesmo dia da semana e confronte a previsão com duas sequências tiradas do calendário.
+### ATIVIDADE 06
+
+Preveja de quanto em quanto crescem os números dos dias do mês em que cai sempre o mesmo dia da semana e confronte a previsão com duas sequências tiradas do calendário.
 
 **Antes de começar, responda por escrito:** de quanto em quanto você espera que esses números cresçam?
 
@@ -162,7 +192,9 @@ Escreva o número do dia de hoje e os números dos quatro dias seguintes, com a 
 
 ---
 
-**7.** Elabore um problema de divisão com número desconhecido, a partir do total de itens do seu material escolar.
+### ATIVIDADE 07
+
+Elabore um problema de divisão com número desconhecido, a partir do total de itens do seu material escolar.
 
 Conte quantos lápis, canetas e borrachas há no seu material escolar e escreva o total. Esse total é o dado do seu problema. Escreva o problema, a sentença com o ▢ e a resolução.
 
@@ -170,7 +202,9 @@ Conte quantos lápis, canetas e borrachas há no seu material escolar e escreva 
 
 ---
 
-**8.** Assinale, entre as três conferências, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três conferências, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 − 4 dá 9.  
 b) Em ▢ − 4 = 9, o valor 5 está certo, porque 9 − 4 dá 5.  
@@ -182,7 +216,9 @@ c) Em ▢ − 4 = 9, o valor 13 está certo, porque 13 é maior que 9.
 
 ---
 
-**9.** Assinale, entre as três regras, a única que produz a sequência 3, 6, 12, 24, e escreva por que **uma** das outras duas não produz.
+### ATIVIDADE 09
+
+Assinale, entre as três regras, a única que produz a sequência 3, 6, 12, 24, e escreva por que **uma** das outras duas não produz.
 
 a) Somar 3 a cada termo para achar o próximo.  
 b) Multiplicar cada termo por 2 para achar o próximo.  
@@ -195,13 +231,17 @@ c) Somar o termo anterior com o termo de antes dele.
 ---
 ## Capítulo 3 — Localização no plano cartesiano
 
-**1.** Construa um plano cartesiano e marque nele quatro pontos, nomeando cada um.
+### ATIVIDADE 01
+
+Construa um plano cartesiano e marque nele quatro pontos, nomeando cada um.
 
 Com a régua, construa no caderno o plano com os dois eixos numerados de 0 a 8. Marque os pontos (2, 5), (5, 2), (4, 4) e (0, 6), nomeie-os com as letras A, B, C e D nessa ordem e escreva a letra ao lado de cada marca.
 
 ---
 
-**2.** Construa um plano cartesiano com dois pontos marcados e explique por que eles caem em lugares diferentes.
+### ATIVIDADE 02
+
+Construa um plano cartesiano com dois pontos marcados e explique por que eles caem em lugares diferentes.
 
 Com a régua, construa no caderno o plano com os dois eixos numerados de 0 a 8 e marque nele os pontos (2, 5) e (5, 2).
 
@@ -209,7 +249,9 @@ Com a régua, construa no caderno o plano com os dois eixos numerados de 0 a 8 e
 
 ---
 
-**3.** Calcule o caminho de ida e o de volta entre dois pontos do plano cartesiano.
+### ATIVIDADE 03
+
+Calcule o caminho de ida e o de volta entre dois pontos do plano cartesiano.
 
 Partindo do ponto (2, 5), escreva o caminho até (5, 2) usando apenas duas instruções: uma para o eixo horizontal e uma para o vertical. Depois escreva o caminho de volta, de (5, 2) até (2, 5), também em duas instruções.
 
@@ -217,7 +259,9 @@ Partindo do ponto (2, 5), escreva o caminho até (5, 2) usando apenas duas instr
 
 ---
 
-**4.** Explique o que está errado na marcação a seguir.
+### ATIVIDADE 04
+
+Explique o que está errado na marcação a seguir.
 
 Júlia marcou o ponto (3, 7) no lugar onde deveria estar o (7, 3).
 
@@ -225,13 +269,17 @@ Júlia marcou o ponto (3, 7) no lugar onde deveria estar o (7, 3).
 
 ---
 
-**5.** Construa uma malha quadriculada e, nela, a planta do lugar onde você está agora, com quatro objetos marcados por pares ordenados.
+### ATIVIDADE 05
+
+Construa uma malha quadriculada e, nela, a planta do lugar onde você está agora, com quatro objetos marcados por pares ordenados.
 
 Com a régua, construa no caderno uma malha quadriculada de 8 por 8 quadradinhos e numere os dois eixos de 0 a 8. Nela, construa a planta, marcando quatro móveis ou objetos por meio de pares ordenados. Dê um título à planta e faça uma legenda que diga qual par corresponde a qual objeto.
 
 ---
 
-**6.** Elabore no caderno uma tabela de cinco linhas que passe de passos para pares ordenados e de pares ordenados para passos.
+### ATIVIDADE 06
+
+Elabore no caderno uma tabela de cinco linhas que passe de passos para pares ordenados e de pares ordenados para passos.
 
 Numa escola, o portão de entrada é o ponto (0, 0): um passo para o lado vale uma unidade do eixo horizontal e um passo para a frente vale uma unidade do eixo vertical. Os cinco lugares são:
 
@@ -245,7 +293,9 @@ Cada linha da tabela traz o nome do lugar, quantos passos ele fica para o lado, 
 
 ---
 
-**7.** Preveja quantos trechos retos tem o caminho da porta de entrada da sua casa até o lugar onde você está sentado agora e confronte a previsão com o percurso contado passo a passo.
+### ATIVIDADE 07
+
+Preveja quantos trechos retos tem o caminho da porta de entrada da sua casa até o lugar onde você está sentado agora e confronte a previsão com o percurso contado passo a passo.
 
 **Antes de começar, responda por escrito:** quantos trechos retos você espera encontrar nesse caminho?
 
@@ -257,7 +307,9 @@ Percorra o caminho contando os passos de cada trecho reto.
 
 ---
 
-**8.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 Numa sala, as carteiras estão organizadas em linhas e colunas. Alguém diz apenas: *"a minha carteira está na linha 3"*.
 
@@ -271,7 +323,9 @@ c) A informação basta, porque a pessoa deve estar na primeira carteira da linh
 
 ---
 
-**9.** Assinale, entre as três frases sobre o par ordenado (2, 5), a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 09
+
+Assinale, entre as três frases sobre o par ordenado (2, 5), a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) O ponto (2, 5) fica em cima do eixo horizontal, porque o par começa pelo 2.  
 b) No par (2, 5), o 2 é contado no eixo horizontal e o 5 no eixo vertical.  
@@ -284,7 +338,9 @@ c) No par (2, 5), tanto faz qual número vem primeiro, porque os dois são lidos
 ---
 ## Capítulo 4 — Transformações geométricas na malha quadriculada
 
-**1.** Construa uma malha quadriculada, um triângulo e a translação desse triângulo, e escreva as coordenadas dos novos vértices.
+### ATIVIDADE 01
+
+Construa uma malha quadriculada, um triângulo e a translação desse triângulo, e escreva as coordenadas dos novos vértices.
 
 Com a régua, construa no caderno uma malha quadriculada de 10 por 10 quadradinhos e numere os dois eixos de 0 a 10. Nela, construa um triângulo com vértices em (1, 1), (4, 1) e (1, 3). Construa também a translação desse triângulo 5 quadrados para a direita e 2 quadrados para cima.
 
@@ -294,7 +350,9 @@ Com a régua, construa no caderno uma malha quadriculada de 10 por 10 quadradinh
 
 ---
 
-**2.** Explique o que está errado na reflexão a seguir.
+### ATIVIDADE 02
+
+Explique o que está errado na reflexão a seguir.
 
 Marina refletiu uma figura em um eixo vertical da malha e escreveu: *"Este vértice estava a 3 quadrados do eixo; na figura refletida eu coloquei ele a 6 quadrados do eixo, do outro lado, porque a reflexão dobra a distância."*
 
@@ -302,7 +360,9 @@ Marina refletiu uma figura em um eixo vertical da malha e escreveu: *"Este vért
 
 ---
 
-**3.** Calcule as medidas dos lados das figuras nos três itens, na ordem.
+### ATIVIDADE 03
+
+Calcule as medidas dos lados das figuras nos três itens, na ordem.
 
 a) Um retângulo na malha tem lados de 3 e 4 quadrados e passa por uma ampliação em que todos os lados dobram. Escreva as medidas dos lados da figura ampliada.  
 b) Um retângulo na malha tem lados de 6 e 4 quadrados e passa por uma redução à metade. Escreva as medidas dos lados da figura reduzida.  
@@ -312,7 +372,9 @@ c) Depois de uma ampliação em que todos os lados dobraram, um retângulo ficou
 
 ---
 
-**4.** Construa três figuras em malha, aplique a regra da redução à metade às três e decida em quais delas a figura reduzida cabe sem partir quadrado.
+### ATIVIDADE 04
+
+Construa três figuras em malha, aplique a regra da redução à metade às três e decida em quais delas a figura reduzida cabe sem partir quadrado.
 
 A regra da redução à metade manda dividir todos os lados por 2. Com a régua, construa no caderno três malhas quadriculadas de 8 por 8 quadradinhos e, em cada uma, uma destas figuras:
 
@@ -326,7 +388,9 @@ Aplique a regra às três e escreva, para cada uma, as medidas que a regra produ
 
 ---
 
-**5.** Elabore o esquema completo de uma reflexão na malha, em ordem, acrescentando a etapa que falta.
+### ATIVIDADE 05
+
+Elabore o esquema completo de uma reflexão na malha, em ordem, acrescentando a etapa que falta.
 
 Estas três etapas estão fora de ordem, e falta uma etapa entre elas:
 
@@ -338,7 +402,9 @@ Escreva a etapa que falta, ligue as etapas com setas e escreva sobre cada seta o
 
 ---
 
-**6.** Relacione, em um mapa conceitual das transformações na malha, os doze termos a seguir, descartando os dois que não pertencem ao assunto.
+### ATIVIDADE 06
+
+Relacione, em um mapa conceitual das transformações na malha, os doze termos a seguir, descartando os dois que não pertencem ao assunto.
 
 translação · rotação · reflexão · ampliação · redução · centro do giro · eixo de reflexão · orientação · tamanho · forma · denominador · sentença aberta
 
@@ -348,7 +414,9 @@ Toda linha do seu mapa precisa ter um rótulo escrito dizendo qual é a relaçã
 
 ---
 
-**7.** Decida qual de duas propostas — girar a figura 180° ao redor de um ponto ou refleti-la em um eixo vertical — produz a figura invertida como num espelho.
+### ATIVIDADE 07
+
+Decida qual de duas propostas — girar a figura 180° ao redor de um ponto ou refleti-la em um eixo vertical — produz a figura invertida como num espelho.
 
 Com a régua, construa no caderno duas malhas quadriculadas de 10 por 10 quadradinhos, numere os dois eixos de 0 a 10 e construa em cada uma um triângulo com vértices em (2, 1), (5, 1) e (2, 4). Na primeira malha, gire o triângulo 180° ao redor do ponto (5, 4). Na segunda, reflita o triângulo no eixo vertical que passa pelo número 6.
 
@@ -356,7 +424,9 @@ Com a régua, construa no caderno duas malhas quadriculadas de 10 por 10 quadrad
 
 ---
 
-**8.** Assinale, entre as três transformações, a única que muda o **tamanho** da figura, e escreva o que é cada uma das outras duas.
+### ATIVIDADE 08
+
+Assinale, entre as três transformações, a única que muda o **tamanho** da figura, e escreva o que é cada uma das outras duas.
 
 a) A figura é deslocada 4 quadrados para a direita na malha.  
 b) Todos os lados da figura ficam com o dobro do comprimento.  
@@ -368,7 +438,9 @@ c) A figura é virada para o outro lado de um eixo vertical.
 
 ---
 
-**9.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 09
+
+Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 Uma figura desenhada na malha quadriculada foi refletida em um eixo vertical.
 

@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Ácidos e bases
 
-**1.** Preveja o caráter — ácido, básico ou neutro — de oito materiais que existam na sua casa, escolhidos entre alimentos, bebidas, produtos de higiene e produtos de limpeza e incluindo um que você considere neutro para servir de comparação, e confronte cada previsão com o que a embalagem informa.
+### ATIVIDADE 01
+
+Preveja o caráter — ácido, básico ou neutro — de oito materiais que existam na sua casa, escolhidos entre alimentos, bebidas, produtos de higiene e produtos de limpeza e incluindo um que você considere neutro para servir de comparação, e confronte cada previsão com o que a embalagem informa.
 
 **Antes de começar, responda por escrito:** qual é o caráter esperado de cada um dos oito materiais, e qual é a razão de cada previsão?
 
@@ -19,7 +21,9 @@ Só depois de registradas as previsões, observe as embalagens. Não prove, não
 
 ---
 
-**2.** Elabore uma tabela a partir de três situações do cotidiano e avalie se a contagem de íons na própria fórmula, isolada, permite prever a força de uma substância em água.
+### ATIVIDADE 02
+
+Elabore uma tabela a partir de três situações do cotidiano e avalie se a contagem de íons na própria fórmula, isolada, permite prever a força de uma substância em água.
 
 As três situações: o estômago de uma pessoa produz suco gástrico; um mecânico verifica o líquido de uma bateria automotiva; uma pessoa toma leite de magnésia.
 
@@ -33,7 +37,9 @@ A tabela precisa trazer, para cada uma das três:
 
 ---
 
-**3.** Redija, para cada substância a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, informando a fórmula, explicando o que acontece com a substância quando ela é colocada em água e por que o pH da solução resultante fica acima ou abaixo de 7. Empregue obrigatoriamente os termos ionização ou dissociação, íon e pH:
+### ATIVIDADE 03
+
+Redija, para cada substância a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, informando a fórmula, explicando o que acontece com a substância quando ela é colocada em água e por que o pH da solução resultante fica acima ou abaixo de 7. Empregue obrigatoriamente os termos ionização ou dissociação, íon e pH:
 
 a) ácido clorídrico  
 b) ácido acético  
@@ -42,13 +48,17 @@ d) hidróxido de magnésio
 
 ---
 
-**4.** Elabore um esquema que represente o que acontece com uma molécula de HCl ao ser colocada em água, do estado inicial até os íons formados.
+### ATIVIDADE 04
+
+Elabore um esquema que represente o que acontece com uma molécula de HCl ao ser colocada em água, do estado inicial até os íons formados.
 
 Rotule cada seta com o que ocorre na passagem de uma etapa à seguinte e assinale a etapa em que a substância deixa de ser molecular.
 
 ---
 
-**5.** Decida qual dos dois produtos do caso a seguir pode ser ingerido para reduzir o excesso de ácido no estômago.
+### ATIVIDADE 05
+
+Decida qual dos dois produtos do caso a seguir pode ser ingerido para reduzir o excesso de ácido no estômago.
 
 Uma pessoa sente ardência no estômago provocada por excesso de ácido e tem à disposição dois produtos, ambos de caráter básico: um frasco de leite de magnésia, à base de hidróxido de magnésio, e um frasco de soda cáustica, à base de hidróxido de sódio, vendida para desentupir ralos.
 
@@ -56,7 +66,9 @@ Uma pessoa sente ardência no estômago provocada por excesso de ácido e tem à
 
 ---
 
-**6.** Pesquise o pH aproximado de cinco materiais do cotidiano que não estejam entre os exemplos do capítulo e ordene-os do mais ácido ao mais básico.
+### ATIVIDADE 06
+
+Pesquise o pH aproximado de cinco materiais do cotidiano que não estejam entre os exemplos do capítulo e ordene-os do mais ácido ao mais básico.
 
 Consulte rótulo de embalagem, livro didático, revista, material do acervo da escola ou página consultada na internet e registre, para cada dado, a fonte de onde ele veio — autor ou fabricante, veículo e ano.
 
@@ -64,7 +76,9 @@ Consulte rótulo de embalagem, livro didático, revista, material do acervo da e
 
 ---
 
-**7.** Diagnostique qual das duas conclusões a seguir se sustenta.
+### ATIVIDADE 07
+
+Diagnostique qual das duas conclusões a seguir se sustenta.
 
 Dois estudantes testaram a mesma amostra de vinagre. O primeiro escreveu: *"A fenolftaleína continuou incolor, então não há íons na solução e o vinagre é neutro."* O segundo escreveu: *"A fenolftaleína continuou incolor e o tornassol azul ficou vermelho, então o vinagre é ácido e a solução contém íons."*
 
@@ -72,13 +86,17 @@ Dois estudantes testaram a mesma amostra de vinagre. O primeiro escreveu: *"A fe
 
 ---
 
-**8.** Redija um texto de seis a dez linhas dirigido a um leitor que afirma evitar todo alimento de pH abaixo de 7, defendendo uma posição sobre a seguinte questão: um material de pH 6 é perigoso?
+### ATIVIDADE 08
+
+Redija um texto de seis a dez linhas dirigido a um leitor que afirma evitar todo alimento de pH abaixo de 7, defendendo uma posição sobre a seguinte questão: um material de pH 6 é perigoso?
 
 Enuncie a posição na primeira linha, sustente-a com dois exemplos de materiais nessa faixa e responda à objeção de que qualquer valor abaixo de 7 indica risco.
 
 ---
 
-**9.** Assinale, entre os quatro, o único caso de **dissociação**, e diga o que é cada um dos outros três.
+### ATIVIDADE 09
+
+Assinale, entre os quatro, o único caso de **dissociação**, e diga o que é cada um dos outros três.
 
 a) O NaOH sólido colocado em água separa íons Na⁺ e OH⁻ que já existiam nele.  
 b) O HCl molecular colocado em água forma H₃O⁺ e Cl⁻, que antes não existiam.  
@@ -91,7 +109,9 @@ d) O tornassol azul colocado em meio ácido passa a apresentar a cor vermelha.
 
 ---
 
-**10.** Assinale, entre as quatro afirmações sobre a escala de pH, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 10
+
+Assinale, entre as quatro afirmações sobre a escala de pH, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O pH indica o caráter da solução; o risco depende também de concentração e composição.  
 b) O pH mede diretamente o risco: quanto mais longe de 7, mais perigosa é a substância.  

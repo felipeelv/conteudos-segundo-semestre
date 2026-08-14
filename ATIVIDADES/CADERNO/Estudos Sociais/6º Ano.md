@@ -7,37 +7,49 @@
 
 ## Capítulo 1 — Civilizações do Oriente Antigo
 
-**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos da história dos hebreus, dos patriarcas até a formação da Torá.
+### ATIVIDADE 01
+
+Ordene, em uma linha do tempo, pelo menos cinco marcos da história dos hebreus, dos patriarcas até a formação da Torá.
 
 Entre cada par vizinho de marcos, escreva uma frase de nexo causal.
 
 ---
 
-**2.** Elabore uma tabela que compare o politeísmo predominante no Oriente Antigo e o monoteísmo hebraico.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare o politeísmo predominante no Oriente Antigo e o monoteísmo hebraico.
 
 Além das diferenças de crença, inclua um critério que mostre o efeito de cada um sobre a organização política do povo.
 
 ---
 
-**3.** Leia a parte biográfica do Anexo sobre Moisés e analise o que a fonte apresenta como fato, o que apresenta como tradição, e o que ela não informa.
+### ATIVIDADE 03
+
+Leia a parte biográfica do Anexo sobre Moisés e analise o que a fonte apresenta como fato, o que apresenta como tradição, e o que ela não informa.
 
 **Responda:** o que a fonte apresenta como fato histórico, e o que apresenta como tradição? E que informação sobre o período ela não fornece?
 
 ---
 
-**4.** Elabore um esquema que mostre como o alfabeto fenício se relaciona com a atividade comercial desse povo.
+### ATIVIDADE 04
+
+Elabore um esquema que mostre como o alfabeto fenício se relaciona com a atividade comercial desse povo.
 
 Cada seta do esquema precisa de um rótulo.
 
 ---
 
-**5.** Elabore uma tabela que compare confucionismo e taoísmo.
+### ATIVIDADE 05
+
+Elabore uma tabela que compare confucionismo e taoísmo.
 
 Além dos princípios de cada um, inclua um critério que permita identificar qual dos dois inspiraria uma determinada decisão de governo.
 
 ---
 
-**6.** Diagnostique o que falta na explicação a seguir sobre a criação do alfabeto.
+### ATIVIDADE 06
+
+Diagnostique o que falta na explicação a seguir sobre a criação do alfabeto.
 
 Um estudante escreveu: *"Os fenícios inventaram o alfabeto porque eram muito inteligentes."*
 
@@ -45,7 +57,9 @@ Um estudante escreveu: *"Os fenícios inventaram o alfabeto porque eram muito in
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre a influência dos fenícios, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre a influência dos fenícios, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) A influência fenícia se espalhou porque eles conquistaram um grande império territorial.  
 b) A influência fenícia se espalhou pelas rotas comerciais que ligavam o Mediterrâneo.  
@@ -58,7 +72,9 @@ d) A influência fenícia veio da agricultura, favorecida pelo relevo montanhoso
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 A Grande Muralha da China aparece nas fotos como uma construção única e contínua. Ao longo de séculos, diferentes governos ligaram e ampliaram trechos dela.
 
@@ -75,19 +91,25 @@ d) A muralha foi erguida pela dinastia Han para conter as enchentes do Rio Amare
 
 ## Capítulo 2 — Sistemas terrestres
 
-**1.** Elabore uma tabela que relacione as quatro formas de relevo às suas características.
+### ATIVIDADE 01
+
+Elabore uma tabela que relacione as quatro formas de relevo às suas características.
 
 Além da descrição, inclua uma coluna com uma atividade humana favorecida por cada forma.
 
 ---
 
-**2.** Elabore um esquema do efeito estufa, mostrando o caminho da energia solar desde a chegada até a retenção pela atmosfera.
+### ATIVIDADE 02
+
+Elabore um esquema do efeito estufa, mostrando o caminho da energia solar desde a chegada até a retenção pela atmosfera.
 
 Cada seta precisa de um rótulo.
 
 ---
 
-**3.** Elabore um mapa-múndi simplificado com três biomas terrestres marcados.
+### ATIVIDADE 03
+
+Elabore um mapa-múndi simplificado com três biomas terrestres marcados.
 
 O mapa precisa trazer:
 
@@ -97,13 +119,17 @@ O mapa precisa trazer:
 
 ---
 
-**4.** Leia a parte biográfica do Anexo sobre Ibn Battuta e analise o que o relato de um viajante permite conhecer.
+### ATIVIDADE 04
+
+Leia a parte biográfica do Anexo sobre Ibn Battuta e analise o que o relato de um viajante permite conhecer.
 
 **Responda:** em que período ele viveu, e qual foi a extensão das suas viagens? E o que o relato de um viajante permite conhecer que um documento oficial não permitiria?
 
 ---
 
-**5.** Localize a temperatura média anual de duas cidades brasileiras situadas em faixas de latitude bem diferentes e explique a diferença encontrada.
+### ATIVIDADE 05
+
+Localize a temperatura média anual de duas cidades brasileiras situadas em faixas de latitude bem diferentes e explique a diferença encontrada.
 
 Procure em fonte impressa, digital ou do acervo da escola.
 
@@ -111,7 +137,9 @@ Procure em fonte impressa, digital ou do acervo da escola.
 
 ---
 
-**6.** Diagnostique o que a afirmação a seguir acerta e o que ela erra, e reescreva-a corretamente.
+### ATIVIDADE 06
+
+Diagnostique o que a afirmação a seguir acerta e o que ela erra, e reescreva-a corretamente.
 
 Um estudante escreveu: *"O efeito estufa é um problema criado pelo ser humano e precisa ser eliminado."*
 
@@ -119,7 +147,9 @@ Um estudante escreveu: *"O efeito estufa é um problema criado pelo ser humano e
 
 ---
 
-**7.** Assinale, entre as quatro descrições de uma mesma região, a única que descreve o **clima**, e diga o que cada uma das outras três descreve.
+### ATIVIDADE 07
+
+Assinale, entre as quatro descrições de uma mesma região, a única que descreve o **clima**, e diga o que cada uma das outras três descreve.
 
 a) Nesta região chove muito de dezembro a março e quase nada de junho a agosto.  
 b) Hoje choveu a tarde inteira na cidade e a temperatura caiu cinco graus.  
@@ -132,7 +162,9 @@ d) Nesta região a vegetação é de floresta densa, com árvores altas e variad
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Numa encosta, a rocha se racha aos poucos pela ação do sol e da chuva. Depois, a água carrega os fragmentos soltos até o rio.
 
@@ -149,13 +181,17 @@ d) A primeira parte é intemperismo e a segunda é erosão, porque as duas são 
 
 ## Capítulo 3 — Império Persa
 
-**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos do Império Aquemênida, de Ciro até o contato com os gregos.
+### ATIVIDADE 01
+
+Ordene, em uma linha do tempo, pelo menos cinco marcos do Império Aquemênida, de Ciro até o contato com os gregos.
 
 Entre cada par vizinho de marcos, escreva uma frase de nexo causal.
 
 ---
 
-**2.** Elabore um mapa esquemático do Império Persa em sua maior extensão.
+### ATIVIDADE 02
+
+Elabore um mapa esquemático do Império Persa em sua maior extensão.
 
 O mapa precisa trazer:
 
@@ -165,19 +201,25 @@ O mapa precisa trazer:
 
 ---
 
-**3.** Elabore uma tabela que compare a forma persa de administrar territórios conquistados com a de outro império antigo estudado.
+### ATIVIDADE 03
+
+Elabore uma tabela que compare a forma persa de administrar territórios conquistados com a de outro império antigo estudado.
 
 Além das práticas de cada um, inclua um critério que explique por que a tolerância persa era também uma estratégia de governo.
 
 ---
 
-**4.** Leia a parte biográfica do Anexo sobre Ciro, o Grande, e analise o que a fonte afirma sobre a política dele — e o que ela não aborda.
+### ATIVIDADE 04
+
+Leia a parte biográfica do Anexo sobre Ciro, o Grande, e analise o que a fonte afirma sobre a política dele — e o que ela não aborda.
 
 **Responda:** o que a fonte afirma sobre a política de Ciro em relação aos povos dominados, e que evidência ela apresenta? E que aspecto do governo persa ela não aborda?
 
 ---
 
-**5.** Redija, para o glossário da sua turma, um verbete de quatro a cinco linhas sobre cada elemento do governo persa a seguir, indicando em cada caso a função que ele desempenhava:
+### ATIVIDADE 05
+
+Redija, para o glossário da sua turma, um verbete de quatro a cinco linhas sobre cada elemento do governo persa a seguir, indicando em cada caso a função que ele desempenhava:
 
 a) satrapias  
 b) Estrada Real  
@@ -186,7 +228,9 @@ d) tolerância religiosa
 
 ---
 
-**6.** Decida qual de duas políticas religiosas tornaria um império mais duradouro, assumindo o custo da escolha.
+### ATIVIDADE 06
+
+Decida qual de duas políticas religiosas tornaria um império mais duradouro, assumindo o custo da escolha.
 
 Um império precisa decidir entre impor sua religião aos povos conquistados ou permitir que cada um mantenha a sua.
 
@@ -194,7 +238,9 @@ Um império precisa decidir entre impor sua religião aos povos conquistados ou 
 
 ---
 
-**7.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 O Cilindro de Ciro é uma peça de argila de 539 a.C. que registra decisões do rei depois da conquista da Babilônia: restauração de templos, retorno de povos exilados e respeito aos cultos locais. Hoje há quem o chame de primeira declaração de direitos humanos.
 
@@ -209,7 +255,9 @@ d) O cilindro prova que persas e babilônios tinham os mesmos direitos dentro do
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o zoroastrismo, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o zoroastrismo, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O zoroastrismo punha cada pessoa diante da escolha entre o bem e o mal.  
 b) O zoroastrismo foi imposto por Ciro a todos os povos que ele conquistou.  

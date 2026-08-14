@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Pronomes: classes e emprego
 
-**1.** Classifique cada pronome destacado abaixo quanto à classe.
+### ATIVIDADE 01
+
+Classifique cada pronome destacado abaixo quanto à classe.
 
 a) **Meu** caderno sumiu.  
 b) **Este** livro é interessante.  
@@ -20,13 +22,17 @@ d) **Nos** encontramos ontem.
 
 ---
 
-**2.** Elabore uma tabela com as cinco classes de pronome estudadas.
+### ATIVIDADE 02
+
+Elabore uma tabela com as cinco classes de pronome estudadas.
 
 Além de exemplos, inclua uma coluna com a função que cada classe cumpre no texto.
 
 ---
 
-**3.** Reescreva o parágrafo abaixo passando do tratamento informal para o formal, ajustando todos os pronomes e verbos.
+### ATIVIDADE 03
+
+Reescreva o parágrafo abaixo passando do tratamento informal para o formal, ajustando todos os pronomes e verbos.
 
 *"Você trouxe o documento que eu pedi? Preciso que você assine aqui antes de sair."*
 
@@ -36,7 +42,9 @@ Ao lado da versão reescrita, registre em um quadro o que mudou de uma forma par
 
 ---
 
-**4.** Pesquise em que situações se usa *Vossa Excelência*, *Vossa Senhoria* e *Vossa Magnificência*.
+### ATIVIDADE 04
+
+Pesquise em que situações se usa *Vossa Excelência*, *Vossa Senhoria* e *Vossa Magnificência*.
 
 Consulte gramática, dicionário ou manual de redação oficial — impresso, digital ou do acervo da escola — e registre a fonte consultada.
 
@@ -44,7 +52,9 @@ Consulte gramática, dicionário ou manual de redação oficial — impresso, di
 
 ---
 
-**5.** Diagnostique o problema da frase a seguir.
+### ATIVIDADE 05
+
+Diagnostique o problema da frase a seguir.
 
 Um estudante escreveu: *"Vossa Excelência é muito gentil, e você merece nosso respeito."*
 
@@ -52,7 +62,9 @@ Um estudante escreveu: *"Vossa Excelência é muito gentil, e você merece nosso
 
 ---
 
-**6.** Redija, para cada classe a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando o que o pronome localiza ou indica:
+### ATIVIDADE 06
+
+Redija, para cada classe a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando o que o pronome localiza ou indica:
 
 a) possessivo  
 b) demonstrativo  
@@ -60,7 +72,9 @@ c) de tratamento
 
 ---
 
-**7.** Assinale, entre os quatro pronomes destacados, o único que é **possessivo**, e diga a que classe pertence cada um dos outros três.
+### ATIVIDADE 07
+
+Assinale, entre os quatro pronomes destacados, o único que é **possessivo**, e diga a que classe pertence cada um dos outros três.
 
 a) João encontrou Pedro perto de **seu** carro.  
 b) Bia **me** chamou pela manhã no pátio.  
@@ -73,7 +87,9 @@ d) Quero dizer **isto**: você é importante.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Num requerimento, um estudante escreveu: *"Vossa Excelência recebestes o documento?"*
 
@@ -89,13 +105,17 @@ d) Está certo, porque o verbo concorda com *Excelência*, que é palavra femini
 ---
 ## Capítulo 2 — Pronome e coesão textual
 
-**1.** Reescreva de duas maneiras diferentes o parágrafo abaixo, desfazendo a ambiguidade de cada pronome destacado.
+### ATIVIDADE 01
+
+Reescreva de duas maneiras diferentes o parágrafo abaixo, desfazendo a ambiguidade de cada pronome destacado.
 
 *"Pedro encontrou João e disse que **ele** estava atrasado. **Ele** pediu desculpas."*
 
 ---
 
-**2.** Localize um texto publicado e ligue cada pronome ao termo que ele retoma.
+### ATIVIDADE 02
+
+Localize um texto publicado e ligue cada pronome ao termo que ele retoma.
 
 Procure o texto em jornal, revista, livro, página da internet ou no acervo da escola. Copie dois parágrafos e marque todos os pronomes que retomam termos anteriores. Registre a fonte.
 
@@ -103,7 +123,9 @@ Procure o texto em jornal, revista, livro, página da internet ou no acervo da e
 
 ---
 
-**3.** Elabore uma tabela que distinga anáfora e catáfora, preenchida a partir dos três casos abaixo.
+### ATIVIDADE 03
+
+Elabore uma tabela que distinga anáfora e catáfora, preenchida a partir dos três casos abaixo.
 
 Cada linha precisa registrar:
 
@@ -117,13 +139,17 @@ c) *Quando **a** encontrei, Marina já sabia da notícia.*
 
 ---
 
-**4.** Reescreva o parágrafo abaixo eliminando as repetições, sem criar ambiguidade.
+### ATIVIDADE 04
+
+Reescreva o parágrafo abaixo eliminando as repetições, sem criar ambiguidade.
 
 *"A diretora chamou a coordenadora. A diretora entregou o relatório à coordenadora. A coordenadora leu o relatório e devolveu o relatório à diretora."*
 
 ---
 
-**5.** Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
+### ATIVIDADE 05
+
+Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
 
 Um estudante escreveu: *"Quanto menos pronomes, mais claro o texto."*
 
@@ -131,7 +157,9 @@ Um estudante escreveu: *"Quanto menos pronomes, mais claro o texto."*
 
 ---
 
-**6.** Redija um parágrafo de oito a dez linhas narrando uma cena com três personagens, e depois uma segunda versão do mesmo parágrafo sem falhas de coesão.
+### ATIVIDADE 06
+
+Redija um parágrafo de oito a dez linhas narrando uma cena com três personagens, e depois uma segunda versão do mesmo parágrafo sem falhas de coesão.
 
 Nenhum nome pode aparecer mais de duas vezes, e não pode restar dúvida sobre quem faz o quê. Entregue as duas versões.
 
@@ -139,7 +167,9 @@ Nenhum nome pode aparecer mais de duas vezes, e não pode restar dúvida sobre q
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre coesão, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre coesão, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Em *Estudei muito. Isso me cansou*, há catáfora, porque *isso* aponta adiante.  
 b) Em *Estudei muito. Isso me cansou*, há anáfora, porque *isso* retoma o que veio antes.  
@@ -152,7 +182,9 @@ d) Anáfora e catáfora são a mesma coisa, porque as duas usam pronomes para li
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre a frase a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 *Pedro encontrou João e disse que ele estava feliz.*
 
@@ -168,7 +200,9 @@ d) A frase é ambígua, porque usar pronome em vez de nome sempre gera ambiguida
 ---
 ## Capítulo 3 — Verbo: estrutura e conjugações
 
-**1.** Analise a estrutura de cada forma verbal abaixo, separando radical, vogal temática e desinências.
+### ATIVIDADE 01
+
+Analise a estrutura de cada forma verbal abaixo, separando radical, vogal temática e desinências.
 
 a) cantávamos  
 b) venderias  
@@ -181,7 +215,9 @@ d) falássemos
 
 ---
 
-**2.** Classifique as duas formas abaixo quanto à conjugação e mostre, conjugando as duas, a diferença entre elas.
+### ATIVIDADE 02
+
+Classifique as duas formas abaixo quanto à conjugação e mostre, conjugando as duas, a diferença entre elas.
 
 Conjugue-as na mesma pessoa e no mesmo tempo.
 
@@ -192,7 +228,9 @@ b) vender
 
 ---
 
-**3.** Elabore uma tabela com as três conjugações.
+### ATIVIDADE 03
+
+Elabore uma tabela com as três conjugações.
 
 A tabela precisa trazer, para cada uma das três conjugações:
 
@@ -202,7 +240,9 @@ A tabela precisa trazer, para cada uma das três conjugações:
 
 ---
 
-**4.** Reescreva o parágrafo abaixo passando todos os verbos da primeira pessoa do singular para a primeira do plural.
+### ATIVIDADE 04
+
+Reescreva o parágrafo abaixo passando todos os verbos da primeira pessoa do singular para a primeira do plural.
 
 *"Cheguei cedo, guardei minhas coisas e comecei a estudar. Depois saí para almoçar."*
 
@@ -210,7 +250,9 @@ A tabela precisa trazer, para cada uma das três conjugações:
 
 ---
 
-**5.** Diagnostique o erro da afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro da afirmação a seguir.
 
 Um estudante escreveu: *"O radical de 'partir' é 'parti', porque é o que sobra tirando o -r."*
 
@@ -218,7 +260,9 @@ Um estudante escreveu: *"O radical de 'partir' é 'parti', porque é o que sobra
 
 ---
 
-**6.** Redija, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando o que ele informa:
+### ATIVIDADE 06
+
+Redija, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando o que ele informa:
 
 a) radical  
 b) vogal temática  
@@ -227,7 +271,9 @@ d) desinência modo-temporal
 
 ---
 
-**7.** Assinale, entre as quatro formas verbais, a única que está na **1ª pessoa do plural**, e diga em que pessoa e número está cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro formas verbais, a única que está na **1ª pessoa do plural**, e diga em que pessoa e número está cada uma das outras três.
 
 a) canto  
 b) cantamos  
@@ -240,7 +286,9 @@ d) cantas
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Uma frase diz apenas: *"Cantamos no coral da escola."* Nenhum pronome aparece escrito antes do verbo.
 
@@ -256,7 +304,9 @@ d) O sujeito pode ser *eu* ou *nós*, porque a forma verbal serve para os dois c
 ---
 ## Capítulo 4 — Modo indicativo
 
-**1.** Classifique o tempo do indicativo de cada forma verbal destacada abaixo.
+### ATIVIDADE 01
+
+Classifique o tempo do indicativo de cada forma verbal destacada abaixo.
 
 a) Amanhã eu **conversarei** com o professor.  
 b) Todas as noites ela **lê** um capítulo.  
@@ -269,7 +319,9 @@ d) Eu **estudaria** mais, se o dia fosse maior.
 
 ---
 
-**2.** Explique como uma forma no presente do indicativo consegue falar do futuro.
+### ATIVIDADE 02
+
+Explique como uma forma no presente do indicativo consegue falar do futuro.
 
 As duas frases abaixo falam do mesmo dia. Depois de compará-las, retire *amanhã* das duas e leia-as de novo.
 
@@ -280,7 +332,9 @@ b) Amanhã eu **viajarei**.
 
 ---
 
-**3.** Elabore uma tabela que contraste o futuro do presente e o futuro do pretérito.
+### ATIVIDADE 03
+
+Elabore uma tabela que contraste o futuro do presente e o futuro do pretérito.
 
 Compare os dois por três critérios:
 
@@ -292,7 +346,9 @@ A última linha da tabela precisa dizer onde os dois se parecem.
 
 ---
 
-**4.** Reescreva o parágrafo abaixo substituindo as formas verbais compostas pelas formas simples correspondentes do indicativo.
+### ATIVIDADE 04
+
+Reescreva o parágrafo abaixo substituindo as formas verbais compostas pelas formas simples correspondentes do indicativo.
 
 *"Amanhã eu vou estudar de manhã e depois vou revisar os exercícios. Ontem eu ia estudar, mas o computador travou."*
 
@@ -302,7 +358,9 @@ Ao lado da versão reescrita, monte um quadro com o que mudou em cada verbo.
 
 ---
 
-**5.** Diagnostique a explicação a seguir, cuja classificação do tempo verbal está correta.
+### ATIVIDADE 05
+
+Diagnostique a explicação a seguir, cuja classificação do tempo verbal está correta.
 
 Um estudante escreveu: *"Em 'Equipe brasileira vence campeonato' o verbo está no presente, então o jogo está acontecendo neste momento."*
 
@@ -310,7 +368,9 @@ Um estudante escreveu: *"Em 'Equipe brasileira vence campeonato' o verbo está n
 
 ---
 
-**6.** Localize uma manchete de notícia com verbo no presente do indicativo e analise o que ela informa sobre o momento do fato.
+### ATIVIDADE 06
+
+Localize uma manchete de notícia com verbo no presente do indicativo e analise o que ela informa sobre o momento do fato.
 
 Procure a manchete em jornal impresso, em página da internet ou no acervo da escola, e registre quem publicou e quando.
 
@@ -318,13 +378,17 @@ Procure a manchete em jornal impresso, em página da internet ou no acervo da es
 
 ---
 
-**7.** Redija, em até oito linhas e para quem faltou à aula, uma explicação da diferença entre o pretérito perfeito e o pretérito imperfeito.
+### ATIVIDADE 07
+
+Redija, em até oito linhas e para quem faltou à aula, uma explicação da diferença entre o pretérito perfeito e o pretérito imperfeito.
 
 Use um exemplo de cada tempo e mostre os dois dentro de uma mesma frase.
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o modo indicativo, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o modo indicativo, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O presente do indicativo só pode indicar o instante exato em que se fala.  
 b) O presente também expressa hábito e verdade geral, como em *a Terra gira*.  
@@ -337,7 +401,9 @@ d) O futuro do pretérito indica um fato certo, que vai acontecer amanhã.
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Uma manchete de jornal diz: *"Equipe brasileira vence campeonato."* A final aconteceu no dia anterior.
 

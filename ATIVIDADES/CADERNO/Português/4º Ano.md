@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Pronomes pessoais: caso reto e caso oblíquo
 
-**1.** Decida qual pronome completa cada frase e aplique em todas o teste da preposição.
+### ATIVIDADE 01
+
+Decida qual pronome completa cada frase e aplique em todas o teste da preposição.
 
 a) Ele chamou ____ para brincar. *(mim ou eu?)*  
 b) ____ cheguei atrasado. *(mim ou eu?)*  
@@ -20,7 +22,9 @@ d) ____ e Pedro fomos ao mercado. *(mim ou eu?)*
 
 ---
 
-**2.** Explique o que muda de uma frase para a outra no par abaixo.
+### ATIVIDADE 02
+
+Explique o que muda de uma frase para a outra no par abaixo.
 
 Uma está certa e a outra não.
 
@@ -31,19 +35,25 @@ b) João me chamou para o time.
 
 ---
 
-**3.** Elabore uma tabela com os pronomes do caso reto e do caso oblíquo.
+### ATIVIDADE 03
+
+Elabore uma tabela com os pronomes do caso reto e do caso oblíquo.
 
 As colunas precisam permitir saber qual dos dois usar em cada situação.
 
 ---
 
-**4.** Reescreva o texto abaixo trocando os nomes repetidos por pronomes, sem deixar dúvida sobre quem é quem.
+### ATIVIDADE 04
+
+Reescreva o texto abaixo trocando os nomes repetidos por pronomes, sem deixar dúvida sobre quem é quem.
 
 *"Beto encontrou Lucas na praça. Beto disse a Lucas que Beto tinha achado a bola de Lucas."*
 
 ---
 
-**5.** Explique o que está errado na afirmação a seguir.
+### ATIVIDADE 05
+
+Explique o que está errado na afirmação a seguir.
 
 Um estudante escreveu: *"Para eu não é errado, porque eu sou quem faz a ação."*
 
@@ -51,7 +61,9 @@ Um estudante escreveu: *"Para eu não é errado, porque eu sou quem faz a ação
 
 ---
 
-**6.** Redija um bilhete de cinco linhas para alguém da sua casa, pedindo uma coisa, e depois uma segunda versão do mesmo bilhete já corrigida.
+### ATIVIDADE 06
+
+Redija um bilhete de cinco linhas para alguém da sua casa, pedindo uma coisa, e depois uma segunda versão do mesmo bilhete já corrigida.
 
 No bilhete use pelo menos dois pronomes oblíquos e sublinhe cada um. Entregue as duas versões.
 
@@ -59,7 +71,9 @@ No bilhete use pelo menos dois pronomes oblíquos e sublinhe cada um. Entregue a
 
 ---
 
-**7.** Assinale, entre as três palavras destacadas, a única que é um pronome do **caso oblíquo**, e escreva o que é cada uma das outras duas.
+### ATIVIDADE 07
+
+Assinale, entre as três palavras destacadas, a única que é um pronome do **caso oblíquo**, e escreva o que é cada uma das outras duas.
 
 a) **Ela** chamou Caio no pátio.  
 b) Ana **o** chamou no pátio.  
@@ -71,7 +85,9 @@ c) **Ana** chamou Caio no pátio.
 
 ---
 
-**8.** Assinale, entre as três frases, a única escrita na forma esperada na escrita formal, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três frases, a única escrita na forma esperada na escrita formal, e escreva por que **uma** das outras duas está errada.
 
 a) A professora separou o livro para mim ler.  
 b) A professora separou o livro para eu ler.  
@@ -84,7 +100,9 @@ c) A professora separou o livro para eu, e vou ler depois.
 ---
 ## Capítulo 2 — O pronome no lugar do nome
 
-**1.** Reescreva o parágrafo abaixo trocando as repetições por pronomes.
+### ATIVIDADE 01
+
+Reescreva o parágrafo abaixo trocando as repetições por pronomes.
 
 *"A professora entrou na sala. A professora cumprimentou os alunos. Os alunos responderam à professora."*
 
@@ -92,7 +110,9 @@ c) A professora separou o livro para eu, e vou ler depois.
 
 ---
 
-**2.** Explique qual das duas frases abaixo deixa dúvida sobre quem estava atrasado e desfaça essa dúvida de dois jeitos diferentes.
+### ATIVIDADE 02
+
+Explique qual das duas frases abaixo deixa dúvida sobre quem estava atrasado e desfaça essa dúvida de dois jeitos diferentes.
 
 a) Pedro encontrou João e disse que estava atrasado.  
 b) Pedro encontrou João e disse a ele que estava atrasado.
@@ -101,7 +121,9 @@ b) Pedro encontrou João e disse a ele que estava atrasado.
 
 ---
 
-**3.** Localize um texto curto e mostre, nele, a quem cada pronome se refere.
+### ATIVIDADE 03
+
+Localize um texto curto e mostre, nele, a quem cada pronome se refere.
 
 Procure o texto em livro, revista, jornal, página da internet ou no acervo da escola. Copie um parágrafo dele e circule todos os pronomes que retomam algum nome. No fim, escreva de onde veio o texto.
 
@@ -109,7 +131,9 @@ Procure o texto em livro, revista, jornal, página da internet ou no acervo da e
 
 ---
 
-**4.** Elabore uma tabela que registre, para cada pronome destacado abaixo, qual palavra ele substituiu e em qual frase essa palavra apareceu.
+### ATIVIDADE 04
+
+Elabore uma tabela que registre, para cada pronome destacado abaixo, qual palavra ele substituiu e em qual frase essa palavra apareceu.
 
 a) *A Marina chegou primeiro. **Ela** trouxe o bolo.*  
 b) *Comprei os cadernos e guardei-**os** na mochila.*  
@@ -117,7 +141,9 @@ c) *O Tiago perdeu a chave. Meu pai deu outra a **ele**.*
 
 ---
 
-**5.** Explique o que está errado no texto de um estudante que usou *ele* seis vezes seguidas.
+### ATIVIDADE 05
+
+Explique o que está errado no texto de um estudante que usou *ele* seis vezes seguidas.
 
 No fim desse texto, ninguém entendeu de quem ele falava.
 
@@ -125,7 +151,9 @@ No fim desse texto, ninguém entendeu de quem ele falava.
 
 ---
 
-**6.** Redija um parágrafo de seis linhas contando algo que aconteceu com duas pessoas, e depois uma segunda versão do mesmo parágrafo sem nenhuma dúvida.
+### ATIVIDADE 06
+
+Redija um parágrafo de seis linhas contando algo que aconteceu com duas pessoas, e depois uma segunda versão do mesmo parágrafo sem nenhuma dúvida.
 
 Você não pode repetir o nome de nenhuma das duas mais de uma vez, e precisa ficar claro quem fez o quê. Entregue as duas versões.
 
@@ -133,7 +161,9 @@ Você não pode repetir o nome de nenhuma das duas mais de uma vez, e precisa fi
 
 ---
 
-**7.** Assinale, entre as três frases, a única em que o pronome está bem usado, e escreva por que **uma** das outras duas não está.
+### ATIVIDADE 07
+
+Assinale, entre as três frases, a única em que o pronome está bem usado, e escreva por que **uma** das outras duas não está.
 
 a) *Ele chegou cedo. Beto trouxe os livros.*  
 b) *Beto chegou cedo. Ele trouxe os livros.*  
@@ -145,7 +175,9 @@ c) *Beto e Lia chegaram. Ele trouxe os livros.*
 
 ---
 
-**8.** Assinale, entre as três trocas, a única escrita na forma esperada na escrita formal, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três trocas, a única escrita na forma esperada na escrita formal, e escreva por que **uma** das outras duas está errada.
 
 a) Guardei o livro. → Guardei ele.  
 b) Guardei o livro. → Guardei-o.  
@@ -158,7 +190,9 @@ c) Guardei as chaves. → Guardei-o.
 ---
 ## Capítulo 3 — Advérbios de tempo e de lugar
 
-**1.** Decida que advérbio completa cada frase e aplique em todas o teste da retirada.
+### ATIVIDADE 01
+
+Decida que advérbio completa cada frase e aplique em todas o teste da retirada.
 
 a) O ônibus chegou ____.  
 b) Deixei o caderno ____.  
@@ -170,7 +204,9 @@ c) ____ vamos ao parque.
 
 ---
 
-**2.** Explique em qual das duas frases abaixo *rápido* é advérbio e em qual é adjetivo.
+### ATIVIDADE 02
+
+Explique em qual das duas frases abaixo *rápido* é advérbio e em qual é adjetivo.
 
 As duas parecem iguais.
 
@@ -181,7 +217,9 @@ b) O menino é rápido.
 
 ---
 
-**3.** Elabore uma tabela com advérbios de tempo e de lugar.
+### ATIVIDADE 03
+
+Elabore uma tabela com advérbios de tempo e de lugar.
 
 A tabela precisa ter:
 
@@ -191,7 +229,9 @@ A tabela precisa ter:
 
 ---
 
-**4.** Reescreva três vezes a frase *"Ontem eu deixei o caderno aqui"*, mudando em cada versão a posição do advérbio *aqui* dentro dela.
+### ATIVIDADE 04
+
+Reescreva três vezes a frase *"Ontem eu deixei o caderno aqui"*, mudando em cada versão a posição do advérbio *aqui* dentro dela.
 
 **Responda:** o sentido mudou em alguma das três versões?
 
@@ -199,7 +239,9 @@ A tabela precisa ter:
 
 ---
 
-**5.** Explique o que está errado na afirmação a seguir.
+### ATIVIDADE 05
+
+Explique o que está errado na afirmação a seguir.
 
 Um estudante escreveu: *"'Ontem' e 'aqui' são a mesma coisa, os dois são advérbios."*
 
@@ -207,7 +249,9 @@ Um estudante escreveu: *"'Ontem' e 'aqui' são a mesma coisa, os dois são advé
 
 ---
 
-**6.** Redija um bilhete de cinco linhas combinando um encontro, e depois uma segunda versão do mesmo bilhete que se explique sozinha.
+### ATIVIDADE 06
+
+Redija um bilhete de cinco linhas combinando um encontro, e depois uma segunda versão do mesmo bilhete que se explique sozinha.
 
 O bilhete precisa ter pelo menos um advérbio de tempo e um de lugar, e quem ler tem de saber exatamente quando e onde. Entregue as duas versões.
 
@@ -215,7 +259,9 @@ O bilhete precisa ter pelo menos um advérbio de tempo e um de lugar, e quem ler
 
 ---
 
-**7.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 07
+
+Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 Um estudante escreveu: *"As meninas chegaram cedas."*
 
@@ -229,7 +275,9 @@ c) A frase está errada, porque o certo seria *a menina chegou cedas*, no singul
 
 ---
 
-**8.** Assinale, entre as três frases sobre *de manhã*, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três frases sobre *de manhã*, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) *De manhã* é um advérbio de lugar, porque diz onde a ação acontece.  
 b) *De manhã* é uma locução adverbial: várias palavras com uma informação só.  
@@ -242,7 +290,9 @@ c) *De manhã* não é advérbio nem locução, porque advérbio tem uma palavra
 ---
 ## Capítulo 4 — Advérbios de modo, de intensidade e de negação
 
-**1.** Classifique cada palavra destacada pela pergunta que ela responde: *como?*, *quanto?* ou *acontece?*
+### ATIVIDADE 01
+
+Classifique cada palavra destacada pela pergunta que ela responde: *como?*, *quanto?* ou *acontece?*
 
 a) A tartaruga caminhou **devagar**.  
 b) O time treinou **bastante**.  
@@ -255,7 +305,9 @@ d) O carro passou **muito** depressa.
 
 ---
 
-**2.** Explique em qual das duas frases abaixo a palavra destacada acompanha o verbo e em qual acompanha o nome.
+### ATIVIDADE 02
+
+Explique em qual das duas frases abaixo a palavra destacada acompanha o verbo e em qual acompanha o nome.
 
 A mesma palavra aparece nas duas.
 
@@ -268,13 +320,17 @@ b) Elas leram **muitos** livros.
 
 ---
 
-**3.** Elabore um mapa mental do advérbio usando estas dez palavras: *devagar, bem, calmamente, com cuidado, muito, pouco, demais, não, nunca, talvez*.
+### ATIVIDADE 03
+
+Elabore um mapa mental do advérbio usando estas dez palavras: *devagar, bem, calmamente, com cuidado, muito, pouco, demais, não, nunca, talvez*.
 
 Cada risco do seu mapa precisa ter uma palavra escrita em cima dele, dizendo por que as duas partes estão ligadas.
 
 ---
 
-**4.** Reescreva o recado abaixo trocando cada grupo de palavras destacado por um advérbio terminado em *-mente*.
+### ATIVIDADE 04
+
+Reescreva o recado abaixo trocando cada grupo de palavras destacado por um advérbio terminado em *-mente*.
 
 *"Cheguei **com calma**, guardei a mochila **em silêncio** e esperei **com cuidado**."*
 
@@ -284,7 +340,9 @@ Ao lado do recado reescrito, monte um quadro de duas colunas: numa, a forma que 
 
 ---
 
-**5.** Explique o que está errado na frase de um estudante.
+### ATIVIDADE 05
+
+Explique o que está errado na frase de um estudante.
 
 Um estudante escreveu: *"As atletas treinaram muitas."*
 
@@ -292,7 +350,9 @@ Um estudante escreveu: *"As atletas treinaram muitas."*
 
 ---
 
-**6.** Localize um texto curto de até dez linhas e mostre, nele, que pergunta cada advérbio responde.
+### ATIVIDADE 06
+
+Localize um texto curto de até dez linhas e mostre, nele, que pergunta cada advérbio responde.
 
 Procure o texto em livro, revista, jornal, página da internet ou no acervo da escola. Copie três frases dele que tenham advérbio de modo, de intensidade ou de negação, sem repetir o mesmo tipo nas três. No fim, escreva de onde veio o texto.
 
@@ -300,13 +360,17 @@ Procure o texto em livro, revista, jornal, página da internet ou no acervo da e
 
 ---
 
-**7.** Redija, em até seis linhas e para quem faltou à aula, uma explicação da diferença entre um advérbio de modo e um advérbio de intensidade.
+### ATIVIDADE 07
+
+Redija, em até seis linhas e para quem faltou à aula, uma explicação da diferença entre um advérbio de modo e um advérbio de intensidade.
 
 Use um exemplo de cada um dentro da explicação.
 
 ---
 
-**8.** Assinale, entre as três palavras destacadas, a única que é um advérbio de **negação**, e escreva que circunstância cada uma das outras duas indica.
+### ATIVIDADE 08
+
+Assinale, entre as três palavras destacadas, a única que é um advérbio de **negação**, e escreva que circunstância cada uma das outras duas indica.
 
 a) *Talvez* eu vá à festa amanhã.  
 b) Eu *não* vou à festa amanhã.  
@@ -318,7 +382,9 @@ c) Eu vou *muito* à festa aos sábados.
 
 ---
 
-**9.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 09
+
+Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 Um estudante escreveu, num texto formal: *"Ela escreve bom."*
 

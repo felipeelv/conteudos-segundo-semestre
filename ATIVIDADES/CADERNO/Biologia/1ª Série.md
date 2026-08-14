@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Introdução e membrana plasmática
 
-**1.** Elabore um esquema que represente o trajeto de uma molécula de oxigênio e de uma molécula de glicose, ambas partindo do meio extracelular até alcançar o citoplasma.
+### ATIVIDADE 01
+
+Elabore um esquema que represente o trajeto de uma molécula de oxigênio e de uma molécula de glicose, ambas partindo do meio extracelular até alcançar o citoplasma.
 
 Cada um dos dois trajetos precisa trazer:
 
@@ -17,7 +19,9 @@ Cada um dos dois trajetos precisa trazer:
 
 ---
 
-**2.** Elabore uma tabela que contraste o que acontece com uma hemácia colocada em água pura e com uma hemácia colocada em água com muito sal.
+### ATIVIDADE 02
+
+Elabore uma tabela que contraste o que acontece com uma hemácia colocada em água pura e com uma hemácia colocada em água com muito sal.
 
 A tabela precisa trazer, para cada um dos dois casos:
 
@@ -29,7 +33,9 @@ Encerre com uma linha que registre o que os dois casos têm em comum.
 
 ---
 
-**3.** Redija, para quem faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das estruturas celulares a seguir, indicando a função que desempenha e em que tipo de célula ocorre. Os termos *permeabilidade seletiva*, *procarionte* e *eucarionte* precisam aparecer no conjunto dos quatro verbetes:
+### ATIVIDADE 03
+
+Redija, para quem faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das estruturas celulares a seguir, indicando a função que desempenha e em que tipo de célula ocorre. Os termos *permeabilidade seletiva*, *procarionte* e *eucarionte* precisam aparecer no conjunto dos quatro verbetes:
 
 a) glicocálix  
 b) membrana plasmática  
@@ -38,7 +44,9 @@ d) mitocôndria
 
 ---
 
-**4.** Decida qual das duas soluções disponíveis deve ser administrada à pessoa do caso a seguir.
+### ATIVIDADE 04
+
+Decida qual das duas soluções disponíveis deve ser administrada à pessoa do caso a seguir.
 
 Uma pessoa em quadro de desidratação chega a um posto de saúde. Estão disponíveis duas soluções para administração intravenosa: uma com 0,9% de cloreto de sódio e outra com 5%.
 
@@ -46,7 +54,9 @@ Uma pessoa em quadro de desidratação chega a um posto de saúde. Estão dispon
 
 ---
 
-**5.** Pesquise dois fatos que sustentem a hipótese de que as mitocôndrias descendem de bactérias incorporadas por células ancestrais.
+### ATIVIDADE 05
+
+Pesquise dois fatos que sustentem a hipótese de que as mitocôndrias descendem de bactérias incorporadas por células ancestrais.
 
 Consulte fonte impressa, digital ou do acervo da escola e registre, para cada fato, a referência consultada — autor, veículo e data de publicação.
 
@@ -54,7 +64,9 @@ Consulte fonte impressa, digital ou do acervo da escola e registre, para cada fa
 
 ---
 
-**6.** Localize uma reportagem ou artigo publicado nos últimos cinco anos que trate da teoria da endossimbiose e analise o que o texto sustenta — e o que ele não fornece.
+### ATIVIDADE 06
+
+Localize uma reportagem ou artigo publicado nos últimos cinco anos que trate da teoria da endossimbiose e analise o que o texto sustenta — e o que ele não fornece.
 
 Procure em jornal ou revista impressos, em site de divulgação científica ou no acervo da escola.
 
@@ -62,7 +74,9 @@ Procure em jornal ou revista impressos, em site de divulgação científica ou n
 
 ---
 
-**7.** Diagnostique o erro conceitual na explicação a seguir e reescreva-a corretamente.
+### ATIVIDADE 07
+
+Diagnostique o erro conceitual na explicação a seguir e reescreva-a corretamente.
 
 Um estudante registrou em seu relatório: *"Deixei a batata submersa em água com sal por quarenta minutos e ela murchou, porque o sal entrou nas células."*
 
@@ -70,11 +84,15 @@ Um estudante registrou em seu relatório: *"Deixei a batata submersa em água co
 
 ---
 
-**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a mitocôndria já foi um organismo independente? Enuncie a posição defendida na primeira linha, sustente-a com dois fatos verificáveis e responda à objeção de que um organismo outrora independente deveria ser capaz de sobreviver isoladamente.
+### ATIVIDADE 08
+
+Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a mitocôndria já foi um organismo independente? Enuncie a posição defendida na primeira linha, sustente-a com dois fatos verificáveis e responda à objeção de que um organismo outrora independente deveria ser capaz de sobreviver isoladamente.
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre o transporte pela membrana, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre o transporte pela membrana, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) Todo transporte que depende de uma proteína da membrana consome ATP para acontecer.  
 b) O transporte ativo desloca a substância contra o gradiente de concentração e consome ATP.  
@@ -87,7 +105,9 @@ d) A difusão facilitada consome menos ATP que o transporte ativo, porque a prot
 
 ---
 
-**10.** Assinale, entre as quatro descrições de célula, a única que corresponde a uma célula procarionte, e justifique por que cada uma das outras três não corresponde, nomeando o critério que ela aplica indevidamente.
+### ATIVIDADE 10
+
+Assinale, entre as quatro descrições de célula, a única que corresponde a uma célula procarionte, e justifique por que cada uma das outras três não corresponde, nomeando o critério que ela aplica indevidamente.
 
 a) Célula de 2 µm com o DNA solto numa região do citoplasma, sem organelas delimitadas por membrana.  
 b) Célula de 3 µm com o material genético guardado dentro de um envoltório de membrana próprio.  
@@ -102,13 +122,17 @@ d) Célula de 30 µm sem cloroplastos e sem parede celular, com núcleo e divers
 
 ## Capítulo 2 — Citoplasma e organelas
 
-**1.** Elabore um esquema do trajeto de uma proteína destinada à exportação, do ribossomo até a saída da célula.
+### ATIVIDADE 01
+
+Elabore um esquema do trajeto de uma proteína destinada à exportação, do ribossomo até a saída da célula.
 
 Nomeie cada organela atravessada e escreva ao lado de cada seta o que acontece com a proteína naquela etapa.
 
 ---
 
-**2.** Elabore uma tabela que compare o retículo endoplasmático rugoso e o liso.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare o retículo endoplasmático rugoso e o liso.
 
 A tabela precisa trazer, para cada um dos dois retículos:
 
@@ -118,7 +142,9 @@ A tabela precisa trazer, para cada um dos dois retículos:
 
 ---
 
-**3.** Redija, para quem faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das organelas a seguir, indicando o que ela processa e o que aconteceria com a célula na ausência dela. Os termos *compartimentação*, *vesícula* e *enzima* precisam aparecer no conjunto dos quatro verbetes:
+### ATIVIDADE 03
+
+Redija, para quem faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das organelas a seguir, indicando o que ela processa e o que aconteceria com a célula na ausência dela. Os termos *compartimentação*, *vesícula* e *enzima* precisam aparecer no conjunto dos quatro verbetes:
 
 a) complexo golgiense  
 b) lisossomo  
@@ -127,7 +153,9 @@ d) mitocôndria
 
 ---
 
-**4.** Decida qual consequência celular é esperada no caso a seguir.
+### ATIVIDADE 04
+
+Decida qual consequência celular é esperada no caso a seguir.
 
 Uma doença genética impede a produção de uma enzima lisossômica específica.
 
@@ -135,7 +163,9 @@ Uma doença genética impede a produção de uma enzima lisossômica específica
 
 ---
 
-**5.** Pesquise uma doença de depósito lisossômico e explique a relação entre a enzima ausente, a substância que se acumula e o tecido mais afetado.
+### ATIVIDADE 05
+
+Pesquise uma doença de depósito lisossômico e explique a relação entre a enzima ausente, a substância que se acumula e o tecido mais afetado.
 
 Consulte fonte impressa, digital ou do acervo da escola e registre a referência consultada.
 
@@ -143,7 +173,9 @@ Consulte fonte impressa, digital ou do acervo da escola e registre a referência
 
 ---
 
-**6.** Diagnostique o erro na afirmação a seguir e reescreva-a corretamente.
+### ATIVIDADE 06
+
+Diagnostique o erro na afirmação a seguir e reescreva-a corretamente.
 
 Um estudante escreveu: *"Os cloroplastos fazem fotossíntese e as mitocôndrias fazem respiração, então célula vegetal não tem mitocôndria."*
 
@@ -151,7 +183,9 @@ Um estudante escreveu: *"Os cloroplastos fazem fotossíntese e as mitocôndrias 
 
 ---
 
-**7.** Localize um texto de divulgação científica publicado nos últimos cinco anos sobre mitocôndrias e envelhecimento e analise o que ele sustenta — e o que não discute.
+### ATIVIDADE 07
+
+Localize um texto de divulgação científica publicado nos últimos cinco anos sobre mitocôndrias e envelhecimento e analise o que ele sustenta — e o que não discute.
 
 Procure em fonte impressa, digital ou do acervo da escola.
 
@@ -159,11 +193,15 @@ Procure em fonte impressa, digital ou do acervo da escola.
 
 ---
 
-**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a compartimentação em organelas foi uma vantagem decisiva para as células eucariontes? Enuncie a posição na primeira linha, sustente-a com dois exemplos de organela e responda à objeção de que as procariontes realizam as mesmas funções vitais sem compartimentos.
+### ATIVIDADE 08
+
+Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a compartimentação em organelas foi uma vantagem decisiva para as células eucariontes? Enuncie a posição na primeira linha, sustente-a com dois exemplos de organela e responda à objeção de que as procariontes realizam as mesmas funções vitais sem compartimentos.
 
 ---
 
-**9.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela atribui à estrutura errada.
+### ATIVIDADE 09
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela atribui à estrutura errada.
 
 Numa célula, o complexo golgiense para de funcionar. O retículo endoplasmático rugoso e os ribossomos permanecem íntegros.
 
@@ -178,7 +216,9 @@ d) A célula segue formando lisossomos normalmente, porque quem os produz é o r
 
 ---
 
-**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 10
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Uma célula do fígado precisa neutralizar o peróxido de hidrogênio produzido pelas suas próprias reações.
 

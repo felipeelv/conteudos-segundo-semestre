@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Cilindros
 
-**1.** Elabore um cilindro enrolando uma folha de papel do caderno e verifique se a área lateral do cilindro coincide com a área do retângulo da folha aberta.
+### ATIVIDADE 01
+
+Elabore um cilindro enrolando uma folha de papel do caderno e verifique se a área lateral do cilindro coincide com a área do retângulo da folha aberta.
 
 Meça antes com a régua os dois lados de uma folha de papel do seu caderno e registre as duas medidas. Enrole a folha, sem cortar e sem colar, de modo que o lado maior contorne a base e o lado menor se torne a altura, segurando a sobreposição com os dedos até que ela desapareça, e meça o diâmetro da base do cilindro obtido.
 
@@ -19,7 +21,9 @@ Calcule o comprimento da circunferência dessa base a partir do diâmetro medido
 
 ---
 
-**2.** Preveja como o volume geométrico de uma lata cilíndrica se compara à capacidade anunciada no rótulo e confronte a previsão com o cálculo.
+### ATIVIDADE 02
+
+Preveja como o volume geométrico de uma lata cilíndrica se compara à capacidade anunciada no rótulo e confronte a previsão com o cálculo.
 
 **Antes de começar, responda por escrito:** o volume geométrico da lata é maior, menor ou igual à capacidade anunciada no rótulo?
 
@@ -31,7 +35,9 @@ Uma lata cilíndrica reta tem 3,3 cm de raio e 12,2 cm de altura, e seu rótulo 
 
 ---
 
-**3.** Elabore uma tabela que compare o cilindro reto e o cilindro oblíquo.
+### ATIVIDADE 03
+
+Elabore uma tabela que compare o cilindro reto e o cilindro oblíquo.
 
 Compare os dois por três critérios:
 
@@ -41,7 +47,9 @@ Compare os dois por três critérios:
 
 ---
 
-**4.** Decida qual das duas latas descritas a seguir a fábrica deve adotar, sob dois critérios diferentes.
+### ATIVIDADE 04
+
+Decida qual das duas latas descritas a seguir a fábrica deve adotar, sob dois critérios diferentes.
 
 Duas latas cilíndricas fechadas têm o mesmo volume: a primeira tem 3 cm de raio e 12 cm de altura; a segunda, 6 cm de raio e 3 cm de altura.
 
@@ -51,7 +59,9 @@ Confirme que os dois volumes coincidem e calcule a área total de cada uma.
 
 ---
 
-**5.** Diagnostique o erro na afirmação a seguir.
+### ATIVIDADE 05
+
+Diagnostique o erro na afirmação a seguir.
 
 Um estudante escreveu: *"Se eu dobrar o raio de um cilindro, o volume dobra."*
 
@@ -59,7 +69,9 @@ Um estudante escreveu: *"Se eu dobrar o raio de um cilindro, o volume dobra."*
 
 ---
 
-**6.** Decida qual altura mínima deve ter o reservatório descrito a seguir.
+### ATIVIDADE 06
+
+Decida qual altura mínima deve ter o reservatório descrito a seguir.
 
 Um reservatório cilíndrico de 1,5 m de raio precisa armazenar 12 000 litros.
 
@@ -67,7 +79,9 @@ Um reservatório cilíndrico de 1,5 m de raio precisa armazenar 12 000 litros.
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre cilindros, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre cilindros, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) Todo cilindro reto é equilátero, porque nele a geratriz coincide com a altura.  
 b) Todo cilindro equilátero é reto, mas nem todo cilindro reto é equilátero.  
@@ -80,7 +94,9 @@ d) Um cilindro oblíquo pode ser equilátero, se a geratriz for igual ao diâmet
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 A secção meridiana de um cilindro reto é um retângulo de 10 cm por 12 cm, e o lado de 10 cm é o diâmetro da base.
 

@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Interferências humanas nos ecossistemas
 
-**1.** Preveja em qual de dois pontos do seu bairro vai sentir mais calor e confronte a previsão com o que observar em cada um.
+### ATIVIDADE 01
+
+Preveja em qual de dois pontos do seu bairro vai sentir mais calor e confronte a previsão com o que observar em cada um.
 
 **Antes de começar, responda por escrito:** onde você espera sentir mais calor — sobre o asfalto ou o cimento exposto ao sol, ou sob a sombra de uma árvore —, e a diferença entre os dois lhe parece pequena, média ou grande?
 
@@ -17,7 +19,9 @@ No mesmo dia e no mesmo horário, fique um instante em cada um desses dois ponto
 
 ---
 
-**2.** Preveja quantos trechos do seu percurso até a escola têm chão impermeável, conte-os em três dias diferentes e relacione o resultado com a formação de ilhas de calor.
+### ATIVIDADE 02
+
+Preveja quantos trechos do seu percurso até a escola têm chão impermeável, conte-os em três dias diferentes e relacione o resultado com a formação de ilhas de calor.
 
 **Antes de começar, responda por escrito:** quantos trechos do percurso você espera encontrar com chão impermeável — asfalto, cimento ou piso —, e quantos com chão que absorve água?
 
@@ -29,13 +33,17 @@ Percorra o mesmo trajeto em três dias diferentes, sempre pela calçada.
 
 ---
 
-**3.** Elabore um esquema da biomagnificação de um poluente ao longo de uma cadeia alimentar de quatro níveis.
+### ATIVIDADE 03
+
+Elabore um esquema da biomagnificação de um poluente ao longo de uma cadeia alimentar de quatro níveis.
 
 Indique em cada um dos quatro níveis o que acontece com a concentração da substância, e rotule cada seta.
 
 ---
 
-**4.** Elabore uma tabela que compare fenômenos naturais e alterações induzidas pelo ser humano.
+### ATIVIDADE 04
+
+Elabore uma tabela que compare fenômenos naturais e alterações induzidas pelo ser humano.
 
 A tabela precisa trazer:
 
@@ -45,7 +53,9 @@ A tabela precisa trazer:
 
 ---
 
-**5.** Diagnostique o que a afirmação a seguir acerta e o que ela ignora, e reescreva-a de modo correto.
+### ATIVIDADE 05
+
+Diagnostique o que a afirmação a seguir acerta e o que ela ignora, e reescreva-a de modo correto.
 
 Um estudante escreveu: *"Incêndios sempre existiram na natureza, então queimada no Cerrado não é problema."*
 
@@ -53,7 +63,9 @@ Um estudante escreveu: *"Incêndios sempre existiram na natureza, então queimad
 
 ---
 
-**6.** Localize uma reportagem sobre uma espécie exótica invasora no Brasil e analise o que o texto informa — e o que deixa de informar — sobre ela.
+### ATIVIDADE 06
+
+Localize uma reportagem sobre uma espécie exótica invasora no Brasil e analise o que o texto informa — e o que deixa de informar — sobre ela.
 
 Procure a reportagem em jornal ou revista impressos, no acervo da biblioteca da escola ou na internet.
 
@@ -61,7 +73,9 @@ Procure a reportagem em jornal ou revista impressos, no acervo da biblioteca da 
 
 ---
 
-**7.** Assinale, entre as quatro alternativas, a que explica o que aconteceu com a população de uma espécie depois que uma rodovia dividiu a mata em que ela vivia, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro alternativas, a que explica o que aconteceu com a população de uma espécie depois que uma rodovia dividiu a mata em que ela vivia, e justifique por que cada uma das outras três está errada.
 
 Uma rodovia foi aberta no meio de uma área de mata e a dividiu em dois fragmentos. Nenhum animal foi retirado nem caçado, e a mata dos dois lados continuou de pé. Alguns anos depois, a população da espécie que vivia ali havia diminuído nos dois fragmentos.
 
@@ -76,7 +90,9 @@ d) O que reduziu a população foi a perda de vegetação provocada pela obra.
 
 ---
 
-**8.** Assinale, entre as quatro situações, a única em que a espécie descrita é invasora, e justifique por que cada uma das outras três não é.
+### ATIVIDADE 08
+
+Assinale, entre as quatro situações, a única em que a espécie descrita é invasora, e justifique por que cada uma das outras três não é.
 
 a) Uma árvore trazida da Ásia é plantada nas ruas de uma cidade e fica restrita aos canteiros onde foi plantada.  
 b) Um peixe trazido de outro continente escapa de um criadouro, se multiplica no rio e ocupa o alimento dos peixes nativos.  
@@ -91,7 +107,9 @@ d) Um javali vindo da Europa é mantido em uma criação cercada, de onde ele n�
 
 ## Capítulo 2 — Desenvolvimento sustentável
 
-**1.** Registre, por três dias, o resíduo sólido que a sua casa descarta, em categorias que você define antes de começar, e identifique qual delas mais cresceu.
+### ATIVIDADE 01
+
+Registre, por três dias, o resíduo sólido que a sua casa descarta, em categorias que você define antes de começar, e identifique qual delas mais cresceu.
 
 **Antes de começar, responda por escrito:** em que categorias você vai separar o resíduo?
 
@@ -103,7 +121,9 @@ Não manuseie o lixo — apenas observe e anote, e lave as mãos ao terminar.
 
 ---
 
-**2.** Registre tudo o que você descartar em um dia, calcule que fração desses itens poderia não ter existido, e justifique a ordem dos três Rs.
+### ATIVIDADE 02
+
+Registre tudo o que você descartar em um dia, calcule que fração desses itens poderia não ter existido, e justifique a ordem dos três Rs.
 
 Não manuseie o lixo — apenas observe e anote na hora do descarte.
 
@@ -115,13 +135,17 @@ Com esse registro na mão, conte quantos itens poderiam ter deixado de existir p
 
 ---
 
-**3.** Elabore uma tabela que compare as três categorias de unidade de conservação estudadas.
+### ATIVIDADE 03
+
+Elabore uma tabela que compare as três categorias de unidade de conservação estudadas.
 
 Além do uso permitido em cada uma, inclua um critério que permita decidir qual categoria aplicar a uma área específica.
 
 ---
 
-**4.** Localize uma unidade de conservação existente no seu estado e analise o que a fonte informa — e o que deixa de informar — sobre ela.
+### ATIVIDADE 04
+
+Localize uma unidade de conservação existente no seu estado e analise o que a fonte informa — e o que deixa de informar — sobre ela.
 
 Procure em um livro, numa revista, no acervo da biblioteca da escola ou na internet.
 
@@ -129,13 +153,17 @@ Procure em um livro, numa revista, no acervo da biblioteca da escola ou na inter
 
 ---
 
-**5.** Redija um verbete de até cinco linhas avaliando a instalação de uma fábrica no seu município, empregando obrigatoriamente os termos **econômico**, **social** e **ambiental**.
+### ATIVIDADE 05
+
+Redija um verbete de até cinco linhas avaliando a instalação de uma fábrica no seu município, empregando obrigatoriamente os termos **econômico**, **social** e **ambiental**.
 
 Para cada um dos três, o verbete precisa formular a pergunta que essa fábrica obriga a responder e dizer qual resposta faria o projeto ser recusado por aquele pilar.
 
 ---
 
-**6.** Decida se um projeto de parque eólico é sustentável, avaliando-o pelos três pilares.
+### ATIVIDADE 06
+
+Decida se um projeto de parque eólico é sustentável, avaliando-o pelos três pilares.
 
 Uma cidade quer instalar um parque eólico em uma área de vegetação nativa.
 
@@ -143,7 +171,9 @@ Uma cidade quer instalar um parque eólico em uma área de vegetação nativa.
 
 ---
 
-**7.** Elabore um mapa de fluxos do percurso de uma garrafa plástica, desde a prateleira da loja até o seu destino final.
+### ATIVIDADE 07
+
+Elabore um mapa de fluxos do percurso de uma garrafa plástica, desde a prateleira da loja até o seu destino final.
 
 O mapa precisa trazer:
 
@@ -153,7 +183,9 @@ O mapa precisa trazer:
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o que torna uma atividade sustentável, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o que torna uma atividade sustentável, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Uma atividade é sustentável quando não retira nada do ambiente e nada é produzido ali.  
 b) Uma atividade é sustentável quando a retirada não supera o que o ambiente consegue repor.  
@@ -166,7 +198,9 @@ d) Uma atividade é sustentável quando usa fonte renovável, e por isso não te
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Duas áreas protegidas ficam separadas por uma região de fazendas. Uma faixa de mata que acompanha um rio liga uma à outra.
 

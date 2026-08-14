@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Transformações geométricas
 
-**1.** Construa uma malha quadriculada, aplique a um triângulo três transformações em sequência e registre o que muda e o que permanece em cada uma.
+### ATIVIDADE 01
+
+Construa uma malha quadriculada, aplique a um triângulo três transformações em sequência e registre o que muda e o que permanece em cada uma.
 
 Trace no caderno, com a régua, uma malha de 1 cm — pelo menos doze quadrados de lado — e, nela, um triângulo com os três vértices sobre pontos da malha. Aplique nesta ordem:
 
@@ -21,7 +23,9 @@ Trace no caderno, com a régua, uma malha de 1 cm — pelo menos doze quadrados 
 
 ---
 
-**2.** Explique por que a ordem em que as transformações são aplicadas altera a posição final da figura.
+### ATIVIDADE 02
+
+Explique por que a ordem em que as transformações são aplicadas altera a posição final da figura.
 
 Um triângulo traçado no caderno recebe três transformações: translação de 4 cm à direita e 2 cm para cima, reflexão por uma reta vertical e rotação de 90° em torno de um de seus vértices. Trace no caderno as duas sequências — as mesmas três transformações em duas ordens diferentes —, a régua nos deslocamentos, o transferidor na rotação.
 
@@ -29,7 +33,9 @@ Um triângulo traçado no caderno recebe três transformações: translação de
 
 ---
 
-**3.** Construa uma figura capaz de pavimentar o plano e repita-a numa tesselação que cubra uma página inteira do caderno.
+### ATIVIDADE 03
+
+Construa uma figura capaz de pavimentar o plano e repita-a numa tesselação que cubra uma página inteira do caderno.
 
 Construa a peça com régua e compasso, verificando que os lados destinados a se encontrar têm a mesma medida, e repita-a até cobrir a página, sem falhas e sem sobreposições.
 
@@ -39,7 +45,9 @@ Construa a peça com régua e compasso, verificando que os lados destinados a se
 
 ---
 
-**4.** Construa a reflexão de uma figura assimétrica por um eixo vertical e compare o sentido em que os vértices são percorridos nas duas figuras.
+### ATIVIDADE 04
+
+Construa a reflexão de uma figura assimétrica por um eixo vertical e compare o sentido em que os vértices são percorridos nas duas figuras.
 
 Com a régua, construa no caderno uma figura assimétrica de cinco vértices, nomeados de A a E, e trace ao lado dela uma reta vertical, que servirá de eixo. De cada vértice, baixe com o transferidor uma perpendicular ao eixo e transporte com o compasso, para o outro lado, a mesma distância; nomeie os vértices correspondentes. Percorra os vértices de A a E nas duas figuras e registre em que sentido — horário ou anti-horário — cada percurso acontece.
 
@@ -49,7 +57,9 @@ Com a régua, construa no caderno uma figura assimétrica de cinco vértices, no
 
 ---
 
-**5.** Diagnostique o erro na afirmação a seguir e construa o caso que o revela.
+### ATIVIDADE 05
+
+Diagnostique o erro na afirmação a seguir e construa o caso que o revela.
 
 Um estudante afirmou: *"Rotação e reflexão dão sempre o mesmo resultado, porque as duas viram a figura."* Construa no caderno um caso em que as duas transformações, aplicadas à mesma figura, dão resultados diferentes.
 
@@ -57,7 +67,9 @@ Um estudante afirmou: *"Rotação e reflexão dão sempre o mesmo resultado, por
 
 ---
 
-**6.** Preveja quantos eixos de simetria existem nas letras maiúsculas **A**, **H**, **N** e **O** e confronte a previsão com o traçado.
+### ATIVIDADE 06
+
+Preveja quantos eixos de simetria existem nas letras maiúsculas **A**, **H**, **N** e **O** e confronte a previsão com o traçado.
 
 **Antes de começar, responda por escrito:** quantos eixos de simetria você espera encontrar em cada uma das quatro letras, escritas em letra de forma?
 
@@ -69,7 +81,9 @@ Trace as quatro letras no caderno — a régua nos traços retos, o compasso na 
 
 ---
 
-**7.** Assinale, entre as quatro descrições, a única que corresponde a uma **translação**, e diga o que é cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro descrições, a única que corresponde a uma **translação**, e diga o que é cada uma das outras três.
 
 a) Cada ponto percorre o mesmo vetor, de mesma direção, sentido e módulo.  
 b) Cada ponto gira em torno de um centro fixo, por um mesmo ângulo.  
@@ -82,7 +96,9 @@ d) A figura é ampliada, e cada lado fica com o dobro do comprimento.
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Um estudante quer cobrir uma página com um único polígono regular repetido, sem falhas nem sobreposições. Ele testa o triângulo equilátero (60°), o quadrado (90°), o pentágono regular (108°) e o hexágono regular (120°).
 

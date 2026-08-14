@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Quadriláteros e circunferência
 
-**1.** Construa um paralelogramo de lados 8 cm e 5 cm sem nenhum ângulo reto e registre a propriedade das diagonais que as medidas comprovam.
+### ATIVIDADE 01
+
+Construa um paralelogramo de lados 8 cm e 5 cm sem nenhum ângulo reto e registre a propriedade das diagonais que as medidas comprovam.
 
 Trace no caderno, nesta ordem:
 
@@ -23,7 +25,9 @@ Trace as duas diagonais e meça os quatro segmentos que elas formam a partir do 
 
 ---
 
-**2.** Construa quatro quadriláteros de famílias diferentes e organize-os em um diagrama de inclusão que mostre quais famílias contêm quais.
+### ATIVIDADE 02
+
+Construa quatro quadriláteros de famílias diferentes e organize-os em um diagrama de inclusão que mostre quais famílias contêm quais.
 
 Construa no caderno, com régua, compasso e transferidor — o transferidor nos ângulos retos, o compasso para transportar as medidas dos lados que precisam ser iguais:
 
@@ -38,7 +42,9 @@ Construa no caderno, com régua, compasso e transferidor — o transferidor nos 
 
 ---
 
-**3.** Preveja quantas vezes o raio de uma circunferência cabe sobre ela como corda e confronte a previsão com a construção.
+### ATIVIDADE 03
+
+Preveja quantas vezes o raio de uma circunferência cabe sobre ela como corda e confronte a previsão com a construção.
 
 **Antes de começar, responda por escrito:** quantas vezes você espera que o raio caiba sobre a circunferência como corda?
 
@@ -50,13 +56,17 @@ Trace com o compasso uma circunferência de 5 cm de raio e, sem alterar a abertu
 
 ---
 
-**4.** Explique por que a divisão do contorno pelo diâmetro de objetos redondos diferentes quase nunca dá exatamente 3,14, sem que isso signifique que a razão mude de um objeto para outro.
+### ATIVIDADE 04
+
+Explique por que a divisão do contorno pelo diâmetro de objetos redondos diferentes quase nunca dá exatamente 3,14, sem que isso signifique que a razão mude de um objeto para outro.
 
 **Responda, em até dez linhas, para quem faltou à aula:** por que essa divisão quase nunca dá exatamente 3,14, por que essa variação não significa que a razão mude de um objeto para outro, e qual é a diferença entre o valor exato dessa razão e o valor aproximado usado nas contas?
 
 ---
 
-**5.** Diagnostique o erro na afirmação a seguir e trace o contraexemplo que o revela.
+### ATIVIDADE 05
+
+Diagnostique o erro na afirmação a seguir e trace o contraexemplo que o revela.
 
 Um estudante afirmou: *"Todo losango é quadrado, porque os dois têm os quatro lados iguais."*
 
@@ -66,7 +76,9 @@ Trace com régua e compasso o contraexemplo que revela o erro.
 
 ---
 
-**6.** Decida quantos metros de fita de acabamento são necessários para contornar a placa descrita a seguir.
+### ATIVIDADE 06
+
+Decida quantos metros de fita de acabamento são necessários para contornar a placa descrita a seguir.
 
 Uma marcenaria vai fabricar uma placa em forma de losango de 17 cm de lado, cujas diagonais medem 30 cm e 16 cm.
 
@@ -74,7 +86,9 @@ Uma marcenaria vai fabricar uma placa em forma de losango de 17 cm de lado, cuja
 
 ---
 
-**7.** Assinale, entre os quatro, o único que descreve um **diâmetro**, e diga o que é cada um dos outros três.
+### ATIVIDADE 07
+
+Assinale, entre os quatro, o único que descreve um **diâmetro**, e diga o que é cada um dos outros três.
 
 a) Segmento que liga o centro O a um ponto qualquer da circunferência.  
 b) Segmento com as duas extremidades na circunferência, passando pelo centro.  
@@ -87,7 +101,9 @@ d) Parte da circunferência compreendida entre dois de seus pontos.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Uma placa redonda de metal vai receber fita no contorno e tinta na face inteira.
 

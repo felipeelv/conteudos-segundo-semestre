@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Europa
 
-**1.** Elabore um mapa da Europa com as sub-regiões estudadas marcadas.
+### ATIVIDADE 01
+
+Elabore um mapa da Europa com as sub-regiões estudadas marcadas.
 
 O mapa precisa trazer:
 
@@ -17,31 +19,41 @@ O mapa precisa trazer:
 
 ---
 
-**2.** Elabore uma tabela que compare os quatro tipos climáticos europeus.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare os quatro tipos climáticos europeus.
 
 Além da característica predominante, inclua uma coluna com a atividade econômica favorecida por cada um.
 
 ---
 
-**3.** Ordene, em uma linha do tempo, pelo menos cinco marcos da integração europeia.
+### ATIVIDADE 03
+
+Ordene, em uma linha do tempo, pelo menos cinco marcos da integração europeia.
 
 Entre cada par vizinho de marcos, escreva uma frase de nexo causal.
 
 ---
 
-**4.** Leia a parte biográfica do Anexo sobre Robert Schuman e analise o projeto que a fonte lhe atribui — e o que ela não menciona.
+### ATIVIDADE 04
+
+Leia a parte biográfica do Anexo sobre Robert Schuman e analise o projeto que a fonte lhe atribui — e o que ela não menciona.
 
 **Responda:** que projeto a fonte atribui a ele, e em que contexto histórico foi formulado? E que dificuldade da integração ela não menciona?
 
 ---
 
-**5.** Elabore uma tabela que distinga União Europeia, Zona do Euro e Espaço Schengen.
+### ATIVIDADE 05
+
+Elabore uma tabela que distinga União Europeia, Zona do Euro e Espaço Schengen.
 
 Inclua um critério que permita classificar corretamente a situação de um país que pertença a apenas dois dos três.
 
 ---
 
-**6.** Decida qual dimensão da integração europeia a saída de um país-membro afetaria de forma mais imediata.
+### ATIVIDADE 06
+
+Decida qual dimensão da integração europeia a saída de um país-membro afetaria de forma mais imediata.
 
 Um país-membro considera deixar a União Europeia.
 
@@ -49,7 +61,9 @@ Um país-membro considera deixar a União Europeia.
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre os limites da Europa, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre os limites da Europa, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) A Europa é separada da Ásia por uma barreira física contínua, do Ártico ao Mediterrâneo.  
 b) O limite entre Europa e Ásia é convencional e vem de escolhas históricas e culturais.  
@@ -62,7 +76,9 @@ d) O limite entre Europa e Ásia foi fixado pela União Europeia quando o bloco 
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Num país europeu, a expectativa de vida subiu e a natalidade caiu. Hoje há mais pessoas com mais de 65 anos e menos pessoas em idade de trabalhar do que havia trinta anos atrás.
 
@@ -79,7 +95,9 @@ d) A chegada de migrantes não altera esse quadro, porque migração é assunto 
 
 ## Capítulo 2 — Ásia: quadro natural e humano
 
-**1.** Elabore um mapa da Ásia com as sub-regiões marcadas.
+### ATIVIDADE 01
+
+Elabore um mapa da Ásia com as sub-regiões marcadas.
 
 O mapa precisa trazer:
 
@@ -89,13 +107,17 @@ O mapa precisa trazer:
 
 ---
 
-**2.** Elabore uma tabela que relacione três regiões asiáticas às suas características físicas dominantes e à densidade populacional de cada uma.
+### ATIVIDADE 02
+
+Elabore uma tabela que relacione três regiões asiáticas às suas características físicas dominantes e à densidade populacional de cada uma.
 
 Inclua uma coluna que explique a relação entre as duas.
 
 ---
 
-**3.** Localize a população e a densidade demográfica dos cinco países asiáticos mais populosos, e explique por que os dois não coincidem.
+### ATIVIDADE 03
+
+Localize a população e a densidade demográfica dos cinco países asiáticos mais populosos, e explique por que os dois não coincidem.
 
 Procure em fonte impressa, digital ou do acervo da escola.
 
@@ -103,13 +125,17 @@ Procure em fonte impressa, digital ou do acervo da escola.
 
 ---
 
-**4.** Leia a parte biográfica do Anexo sobre Muhammad Yunus e analise o mecanismo que a fonte descreve — e a crítica que ela não apresenta.
+### ATIVIDADE 04
+
+Leia a parte biográfica do Anexo sobre Muhammad Yunus e analise o mecanismo que a fonte descreve — e a crítica que ela não apresenta.
 
 **Responda:** que problema social ele buscou enfrentar, e que mecanismo a fonte descreve? E que crítica a esse mecanismo ela não apresenta?
 
 ---
 
-**5.** Elabore uma tabela que compare três das religiões ou tradições culturais asiáticas estudadas.
+### ATIVIDADE 05
+
+Elabore uma tabela que compare três das religiões ou tradições culturais asiáticas estudadas.
 
 A tabela precisa trazer, para cada uma das três:
 
@@ -119,7 +145,9 @@ A tabela precisa trazer, para cada uma das três:
 
 ---
 
-**6.** Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
+### ATIVIDADE 06
+
+Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
 
 Um estudante escreveu: *"A Ásia é o continente mais populoso porque tem o maior território."*
 
@@ -127,7 +155,9 @@ Um estudante escreveu: *"A Ásia é o continente mais populoso porque tem o maio
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre as monções, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre as monções, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) As monções são ventos sazonais, e tanto a falta quanto o excesso de chuva prejudicam.  
 b) As monções são ventos que sopram o ano inteiro na mesma direção, sem variar com a estação.  
@@ -140,7 +170,9 @@ d) As monções só prejudicam a agricultura quando a chuva que elas trazem é i
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Uma aglomeração urbana asiática reúne 22 milhões de habitantes e concentra empregos em serviços e tecnologia. Ao mesmo tempo, parte de seus moradores vive em áreas sem saneamento adequado.
 
@@ -157,13 +189,17 @@ d) É uma megacidade, porque nela o crescimento econômico já eliminou a desigu
 
 ## Capítulo 3 — Potências econômicas asiáticas
 
-**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos da abertura econômica chinesa.
+### ATIVIDADE 01
+
+Ordene, em uma linha do tempo, pelo menos cinco marcos da abertura econômica chinesa.
 
 Entre cada par vizinho de marcos, escreva uma frase de nexo causal.
 
 ---
 
-**2.** Elabore uma tabela que compare China, Índia e Japão.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare China, Índia e Japão.
 
 A tabela precisa trazer, para cada um dos três países:
 
@@ -173,13 +209,17 @@ A tabela precisa trazer, para cada um dos três países:
 
 ---
 
-**3.** Leia a parte biográfica do Anexo sobre Deng Xiaoping e analise a mudança de rumo que a fonte lhe atribui — e o custo que ela não discute.
+### ATIVIDADE 03
+
+Leia a parte biográfica do Anexo sobre Deng Xiaoping e analise a mudança de rumo que a fonte lhe atribui — e o custo que ela não discute.
 
 **Responda:** que mudança de rumo a fonte atribui a ele, e que evidência ela apresenta? E que custo social dessa transformação ela não discute?
 
 ---
 
-**4.** Elabore um mapa esquemático do leste e do sul asiático.
+### ATIVIDADE 04
+
+Elabore um mapa esquemático do leste e do sul asiático.
 
 O mapa precisa trazer:
 
@@ -189,7 +229,9 @@ O mapa precisa trazer:
 
 ---
 
-**5.** Localize dados sobre a participação da China e do Japão no comércio exterior brasileiro e explique o que a composição dessas trocas revela.
+### ATIVIDADE 05
+
+Localize dados sobre a participação da China e do Japão no comércio exterior brasileiro e explique o que a composição dessas trocas revela.
 
 Procure em fonte impressa, digital ou do acervo da escola.
 
@@ -197,7 +239,9 @@ Procure em fonte impressa, digital ou do acervo da escola.
 
 ---
 
-**6.** Decida qual de dois modelos de desenvolvimento você recomendaria a um país em desenvolvimento.
+### ATIVIDADE 06
+
+Decida qual de dois modelos de desenvolvimento você recomendaria a um país em desenvolvimento.
 
 Um país em desenvolvimento pode seguir o modelo chinês — indústria voltada à exportação com forte direção estatal — ou o dos Tigres Asiáticos, baseado em educação e tecnologia.
 
@@ -205,7 +249,9 @@ Um país em desenvolvimento pode seguir o modelo chinês — indústria voltada 
 
 ---
 
-**7.** Assinale, entre as quatro descrições, a única que corresponde ao socialismo de mercado chinês, e diga a que modelo estudado corresponde cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro descrições, a única que corresponde ao socialismo de mercado chinês, e diga a que modelo estudado corresponde cada uma das outras três.
 
 a) O Estado controla terras, empresas, produção, preços e todo o comércio com o exterior.  
 b) O Estado mantém a propriedade estratégica, e há empresas privadas competindo entre si.  
@@ -218,7 +264,9 @@ d) O Estado reconstrói o país com apoio externo e grandes empresas privadas ex
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Um país asiático dobrou o seu PIB em vinte anos. No mesmo período, a poluição do ar aumentou, as desigualdades entre as regiões cresceram e a população começou a envelhecer.
 
@@ -235,7 +283,9 @@ d) A poluição e a desigualdade não têm relação com o crescimento econômic
 
 ## Capítulo 4 — Oriente Médio e tensões regionais
 
-**1.** Relacione, em um mapa conceitual, os nove elementos a seguir, todos apresentados no capítulo: fronteiras herdadas dos mandatos, reservas de petróleo, OPEP, petropolítica, autoritarismo, desigualdades sociais, intervenções externas, fundamentalismo religioso e refugiados.
+### ATIVIDADE 01
+
+Relacione, em um mapa conceitual, os nove elementos a seguir, todos apresentados no capítulo: fronteiras herdadas dos mandatos, reservas de petróleo, OPEP, petropolítica, autoritarismo, desigualdades sociais, intervenções externas, fundamentalismo religioso e refugiados.
 
 O mapa precisa trazer:
 
@@ -244,7 +294,9 @@ O mapa precisa trazer:
 
 ---
 
-**2.** Ordene, em uma linha do tempo de duas faixas cobrindo 1947 a 2019, os marcos da disputa entre Israel e Palestina e os marcos ligados ao petróleo.
+### ATIVIDADE 02
+
+Ordene, em uma linha do tempo de duas faixas cobrindo 1947 a 2019, os marcos da disputa entre Israel e Palestina e os marcos ligados ao petróleo.
 
 A linha do tempo precisa trazer:
 
@@ -254,7 +306,9 @@ A linha do tempo precisa trazer:
 
 ---
 
-**3.** Elabore um fluxograma que explique como as grandes reservas de petróleo próximas ao golfo Pérsico se converteram em poder de negociação e, ao mesmo tempo, em dependência econômica.
+### ATIVIDADE 03
+
+Elabore um fluxograma que explique como as grandes reservas de petróleo próximas ao golfo Pérsico se converteram em poder de negociação e, ao mesmo tempo, em dependência econômica.
 
 O fluxograma precisa trazer:
 
@@ -264,7 +318,9 @@ O fluxograma precisa trazer:
 
 ---
 
-**4.** Leia as duas partes do Anexo deste capítulo — uma sobre Jerusalém e as comunidades cristãs da região, outra sobre a trajetória de Yitzhak Rabin — e decida qual delas sustenta cada uma das afirmações a seguir:
+### ATIVIDADE 04
+
+Leia as duas partes do Anexo deste capítulo — uma sobre Jerusalém e as comunidades cristãs da região, outra sobre a trajetória de Yitzhak Rabin — e decida qual delas sustenta cada uma das afirmações a seguir:
 
 a) O conflito da região não pode ser reduzido a dois lados em disputa.  
 b) Houve dirigente israelense que defendeu o acordo político, e não apenas a força militar, como caminho de segurança.  
@@ -276,13 +332,17 @@ Uma das três afirmações não é sustentada por nenhuma das duas partes.
 
 ---
 
-**5.** Redija, em 12 a 15 linhas, para quem faltou às aulas deste capítulo, um parágrafo explicando por que o fundamentalismo religioso não explica sozinho os conflitos do Oriente Médio.
+### ATIVIDADE 05
+
+Redija, em 12 a 15 linhas, para quem faltou às aulas deste capítulo, um parágrafo explicando por que o fundamentalismo religioso não explica sozinho os conflitos do Oriente Médio.
 
 O parágrafo precisa citar três fatores diferentes apontados pelo capítulo e conter uma objeção na forma *"alguém poderia dizer que… mas…"*.
 
 ---
 
-**6.** Decida se as informações disponíveis bastam para assinar um contrato de dez anos de importação de petróleo.
+### ATIVIDADE 06
+
+Decida se as informações disponíveis bastam para assinar um contrato de dez anos de importação de petróleo.
 
 Um país importador de petróleo estuda assinar um contrato de dez anos com um produtor do golfo Pérsico. Sabe-se que o produtor detém grandes reservas, exporta quase toda a sua produção e escoa a carga pelo estreito de Ormuz.
 
@@ -290,7 +350,9 @@ Um país importador de petróleo estuda assinar um contrato de dez anos com um p
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre o Oriente Médio, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre o Oriente Médio, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O Oriente Médio é um continente, separado da Ásia por uma fronteira natural definida.  
 b) O Oriente Médio é uma região geopolítica que reúne a Ásia Ocidental e também o Egito.  
@@ -303,7 +365,9 @@ d) O Oriente Médio é uma região definida apenas pela religião predominante e
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Em 1973, restrições de oferta acordadas entre países exportadores contribuíram para uma forte alta no preço mundial do petróleo.
 

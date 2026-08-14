@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Evidências da evolução
 
-**1.** Elabore um diagrama ramificado que represente o parentesco entre inseto, peixe, morcego, baleia e ser humano, justificando cada ramificação por uma evidência estudada neste capítulo.
+### ATIVIDADE 01
+
+Elabore um diagrama ramificado que represente o parentesco entre inseto, peixe, morcego, baleia e ser humano, justificando cada ramificação por uma evidência estudada neste capítulo.
 
 Escreva, em cada ponto de ramificação, qual das três evidências justifica agrupar aquelas linhagens:
 
@@ -19,7 +21,9 @@ Escreva, em cada ponto de ramificação, qual das três evidências justifica ag
 
 ---
 
-**2.** Elabore uma tabela que distinga estruturas homólogas de estruturas análogas.
+### ATIVIDADE 02
+
+Elabore uma tabela que distinga estruturas homólogas de estruturas análogas.
 
 A tabela precisa trazer, para cada um dos dois tipos de estrutura:
 
@@ -29,7 +33,9 @@ A tabela precisa trazer, para cada um dos dois tipos de estrutura:
 
 ---
 
-**3.** Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das evidências da evolução relacionadas a seguir, indicando o que ela permite concluir e qual é o seu limite. Os termos *ancestralidade comum*, *linhagem* e *homologia* precisam aparecer no conjunto dos quatro verbetes:
+### ATIVIDADE 03
+
+Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das evidências da evolução relacionadas a seguir, indicando o que ela permite concluir e qual é o seu limite. Os termos *ancestralidade comum*, *linhagem* e *homologia* precisam aparecer no conjunto dos quatro verbetes:
 
 a) registro fóssil  
 b) anatomia comparada  
@@ -38,7 +44,9 @@ d) comparação de sequências de DNA
 
 ---
 
-**4.** Decida qual das duas datações obtidas no caso a seguir sustenta a afirmação do pesquisador.
+### ATIVIDADE 04
+
+Decida qual das duas datações obtidas no caso a seguir sustenta a afirmação do pesquisador.
 
 Sobre a mesma camada geológica foram obtidas duas informações: a datação relativa estabelece que ela é anterior à camada imediatamente acima; a datação absoluta atribui a ela 3,2 milhões de anos. Um pesquisador precisa afirmar que o fóssil ali encontrado é anterior ao surgimento de determinado grupo.
 
@@ -46,7 +54,9 @@ Sobre a mesma camada geológica foram obtidas duas informações: a datação re
 
 ---
 
-**5.** Pesquise uma espécie fóssil reconhecida como forma transicional entre dois grupos.
+### ATIVIDADE 05
+
+Pesquise uma espécie fóssil reconhecida como forma transicional entre dois grupos.
 
 Consulte fonte impressa, digital ou do acervo da escola e registre a referência consultada — autor, veículo e data de publicação.
 
@@ -54,7 +64,9 @@ Consulte fonte impressa, digital ou do acervo da escola e registre a referência
 
 ---
 
-**6.** Localize uma reportagem ou artigo publicado nos últimos cinco anos sobre a descoberta de um fóssil e analise o que o texto sustenta — e o que não menciona.
+### ATIVIDADE 06
+
+Localize uma reportagem ou artigo publicado nos últimos cinco anos sobre a descoberta de um fóssil e analise o que o texto sustenta — e o que não menciona.
 
 Procure em jornal ou revista impressos, em site de divulgação científica ou no acervo da escola.
 
@@ -62,7 +74,9 @@ Procure em jornal ou revista impressos, em site de divulgação científica ou n
 
 ---
 
-**7.** Diagnostique o erro conceitual na afirmação a seguir e apresente o par de estruturas que exemplifica o caso oposto.
+### ATIVIDADE 07
+
+Diagnostique o erro conceitual na afirmação a seguir e apresente o par de estruturas que exemplifica o caso oposto.
 
 Um estudante escreveu em seu caderno: *"A asa do morcego e a asa do inseto mostram que os dois tiveram um ancestral comum recente."*
 
@@ -70,11 +84,15 @@ Um estudante escreveu em seu caderno: *"A asa do morcego e a asa do inseto mostr
 
 ---
 
-**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: o fato de bactérias e seres humanos utilizarem o mesmo código genético prova que ambos descendem de um ancestral comum? Enuncie a posição defendida na primeira linha, sustente-a com dois argumentos e responda à objeção de que semelhanças podem surgir de modo independente em linhagens distintas.
+### ATIVIDADE 08
+
+Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: o fato de bactérias e seres humanos utilizarem o mesmo código genético prova que ambos descendem de um ancestral comum? Enuncie a posição defendida na primeira linha, sustente-a com dois argumentos e responda à objeção de que semelhanças podem surgir de modo independente em linhagens distintas.
 
 ---
 
-**9.** Assinale, entre as quatro estruturas a seguir, a única que é vestigial, e justifique por que cada uma das outras três não é.
+### ATIVIDADE 09
+
+Assinale, entre as quatro estruturas a seguir, a única que é vestigial, e justifique por que cada uma das outras três não é.
 
 a) O cóccix humano, remanescente de uma cauda ancestral, hoje ligado a músculos e ligamentos.  
 b) A asa do morcego, com úmero, rádio, ulna e dedos alongados, que sustenta o voo do animal.  
@@ -87,7 +105,9 @@ d) A asa do inseto, formada por expansões do exoesqueleto, sem nenhum osso em s
 
 ---
 
-**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 10
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 O *Tiktaalik* é um fóssil de peixe de nadadeiras lobadas, com pescoço móvel e ossos semelhantes aos dos primeiros vertebrados de quatro patas. Ele é apresentado como forma transicional entre peixes e tetrápodes.
 
@@ -104,7 +124,9 @@ d) O fóssil não vale como evidência, porque nenhum peixe vivo hoje tem pesco�
 
 ## Capítulo 2 — Teorias evolutivas: Lamarck e Darwin
 
-**1.** Elabore uma tabela que compare as explicações de Lamarck e de Darwin para o pescoço longo da girafa.
+### ATIVIDADE 01
+
+Elabore uma tabela que compare as explicações de Lamarck e de Darwin para o pescoço longo da girafa.
 
 A tabela precisa trazer, para cada uma das duas explicações:
 
@@ -114,13 +136,17 @@ A tabela precisa trazer, para cada uma das duas explicações:
 
 ---
 
-**2.** Elabore, em paralelo, um esquema da explicação de Lamarck e outro da explicação de Darwin para o pescoço longo da girafa, partindo em ambos de uma população ancestral de girafas de pescoço curto até a população atual.
+### ATIVIDADE 02
+
+Elabore, em paralelo, um esquema da explicação de Lamarck e outro da explicação de Darwin para o pescoço longo da girafa, partindo em ambos de uma população ancestral de girafas de pescoço curto até a população atual.
 
 Cada seta precisa de um rótulo que nomeie o mecanismo proposto.
 
 ---
 
-**3.** Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos conceitos a seguir, indicando a quem pertence e o que ele afirma. Os termos *variabilidade*, *hereditário* e *população* precisam aparecer no conjunto dos quatro verbetes:
+### ATIVIDADE 03
+
+Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos conceitos a seguir, indicando a quem pertence e o que ele afirma. Os termos *variabilidade*, *hereditário* e *população* precisam aparecer no conjunto dos quatro verbetes:
 
 a) lei do uso e desuso  
 b) herança dos caracteres adquiridos  
@@ -129,7 +155,9 @@ d) seleção natural
 
 ---
 
-**4.** Decida se a característica descrita no caso a seguir será transmitida aos filhos.
+### ATIVIDADE 04
+
+Decida se a característica descrita no caso a seguir será transmitida aos filhos.
 
 Uma pessoa que treina musculação por vinte anos desenvolve massa muscular acima da média.
 
@@ -137,7 +165,9 @@ Uma pessoa que treina musculação por vinte anos desenvolve massa muscular acim
 
 ---
 
-**5.** Pesquise a contribuição de Alfred Russel Wallace à formulação da seleção natural.
+### ATIVIDADE 05
+
+Pesquise a contribuição de Alfred Russel Wallace à formulação da seleção natural.
 
 Consulte fonte impressa, digital ou do acervo da escola e registre a referência consultada.
 
@@ -145,7 +175,9 @@ Consulte fonte impressa, digital ou do acervo da escola e registre a referência
 
 ---
 
-**6.** Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
+### ATIVIDADE 06
+
+Diagnostique o que a afirmação a seguir acerta e o que ela ignora.
 
 Um estudante escreveu: *"Lamarck estava completamente errado, então suas ideias não têm valor nenhum para a ciência."*
 
@@ -153,7 +185,9 @@ Um estudante escreveu: *"Lamarck estava completamente errado, então suas ideias
 
 ---
 
-**7.** Localize um texto de divulgação científica publicado nos últimos cinco anos que use a expressão *"o organismo se adaptou"* e analise o uso que ele faz dela.
+### ATIVIDADE 07
+
+Localize um texto de divulgação científica publicado nos últimos cinco anos que use a expressão *"o organismo se adaptou"* e analise o uso que ele faz dela.
 
 Procure em fonte impressa, digital ou do acervo da escola.
 
@@ -161,11 +195,15 @@ Procure em fonte impressa, digital ou do acervo da escola.
 
 ---
 
-**8.** Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a seleção natural tem um objetivo? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que estruturas muito bem ajustadas à função sugerem planejamento prévio.
+### ATIVIDADE 08
+
+Redija, para um leitor que sustenta a posição contrária, um texto de seis a dez linhas defendendo uma posição sobre a seguinte questão: a seleção natural tem um objetivo? Enuncie a posição na primeira linha, sustente-a com dois argumentos e responda à objeção de que estruturas muito bem ajustadas à função sugerem planejamento prévio.
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre a seleção natural, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre a seleção natural, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) A seleção natural cria as características que o ambiente exige no momento em que ele passa a exigi-las.  
 b) A seleção natural atua sobre diferenças hereditárias que já existiam na população antes da mudança do ambiente.  
@@ -178,7 +216,9 @@ d) A seleção natural elimina os indivíduos mais fracos, de modo que sobrevive
 
 ---
 
-**10.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 10
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Uma pessoa perdeu um dedo em um acidente e, anos depois, teve filhos.
 

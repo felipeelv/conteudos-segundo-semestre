@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Frações equivalentes e comparação de frações
 
-**1.** Calcule as frações equivalentes pedidas nos três blocos, na ordem.
+### ATIVIDADE 01
+
+Calcule as frações equivalentes pedidas nos três blocos, na ordem.
 
 a) Escreva três frações equivalentes a 1/2.  
 b) Descubra qual número falta: 2/3 é equivalente a 4/? e a ?/9.  
@@ -17,7 +19,9 @@ c) Duas frações têm o mesmo valor. A primeira é 3/4. A segunda tem 20 no den
 
 ---
 
-**2.** Calcule quem comeu mais em cada um dos dois problemas a seguir, que parecem iguais mas não são.
+### ATIVIDADE 02
+
+Calcule quem comeu mais em cada um dos dois problemas a seguir, que parecem iguais mas não são.
 
 a) Ana comeu 2/5 de uma pizza. Bia comeu 2/8 de outra pizza do mesmo tamanho. Quem comeu mais?  
 b) Ana comeu 2/5 de uma pizza. Bia comeu 5/8 de outra pizza do mesmo tamanho. Quem comeu mais?
@@ -26,7 +30,9 @@ b) Ana comeu 2/5 de uma pizza. Bia comeu 5/8 de outra pizza do mesmo tamanho. Qu
 
 ---
 
-**3.** Construa dois retângulos iguais divididos em quantidades diferentes de partes e compare as frações que você pintar em cada um.
+### ATIVIDADE 03
+
+Construa dois retângulos iguais divididos em quantidades diferentes de partes e compare as frações que você pintar em cada um.
 
 Com a régua, construa no caderno dois retângulos iguais, um embaixo do outro, cada um com 8 cm de comprimento e 2 cm de altura. Divida o primeiro em 4 partes iguais e pinte 2 delas. Divida o segundo em 8 partes iguais e pinte 4 delas.
 
@@ -36,7 +42,9 @@ Com a régua, construa no caderno dois retângulos iguais, um embaixo do outro, 
 
 ---
 
-**4.** Explique o que está errado na resolução a seguir, mostrando o erro em um desenho.
+### ATIVIDADE 04
+
+Explique o que está errado na resolução a seguir, mostrando o erro em um desenho.
 
 Pedro resolveu assim: *"1/3 é maior que 1/2, porque 3 é maior que 2."*
 
@@ -46,7 +54,9 @@ Faça no caderno um desenho que compare as duas frações.
 
 ---
 
-**5.** Preveja em quantos lugares você vai encontrar uma superfície dividida em partes iguais e confronte a previsão com o que observar.
+### ATIVIDADE 05
+
+Preveja em quantos lugares você vai encontrar uma superfície dividida em partes iguais e confronte a previsão com o que observar.
 
 **Antes de começar, responda por escrito:** entre estes cinco lugares — a capa do seu caderno, a porta do lugar onde você está, a janela mais próxima, o piso desse lugar e uma folha do seu caderno dobrada ao meio duas vezes —, em quantos você espera encontrar uma superfície dividida em partes iguais?
 
@@ -58,7 +68,9 @@ Observe os cinco lugares, um por um.
 
 ---
 
-**6.** Construa uma reta numérica de 0 a 1, marque nela quatro frações e descubra quais duas caem no mesmo ponto.
+### ATIVIDADE 06
+
+Construa uma reta numérica de 0 a 1, marque nela quatro frações e descubra quais duas caem no mesmo ponto.
 
 Com a régua, construa a reta no caderno com 8 cm entre o 0 e o 1, e marque nela 1/4, 1/2, 3/4 e 2/8.
 
@@ -66,13 +78,17 @@ Com a régua, construa a reta no caderno com 8 cm entre o 0 e o 1, e marque nela
 
 ---
 
-**7.** Redija um bilhete de cinco linhas, para quem faltou à aula, explicando como saber se duas frações são equivalentes.
+### ATIVIDADE 07
+
+Redija um bilhete de cinco linhas, para quem faltou à aula, explicando como saber se duas frações são equivalentes.
 
 O bilhete precisa trazer um exemplo.
 
 ---
 
-**8.** Assinale, entre as três barras, a única em que a parte pintada pode ser escrita como a fração 3/4, e escreva por que **uma** das outras duas não pode.
+### ATIVIDADE 08
+
+Assinale, entre as três barras, a única em que a parte pintada pode ser escrita como a fração 3/4, e escreva por que **uma** das outras duas não pode.
 
 a) Uma barra dividida em 4 pedaços iguais, com 3 deles pintados.  
 b) Uma barra dividida em 4 pedaços de tamanhos diferentes, com 3 pintados.  
@@ -84,7 +100,9 @@ c) Uma barra dividida em 3 pedaços iguais, com 1 deles pintado.
 
 ---
 
-**9.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 09
+
+Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 João comeu 1/2 de uma pizza pequena. Maria comeu 1/2 de uma pizza grande.
 
@@ -99,7 +117,9 @@ c) João comeu mais, porque a pizza dele foi dividida em pedaços menores.
 ---
 ## Capítulo 2 — Adição e subtração de frações com o mesmo denominador
 
-**1.** Calcule os três itens na ordem — o resultado de cada um é o começo do próximo.
+### ATIVIDADE 01
+
+Calcule os três itens na ordem — o resultado de cada um é o começo do próximo.
 
 a) Um bolo foi cortado em 8 pedaços iguais. João comeu 2/8 e Maria comeu 3/8. Quanto do bolo os dois comeram juntos?  
 b) Quanto do bolo sobrou?  
@@ -109,7 +129,9 @@ c) No dia seguinte, alguém comeu mais 1/8 do bolo. Quanto do bolo inteiro resto
 
 ---
 
-**2.** Calcule com quanto Carla ficou em cada um dos dois problemas a seguir, em que uma palavra muda tudo.
+### ATIVIDADE 02
+
+Calcule com quanto Carla ficou em cada um dos dois problemas a seguir, em que uma palavra muda tudo.
 
 a) Carla tinha 5/6 de uma barra de chocolate e deu 2/6 para a irmã. Com quanto ela ficou?  
 b) Carla tinha 5/6 de uma barra de chocolate e comeu 2/6 da barra. Com quanto ela ficou?
@@ -118,13 +140,17 @@ b) Carla tinha 5/6 de uma barra de chocolate e comeu 2/6 da barra. Com quanto el
 
 ---
 
-**3.** Elabore um esquema que mostre como descobrir a parte que falta para completar um inteiro.
+### ATIVIDADE 03
+
+Elabore um esquema que mostre como descobrir a parte que falta para completar um inteiro.
 
 Use setas e escreva uma palavra em cada seta.
 
 ---
 
-**4.** Explique o que está errado na conta a seguir.
+### ATIVIDADE 04
+
+Explique o que está errado na conta a seguir.
 
 Lucas resolveu assim: *"2/5 + 1/5 = 3/10."*
 
@@ -132,7 +158,9 @@ Lucas resolveu assim: *"2/5 + 1/5 = 3/10."*
 
 ---
 
-**5.** Elabore no caderno uma tabela de cinco linhas que relacione partes de uma hora a minutos.
+### ATIVIDADE 05
+
+Elabore no caderno uma tabela de cinco linhas que relacione partes de uma hora a minutos.
 
 Use as frações 1/12, 1/6, 1/3, 2/3 e 5/6 de hora. Cada linha precisa ter:
 
@@ -144,7 +172,9 @@ Use as frações 1/12, 1/6, 1/3, 2/3 e 5/6 de hora. Cada linha precisa ter:
 
 ---
 
-**6.** Calcule quanto entra de cada ingrediente de uma receita feita pela metade e da mesma receita feita em dobro.
+### ATIVIDADE 06
+
+Calcule quanto entra de cada ingrediente de uma receita feita pela metade e da mesma receita feita em dobro.
 
 A receita de bolo usa 6/8 de xícara de açúcar, 4/8 de xícara de óleo, 10/8 de xícara de farinha e 2/8 de xícara de leite. Mostre a conta de cada ingrediente nos dois casos.
 
@@ -152,7 +182,9 @@ A receita de bolo usa 6/8 de xícara de açúcar, 4/8 de xícara de óleo, 10/8 
 
 ---
 
-**7.** Calcule quanto de copo cheio foi bebido ao todo na situação a seguir.
+### ATIVIDADE 07
+
+Calcule quanto de copo cheio foi bebido ao todo na situação a seguir.
 
 Um copo está cheio até 3/4. Você bebe 1/4. Depois enche de novo até a marca de 3/4 e bebe mais 2/4. Mostre a conta.
 
@@ -160,7 +192,9 @@ Um copo está cheio até 3/4. Você bebe 1/4. Depois enche de novo até a marca 
 
 ---
 
-**8.** Assinale, entre as três frases sobre a fração 5/5, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três frases sobre a fração 5/5, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) 5/5 vale um inteiro, porque o número de cima e o de baixo são iguais.  
 b) 5/5 vale cinco inteiros, porque há cinco partes marcadas na figura.  
@@ -172,7 +206,9 @@ c) 5/5 vale menos que um inteiro, porque toda fração é menor que 1.
 
 ---
 
-**9.** Assinale, entre as três maneiras de calcular 1 − 2/5, a única certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 09
+
+Assinale, entre as três maneiras de calcular 1 − 2/5, a única certa, e escreva por que **uma** das outras duas está errada.
 
 a) Trocar o 1 por 5/5 e fazer 5/5 − 2/5, chegando a 3/5.  
 b) Tirar o 2 do 1 e escrever a resposta como 1/5.  
@@ -185,7 +221,9 @@ c) Trocar o 1 por 5/5 e fazer 5/5 − 2/5, chegando a 3/10.
 ---
 ## Capítulo 3 — Frações decimais e números decimais
 
-**1.** Calcule as passagens entre fração e número decimal nos três blocos, na ordem.
+### ATIVIDADE 01
+
+Calcule as passagens entre fração e número decimal nos três blocos, na ordem.
 
 a) Escreva na forma decimal: 3/10, 7/10, 45/100.  
 b) Escreva na forma de fração: 0,9 · 0,25 · 0,08.  
@@ -195,7 +233,9 @@ c) Um número tem 2 inteiros, 3 décimos e 5 centésimos. Escreva esse número.
 
 ---
 
-**2.** Calcule qual é o número maior em cada um dos dois pares a seguir.
+### ATIVIDADE 02
+
+Calcule qual é o número maior em cada um dos dois pares a seguir.
 
 a) 0,7 ou 0,65  
 b) 0,7 ou 0,75
@@ -204,7 +244,9 @@ b) 0,7 ou 0,75
 
 ---
 
-**3.** Elabore uma tabela com cinco números decimais diferentes.
+### ATIVIDADE 03
+
+Elabore uma tabela com cinco números decimais diferentes.
 
 Cada linha precisa ter:
 
@@ -216,7 +258,9 @@ Pelo menos um dos cinco precisa ser maior que 1 e pelo menos um precisa ter cent
 
 ---
 
-**4.** Explique o que está errado na afirmação a seguir.
+### ATIVIDADE 04
+
+Explique o que está errado na afirmação a seguir.
 
 Sofia escreveu: *"1/4 é 0,4."*
 
@@ -224,7 +268,9 @@ Sofia escreveu: *"1/4 é 0,4."*
 
 ---
 
-**5.** Preveja em quantas partes iguais está dividido cada centímetro da sua régua e depois meça cinco objetos, registrando cada medida em número decimal.
+### ATIVIDADE 05
+
+Preveja em quantas partes iguais está dividido cada centímetro da sua régua e depois meça cinco objetos, registrando cada medida em número decimal.
 
 **Antes de começar, responda por escrito:** em quantas partes iguais está dividido o espaço entre a marca de 1 cm e a marca de 2 cm da sua régua?
 
@@ -238,7 +284,9 @@ Conte as divisões da régua. Depois meça com ela a largura do seu caderno fech
 
 ---
 
-**6.** Calcule o total de uma lista de compras, o troco de uma nota de R$ 20,00 e até onde esse troco ainda dá.
+### ATIVIDADE 06
+
+Calcule o total de uma lista de compras, o troco de uma nota de R$ 20,00 e até onde esse troco ainda dá.
 
 A lista tem três itens: R$ 12,05, R$ 3,50 e R$ 0,25. Some os três preços e escreva quanto sobra da nota depois de pagar. Depois escreva quantas vezes o item de R$ 3,50 ainda poderia ser comprado com esse troco e quanto sobraria no fim.
 
@@ -246,11 +294,15 @@ A lista tem três itens: R$ 12,05, R$ 3,50 e R$ 0,25. Some os três preços e es
 
 ---
 
-**7.** Redija um bilhete de cinco linhas, para outro estudante, explicando por que 0,5 e 0,50 são o mesmo número, mas 0,5 e 0,05 não são.
+### ATIVIDADE 07
+
+Redija um bilhete de cinco linhas, para outro estudante, explicando por que 0,5 e 0,50 são o mesmo número, mas 0,5 e 0,05 não são.
 
 ---
 
-**8.** Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três frases sobre o caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 Um quadrado foi dividido em 100 quadradinhos iguais, e 25 deles foram pintados.
 
@@ -264,7 +316,9 @@ c) A parte pintada é 25/10, porque foram pintados 25 quadradinhos de 10 em 10.
 
 ---
 
-**9.** Assinale, entre as três frases sobre frações decimais, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 09
+
+Assinale, entre as três frases sobre frações decimais, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) 3/4 é uma fração decimal, porque dá para escrevê-la como 0,75.  
 b) 3/10 é uma fração decimal, porque o número de baixo dela é 10.  
@@ -277,7 +331,9 @@ c) 3/10 não é fração decimal, porque não aparece vírgula nela.
 ---
 ## Capítulo 4 — Medidas de comprimento, massa e capacidade
 
-**1.** Calcule os três itens na ordem — o resultado de cada um entra no próximo.
+### ATIVIDADE 01
+
+Calcule os três itens na ordem — o resultado de cada um entra no próximo.
 
 a) Um retângulo tem lados de 8 cm e 5 cm. Escreva o perímetro dele em centímetros.  
 b) Escreva esse mesmo perímetro em milímetros.  
@@ -287,7 +343,9 @@ c) Uma fita de 1 m dá uma volta completa no contorno desse retângulo. Escreva 
 
 ---
 
-**2.** Explique o que está errado na soma a seguir.
+### ATIVIDADE 02
+
+Explique o que está errado na soma a seguir.
 
 Rafael somou a massa de um saco de arroz de 5 kg com a de um pacote de açúcar de 500 g e escreveu: *"5 + 500 = 505 kg."*
 
@@ -295,7 +353,9 @@ Rafael somou a massa de um saco de arroz de 5 kg com a de um pacote de açúcar 
 
 ---
 
-**3.** Calcule quantos passos e quantos palmos percorrem a largura de uma sala e justifique qual das duas contagens erra menos.
+### ATIVIDADE 03
+
+Calcule quantos passos e quantos palmos percorrem a largura de uma sala e justifique qual das duas contagens erra menos.
 
 Três medidas de referência valem, mais ou menos, o seguinte:
 
@@ -309,7 +369,9 @@ A sala tem 6 m de largura. Mostre as duas contas.
 
 ---
 
-**4.** Decida se uma jarra cheia de 2 L dá conta de servir suco em 6 copos de 350 mL cada um.
+### ATIVIDADE 04
+
+Decida se uma jarra cheia de 2 L dá conta de servir suco em 6 copos de 350 mL cada um.
 
 Escreva a conta que sustenta a sua decisão.
 
@@ -317,7 +379,9 @@ Escreva a conta que sustenta a sua decisão.
 
 ---
 
-**5.** Elabore o esquema completo de uma medição de massa, em ordem, acrescentando a etapa que falta.
+### ATIVIDADE 05
+
+Elabore o esquema completo de uma medição de massa, em ordem, acrescentando a etapa que falta.
 
 Estas quatro etapas estão fora de ordem, e falta uma etapa antes de todas elas:
 
@@ -330,13 +394,17 @@ Escreva a etapa que falta, ligue as etapas com setas e escreva sobre cada seta o
 
 ---
 
-**6.** Redija um bilhete de cinco linhas, para quem faltou à aula, explicando por que um número sozinho não informa uma medida.
+### ATIVIDADE 06
+
+Redija um bilhete de cinco linhas, para quem faltou à aula, explicando por que um número sozinho não informa uma medida.
 
 Use no bilhete dois exemplos em que o mesmo número quer dizer quantidades bem diferentes: um exemplo de comprimento e um de capacidade. Use as palavras *unidade* e *medida*.
 
 ---
 
-**7.** Preveja quantos palmos seus cabem na largura do seu caderno e confronte a previsão com a contagem e com a medida da régua.
+### ATIVIDADE 07
+
+Preveja quantos palmos seus cabem na largura do seu caderno e confronte a previsão com a contagem e com a medida da régua.
 
 **Antes de começar, responda por escrito:** quantos palmos seus você espera que caibam na largura do seu caderno fechado?
 
@@ -350,7 +418,9 @@ Conte quantos palmos realmente cabem e, em seguida, meça essa mesma largura com
 
 ---
 
-**8.** Assinale, entre as três medições, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três medições, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) O lápis começa no 0 da régua e a outra ponta chega ao 14. O lápis mede 14 cm.  
 b) O lápis começa no 1 da régua e a outra ponta chega ao 14. O lápis mede 14 cm.  
@@ -362,7 +432,9 @@ c) O lápis começa no 0 da régua e a outra ponta chega ao 14. O lápis mede 14
 
 ---
 
-**9.** Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 09
+
+Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 Um terreno retangular tem 6 m de um lado e 3 m do outro. O dono quer saber quantos metros de cerca precisa comprar para contornar o terreno inteiro.
 

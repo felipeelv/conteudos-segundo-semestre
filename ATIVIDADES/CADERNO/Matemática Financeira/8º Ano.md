@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Probabilidade
 
-**1.** Elabore a árvore completa dos resultados possíveis ao lançar três moedas e calcule por dois caminhos a probabilidade de sair pelo menos uma cara e pelo menos uma coroa no mesmo lançamento triplo.
+### ATIVIDADE 01
+
+Elabore a árvore completa dos resultados possíveis ao lançar três moedas e calcule por dois caminhos a probabilidade de sair pelo menos uma cara e pelo menos uma coroa no mesmo lançamento triplo.
 
 Com a árvore pronta, faça o primeiro cálculo contando um a um os resultados favoráveis e o segundo calculando pelo complementar.
 
@@ -15,7 +17,9 @@ Com a árvore pronta, faça o primeiro cálculo contando um a um os resultados f
 
 ---
 
-**2.** Elabore uma tabela de dupla entrada para o lançamento de dois dados e calcule, com ela, a probabilidade de a soma ser maior que 9.
+### ATIVIDADE 02
+
+Elabore uma tabela de dupla entrada para o lançamento de dois dados e calcule, com ela, a probabilidade de a soma ser maior que 9.
 
 Registre em cada célula a soma dos pontos das duas faces.
 
@@ -23,7 +27,9 @@ Registre em cada célula a soma dos pontos das duas faces.
 
 ---
 
-**3.** Redija, para quem faltou à aula, um verbete de cinco linhas sobre cada conceito a seguir. Em cada verbete use obrigatoriamente os termos "resultado favorável", "total de resultados possíveis" e "ao mesmo tempo", e dê um exemplo tirado do lançamento de dois dados:
+### ATIVIDADE 03
+
+Redija, para quem faltou à aula, um verbete de cinco linhas sobre cada conceito a seguir. Em cada verbete use obrigatoriamente os termos "resultado favorável", "total de resultados possíveis" e "ao mesmo tempo", e dê um exemplo tirado do lançamento de dois dados:
 
 a) espaço amostral  
 b) evento simples  
@@ -32,7 +38,9 @@ d) eventos complementares
 
 ---
 
-**4.** Registre trinta retiradas de um sorteio montado por você e compare a frequência de números pares obtida com a probabilidade teórica.
+### ATIVIDADE 04
+
+Registre trinta retiradas de um sorteio montado por você e compare a frequência de números pares obtida com a probabilidade teórica.
 
 **Antes de começar, responda por escrito:** quantas vezes você espera tirar um número par em trinta retiradas?
 
@@ -42,7 +50,9 @@ Escreva os números de 1 a 6 em seis pedaços iguais de papel, dobre-os e mistur
 
 ---
 
-**5.** Diagnostique onde falha a justificativa de um estudante que chegou ao resultado certo pelo argumento errado.
+### ATIVIDADE 05
+
+Diagnostique onde falha a justificativa de um estudante que chegou ao resultado certo pelo argumento errado.
 
 Um estudante calculou a probabilidade de sair 1 ou 2 no lançamento de um dado, encontrou $$\frac{1}{3}$$ e justificou assim: *"somei $$\frac{1}{6}$$ com $$\frac{1}{6}$$ porque os dois eventos são complementares."* O resultado está certo e a justificativa, errada.
 
@@ -50,7 +60,9 @@ Um estudante calculou a probabilidade de sair 1 ou 2 no lançamento de um dado, 
 
 ---
 
-**6.** Decida qual de duas apostas oferece maior chance de vitória.
+### ATIVIDADE 06
+
+Decida qual de duas apostas oferece maior chance de vitória.
 
 Em um jogo, você pode escolher entre ganhar se sair 6 em um dado, ou ganhar se saírem duas caras em duas moedas.
 
@@ -58,7 +70,9 @@ Em um jogo, você pode escolher entre ganhar se sair 6 em um dado, ou ganhar se 
 
 ---
 
-**7.** Assinale, entre os quatro pares de eventos do lançamento de um dado, o único formado por eventos **complementares**, e justifique por que cada um dos outros três não é.
+### ATIVIDADE 07
+
+Assinale, entre os quatro pares de eventos do lançamento de um dado, o único formado por eventos **complementares**, e justifique por que cada um dos outros três não é.
 
 a) "Sair 6" e "não sair 6".  
 b) "Sair 1" e "sair 2".  
@@ -71,7 +85,9 @@ d) "Sair número par" e "sair 2".
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 No lançamento de dois dados, o espaço amostral tem 36 pares. A soma 7 aparece em 6 desses pares, e a soma 2 aparece em apenas 1.
 

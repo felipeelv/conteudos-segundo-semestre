@@ -7,13 +7,17 @@
 
 ## Capítulo 1 — Os povos que formaram o Brasil
 
-**1.** Ordene, em uma linha do tempo, os grupos que formaram o povo brasileiro, na ordem em que chegaram.
+### ATIVIDADE 01
+
+Ordene, em uma linha do tempo, os grupos que formaram o povo brasileiro, na ordem em que chegaram.
 
 Entre um grupo e o seguinte, escreva uma frase dizendo o que mudou no Brasil com a chegada dele.
 
 ---
 
-**2.** Elabore uma tabela comparando pessoas escravizadas e imigrantes.
+### ATIVIDADE 02
+
+Elabore uma tabela comparando pessoas escravizadas e imigrantes.
 
 Compare os dois grupos por três critérios:
 
@@ -25,13 +29,17 @@ Procure essas informações nas diferentes partes do capítulo.
 
 ---
 
-**3.** Leia a parte do Anexo que conta a vida de Claude Lévi-Strauss.
+### ATIVIDADE 03
+
+Leia a parte do Anexo que conta a vida de Claude Lévi-Strauss.
 
 **Responda:** quem foi ele? Em que época viveu? Que coisa sobre o Brasil ele ajudou a mostrar?
 
 ---
 
-**4.** Elabore um mapa do Brasil marcando três regiões onde chegaram grupos diferentes de imigrantes.
+### ATIVIDADE 04
+
+Elabore um mapa do Brasil marcando três regiões onde chegaram grupos diferentes de imigrantes.
 
 O mapa precisa ter:
 
@@ -41,7 +49,9 @@ O mapa precisa ter:
 
 ---
 
-**5.** Redija, para cada um dos grupos a seguir, um texto de três a quatro linhas, como a explicação de um dicionário feito pela sua turma.
+### ATIVIDADE 05
+
+Redija, para cada um dos grupos a seguir, um texto de três a quatro linhas, como a explicação de um dicionário feito pela sua turma.
 
 Diga, em cada texto, de onde o grupo veio e como chegou ao Brasil:
 
@@ -52,7 +62,9 @@ d) imigrantes europeus
 
 ---
 
-**6.** Explique o que está errado na afirmação a seguir.
+### ATIVIDADE 06
+
+Explique o que está errado na afirmação a seguir.
 
 Um estudante escreveu: *"Os africanos vieram para o Brasil procurar trabalho, igual aos italianos."*
 
@@ -60,7 +72,9 @@ Um estudante escreveu: *"Os africanos vieram para o Brasil procurar trabalho, ig
 
 ---
 
-**7.** Assinale, entre as três frases sobre a chegada dos portugueses, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 07
+
+Assinale, entre as três frases sobre a chegada dos portugueses, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) Os portugueses descobriram o Brasil em 1500, porque antes ninguém vivia nestas terras.  
 b) Os portugueses chegaram ao Brasil em 1500, e aqui já viviam povos com aldeias e roças.  
@@ -72,7 +86,9 @@ c) Os portugueses chegaram ao Brasil em 1500 e logo começaram a ocupar o territ
 
 ---
 
-**8.** Assinale, entre as três frases sobre os povos indígenas, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três frases sobre os povos indígenas, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) Os povos indígenas eram todos iguais, com a mesma língua e os mesmos costumes.  
 b) Existiam muitos povos indígenas diferentes, e eles continuam existindo no Brasil hoje.  
@@ -86,7 +102,9 @@ c) Existiam muitos povos indígenas diferentes, mas todos desapareceram há muit
 
 ## Capítulo 2 — A herança cultural dos povos formadores
 
-**1.** Preveja quantas das cinco categorias de herança você vai encontrar dentro da sua casa e depois compare o palpite com o que você encontrar.
+### ATIVIDADE 01
+
+Preveja quantas das cinco categorias de herança você vai encontrar dentro da sua casa e depois compare o palpite com o que você encontrar.
 
 **Antes de começar, responda por escrito:** quantas das cinco categorias a seguir você acha que vai encontrar dentro da sua casa: comida, palavra, música, festa e objeto?
 
@@ -96,19 +114,25 @@ Observe a sua casa e o seu bairro e anote cinco coisas que vieram das heranças 
 
 ---
 
-**2.** Elabore uma tabela com as heranças indígena, africana e portuguesa que você encontrar na sua casa e no seu bairro.
+### ATIVIDADE 02
+
+Elabore uma tabela com as heranças indígena, africana e portuguesa que você encontrar na sua casa e no seu bairro.
 
 Observe os dois lugares para encontrá-las. As colunas da tabela precisam permitir perceber qual dessas heranças aparece mais no seu dia a dia.
 
 ---
 
-**3.** Leia a parte do Anexo sobre Manuel Querino.
+### ATIVIDADE 03
+
+Leia a parte do Anexo sobre Manuel Querino.
 
 **Responda:** o que ele estudou? Em que época viveu? Por que o trabalho dele foi importante para conhecer a herança africana?
 
 ---
 
-**4.** Elabore um cartaz mostrando três palavras do português brasileiro que vieram de línguas indígenas ou africanas.
+### ATIVIDADE 04
+
+Elabore um cartaz mostrando três palavras do português brasileiro que vieram de línguas indígenas ou africanas.
 
 Ao lado de cada uma, escreva o que ela significa.
 
@@ -116,7 +140,9 @@ Ao lado de cada uma, escreva o que ela significa.
 
 ---
 
-**5.** Redija, para cada uma das heranças a seguir, um texto de três a quatro linhas, como a explicação de um dicionário feito pela sua turma.
+### ATIVIDADE 05
+
+Redija, para cada uma das heranças a seguir, um texto de três a quatro linhas, como a explicação de um dicionário feito pela sua turma.
 
 Dê, em cada texto, um exemplo da herança que exista hoje:
 
@@ -126,13 +152,17 @@ c) herança portuguesa
 
 ---
 
-**6.** Redija, em primeira pessoa e em até dez linhas, o relato de uma criança que vive um costume herdado de um dos povos estudados — uma festa, uma comida ou uma palavra.
+### ATIVIDADE 06
+
+Redija, em primeira pessoa e em até dez linhas, o relato de uma criança que vive um costume herdado de um dos povos estudados — uma festa, uma comida ou uma palavra.
 
 Seu texto precisa dizer de qual herança o costume vem e precisa conter três informações que aparecem no capítulo.
 
 ---
 
-**7.** Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 07
+
+Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 A pizza chegou ao Brasil com os imigrantes italianos. Hoje existem no Brasil sabores de pizza que não existem na Itália.
 
@@ -146,7 +176,9 @@ c) A pizza sempre foi brasileira, porque foi aqui que ela ganhou mais sabores.
 
 ---
 
-**8.** Assinale, entre as três frases sobre as heranças do Brasil, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três frases sobre as heranças do Brasil, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) A herança portuguesa vale mais que as outras, porque dela veio a língua que falamos.  
 b) As heranças indígena, africana, portuguesa e dos imigrantes formaram juntas o Brasil.  

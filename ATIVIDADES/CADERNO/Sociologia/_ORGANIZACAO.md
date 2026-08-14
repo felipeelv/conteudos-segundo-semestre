@@ -188,3 +188,17 @@ As alternativas e os subitens estavam escritos como linhas soltas de prosa, e o 
 ⚠️ **Os dois espaços são invisíveis e frágeis.** Editor configurado para apagar espaço no fim da linha ao salvar desfaz isso em silêncio — o arquivo parece igual e a folha volta a colar corrida. Quem reescrever qualquer enunciado destas folhas confere, depois, se as alternativas ainda terminam em dois espaços.
 
 A regra consta em `06-PRODUCAO.md` §7.1 (subitens, com exemplo e o aviso sobre o *trim*), no molde de `OBJ`, no exemplo calibrado da objetiva da rodovia e nas regras rígidas do prompt de produção (§9); em `00-LEIA-ME.md`, no índice do §7.1; e no `CLAUDE.md` §5, item 17.
+
+### Rótulo `### ATIVIDADE NN` — 14/08
+
+As **20 questões** dos 2 arquivos-ano trocaram o rótulo `**N.**`, que vinha grudado no início do enunciado, por um cabeçalho em linha própria:
+
+```markdown
+### ATIVIDADE 01
+
+<enunciado-síntese>
+```
+
+Dois dígitos com zero à esquerda, numeração **reiniciando a cada capítulo** — são exatamente os números que já estavam lá, só reformatados. A seção 2 desta grade referencia cada questão pelo par **(Cap, Q)**, e esse par não mudou: **nenhuma linha da grade foi tocada**, e nenhum tipo, rubrica ou critério foi revisto.
+
+A folha passa a ter três níveis de hierarquia: `#` disciplina e ano · `##` capítulo · `###` atividade. Conferido contra `git HEAD` — sequência de números idêntica, texto byte-idêntico fora do rótulo, quebras duras das alternativas preservadas.

@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Equilíbrio químico
 
-**1.** Elabore um esquema em ciclo do transporte de oxigênio pelo sangue e explique o que aconteceria se, em uma das regiões do ciclo, o consumo de oxigênio cessasse.
+### ATIVIDADE 01
+
+Elabore um esquema em ciclo do transporte de oxigênio pelo sangue e explique o que aconteceria se, em uma das regiões do ciclo, o consumo de oxigênio cessasse.
 
 Tome como base o equilíbrio Hb + O₂ ⇌ HbO₂. O esquema precisa trazer:
 
@@ -19,7 +21,9 @@ Tome como base o equilíbrio Hb + O₂ ⇌ HbO₂. O esquema precisa trazer:
 
 ---
 
-**2.** Elabore uma tabela que compare a resposta de dois equilíbrios gasosos a três perturbações e explique por que uma mesma perturbação desloca um dos equilíbrios e não desloca o outro.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare a resposta de dois equilíbrios gasosos a três perturbações e explique por que uma mesma perturbação desloca um dos equilíbrios e não desloca o outro.
 
 Os equilíbrios são a formação de trióxido de enxofre, 2 SO₂(g) + O₂(g) ⇌ 2 SO₃(g), exotérmica no sentido direto, e a reação CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g); as perturbações são o aumento da pressão por redução de volume, o aumento da temperatura e a adição de catalisador. A tabela precisa trazer ainda:
 
@@ -30,7 +34,9 @@ Os equilíbrios são a formação de trióxido de enxofre, 2 SO₂(g) + O₂(g) 
 
 ---
 
-**3.** Redija, para cada conceito a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, indicando o que esse conceito informa que os outros três não informam:
+### ATIVIDADE 03
+
+Redija, para cada conceito a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, indicando o que esse conceito informa que os outros três não informam:
 
 a) constante de equilíbrio Kc  
 b) quociente de reação Q  
@@ -39,7 +45,9 @@ d) princípio de Le Chatelier
 
 ---
 
-**4.** Decida se o reator descrito a seguir já está em equilíbrio ou se ainda vai formar mais HI.
+### ATIVIDADE 04
+
+Decida se o reator descrito a seguir já está em equilíbrio ou se ainda vai formar mais HI.
 
 Um técnico monitora um reator em que ocorre H₂(g) + I₂(g) ⇌ 2 HI(g), cuja constante Kc vale 16 na temperatura de operação. Em uma amostra retirada do reator, ele encontra [H₂] = 0,50 mol/L, [I₂] = 0,10 mol/L e [HI] = 0,80 mol/L.
 
@@ -49,7 +57,9 @@ Calcule o quociente de reação da amostra e compare-o com o valor de Kc.
 
 ---
 
-**5.** Pesquise as condições de pressão e temperatura efetivamente empregadas no processo industrial de síntese da amônia e explique a escolha da temperatura.
+### ATIVIDADE 05
+
+Pesquise as condições de pressão e temperatura efetivamente empregadas no processo industrial de síntese da amônia e explique a escolha da temperatura.
 
 Consulte livro didático, enciclopédia, material do acervo da escola ou página consultada na internet e registre a referência — autor ou órgão, veículo e ano.
 
@@ -57,7 +67,9 @@ Consulte livro didático, enciclopédia, material do acervo da escola ou página
 
 ---
 
-**6.** Diagnostique a afirmação a seguir, separando o que ela conclui do modo como ela justifica.
+### ATIVIDADE 06
+
+Diagnostique a afirmação a seguir, separando o que ela conclui do modo como ela justifica.
 
 Um estudante escreveu: *"Comprimir o sistema N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g) aumenta a quantidade de amônia no equilíbrio, porque a compressão acelera a reação direta e mantém a velocidade direta permanentemente maior que a inversa."*
 
@@ -65,7 +77,9 @@ Um estudante escreveu: *"Comprimir o sistema N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g) 
 
 ---
 
-**7.** Assinale, entre as quatro perturbações do sistema N₂(g) + 3H₂(g) ⇌ 2NH₃(g), a única que **não** desloca o equilíbrio, e diga para que lado cada uma das outras três o desloca.
+### ATIVIDADE 07
+
+Assinale, entre as quatro perturbações do sistema N₂(g) + 3H₂(g) ⇌ 2NH₃(g), a única que **não** desloca o equilíbrio, e diga para que lado cada uma das outras três o desloca.
 
 a) Adicionar N₂ ao recipiente fechado, mantendo a temperatura.  
 b) Introduzir um catalisador à base de ferro no mesmo recipiente.  
@@ -78,7 +92,9 @@ d) Aumentar a temperatura, sabendo que o sentido direto é exotérmico.
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Num recipiente fechado, a cor da mistura NO₂/N₂O₄ para de mudar, e as concentrações das duas espécies permanecem constantes.
 

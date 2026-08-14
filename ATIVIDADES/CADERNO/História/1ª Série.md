@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Origens de Roma: Monarquia e República
 
-**1.** Ordene em uma linha do tempo os marcos do conflito entre patrícios e plebeus, do juramento de 509 a.C. contra a realeza até a Lei Hortênsia, e explique o que cada marco tornou possível ao seguinte.
+### ATIVIDADE 01
+
+Ordene em uma linha do tempo os marcos do conflito entre patrícios e plebeus, do juramento de 509 a.C. contra a realeza até a Lei Hortênsia, e explique o que cada marco tornou possível ao seguinte.
 
 Inclua os cinco marcos datados que o capítulo apresenta.
 
@@ -15,13 +17,17 @@ Inclua os cinco marcos datados que o capítulo apresenta.
 
 ---
 
-**2.** Elabore um esquema das magistraturas republicanas e do Senado que mostre como o arranjo impedia a concentração do poder numa só pessoa.
+### ATIVIDADE 02
+
+Elabore um esquema das magistraturas republicanas e do Senado que mostre como o arranjo impedia a concentração do poder numa só pessoa.
 
 Indique as atribuições de cada cargo e rotule cada seta de contenção com o mecanismo que o capítulo nomeia — mandato curto, colegialidade ou divisão de funções.
 
 ---
 
-**3.** Redija um verbete de cinco linhas sobre cada uma das instituições a seguir, indicando em cada caso que poder ela exercia e sobre quem. Empregue, ao longo dos quatro verbetes, os termos *colegialidade*, *magistratura* e *plebe*:
+### ATIVIDADE 03
+
+Redija um verbete de cinco linhas sobre cada uma das instituições a seguir, indicando em cada caso que poder ela exercia e sobre quem. Empregue, ao longo dos quatro verbetes, os termos *colegialidade*, *magistratura* e *plebe*:
 
 a) Senado  
 b) cônsules  
@@ -30,13 +36,17 @@ d) Comícios
 
 ---
 
-**4.** Elabore uma tabela que compare a condição jurídica de patrícios e plebeus antes e depois do período de conquistas.
+### ATIVIDADE 04
+
+Elabore uma tabela que compare a condição jurídica de patrícios e plebeus antes e depois do período de conquistas.
 
 Além dos direitos, inclua um critério que confronte cada direito conquistado com a condição econômica de que o plebeu precisava para exercê-lo de fato.
 
 ---
 
-**5.** Localize o conteúdo da Lei das Doze Tábuas e analise o que a fonte mostra — e o que não mostra — sobre a conquista plebeia.
+### ATIVIDADE 05
+
+Localize o conteúdo da Lei das Doze Tábuas e analise o que a fonte mostra — e o que não mostra — sobre a conquista plebeia.
 
 Consulte livro, enciclopédia, site ou acervo da biblioteca da escola, registre a referência consultada — autor ou instituição, título e ano — e identifique dois dispositivos da lei.
 
@@ -44,7 +54,9 @@ Consulte livro, enciclopédia, site ou acervo da biblioteca da escola, registre 
 
 ---
 
-**6.** Decida se o relato da fundação de Roma tem valor como fonte histórica, aplicando dois critérios diferentes ao mesmo caso.
+### ATIVIDADE 06
+
+Decida se o relato da fundação de Roma tem valor como fonte histórica, aplicando dois critérios diferentes ao mesmo caso.
 
 Os romanos atribuíam a fundação da cidade a Rômulo e Remo. Avalie o relato sob o critério da veracidade dos fatos narrados e sob o critério da evidência que ele oferece sobre quem o contava.
 
@@ -52,7 +64,9 @@ Os romanos atribuíam a fundação da cidade a Rômulo e Remo. Avalie o relato s
 
 ---
 
-**7.** Diagnostique os dois problemas da afirmação a seguir e reescreva-a corretamente.
+### ATIVIDADE 07
+
+Diagnostique os dois problemas da afirmação a seguir e reescreva-a corretamente.
 
 Um estudante escreveu: *"A República romana era uma democracia, porque o povo elegia os magistrados."*
 
@@ -60,13 +74,17 @@ Um estudante escreveu: *"A República romana era uma democracia, porque o povo e
 
 ---
 
-**8.** Redija, em seis a dez linhas, um texto que defenda uma posição sobre a seguinte questão: o conflito entre patrícios e plebeus fortaleceu ou enfraqueceu a República?
+### ATIVIDADE 08
+
+Redija, em seis a dez linhas, um texto que defenda uma posição sobre a seguinte questão: o conflito entre patrícios e plebeus fortaleceu ou enfraqueceu a República?
 
 Enuncie a posição na primeira linha, sustente-a com dois marcos datados e responda à objeção de que conflito interno prolongado é sinal de instituições frágeis.
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre as instituições republicanas romanas, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre as instituições republicanas romanas, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) As magistraturas correspondiam aos poderes Executivo, Legislativo e Judiciário de hoje.  
 b) As magistraturas limitavam o poder pessoal por mandatos curtos e por colegialidade.  
@@ -79,7 +97,9 @@ d) O ditador romano governava sem prazo, como os ditadores do mundo contemporân
 
 ---
 
-**10.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 10
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 Em Atenas, os cidadãos decidiam diretamente muitos assuntos na assembleia. Em Roma, as decisões se distribuíam entre magistrados, Senado e Comícios.
 
@@ -96,7 +116,9 @@ d) Atenas e Roma funcionavam do mesmo modo, mudando apenas o nome das instituiç
 
 ## Capítulo 2 — Expansão e crise da República romana
 
-**1.** Ordene, em uma linha do tempo de duas faixas paralelas, os marcos de 264 a.C. a 31 a.C. e relacione a expansão militar à crise interna.
+### ATIVIDADE 01
+
+Ordene, em uma linha do tempo de duas faixas paralelas, os marcos de 264 a.C. a 31 a.C. e relacione a expansão militar à crise interna.
 
 Na faixa superior, disponha os marcos da expansão militar; na inferior, os da crise interna.
 
@@ -104,13 +126,17 @@ Na faixa superior, disponha os marcos da expansão militar; na inferior, os da c
 
 ---
 
-**2.** Elabore um esquema que represente o encadeamento entre conquista de províncias, chegada de escravizados, concentração fundiária e esvaziamento do campesinato romano.
+### ATIVIDADE 02
+
+Elabore um esquema que represente o encadeamento entre conquista de províncias, chegada de escravizados, concentração fundiária e esvaziamento do campesinato romano.
 
 Rotule cada seta com o mecanismo que liga uma etapa à seguinte.
 
 ---
 
-**3.** Redija um verbete de cinco linhas sobre cada um dos episódios a seguir, indicando em cada caso o interesse em jogo e o desfecho. Empregue, ao longo dos quatro verbetes, os termos *tribuno*, *latifúndio* e *exército*:
+### ATIVIDADE 03
+
+Redija um verbete de cinco linhas sobre cada um dos episódios a seguir, indicando em cada caso o interesse em jogo e o desfecho. Empregue, ao longo dos quatro verbetes, os termos *tribuno*, *latifúndio* e *exército*:
 
 a) as reformas dos irmãos Graco  
 b) a revolta de Espártaco  
@@ -119,7 +145,9 @@ d) o Primeiro Triunvirato
 
 ---
 
-**4.** Elabore uma tabela que compare a situação do pequeno proprietário romano antes e depois das Guerras Púnicas.
+### ATIVIDADE 04
+
+Elabore uma tabela que compare a situação do pequeno proprietário romano antes e depois das Guerras Púnicas.
 
 A tabela precisa trazer, em cada um dos dois momentos:
 
@@ -129,7 +157,9 @@ A tabela precisa trazer, em cada um dos dois momentos:
 
 ---
 
-**5.** Localize uma explicação do que era o *latifundium* romano e de como ele se constituía, e analise a relação dessa forma de propriedade com o trabalho escravizado.
+### ATIVIDADE 05
+
+Localize uma explicação do que era o *latifundium* romano e de como ele se constituía, e analise a relação dessa forma de propriedade com o trabalho escravizado.
 
 Consulte livro, enciclopédia, site ou acervo da biblioteca da escola e registre a referência consultada — autor ou instituição, título e ano.
 
@@ -137,7 +167,9 @@ Consulte livro, enciclopédia, site ou acervo da biblioteca da escola e registre
 
 ---
 
-**6.** Localize um texto de divulgação histórica sobre o fim da República romana e analise o que ele explica — e o que deixa de fora.
+### ATIVIDADE 06
+
+Localize um texto de divulgação histórica sobre o fim da República romana e analise o que ele explica — e o que deixa de fora.
 
 Consulte jornal, revista, livro, site ou acervo da biblioteca da escola e registre a referência.
 
@@ -145,7 +177,9 @@ Consulte jornal, revista, livro, site ou acervo da biblioteca da escola e regist
 
 ---
 
-**7.** Diagnostique o que a explicação a seguir deixa de fora e reescreva-a corretamente.
+### ATIVIDADE 07
+
+Diagnostique o que a explicação a seguir deixa de fora e reescreva-a corretamente.
 
 Um estudante escreveu: *"A República acabou porque César quis ser rei."*
 
@@ -153,7 +187,9 @@ Um estudante escreveu: *"A República acabou porque César quis ser rei."*
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o Primeiro Triunvirato, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o Primeiro Triunvirato, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) O Primeiro Triunvirato era uma magistratura criada por lei para governar Roma.  
 b) O Primeiro Triunvirato era uma aliança privada, formada fora das regras da República.  
@@ -166,7 +202,9 @@ d) O Primeiro Triunvirato foi dissolvido pelo Senado, que o declarou ilegal em 6
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Entre 133 a.C. e 31 a.C., Roma viu a morte dos irmãos Graco, a marcha de Sila sobre a cidade, dois triunviratos, a travessia do Rubicão, o assassinato de César e a vitória de Otávio em Ácio.
 

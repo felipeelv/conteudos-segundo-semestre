@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — Aristóteles — metafísica e ética
 
-**1.** Elabore o esquema completo do percurso que forma a virtude de caráter, inserindo no lugar correto a etapa que falta.
+### ATIVIDADE 01
+
+Elabore o esquema completo do percurso que forma a virtude de caráter, inserindo no lugar correto a etapa que falta.
 
 A sequência *ação repetida → hábito → virtude de caráter* omite uma etapa: sem ela, o percurso descreve apenas um hábito adquirido, e não uma virtude. Monte o esquema nomeando todas as etapas e rotulando cada seta com o que ela acrescenta à anterior.
 
@@ -15,7 +17,9 @@ A sequência *ação repetida → hábito → virtude de caráter* omite uma eta
 
 ---
 
-**2.** Elabore uma tabela que aplique as quatro causas aristotélicas a três objetos concretos e evidencie em qual das causas eles mais se distinguem.
+### ATIVIDADE 02
+
+Elabore uma tabela que aplique as quatro causas aristotélicas a três objetos concretos e evidencie em qual das causas eles mais se distinguem.
 
 Os três objetos: dois produzidos pelo trabalho humano — nenhum deles a mesa usada como exemplo no capítulo — e um existente na natureza. Aplique a cada um as quatro causas.
 
@@ -23,7 +27,9 @@ Os três objetos: dois produzidos pelo trabalho humano — nenhum deles a mesa u
 
 ---
 
-**3.** Redija, para quem faltou à aula, um verbete de três a cinco linhas sobre cada um dos conceitos a seguir, indicando a que pergunta o conceito responde e sem repetir a formulação do capítulo. Cada verbete precisa empregar os três termos indicados entre parênteses:
+### ATIVIDADE 03
+
+Redija, para quem faltou à aula, um verbete de três a cinco linhas sobre cada um dos conceitos a seguir, indicando a que pergunta o conceito responde e sem repetir a formulação do capítulo. Cada verbete precisa empregar os três termos indicados entre parênteses:
 
 a) potência (matéria, mudança, ato)  
 b) ato (potência, forma, movimento)  
@@ -32,7 +38,9 @@ d) eudaimonia (finalidade, função, prudência)
 
 ---
 
-**4.** Decida o que a coragem aristotélica recomenda no caso a seguir e explique por que a resposta depende de quem delibera.
+### ATIVIDADE 04
+
+Decida o que a coragem aristotélica recomenda no caso a seguir e explique por que a resposta depende de quem delibera.
 
 Uma pessoa presencia um assalto do outro lado da rua. Intervir sozinha pode interromper o crime ou resultar em duas vítimas.
 
@@ -40,7 +48,9 @@ Uma pessoa presencia um assalto do outro lado da rua. Intervir sozinha pode inte
 
 ---
 
-**5.** Pesquise uma definição contemporânea de virtude e compare-a com a de Aristóteles.
+### ATIVIDADE 05
+
+Pesquise uma definição contemporânea de virtude e compare-a com a de Aristóteles.
 
 Consulte fonte impressa, digital ou do acervo da biblioteca da escola — dicionário de filosofia, enciclopédia ou texto acadêmico — e registre a referência: autor, obra e ano.
 
@@ -48,7 +58,9 @@ Consulte fonte impressa, digital ou do acervo da biblioteca da escola — dicion
 
 ---
 
-**6.** Localize um texto de opinião que defenda uma posição sobre o que é uma vida bem vivida e analise-o diante da eudaimonia aristotélica.
+### ATIVIDADE 06
+
+Localize um texto de opinião que defenda uma posição sobre o que é uma vida bem vivida e analise-o diante da eudaimonia aristotélica.
 
 O texto deve ter sido publicado nos últimos cinco anos, em fonte impressa, digital ou do acervo da biblioteca da escola. Registre a referência.
 
@@ -56,7 +68,9 @@ O texto deve ter sido publicado nos últimos cinco anos, em fonte impressa, digi
 
 ---
 
-**7.** Diagnostique o erro na afirmação a seguir e construa o exemplo que o revela.
+### ATIVIDADE 07
+
+Diagnostique o erro na afirmação a seguir e construa o exemplo que o revela.
 
 Um estudante escreveu: *"O argumento é válido, portanto sua conclusão é verdadeira."* Construa um exemplo de argumento válido cuja conclusão seja falsa.
 
@@ -64,11 +78,15 @@ Um estudante escreveu: *"O argumento é válido, portanto sua conclusão é verd
 
 ---
 
-**8.** Redija, em seis a dez linhas, para um leitor que sustenta a posição contrária, uma resposta à pergunta: o meio-termo aristotélico é aplicável a toda virtude? Enuncie a posição na primeira linha, sustente-a com dois exemplos e responda à objeção de que existem ações para as quais não há excesso nem falta admissíveis.
+### ATIVIDADE 08
+
+Redija, em seis a dez linhas, para um leitor que sustenta a posição contrária, uma resposta à pergunta: o meio-termo aristotélico é aplicável a toda virtude? Enuncie a posição na primeira linha, sustente-a com dois exemplos e responda à objeção de que existem ações para as quais não há excesso nem falta admissíveis.
 
 ---
 
-**9.** Assinale, entre as quatro afirmações sobre o Motor Imóvel, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
+### ATIVIDADE 09
+
+Assinale, entre as quatro afirmações sobre o Motor Imóvel, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) O Motor Imóvel de Aristóteles é o Deus pessoal da Escritura, descrito com outro nome.  
 b) O Motor Imóvel é um princípio racional do movimento, que move sem jamais ser movido.  
@@ -81,7 +99,9 @@ d) O Motor Imóvel foi uma hipótese que Aristóteles abandonou ao formular as q
 
 ---
 
-**10.** Assinale, entre as quatro descrições, a única que nomeia uma **substância**, e diga o que é cada uma das outras três.
+### ATIVIDADE 10
+
+Assinale, entre as quatro descrições, a única que nomeia uma **substância**, e diga o que é cada uma das outras três.
 
 a) A cor vermelha da mesa da sala, que uma nova pintura pode trocar por outra.  
 b) A mesa que está na sala, feita de madeira e organizada como mesa.  

@@ -7,25 +7,33 @@
 
 ## Capítulo 1 — Independências no Haiti e na América Espanhola
 
-**1.** Ordene, em uma linha do tempo, pelo menos cinco marcos da Revolução Haitiana, de 1791 até a independência.
+### ATIVIDADE 01
+
+Ordene, em uma linha do tempo, pelo menos cinco marcos da Revolução Haitiana, de 1791 até a independência.
 
 Entre cada par vizinho de marcos, escreva uma frase de nexo causal.
 
 ---
 
-**2.** Elabore uma tabela que compare a estrutura social de Saint-Domingue com a de outra colônia americana estudada.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare a estrutura social de Saint-Domingue com a de outra colônia americana estudada.
 
 Além dos grupos de cada uma, inclua um critério que explique por que a revolução ocorreu ali e não em outro lugar.
 
 ---
 
-**3.** Leia a parte biográfica do Anexo sobre Toussaint Louverture e analise a trajetória que a fonte descreve.
+### ATIVIDADE 03
+
+Leia a parte biográfica do Anexo sobre Toussaint Louverture e analise a trajetória que a fonte descreve.
 
 **Responda:** que trajetória a fonte descreve, e que evidência ela oferece sobre a capacidade militar e política dele? E que desfecho ela relata?
 
 ---
 
-**4.** Elabore um mapa esquemático das campanhas de Bolívar e San Martín.
+### ATIVIDADE 04
+
+Elabore um mapa esquemático das campanhas de Bolívar e San Martín.
 
 O mapa precisa trazer:
 
@@ -35,13 +43,17 @@ O mapa precisa trazer:
 
 ---
 
-**5.** Elabore uma tabela que compare Bolívar e San Martín.
+### ATIVIDADE 05
+
+Elabore uma tabela que compare Bolívar e San Martín.
 
 Além das regiões e das estratégias, inclua um critério que explique por que a federação americana pretendida por um deles não se realizou.
 
 ---
 
-**6.** Decida por que a independência haitiana provocou entre as potências da época uma reação tão diferente das demais.
+### ATIVIDADE 06
+
+Decida por que a independência haitiana provocou entre as potências da época uma reação tão diferente das demais.
 
 A independência haitiana foi a única das Américas conduzida por pessoas escravizadas.
 
@@ -49,7 +61,9 @@ A independência haitiana foi a única das Américas conduzida por pessoas escra
 
 ---
 
-**7.** Assinale, entre as quatro afirmações sobre criollos e peninsulares, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro afirmações sobre criollos e peninsulares, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Criollos eram os indígenas da América espanhola, e peninsulares, os africanos escravizados.  
 b) Criollos eram brancos nascidos na América; peninsulares, brancos nascidos na Espanha.  
@@ -62,7 +76,9 @@ d) Criollos eram os pobres das colônias, e peninsulares, os proprietários de t
 
 ---
 
-**8.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Em 1825, a França exigiu do Haiti uma indenização em dinheiro para reconhecer a sua independência. O valor cobria as perdas dos antigos proprietários de terras e de pessoas escravizadas.
 
@@ -79,31 +95,41 @@ d) A França cobrou porque o Haiti destruiu as plantações durante a sua revolu
 
 ## Capítulo 2 — Independência do Brasil
 
-**1.** Ordene, em uma linha do tempo de 1808 a 1822, pelo menos seis marcos.
+### ATIVIDADE 01
+
+Ordene, em uma linha do tempo de 1808 a 1822, pelo menos seis marcos.
 
 Entre cada par vizinho de marcos, escreva uma frase explicando o que o anterior tornou possível.
 
 ---
 
-**2.** Elabore uma tabela que compare a situação do Brasil antes e depois da chegada da Corte.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare a situação do Brasil antes e depois da chegada da Corte.
 
 Além das instituições criadas, inclua um critério que explique por que o retorno ao estatuto colonial se tornou inviável.
 
 ---
 
-**3.** Leia a parte biográfica do Anexo sobre D. Pedro I e analise o que a fonte apresenta — e o que ela não avalia.
+### ATIVIDADE 03
+
+Leia a parte biográfica do Anexo sobre D. Pedro I e analise o que a fonte apresenta — e o que ela não avalia.
 
 **Responda:** o que a fonte apresenta sobre as lealdades divididas dele, e que evidência ela oferece? E que aspecto do governo dele ela não avalia?
 
 ---
 
-**4.** Elabore um esquema que ligue a Revolução Liberal do Porto, as exigências das Cortes portuguesas e a decisão pela independência.
+### ATIVIDADE 04
+
+Elabore um esquema que ligue a Revolução Liberal do Porto, as exigências das Cortes portuguesas e a decisão pela independência.
 
 Cada seta do esquema precisa de um rótulo.
 
 ---
 
-**5.** Redija, para o glossário da sua turma, um verbete de quatro a cinco linhas sobre cada medida a seguir, indicando em cada caso o efeito econômico que ela produziu:
+### ATIVIDADE 05
+
+Redija, para o glossário da sua turma, um verbete de quatro a cinco linhas sobre cada medida a seguir, indicando em cada caso o efeito econômico que ela produziu:
 
 a) abertura dos portos  
 b) criação do Banco do Brasil  
@@ -111,7 +137,9 @@ c) elevação a Reino Unido
 
 ---
 
-**6.** Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
+### ATIVIDADE 06
+
+Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
 
 Um estudante escreveu: *"A Independência do Brasil foi pacífica, porque não houve guerra."*
 
@@ -119,7 +147,9 @@ Um estudante escreveu: *"A Independência do Brasil foi pacífica, porque não h
 
 ---
 
-**7.** Assinale, entre as quatro mudanças, a única que a Independência de 1822 de fato trouxe, e diga o que aconteceu com cada uma das outras três.
+### ATIVIDADE 07
+
+Assinale, entre as quatro mudanças, a única que a Independência de 1822 de fato trouxe, e diga o que aconteceu com cada uma das outras três.
 
 a) O fim do domínio político de Portugal sobre o território brasileiro.  
 b) O fim da escravidão nas fazendas e nas cidades do novo país.  
@@ -132,7 +162,9 @@ d) A perda de poder das elites agrárias sobre a política do Império.
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o caso a seguir, a única em que tanto a conclusão quanto a razão apresentada para ela se sustentam, e justifique o que há de errado em cada uma das outras três.
 
 Em 1820, a Revolução Liberal do Porto exigiu uma Constituição para Portugal e, ao mesmo tempo, o retorno das províncias brasileiras à submissão a Lisboa.
 
@@ -149,7 +181,9 @@ d) O movimento era liberal em Portugal e restritivo para o Brasil, porque a Ingl
 
 ## Capítulo 3 — Primeiro Reinado e Período Regencial
 
-**1.** Ordene, em uma linha do tempo de duas faixas cobrindo 1822 a 1840, os marcos políticos nacionais e as revoltas regionais.
+### ATIVIDADE 01
+
+Ordene, em uma linha do tempo de duas faixas cobrindo 1822 a 1840, os marcos políticos nacionais e as revoltas regionais.
 
 A linha do tempo precisa trazer:
 
@@ -159,7 +193,9 @@ A linha do tempo precisa trazer:
 
 ---
 
-**2.** Elabore uma tabela que compare três revoltas regenciais.
+### ATIVIDADE 02
+
+Elabore uma tabela que compare três revoltas regenciais.
 
 A tabela precisa trazer, para cada uma das três revoltas:
 
@@ -169,19 +205,25 @@ A tabela precisa trazer, para cada uma das três revoltas:
 
 ---
 
-**3.** Leia a parte biográfica do Anexo sobre Frei Caneca e analise a posição política que a fonte lhe atribui.
+### ATIVIDADE 03
+
+Leia a parte biográfica do Anexo sobre Frei Caneca e analise a posição política que a fonte lhe atribui.
 
 **Responda:** que posição política a fonte atribui a ele, e que evidência ela apresenta? E que desfecho ela relata?
 
 ---
 
-**4.** Elabore um mapa esquemático do Brasil marcando as regiões onde ocorreram as revoltas regenciais estudadas.
+### ATIVIDADE 04
+
+Elabore um mapa esquemático do Brasil marcando as regiões onde ocorreram as revoltas regenciais estudadas.
 
 Legenda e título são obrigatórios.
 
 ---
 
-**5.** Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
+### ATIVIDADE 05
+
+Diagnostique o erro da afirmação a seguir e reescreva-a corretamente.
 
 Um estudante escreveu: *"O Golpe da Maioridade aconteceu porque Pedro II já estava pronto para governar."*
 
@@ -189,7 +231,9 @@ Um estudante escreveu: *"O Golpe da Maioridade aconteceu porque Pedro II já est
 
 ---
 
-**6.** Decida se a instabilidade do Período Regencial decorreu da ausência de um imperador ou de conflitos anteriores a ela.
+### ATIVIDADE 06
+
+Decida se a instabilidade do Período Regencial decorreu da ausência de um imperador ou de conflitos anteriores a ela.
 
 O Período Regencial foi o mais instável da história do Império.
 
@@ -197,7 +241,9 @@ O Período Regencial foi o mais instável da história do Império.
 
 ---
 
-**7.** Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 07
+
+Assinale, entre as quatro leituras do caso a seguir, a única correta, e justifique por que cada uma das outras três está errada.
 
 Em 1823, D. Pedro I dissolveu a Assembleia Constituinte. No ano seguinte, entregou ao país uma Constituição escrita por homens de sua confiança, que criava um Poder Moderador exclusivo do imperador.
 
@@ -212,7 +258,9 @@ d) A Constituição garantiu o voto a toda a população, sem nenhuma exigência
 
 ---
 
-**8.** Assinale, entre as quatro afirmações sobre o Ato Adicional de 1834, a única correta, e justifique por que cada uma das outras três está errada.
+### ATIVIDADE 08
+
+Assinale, entre as quatro afirmações sobre o Ato Adicional de 1834, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O Ato Adicional centralizou o poder nas mãos do regente, tirando-o das províncias.  
 b) O Ato Adicional deu assembleias próprias às províncias e ampliou diferenças regionais.  

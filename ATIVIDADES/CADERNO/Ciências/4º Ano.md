@@ -7,7 +7,9 @@
 
 ## Capítulo 1 — O ecossistema e o solo, base da vida
 
-**1.** Preveja em qual de duas porções de terra — uma solta e uma pisada — a água desaparece mais depressa e confronte a previsão com o que observar.
+### ATIVIDADE 01
+
+Preveja em qual de duas porções de terra — uma solta e uma pisada — a água desaparece mais depressa e confronte a previsão com o que observar.
 
 **Antes de começar, responda por escrito:** em qual das duas porções a água vai desaparecer mais depressa?
 
@@ -17,7 +19,9 @@ Junte duas porções de terra do mesmo tamanho: uma de terra solta, tirada de um
 
 ---
 
-**2.** Registre o que acontece com três porções de uma mesma terra apertadas na mão e compare os três resultados com a sua previsão.
+### ATIVIDADE 02
+
+Registre o que acontece com três porções de uma mesma terra apertadas na mão e compare os três resultados com a sua previsão.
 
 **Antes de começar, responda por escrito:** o que você espera sentir ao apertar a terra — ela vai esfarelar ou ficar grudada em bloco?
 
@@ -27,7 +31,9 @@ Aperte na mão uma porção de terra e observe se ela esfarela ou se fica grudad
 
 ---
 
-**3.** Elabore um esquema de um ecossistema do lugar onde você mora.
+### ATIVIDADE 03
+
+Elabore um esquema de um ecossistema do lugar onde você mora.
 
 O esquema precisa ter:
 
@@ -37,13 +43,17 @@ O esquema precisa ter:
 
 ---
 
-**4.** Redija um verbete de até cinco linhas sobre o solo do lugar onde você mora, usando obrigatoriamente as palavras **minhoca**, **raiz** e **predador**.
+### ATIVIDADE 04
+
+Redija um verbete de até cinco linhas sobre o solo do lugar onde você mora, usando obrigatoriamente as palavras **minhoca**, **raiz** e **predador**.
 
 O verbete precisa mostrar, numa única cadeia, como uma dessas três afeta as outras duas.
 
 ---
 
-**5.** Explique o que está errado na frase a seguir sobre as minhocas.
+### ATIVIDADE 05
+
+Explique o que está errado na frase a seguir sobre as minhocas.
 
 Um estudante escreveu: *"Se as minhocas sumissem, não mudaria nada, porque elas não comem nem são comidas por ninguém importante."*
 
@@ -51,7 +61,9 @@ Um estudante escreveu: *"Se as minhocas sumissem, não mudaria nada, porque elas
 
 ---
 
-**6.** Registre, em três categorias definidas antes de sair, tudo o que conseguir ver num pedaço de terra perto da sua casa e compare esse pedaço com um chão de cimento.
+### ATIVIDADE 06
+
+Registre, em três categorias definidas antes de sair, tudo o que conseguir ver num pedaço de terra perto da sua casa e compare esse pedaço com um chão de cimento.
 
 Antes de sair, escreva as três categorias em que vai separar o que encontrar: seres vivos, restos de seres vivos e partes não vivas. Depois observe um pedaço de terra perto da sua casa — um vaso, um canteiro ou o chão de uma praça — e registre em cada categoria tudo o que conseguir ver sem cavar. Observe da calçada, sem mexer nos bichos.
 
@@ -59,7 +71,9 @@ Antes de sair, escreva as três categorias em que vai separar o que encontrar: s
 
 ---
 
-**7.** Assinale, entre as três frases, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 07
+
+Assinale, entre as três frases, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) A água do lago não é um ser vivo, mas sem ela os peixes não sobrevivem ali.  
 b) A água do lago é um ser vivo, porque ela se mexe e os peixes precisam dela.  
@@ -71,7 +85,9 @@ c) A água do lago não é um ser vivo, então ela não faz falta nenhuma ao lag
 
 ---
 
-**8.** Assinale, entre as três frases sobre o sapo, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 08
+
+Assinale, entre as três frases sobre o sapo, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) O sapo é só predador, porque ele caça insetos para comer.  
 b) O sapo é predador do inseto e presa da cobra ao mesmo tempo.  
@@ -85,11 +101,15 @@ c) O sapo é só presa, porque a cobra é maior e mais forte que ele.
 
 ## Capítulo 2 — Os ecossistemas do Brasil e o cuidado com o ambiente
 
-**1.** Elabore uma tabela com os cinco ecossistemas brasileiros, com colunas que permitam descobrir, só de olhar para a tabela, por que um animal de um deles não conseguiria viver no outro.
+### ATIVIDADE 01
+
+Elabore uma tabela com os cinco ecossistemas brasileiros, com colunas que permitam descobrir, só de olhar para a tabela, por que um animal de um deles não conseguiria viver no outro.
 
 ---
 
-**2.** Pesquise um animal que viva na Caatinga e duas coisas do corpo dele que ajudam a sobreviver com pouca água.
+### ATIVIDADE 02
+
+Pesquise um animal que viva na Caatinga e duas coisas do corpo dele que ajudam a sobreviver com pouca água.
 
 A informação pode vir de um livro, de uma revista, do acervo da biblioteca da escola ou da internet. Anote quem escreveu, de que ano é o texto e para que ele foi escrito.
 
@@ -97,7 +117,9 @@ A informação pode vir de um livro, de uma revista, do acervo da biblioteca da 
 
 ---
 
-**3.** Elabore um mapa simples do Brasil com os cinco ecossistemas marcados.
+### ATIVIDADE 03
+
+Elabore um mapa simples do Brasil com os cinco ecossistemas marcados.
 
 O mapa precisa ter:
 
@@ -107,7 +129,9 @@ O mapa precisa ter:
 
 ---
 
-**4.** Explique o que está errado na comparação a seguir entre a Caatinga e a Amazônia.
+### ATIVIDADE 04
+
+Explique o que está errado na comparação a seguir entre a Caatinga e a Amazônia.
 
 Um estudante escreveu: *"A Caatinga é uma Amazônia que deu errado, porque tem poucas árvores e pouca água."*
 
@@ -115,13 +139,17 @@ Um estudante escreveu: *"A Caatinga é uma Amazônia que deu errado, porque tem 
 
 ---
 
-**5.** Redija um verbete de até cinco linhas sobre o cuidado com o ambiente no lugar onde você mora, usando obrigatoriamente as palavras **desmatamento**, **queimada** e **lixo**.
+### ATIVIDADE 05
+
+Redija um verbete de até cinco linhas sobre o cuidado com o ambiente no lugar onde você mora, usando obrigatoriamente as palavras **desmatamento**, **queimada** e **lixo**.
 
 O verbete precisa mostrar como um desses três problemas faz outro deles piorar.
 
 ---
 
-**6.** Decida qual de duas ações uma prefeitura deve escolher quando o dinheiro dá para uma só.
+### ATIVIDADE 06
+
+Decida qual de duas ações uma prefeitura deve escolher quando o dinheiro dá para uma só.
 
 Uma prefeitura tem dinheiro para uma só coisa: criar um parque protegido longe da cidade ou plantar árvores nas ruas do centro.
 
@@ -129,7 +157,9 @@ Uma prefeitura tem dinheiro para uma só coisa: criar um parque protegido longe 
 
 ---
 
-**7.** Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
+### ATIVIDADE 07
+
+Assinale, entre as três explicações do caso a seguir, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 Um saco de lixo é deixado na calçada, longe de qualquer rio. Dias depois, aparece um plástico igual boiando no rio da cidade.
 
@@ -143,7 +173,9 @@ c) O plástico só chegaria ao rio se alguém o jogasse dentro da água.
 
 ---
 
-**8.** Assinale, entre os três barrancos, o único em que a chuva vai levar mais terra embora, e escreva por que **um** dos outros dois perde menos terra.
+### ATIVIDADE 08
+
+Assinale, entre os três barrancos, o único em que a chuva vai levar mais terra embora, e escreva por que **um** dos outros dois perde menos terra.
 
 a) Um barranco coberto de capim, com as raízes segurando o chão.  
 b) Um barranco onde a vegetação foi retirada e o chão ficou descoberto.  
