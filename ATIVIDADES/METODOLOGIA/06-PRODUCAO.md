@@ -389,15 +389,19 @@ Estrutura, nesta ordem — os blocos 2, 4 e 6 só existem quando o item os tem:
 **Confira você mesmo:** <a verificação, e o que o erro significa>
 ```
 
-Subitens `a) b) c)` continuam valendo quando a mesma tarefa se repete sobre vários objetos. **Vão em lista Markdown — cada subitem numa linha iniciada por `- `**, com uma linha em branco antes do primeiro item e nenhuma entre eles:
+Subitens `a) b) c)` continuam valendo quando a mesma tarefa se repete sobre vários objetos. **Cada subitem ocupa uma linha e termina em dois espaços** — a quebra dura do Markdown —, exceto o último do bloco, que é fechado pela linha em branco seguinte:
 
 ```markdown
-- a) <primeiro objeto>
-- b) <segundo objeto>
-- c) <terceiro objeto>
+a) <primeiro objeto>··
+b) <segundo objeto>··
+c) <terceiro objeto>
 ```
 
-Escritos como linhas soltas de prosa, os subitens se fundem num parágrafo único quando o Markdown é renderizado **ou colado no Google Docs**, e o aluno recebe a lista corrida. A lista é o que garante um item por linha nos dois caminhos de cópia — o texto cru e a pré-visualização renderizada. Parágrafos separados por linha em branco resolvem só o primeiro.
+*(`··` representa os dois espaços, invisíveis no arquivo.)*
+
+Sem eles, o Markdown funde as linhas num parágrafo único ao renderizar **e ao colar a folha no Google Docs**, e o aluno recebe a lista corrida. Os dois espaços viram `<br>`: o item fica numa linha própria **sem marcador e sem espaçamento de parágrafo**, que é como uma folha de questões se lê. Lista com `- ` resolveria o mesmo problema, mas imprime um bullet antes da letra — `• a)` —, redundante numa alternativa que já é rotulada.
+
+> ⚠️ **Os dois espaços são invisíveis e frágeis.** Editor configurado para *trim trailing whitespace on save* os apaga sem avisar, e o defeito volta calado — o arquivo parece igual e a folha cola errada. Ao mexer numa folha, confira depois se as alternativas ainda terminam em dois espaços.
 
 Exemplo calibrado — a questão de transformações do 8º ano de Geometria:
 
@@ -439,7 +443,7 @@ A objetiva usa o mesmo esqueleto, com um bloco a mais e uma restrição a mais. 
 
 1. **Enunciado-síntese** com `assinale`, dizendo o que se procura entre as alternativas **e** anunciando a eliminação. As duas metades são obrigatórias.
 2. **Execução** — só em `OBJ.b`, e é o caso descrito em um parágrafo. Em `OBJ.a`, `OBJ.c` e `OBJ.d` não há execução: as alternativas vêm logo depois da síntese.
-3. **As alternativas**, em `a) b) c) d)`, **em lista Markdown, uma por linha iniciada por `- `** (§7.1). São os subitens que §7.1 já admite, não marcadores — a regra dos dois casos de marcador não se aplica a elas.
+3. **As alternativas**, em `a) b) c) d)`, **uma por linha, cada uma terminada em dois espaços** — a quebra dura do §7.1 —, sem marcador de lista antes da letra. São os subitens que §7.1 já admite, não marcadores — a regra dos dois casos de marcador não se aplica a elas.
 4. **`Responda:`** com as duas entregas na mesma pergunta: qual é a alternativa e por que cada uma das outras está errada.
 5. **`Confira você mesmo:`** sempre presente — os quatro itens de `OBJ` são ✓conf. Ele **não revela a letra**: aponta a estrutura das eliminações, para o aluno auditar o próprio raciocínio.
 
@@ -457,10 +461,10 @@ Exemplo calibrado de `OBJ` — 7º ano de Ciências, item `OBJ.b`:
 >
 > Uma rodovia foi aberta no meio de uma área de mata e a dividiu em dois fragmentos. Nenhum animal foi retirado nem caçado, e a mata dos dois lados continuou de pé. Alguns anos depois, a população da espécie que vivia ali havia diminuído nos dois fragmentos.
 >
-> - a) A rodovia não pode ser a causa, porque nenhum animal foi retirado da mata quando ela foi aberta.
-> - b) Os dois grupos, agora separados, encontram menos parceiros e resistem menos a doenças e a eventos locais.
-> - c) Os dois grupos viraram espécies diferentes no momento em que a rodovia os separou.
-> - d) O que reduziu a população foi a perda de vegetação provocada pela obra.
+> a) A rodovia não pode ser a causa, porque nenhum animal foi retirado da mata quando ela foi aberta.  
+> b) Os dois grupos, agora separados, encontram menos parceiros e resistem menos a doenças e a eventos locais.  
+> c) Os dois grupos viraram espécies diferentes no momento em que a rodovia os separou.  
+> d) O que reduziu a população foi a perda de vegetação provocada pela obra.
 >
 > **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 >
@@ -664,10 +668,10 @@ REGRAS RÍGIDAS:
     grade do _ORGANIZACAO.md, nunca para o arquivo-ano.
   - OBJ: distrator plausível, motivo de eliminação próprio para cada um,
     alternativas de comprimento parecido, e nada de "todas as anteriores" (§8.4).
-  - Subitens e alternativas a) b) c) d): em LISTA MARKDOWN, cada um numa linha
-    iniciada por "- ", com linha em branco antes do primeiro e nenhuma entre eles.
-    Como linhas soltas de prosa a lista se funde num paragrafo so ao renderizar
-    ou ao colar no Google Docs.
+  - Subitens e alternativas a) b) c) d): um por linha, cada linha terminada em
+    DOIS ESPACOS (quebra dura), menos a ultima do bloco. Sem marcador "- " antes
+    da letra. Sem os dois espacos o bloco se funde num paragrafo so ao renderizar
+    e ao colar no Google Docs.
   - Ao final da disciplina, imprima a tabela de checagem em lote (§8).
 ```
 

@@ -27,10 +27,10 @@ No seu esquema, ligue as etapas com setas no sentido do processo e rotule cada s
 
 **3.** Redija um verbete de cinco linhas sobre cada um dos elementos do complexo cafeeiro a seguir, indicando em cada caso o papel que desempenhava. Empregue, ao longo dos quatro verbetes, os termos *complexo econômico*, *exportação* e *crédito*:
 
-- a) fazenda
-- b) ferrovia
-- c) casa exportadora
-- d) porto
+a) fazenda  
+b) ferrovia  
+c) casa exportadora  
+d) porto
 
 ---
 
@@ -78,10 +78,10 @@ Enuncie a posição na primeira linha, sustente-a com dois fatos verificáveis e
 
 **9.** Assinale, entre as quatro afirmações sobre liberais e conservadores no Segundo Reinado, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-- a) Liberais e conservadores eram idênticos, e *farinha do mesmo saco* os descreve por inteiro.
-- b) Concordavam sobre monarquia e escravidão e divergiam sobre centralização e cargos.
-- c) Liberais defendiam o fim da escravidão, e conservadores, a sua manutenção no Império.
-- d) Os dois partidos representavam trabalhadores urbanos e pequenos proprietários rurais.
+a) Liberais e conservadores eram idênticos, e *farinha do mesmo saco* os descreve por inteiro.  
+b) Concordavam sobre monarquia e escravidão e divergiam sobre centralização e cargos.  
+c) Liberais defendiam o fim da escravidão, e conservadores, a sua manutenção no Império.  
+d) Os dois partidos representavam trabalhadores urbanos e pequenos proprietários rurais.
 
 **Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
 
@@ -93,10 +93,10 @@ Enuncie a posição na primeira linha, sustente-a com dois fatos verificáveis e
 
 No Oeste Paulista, os primeiros cafezais foram plantados com trabalho escravizado. A Lei de Terras, de 1850, tornou a compra a principal forma de acesso legal às terras públicas.
 
-- a) O Oeste Paulista nasceu como economia de trabalho livre, sem ter passado pela escravidão.
-- b) A escravidão sustentou os primeiros cafezais paulistas, e a lei de 1850 dificultou o acesso à terra.
-- c) A Lei de Terras distribuiu lotes a libertos e imigrantes, corrigindo a concentração fundiária.
-- d) Escravidão e trabalho livre nunca coexistiram: um substituiu o outro de uma vez só.
+a) O Oeste Paulista nasceu como economia de trabalho livre, sem ter passado pela escravidão.  
+b) A escravidão sustentou os primeiros cafezais paulistas, e a lei de 1850 dificultou o acesso à terra.  
+c) A Lei de Terras distribuiu lotes a libertos e imigrantes, corrigindo a concentração fundiária.  
+d) Escravidão e trabalho livre nunca coexistiram: um substituiu o outro de uma vez só.
 
 **Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
 
@@ -128,10 +128,10 @@ Acrescente uma linha final que registre em que ponto os dois casos se parecem.
 
 **3.** Redija um verbete de cinco linhas sobre cada uma das formas de participação na guerra a seguir, indicando em cada caso como o ingresso se dava e quanto de escolha havia nele. Empregue, ao longo dos quatro verbetes, os termos *recrutamento*, *alforria* e *Guarda Nacional*:
 
-- a) Voluntários da Pátria
-- b) homens pobres submetidos a recrutamento forçado
-- c) pessoas escravizadas alforriadas para servir
-- d) substitutos enviados por proprietários
+a) Voluntários da Pátria  
+b) homens pobres submetidos a recrutamento forçado  
+c) pessoas escravizadas alforriadas para servir  
+d) substitutos enviados por proprietários
 
 ---
 
@@ -167,10 +167,10 @@ Um estudante escreveu: *"O Exército derrubou a monarquia porque perdeu prestíg
 
 **8.** Assinale, entre as quatro afirmações sobre as causas da Guerra do Paraguai, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
-- a) A guerra foi causada por um plano britânico comprovado para destruir o Paraguai.
-- b) A guerra nasceu de disputas na Bacia Platina, sem causa única nem plano externo.
-- c) A guerra começou com a apreensão do *Marquês de Olinda*, sem nenhum antecedente.
-- d) A guerra foi causada apenas pela ambição pessoal de Solano López sobre os vizinhos.
+a) A guerra foi causada por um plano britânico comprovado para destruir o Paraguai.  
+b) A guerra nasceu de disputas na Bacia Platina, sem causa única nem plano externo.  
+c) A guerra começou com a apreensão do *Marquês de Olinda*, sem nenhum antecedente.  
+d) A guerra foi causada apenas pela ambição pessoal de Solano López sobre os vizinhos.
 
 **Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
 
@@ -182,10 +182,10 @@ Um estudante escreveu: *"O Exército derrubou a monarquia porque perdeu prestíg
 
 O IHGB, fundado em 1838, selecionava documentos e narrativas para construir uma história nacional ligada à Monarquia. O indianismo romântico transformou o indígena em símbolo literário.
 
-- a) A cultura nacional do Império resultou de escolhas, porque instituições e escritores selecionavam o que virava símbolo.
-- b) A cultura nacional do Império resultou de escolhas, porque o imperador escrevia pessoalmente as obras que apoiava.
-- c) A cultura nacional do Império registrou a experiência de todos os grupos que viviam no país naquele tempo.
-- d) A cultura nacional do Império resultou de escolhas, porque o Romantismo estava proibido na Europa da época.
+a) A cultura nacional do Império resultou de escolhas, porque instituições e escritores selecionavam o que virava símbolo.  
+b) A cultura nacional do Império resultou de escolhas, porque o imperador escrevia pessoalmente as obras que apoiava.  
+c) A cultura nacional do Império registrou a experiência de todos os grupos que viviam no país naquele tempo.  
+d) A cultura nacional do Império resultou de escolhas, porque o Romantismo estava proibido na Europa da época.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

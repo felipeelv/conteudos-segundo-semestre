@@ -19,9 +19,9 @@ Percorra as 50 primeiras palavras do texto da seção 1, desconsiderando número
 
 **2.** Numa contagem hipotética de 40 respostas sobre o meio de transporte usado para chegar à escola, registraram-se ônibus 18, caminhada 12, bicicleta 6 e carona 4.
 
-- a) Elabore a tabela de frequência dessas quatro categorias, com frequência absoluta, relativa e percentual.
-- b) Numa segunda contagem, também de 40 respostas, aparecem apenas ônibus 18, caminhada 12 e bicicleta 6, e os percentuais somam 90%. Calcule quantas respostas ficaram fora da tabela e explique qual das duas somas de conferência revelou a falta.
-- c) Numa terceira contagem, a categoria caminhada aparece com 35% de um total de 60 respostas. Calcule a frequência absoluta dessa categoria.
+a) Elabore a tabela de frequência dessas quatro categorias, com frequência absoluta, relativa e percentual.  
+b) Numa segunda contagem, também de 40 respostas, aparecem apenas ônibus 18, caminhada 12 e bicicleta 6, e os percentuais somam 90%. Calcule quantas respostas ficaram fora da tabela e explique qual das duas somas de conferência revelou a falta.  
+c) Numa terceira contagem, a categoria caminhada aparece com 35% de um total de 60 respostas. Calcule a frequência absoluta dessa categoria.
 
 **Confira você mesmo:** aplique o teste de honestidade aos três itens — a soma das frequências absolutas tem de dar o total de respostas, e a soma dos percentuais, 100%. Onde uma das somas não fechar, há resposta fora da tabela ou percentual calculado errado.
 
@@ -70,10 +70,10 @@ Uma escola quer saber qual esporte oferecer no contraturno e pode fazer a pesqui
 
 Uma manchete diz: *"50% dos entrevistados aprovaram a nova regra"*. O texto não informa quantas pessoas foram entrevistadas.
 
-- a) A informação basta, porque 50% é metade, e metade é sempre metade.
-- b) Falta o total: 50% pode ser 3 pessoas de 6 ou 3.000 pessoas de 6.000.
-- c) A informação está errada, porque toda porcentagem precisa passar de 100.
-- d) O total não importa, porque a frequência relativa já foi calculada com ele.
+a) A informação basta, porque 50% é metade, e metade é sempre metade.  
+b) Falta o total: 50% pode ser 3 pessoas de 6 ou 3.000 pessoas de 6.000.  
+c) A informação está errada, porque toda porcentagem precisa passar de 100.  
+d) O total não importa, porque a frequência relativa já foi calculada com ele.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -83,10 +83,10 @@ Uma manchete diz: *"50% dos entrevistados aprovaram a nova regra"*. O texto não
 
 **8.** Assinale, entre as quatro afirmações sobre tabelas de frequência, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) Se as porcentagens arredondadas somam 99,99%, houve erro na contagem das respostas.
-- b) Se as porcentagens arredondadas somam 99,99%, a diferença vem do arredondamento.
-- c) A soma das frequências absolutas pode ser diferente do total de dados coletados.
-- d) A soma das frequências relativas de uma tabela completa pode dar qualquer valor.
+a) Se as porcentagens arredondadas somam 99,99%, houve erro na contagem das respostas.  
+b) Se as porcentagens arredondadas somam 99,99%, a diferença vem do arredondamento.  
+c) A soma das frequências absolutas pode ser diferente do total de dados coletados.  
+d) A soma das frequências relativas de uma tabela completa pode dar qualquer valor.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 

@@ -65,10 +65,10 @@ Procure a reportagem em jornal ou revista impressos, no acervo da biblioteca da 
 
 Uma rodovia foi aberta no meio de uma área de mata e a dividiu em dois fragmentos. Nenhum animal foi retirado nem caçado, e a mata dos dois lados continuou de pé. Alguns anos depois, a população da espécie que vivia ali havia diminuído nos dois fragmentos.
 
-- a) A rodovia não pode ser a causa, porque nenhum animal foi retirado da mata quando ela foi aberta.
-- b) Os dois grupos, agora separados, encontram menos parceiros e resistem menos a doenças e a eventos locais.
-- c) Os dois grupos viraram espécies diferentes no momento em que a rodovia os separou.
-- d) O que reduziu a população foi a perda de vegetação provocada pela obra.
+a) A rodovia não pode ser a causa, porque nenhum animal foi retirado da mata quando ela foi aberta.  
+b) Os dois grupos, agora separados, encontram menos parceiros e resistem menos a doenças e a eventos locais.  
+c) Os dois grupos viraram espécies diferentes no momento em que a rodovia os separou.  
+d) O que reduziu a população foi a perda de vegetação provocada pela obra.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -78,10 +78,10 @@ Uma rodovia foi aberta no meio de uma área de mata e a dividiu em dois fragment
 
 **8.** Assinale, entre as quatro situações, a única em que a espécie descrita é invasora, e justifique por que cada uma das outras três não é.
 
-- a) Uma árvore trazida da Ásia é plantada nas ruas de uma cidade e fica restrita aos canteiros onde foi plantada.
-- b) Um peixe trazido de outro continente escapa de um criadouro, se multiplica no rio e ocupa o alimento dos peixes nativos.
-- c) Uma ave do próprio Cerrado aumenta muito de número depois de uma queimada e passa a dominar a região.
-- d) Um javali vindo da Europa é mantido em uma criação cercada, de onde ele não sai.
+a) Uma árvore trazida da Ásia é plantada nas ruas de uma cidade e fica restrita aos canteiros onde foi plantada.  
+b) Um peixe trazido de outro continente escapa de um criadouro, se multiplica no rio e ocupa o alimento dos peixes nativos.  
+c) Uma ave do próprio Cerrado aumenta muito de número depois de uma queimada e passa a dominar a região.  
+d) Um javali vindo da Europa é mantido em uma criação cercada, de onde ele não sai.
 
 **Responda:** qual é a situação de espécie invasora, e por que cada uma das outras três não é?
 
@@ -155,10 +155,10 @@ O mapa precisa trazer:
 
 **8.** Assinale, entre as quatro afirmações sobre o que torna uma atividade sustentável, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) Uma atividade é sustentável quando não retira nada do ambiente e nada é produzido ali.
-- b) Uma atividade é sustentável quando a retirada não supera o que o ambiente consegue repor.
-- c) Uma atividade é sustentável quando gera renda suficiente para pagar o dano que ela causa.
-- d) Uma atividade é sustentável quando usa fonte renovável, e por isso não tem impacto nenhum.
+a) Uma atividade é sustentável quando não retira nada do ambiente e nada é produzido ali.  
+b) Uma atividade é sustentável quando a retirada não supera o que o ambiente consegue repor.  
+c) Uma atividade é sustentável quando gera renda suficiente para pagar o dano que ela causa.  
+d) Uma atividade é sustentável quando usa fonte renovável, e por isso não tem impacto nenhum.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -170,10 +170,10 @@ O mapa precisa trazer:
 
 Duas áreas protegidas ficam separadas por uma região de fazendas. Uma faixa de mata que acompanha um rio liga uma à outra.
 
-- a) A faixa é um corredor ecológico, porque permite o movimento dos animais entre as duas áreas.
-- b) A faixa é um corredor ecológico, porque substitui as duas áreas protegidas em tamanho e função.
-- c) A faixa não é um corredor ecológico, porque corredor precisa ser uma área protegida por lei.
-- d) A faixa é um corredor ecológico, porque toda mata à beira de rio recebe esse nome.
+a) A faixa é um corredor ecológico, porque permite o movimento dos animais entre as duas áreas.  
+b) A faixa é um corredor ecológico, porque substitui as duas áreas protegidas em tamanho e função.  
+c) A faixa não é um corredor ecológico, porque corredor precisa ser uma área protegida por lei.  
+d) A faixa é um corredor ecológico, porque toda mata à beira de rio recebe esse nome.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

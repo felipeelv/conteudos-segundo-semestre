@@ -47,10 +47,10 @@ Um estudante escreveu: *"Os fenícios inventaram o alfabeto porque eram muito in
 
 **7.** Assinale, entre as quatro afirmações sobre a influência dos fenícios, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) A influência fenícia se espalhou porque eles conquistaram um grande império territorial.
-- b) A influência fenícia se espalhou pelas rotas comerciais que ligavam o Mediterrâneo.
-- c) A influência fenícia se limitou ao litoral onde hoje está o Líbano, terra de origem.
-- d) A influência fenícia veio da agricultura, favorecida pelo relevo montanhoso da região.
+a) A influência fenícia se espalhou porque eles conquistaram um grande império territorial.  
+b) A influência fenícia se espalhou pelas rotas comerciais que ligavam o Mediterrâneo.  
+c) A influência fenícia se limitou ao litoral onde hoje está o Líbano, terra de origem.  
+d) A influência fenícia veio da agricultura, favorecida pelo relevo montanhoso da região.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -62,10 +62,10 @@ Um estudante escreveu: *"Os fenícios inventaram o alfabeto porque eram muito in
 
 A Grande Muralha da China aparece nas fotos como uma construção única e contínua. Ao longo de séculos, diferentes governos ligaram e ampliaram trechos dela.
 
-- a) A muralha foi construída de uma só vez, por ordem de um único imperador chinês.
-- b) A muralha que se vê hoje resulta de trechos ligados e ampliados ao longo do tempo.
-- c) A muralha não foi obra de governo nenhum, e sim das aldeias que viviam na fronteira.
-- d) A muralha foi erguida pela dinastia Han para conter as enchentes do Rio Amarelo.
+a) A muralha foi construída de uma só vez, por ordem de um único imperador chinês.  
+b) A muralha que se vê hoje resulta de trechos ligados e ampliados ao longo do tempo.  
+c) A muralha não foi obra de governo nenhum, e sim das aldeias que viviam na fronteira.  
+d) A muralha foi erguida pela dinastia Han para conter as enchentes do Rio Amarelo.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -121,10 +121,10 @@ Um estudante escreveu: *"O efeito estufa é um problema criado pelo ser humano e
 
 **7.** Assinale, entre as quatro descrições de uma mesma região, a única que descreve o **clima**, e diga o que cada uma das outras três descreve.
 
-- a) Nesta região chove muito de dezembro a março e quase nada de junho a agosto.
-- b) Hoje choveu a tarde inteira na cidade e a temperatura caiu cinco graus.
-- c) Nesta região o terreno é formado por planaltos cortados por rios largos.
-- d) Nesta região a vegetação é de floresta densa, com árvores altas e variadas.
+a) Nesta região chove muito de dezembro a março e quase nada de junho a agosto.  
+b) Hoje choveu a tarde inteira na cidade e a temperatura caiu cinco graus.  
+c) Nesta região o terreno é formado por planaltos cortados por rios largos.  
+d) Nesta região a vegetação é de floresta densa, com árvores altas e variadas.
 
 **Responda:** qual das quatro descreve o clima, e o que cada uma das outras três descreve?
 
@@ -136,10 +136,10 @@ Um estudante escreveu: *"O efeito estufa é um problema criado pelo ser humano e
 
 Numa encosta, a rocha se racha aos poucos pela ação do sol e da chuva. Depois, a água carrega os fragmentos soltos até o rio.
 
-- a) A primeira parte é intemperismo e a segunda é erosão, porque uma quebra no lugar e a outra leva embora.
-- b) A primeira parte é intemperismo e a segunda é erosão, porque a primeira é lenta e a segunda é rápida.
-- c) A primeira parte é erosão e a segunda é intemperismo, porque a erosão sempre vem antes da quebra.
-- d) A primeira parte é intemperismo e a segunda é erosão, porque as duas são forças internas da Terra.
+a) A primeira parte é intemperismo e a segunda é erosão, porque uma quebra no lugar e a outra leva embora.  
+b) A primeira parte é intemperismo e a segunda é erosão, porque a primeira é lenta e a segunda é rápida.  
+c) A primeira parte é erosão e a segunda é intemperismo, porque a erosão sempre vem antes da quebra.  
+d) A primeira parte é intemperismo e a segunda é erosão, porque as duas são forças internas da Terra.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 
@@ -179,10 +179,10 @@ Além das práticas de cada um, inclua um critério que explique por que a toler
 
 **5.** Redija, para o glossário da sua turma, um verbete de quatro a cinco linhas sobre cada elemento do governo persa a seguir, indicando em cada caso a função que ele desempenhava:
 
-- a) satrapias
-- b) Estrada Real
-- c) moeda unificada
-- d) tolerância religiosa
+a) satrapias  
+b) Estrada Real  
+c) moeda unificada  
+d) tolerância religiosa
 
 ---
 
@@ -198,10 +198,10 @@ Um império precisa decidir entre impor sua religião aos povos conquistados ou 
 
 O Cilindro de Ciro é uma peça de argila de 539 a.C. que registra decisões do rei depois da conquista da Babilônia: restauração de templos, retorno de povos exilados e respeito aos cultos locais. Hoje há quem o chame de primeira declaração de direitos humanos.
 
-- a) O cilindro é uma declaração de direitos humanos, porque garante liberdade religiosa a todos.
-- b) O cilindro é um decreto real, e chamá-lo de declaração de direitos é uma leitura moderna.
-- c) O cilindro não tem valor histórico, porque foi escrito pelo próprio rei que conquistou.
-- d) O cilindro prova que persas e babilônios tinham os mesmos direitos dentro do império.
+a) O cilindro é uma declaração de direitos humanos, porque garante liberdade religiosa a todos.  
+b) O cilindro é um decreto real, e chamá-lo de declaração de direitos é uma leitura moderna.  
+c) O cilindro não tem valor histórico, porque foi escrito pelo próprio rei que conquistou.  
+d) O cilindro prova que persas e babilônios tinham os mesmos direitos dentro do império.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -211,10 +211,10 @@ O Cilindro de Ciro é uma peça de argila de 539 a.C. que registra decisões do 
 
 **8.** Assinale, entre as quatro afirmações sobre o zoroastrismo, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) O zoroastrismo punha cada pessoa diante da escolha entre o bem e o mal.
-- b) O zoroastrismo foi imposto por Ciro a todos os povos que ele conquistou.
-- c) O zoroastrismo desapareceu por completo com o fim do Império Aquemênida.
-- d) O zoroastrismo era a religião dos gregos, e daí veio o confronto com a Pérsia.
+a) O zoroastrismo punha cada pessoa diante da escolha entre o bem e o mal.  
+b) O zoroastrismo foi imposto por Ciro a todos os povos que ele conquistou.  
+c) O zoroastrismo desapareceu por completo com o fim do Império Aquemênida.  
+d) O zoroastrismo era a religião dos gregos, e daí veio o confronto com a Pérsia.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 

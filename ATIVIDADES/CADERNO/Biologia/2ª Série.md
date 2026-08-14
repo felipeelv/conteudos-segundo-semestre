@@ -25,10 +25,10 @@ A tabela precisa trazer, para cada uma das duas formas de imunização:
 
 **3.** Redija, para quem faltou às aulas deste capítulo, um verbete de até cinco linhas sobre cada um dos componentes do sistema imunológico relacionados a seguir, indicando o que ele reconhece e como age. Os termos *antígeno*, *inespecífico* e *memória imunológica* precisam aparecer no conjunto dos quatro verbetes:
 
-- a) barreira química
-- b) célula fagocitária
-- c) linfócito B
-- d) linfócito T
+a) barreira química  
+b) célula fagocitária  
+c) linfócito B  
+d) linfócito T
 
 ---
 
@@ -72,10 +72,10 @@ Um estudante escreveu: *"Tomei o soro antitetânico, então agora estou imunizad
 
 Uma pessoa flexiona o cotovelo, levando a mão em direção ao ombro, e em seguida o estende de volta.
 
-- a) O bíceps puxa o antebraço na flexão e o empurra de volta na extensão do cotovelo.
-- b) O bíceps puxa o antebraço na flexão, e o tríceps traciona o osso na extensão.
-- c) O bíceps se alonga por conta própria para estender o cotovelo, sem outro músculo.
-- d) O movimento é produzido pelo tendão, que encurta e move o osso nos dois sentidos.
+a) O bíceps puxa o antebraço na flexão e o empurra de volta na extensão do cotovelo.  
+b) O bíceps puxa o antebraço na flexão, e o tríceps traciona o osso na extensão.  
+c) O bíceps se alonga por conta própria para estender o cotovelo, sem outro músculo.  
+d) O movimento é produzido pelo tendão, que encurta e move o osso nos dois sentidos.
 
 **Responda:** qual é a leitura correta, e o que cada uma das outras três atribui à estrutura errada?
 
@@ -85,10 +85,10 @@ Uma pessoa flexiona o cotovelo, levando a mão em direção ao ombro, e em segui
 
 **10.** Assinale, entre as quatro afirmações sobre os anticorpos, a única correta, e justifique por que cada uma das outras três está errada, nomeando o que ela troca de lugar.
 
-- a) O anticorpo destrói o invasor por conta própria, dissolvendo a membrana dele no ponto em que se liga.
-- b) O anticorpo se liga ao antígeno de forma específica e, com isso, neutraliza, marca ou agrega o invasor.
-- c) O anticorpo reconhece qualquer invasor que apareça, do mesmo modo que as barreiras químicas fazem.
-- d) O anticorpo é produzido pelo linfócito T, que por isso destrói as células já infectadas pelo vírus.
+a) O anticorpo destrói o invasor por conta própria, dissolvendo a membrana dele no ponto em que se liga.  
+b) O anticorpo se liga ao antígeno de forma específica e, com isso, neutraliza, marca ou agrega o invasor.  
+c) O anticorpo reconhece qualquer invasor que apareça, do mesmo modo que as barreiras químicas fazem.  
+d) O anticorpo é produzido pelo linfócito T, que por isso destrói as células já infectadas pelo vírus.
 
 **Responda:** qual é a afirmação correta, e o que cada uma das outras três troca de lugar?
 

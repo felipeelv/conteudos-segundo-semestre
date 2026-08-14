@@ -51,10 +51,10 @@ Um país-membro considera deixar a União Europeia.
 
 **7.** Assinale, entre as quatro afirmações sobre os limites da Europa, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) A Europa é separada da Ásia por uma barreira física contínua, do Ártico ao Mediterrâneo.
-- b) O limite entre Europa e Ásia é convencional e vem de escolhas históricas e culturais.
-- c) A Europa é um continente porque está cercada de água por todos os lados, como a Austrália.
-- d) O limite entre Europa e Ásia foi fixado pela União Europeia quando o bloco foi criado.
+a) A Europa é separada da Ásia por uma barreira física contínua, do Ártico ao Mediterrâneo.  
+b) O limite entre Europa e Ásia é convencional e vem de escolhas históricas e culturais.  
+c) A Europa é um continente porque está cercada de água por todos os lados, como a Austrália.  
+d) O limite entre Europa e Ásia foi fixado pela União Europeia quando o bloco foi criado.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -66,10 +66,10 @@ Um país-membro considera deixar a União Europeia.
 
 Num país europeu, a expectativa de vida subiu e a natalidade caiu. Hoje há mais pessoas com mais de 65 anos e menos pessoas em idade de trabalhar do que havia trinta anos atrás.
 
-- a) O país vai precisar de menos gasto com saúde, porque a população total parou de crescer.
-- b) O país terá menos trabalhadores sustentando mais aposentadorias e mais demanda por saúde.
-- c) O envelhecimento ocorre no mesmo ritmo em toda a Europa, e por isso não é um problema.
-- d) A chegada de migrantes não altera esse quadro, porque migração é assunto apenas cultural.
+a) O país vai precisar de menos gasto com saúde, porque a população total parou de crescer.  
+b) O país terá menos trabalhadores sustentando mais aposentadorias e mais demanda por saúde.  
+c) O envelhecimento ocorre no mesmo ritmo em toda a Europa, e por isso não é um problema.  
+d) A chegada de migrantes não altera esse quadro, porque migração é assunto apenas cultural.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -129,10 +129,10 @@ Um estudante escreveu: *"A Ásia é o continente mais populoso porque tem o maio
 
 **7.** Assinale, entre as quatro afirmações sobre as monções, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) As monções são ventos sazonais, e tanto a falta quanto o excesso de chuva prejudicam.
-- b) As monções são ventos que sopram o ano inteiro na mesma direção, sem variar com a estação.
-- c) As monções trazem chuva apenas ao norte da Ásia, onde ficam as planícies siberianas.
-- d) As monções só prejudicam a agricultura quando a chuva que elas trazem é insuficiente.
+a) As monções são ventos sazonais, e tanto a falta quanto o excesso de chuva prejudicam.  
+b) As monções são ventos que sopram o ano inteiro na mesma direção, sem variar com a estação.  
+c) As monções trazem chuva apenas ao norte da Ásia, onde ficam as planícies siberianas.  
+d) As monções só prejudicam a agricultura quando a chuva que elas trazem é insuficiente.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -144,10 +144,10 @@ Um estudante escreveu: *"A Ásia é o continente mais populoso porque tem o maio
 
 Uma aglomeração urbana asiática reúne 22 milhões de habitantes e concentra empregos em serviços e tecnologia. Ao mesmo tempo, parte de seus moradores vive em áreas sem saneamento adequado.
 
-- a) É uma megacidade, porque reúne mais de 10 milhões de habitantes numa mesma aglomeração.
-- b) É uma megacidade, porque concentra empregos em serviços e em tecnologia num só lugar.
-- c) Não é uma megacidade, porque parte da população vive sem saneamento adequado.
-- d) É uma megacidade, porque nela o crescimento econômico já eliminou a desigualdade.
+a) É uma megacidade, porque reúne mais de 10 milhões de habitantes numa mesma aglomeração.  
+b) É uma megacidade, porque concentra empregos em serviços e em tecnologia num só lugar.  
+c) Não é uma megacidade, porque parte da população vive sem saneamento adequado.  
+d) É uma megacidade, porque nela o crescimento econômico já eliminou a desigualdade.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 
@@ -207,10 +207,10 @@ Um país em desenvolvimento pode seguir o modelo chinês — indústria voltada 
 
 **7.** Assinale, entre as quatro descrições, a única que corresponde ao socialismo de mercado chinês, e diga a que modelo estudado corresponde cada uma das outras três.
 
-- a) O Estado controla terras, empresas, produção, preços e todo o comércio com o exterior.
-- b) O Estado mantém a propriedade estratégica, e há empresas privadas competindo entre si.
-- c) O Estado investe em educação e infraestrutura e protege setores escolhidos para exportar.
-- d) O Estado reconstrói o país com apoio externo e grandes empresas privadas exportadoras.
+a) O Estado controla terras, empresas, produção, preços e todo o comércio com o exterior.  
+b) O Estado mantém a propriedade estratégica, e há empresas privadas competindo entre si.  
+c) O Estado investe em educação e infraestrutura e protege setores escolhidos para exportar.  
+d) O Estado reconstrói o país com apoio externo e grandes empresas privadas exportadoras.
 
 **Responda:** qual das quatro é o socialismo de mercado, e a que modelo estudado corresponde cada uma das outras três?
 
@@ -222,10 +222,10 @@ Um país em desenvolvimento pode seguir o modelo chinês — indústria voltada 
 
 Um país asiático dobrou o seu PIB em vinte anos. No mesmo período, a poluição do ar aumentou, as desigualdades entre as regiões cresceram e a população começou a envelhecer.
 
-- a) O PIB dobrado prova que a qualidade de vida da população dobrou no mesmo período.
-- b) O PIB mede a produção e não registra os custos ambientais, sociais e demográficos.
-- c) O crescimento do PIB foi erro de medição, já que os problemas do país aumentaram.
-- d) A poluição e a desigualdade não têm relação com o crescimento econômico do país.
+a) O PIB dobrado prova que a qualidade de vida da população dobrou no mesmo período.  
+b) O PIB mede a produção e não registra os custos ambientais, sociais e demográficos.  
+c) O crescimento do PIB foi erro de medição, já que os problemas do país aumentaram.  
+d) A poluição e a desigualdade não têm relação com o crescimento econômico do país.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -266,9 +266,9 @@ O fluxograma precisa trazer:
 
 **4.** Leia as duas partes do Anexo deste capítulo — uma sobre Jerusalém e as comunidades cristãs da região, outra sobre a trajetória de Yitzhak Rabin — e decida qual delas sustenta cada uma das afirmações a seguir:
 
-- a) O conflito da região não pode ser reduzido a dois lados em disputa.
-- b) Houve dirigente israelense que defendeu o acordo político, e não apenas a força militar, como caminho de segurança.
-- c) A maior parte da população da região considerou os Acordos de Oslo um erro.
+a) O conflito da região não pode ser reduzido a dois lados em disputa.  
+b) Houve dirigente israelense que defendeu o acordo político, e não apenas a força militar, como caminho de segurança.  
+c) A maior parte da população da região considerou os Acordos de Oslo um erro.
 
 Uma das três afirmações não é sustentada por nenhuma das duas partes.
 
@@ -292,10 +292,10 @@ Um país importador de petróleo estuda assinar um contrato de dez anos com um p
 
 **7.** Assinale, entre as quatro afirmações sobre o Oriente Médio, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) O Oriente Médio é um continente, separado da Ásia por uma fronteira natural definida.
-- b) O Oriente Médio é uma região geopolítica que reúne a Ásia Ocidental e também o Egito.
-- c) O Oriente Médio é o nome dado à parte do continente africano voltada para o oriente.
-- d) O Oriente Médio é uma região definida apenas pela religião predominante entre seus povos.
+a) O Oriente Médio é um continente, separado da Ásia por uma fronteira natural definida.  
+b) O Oriente Médio é uma região geopolítica que reúne a Ásia Ocidental e também o Egito.  
+c) O Oriente Médio é o nome dado à parte do continente africano voltada para o oriente.  
+d) O Oriente Médio é uma região definida apenas pela religião predominante entre seus povos.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -307,10 +307,10 @@ Um país importador de petróleo estuda assinar um contrato de dez anos com um p
 
 Em 1973, restrições de oferta acordadas entre países exportadores contribuíram para uma forte alta no preço mundial do petróleo.
 
-- a) A OPEP agiu como cartel, porque coordenou entre produtores as decisões sobre a oferta.
-- b) A OPEP agiu como cartel, porque reúne países situados todos numa mesma região do mundo.
-- c) A OPEP não agiu como cartel, porque cartel é acordo entre empresas, nunca entre Estados.
-- d) A OPEP agiu como cartel, porque foi criada em 1960, antes de a alta de preços acontecer.
+a) A OPEP agiu como cartel, porque coordenou entre produtores as decisões sobre a oferta.  
+b) A OPEP agiu como cartel, porque reúne países situados todos numa mesma região do mundo.  
+c) A OPEP não agiu como cartel, porque cartel é acordo entre empresas, nunca entre Estados.  
+d) A OPEP agiu como cartel, porque foi criada em 1960, antes de a alta de preços acontecer.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

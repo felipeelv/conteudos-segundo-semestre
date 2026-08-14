@@ -9,10 +9,10 @@
 
 **1.** Decida qual pronome completa cada frase e aplique em todas o teste da preposição.
 
-- a) Ele chamou ____ para brincar. *(mim ou eu?)*
-- b) ____ cheguei atrasado. *(mim ou eu?)*
-- c) Este presente é para ____. *(mim ou eu?)*
-- d) ____ e Pedro fomos ao mercado. *(mim ou eu?)*
+a) Ele chamou ____ para brincar. *(mim ou eu?)*  
+b) ____ cheguei atrasado. *(mim ou eu?)*  
+c) Este presente é para ____. *(mim ou eu?)*  
+d) ____ e Pedro fomos ao mercado. *(mim ou eu?)*
 
 **Responda:** qual pronome entra em cada uma das quatro frases?
 
@@ -24,8 +24,8 @@
 
 Uma está certa e a outra não.
 
-- a) João chamou eu para o time.
-- b) João me chamou para o time.
+a) João chamou eu para o time.  
+b) João me chamou para o time.
 
 **Responda:** qual das duas está certa, e o que mudou de uma para a outra?
 
@@ -61,9 +61,9 @@ No bilhete use pelo menos dois pronomes oblíquos e sublinhe cada um. Entregue a
 
 **7.** Assinale, entre as três palavras destacadas, a única que é um pronome do **caso oblíquo**, e escreva o que é cada uma das outras duas.
 
-- a) **Ela** chamou Caio no pátio.
-- b) Ana **o** chamou no pátio.
-- c) **Ana** chamou Caio no pátio.
+a) **Ela** chamou Caio no pátio.  
+b) Ana **o** chamou no pátio.  
+c) **Ana** chamou Caio no pátio.
 
 **Responda:** qual das três é pronome do caso oblíquo, e o que é cada uma das outras duas?
 
@@ -73,9 +73,9 @@ No bilhete use pelo menos dois pronomes oblíquos e sublinhe cada um. Entregue a
 
 **8.** Assinale, entre as três frases, a única escrita na forma esperada na escrita formal, e escreva por que **uma** das outras duas está errada.
 
-- a) A professora separou o livro para mim ler.
-- b) A professora separou o livro para eu ler.
-- c) A professora separou o livro para eu, e vou ler depois.
+a) A professora separou o livro para mim ler.  
+b) A professora separou o livro para eu ler.  
+c) A professora separou o livro para eu, e vou ler depois.
 
 **Responda:** qual frase está na forma da escrita formal? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -94,8 +94,8 @@ No bilhete use pelo menos dois pronomes oblíquos e sublinhe cada um. Entregue a
 
 **2.** Explique qual das duas frases abaixo deixa dúvida sobre quem estava atrasado e desfaça essa dúvida de dois jeitos diferentes.
 
-- a) Pedro encontrou João e disse que estava atrasado.
-- b) Pedro encontrou João e disse a ele que estava atrasado.
+a) Pedro encontrou João e disse que estava atrasado.  
+b) Pedro encontrou João e disse a ele que estava atrasado.
 
 **Responda:** qual das duas deixa dúvida, e quais são as duas reescritas que resolvem a dúvida?
 
@@ -111,9 +111,9 @@ Procure o texto em livro, revista, jornal, página da internet ou no acervo da e
 
 **4.** Elabore uma tabela que registre, para cada pronome destacado abaixo, qual palavra ele substituiu e em qual frase essa palavra apareceu.
 
-- a) *A Marina chegou primeiro. **Ela** trouxe o bolo.*
-- b) *Comprei os cadernos e guardei-**os** na mochila.*
-- c) *O Tiago perdeu a chave. Meu pai deu outra a **ele**.*
+a) *A Marina chegou primeiro. **Ela** trouxe o bolo.*  
+b) *Comprei os cadernos e guardei-**os** na mochila.*  
+c) *O Tiago perdeu a chave. Meu pai deu outra a **ele**.*
 
 ---
 
@@ -135,9 +135,9 @@ Você não pode repetir o nome de nenhuma das duas mais de uma vez, e precisa fi
 
 **7.** Assinale, entre as três frases, a única em que o pronome está bem usado, e escreva por que **uma** das outras duas não está.
 
-- a) *Ele chegou cedo. Beto trouxe os livros.*
-- b) *Beto chegou cedo. Ele trouxe os livros.*
-- c) *Beto e Lia chegaram. Ele trouxe os livros.*
+a) *Ele chegou cedo. Beto trouxe os livros.*  
+b) *Beto chegou cedo. Ele trouxe os livros.*  
+c) *Beto e Lia chegaram. Ele trouxe os livros.*
 
 **Responda:** em qual frase o pronome está bem usado? Escolha uma das outras duas e escreva por que ela não está.
 
@@ -147,9 +147,9 @@ Você não pode repetir o nome de nenhuma das duas mais de uma vez, e precisa fi
 
 **8.** Assinale, entre as três trocas, a única escrita na forma esperada na escrita formal, e escreva por que **uma** das outras duas está errada.
 
-- a) Guardei o livro. → Guardei ele.
-- b) Guardei o livro. → Guardei-o.
-- c) Guardei as chaves. → Guardei-o.
+a) Guardei o livro. → Guardei ele.  
+b) Guardei o livro. → Guardei-o.  
+c) Guardei as chaves. → Guardei-o.
 
 **Responda:** qual troca está na forma da escrita formal? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -160,9 +160,9 @@ Você não pode repetir o nome de nenhuma das duas mais de uma vez, e precisa fi
 
 **1.** Decida que advérbio completa cada frase e aplique em todas o teste da retirada.
 
-- a) O ônibus chegou ____.
-- b) Deixei o caderno ____.
-- c) ____ vamos ao parque.
+a) O ônibus chegou ____.  
+b) Deixei o caderno ____.  
+c) ____ vamos ao parque.
 
 **Responda:** qual advérbio você colocou em cada uma das três frases?
 
@@ -174,8 +174,8 @@ Você não pode repetir o nome de nenhuma das duas mais de uma vez, e precisa fi
 
 As duas parecem iguais.
 
-- a) O menino corre rápido.
-- b) O menino é rápido.
+a) O menino corre rápido.  
+b) O menino é rápido.
 
 **Responda:** em qual das duas *rápido* é advérbio, em qual é adjetivo, e como você descobriu?
 
@@ -219,9 +219,9 @@ O bilhete precisa ter pelo menos um advérbio de tempo e um de lugar, e quem ler
 
 Um estudante escreveu: *"As meninas chegaram cedas."*
 
-- a) A frase está certa, porque *cedas* combina com *meninas*, que está no plural.
-- b) A frase está errada: o advérbio não varia, e o certo é *as meninas chegaram cedo*.
-- c) A frase está errada, porque o certo seria *a menina chegou cedas*, no singular.
+a) A frase está certa, porque *cedas* combina com *meninas*, que está no plural.  
+b) A frase está errada: o advérbio não varia, e o certo é *as meninas chegaram cedo*.  
+c) A frase está errada, porque o certo seria *a menina chegou cedas*, no singular.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -231,9 +231,9 @@ Um estudante escreveu: *"As meninas chegaram cedas."*
 
 **8.** Assinale, entre as três frases sobre *de manhã*, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-- a) *De manhã* é um advérbio de lugar, porque diz onde a ação acontece.
-- b) *De manhã* é uma locução adverbial: várias palavras com uma informação só.
-- c) *De manhã* não é advérbio nem locução, porque advérbio tem uma palavra só.
+a) *De manhã* é um advérbio de lugar, porque diz onde a ação acontece.  
+b) *De manhã* é uma locução adverbial: várias palavras com uma informação só.  
+c) *De manhã* não é advérbio nem locução, porque advérbio tem uma palavra só.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -244,10 +244,10 @@ Um estudante escreveu: *"As meninas chegaram cedas."*
 
 **1.** Classifique cada palavra destacada pela pergunta que ela responde: *como?*, *quanto?* ou *acontece?*
 
-- a) A tartaruga caminhou **devagar**.
-- b) O time treinou **bastante**.
-- c) Ela **nunca** chega tarde.
-- d) O carro passou **muito** depressa.
+a) A tartaruga caminhou **devagar**.  
+b) O time treinou **bastante**.  
+c) Ela **nunca** chega tarde.  
+d) O carro passou **muito** depressa.
 
 **Responda:** qual das três perguntas cada uma das quatro palavras responde?
 
@@ -259,8 +259,8 @@ Um estudante escreveu: *"As meninas chegaram cedas."*
 
 A mesma palavra aparece nas duas.
 
-- a) As atletas treinaram **muito**.
-- b) Elas leram **muitos** livros.
+a) As atletas treinaram **muito**.  
+b) Elas leram **muitos** livros.
 
 **Responda:** em qual das duas a palavra acompanha o verbo e em qual acompanha o nome?
 
@@ -308,9 +308,9 @@ Use um exemplo de cada um dentro da explicação.
 
 **8.** Assinale, entre as três palavras destacadas, a única que é um advérbio de **negação**, e escreva que circunstância cada uma das outras duas indica.
 
-- a) *Talvez* eu vá à festa amanhã.
-- b) Eu *não* vou à festa amanhã.
-- c) Eu vou *muito* à festa aos sábados.
+a) *Talvez* eu vá à festa amanhã.  
+b) Eu *não* vou à festa amanhã.  
+c) Eu vou *muito* à festa aos sábados.
 
 **Responda:** qual das três é advérbio de negação, e que circunstância cada uma das outras duas indica?
 
@@ -322,9 +322,9 @@ Use um exemplo de cada um dentro da explicação.
 
 Um estudante escreveu, num texto formal: *"Ela escreve bom."*
 
-- a) A frase está certa, porque *bom* elogia o jeito de ela escrever.
-- b) A frase está errada: junto do verbo usa-se *bem*; *bom* acompanha nome.
-- c) A frase está errada, porque o certo seria *ela escreve boa*, no feminino.
+a) A frase está certa, porque *bom* elogia o jeito de ela escrever.  
+b) A frase está errada: junto do verbo usa-se *bem*; *bom* acompanha nome.  
+c) A frase está errada, porque o certo seria *ela escreve boa*, no feminino.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 

@@ -43,10 +43,10 @@ Busque as duas taxas em fonte impressa, digital ou do acervo da biblioteca da es
 
 **4.** Redija, para um primo de 12 anos que nunca ouviu falar de juros, um verbete de cinco linhas sobre cada item a seguir. Em cada verbete use obrigatoriamente os termos "capital", "período" e "taxa", e feche com uma frase dizendo o que aquele conceito não informa:
 
-- a) juros simples
-- b) juros compostos
-- c) rendimento nominal
-- d) rendimento real
+a) juros simples  
+b) juros compostos  
+c) rendimento nominal  
+d) rendimento real
 
 ---
 
@@ -68,10 +68,10 @@ As três opções: deixar tudo em um investimento de renda fixa, dividir entre r
 
 **7.** Assinale, entre as quatro afirmações sobre juros, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) Uma taxa de 1% ao mês pode ser aplicada direto a 3 anos, escrevendo n = 3 na fórmula.
-- b) Taxa e tempo precisam usar o mesmo período: 1% ao mês exige n contado em meses.
-- c) Nos juros simples, a taxa incide sobre o saldo acumulado ao fim de cada período.
-- d) Em prazos curtos, os juros compostos rendem muito mais que os juros simples.
+a) Uma taxa de 1% ao mês pode ser aplicada direto a 3 anos, escrevendo n = 3 na fórmula.  
+b) Taxa e tempo precisam usar o mesmo período: 1% ao mês exige n contado em meses.  
+c) Nos juros simples, a taxa incide sobre o saldo acumulado ao fim de cada período.  
+d) Em prazos curtos, os juros compostos rendem muito mais que os juros simples.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
 
@@ -83,10 +83,10 @@ As três opções: deixar tudo em um investimento de renda fixa, dividir entre r
 
 R$ 500,00 foram aplicados em A, que caiu 10%, e R$ 500,00 em B, que subiu 4%. A carteira terminou com R$ 970,00, uma queda de 3%.
 
-- a) Diversificar reduziu a perda, porque a alta de B compensou parte da queda de A.
-- b) Diversificar reduziu a perda, porque uma carteira dividida nunca termina no negativo.
-- c) Diversificar não ajudou, porque a carteira mesmo assim terminou perdendo dinheiro.
-- d) Diversificar reduziu a perda, porque aplicar em dois lugares dobra o rendimento total.
+a) Diversificar reduziu a perda, porque a alta de B compensou parte da queda de A.  
+b) Diversificar reduziu a perda, porque uma carteira dividida nunca termina no negativo.  
+c) Diversificar não ajudou, porque a carteira mesmo assim terminou perdendo dinheiro.  
+d) Diversificar reduziu a perda, porque aplicar em dois lugares dobra o rendimento total.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

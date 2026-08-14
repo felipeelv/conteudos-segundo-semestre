@@ -55,9 +55,9 @@ Escreva o nome de um alimento em cada parte do prato e diga qual nutriente ele t
 
 **7.** Assinale, entre as três frases sobre as vitaminas, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-- a) A vitamina é pouco importante, porque o corpo precisa dela em pouca quantidade.
-- b) A vitamina é necessária em pouca quantidade, e a falta dela pode causar doença.
-- c) A vitamina dá muita energia, por isso é a parte mais importante de um almoço.
+a) A vitamina é pouco importante, porque o corpo precisa dela em pouca quantidade.  
+b) A vitamina é necessária em pouca quantidade, e a falta dela pode causar doença.  
+c) A vitamina dá muita energia, por isso é a parte mais importante de um almoço.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -67,9 +67,9 @@ Escreva o nome de um alimento em cada parte do prato e diga qual nutriente ele t
 
 **8.** Assinale, entre as três frases sobre o feijão, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-- a) O feijão só serve para o corpo crescer, porque ele é o alimento das proteínas.
-- b) O feijão traz material para crescer, energia e também ferro para o sangue.
-- c) O feijão não precisa de mais nada no prato, porque tem todos os nutrientes.
+a) O feijão só serve para o corpo crescer, porque ele é o alimento das proteínas.  
+b) O feijão traz material para crescer, energia e também ferro para o sangue.  
+c) O feijão não precisa de mais nada no prato, porque tem todos os nutrientes.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -129,9 +129,9 @@ Uma criança da sua idade dorme cinco horas, pula o café da manhã e passa o di
 
 Numa terça-feira, uma criança brincou 20 minutos no recreio, caminhou 15 minutos até em casa e dançou 25 minutos à tarde. Nesse dia ela não teve nenhuma aula de esporte.
 
-- a) Ela não se movimentou o bastante, porque não teve aula de esporte nem treino.
-- b) Ela alcançou os 60 minutos do dia, somando os três momentos de movimento.
-- c) Ela passou muito dos 60 minutos, porque cada um dos três já vale uma hora.
+a) Ela não se movimentou o bastante, porque não teve aula de esporte nem treino.  
+b) Ela alcançou os 60 minutos do dia, somando os três momentos de movimento.  
+c) Ela passou muito dos 60 minutos, porque cada um dos três já vale uma hora.
 
 **Responda:** qual leitura está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -141,9 +141,9 @@ Numa terça-feira, uma criança brincou 20 minutos no recreio, caminhou 15 minut
 
 **8.** Assinale, entre as três frases sobre a fome e a saciedade, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-- a) A saciedade é uma ordem exata: quando ela chega, ninguém consegue comer mais.
-- b) A saciedade avisa que já foi suficiente, e comer devagar ajuda a percebê-la.
-- c) A saciedade não existe de verdade, porque quem decide quanto comer é a vontade.
+a) A saciedade é uma ordem exata: quando ela chega, ninguém consegue comer mais.  
+b) A saciedade avisa que já foi suficiente, e comer devagar ajuda a percebê-la.  
+c) A saciedade não existe de verdade, porque quem decide quanto comer é a vontade.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
 

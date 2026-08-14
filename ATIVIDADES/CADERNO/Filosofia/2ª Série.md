@@ -27,10 +27,10 @@ A tabela precisa trazer:
 
 **3.** Redija, para quem faltou à aula, um verbete de três a cinco linhas sobre cada um dos conceitos a seguir, indicando o problema a que Nietzsche o apresenta como resposta e sem repetir a formulação do capítulo. Cada verbete precisa empregar os três termos indicados entre parênteses:
 
-- a) niilismo (fundamento, valor, critério)
-- b) ressentimento (inversão, impotência, adversário)
-- c) vontade de poder (força, criação, interpretação)
-- d) eterno retorno (instante, repetição, afirmação)
+a) niilismo (fundamento, valor, critério)  
+b) ressentimento (inversão, impotência, adversário)  
+c) vontade de poder (força, criação, interpretação)  
+d) eterno retorno (instante, repetição, afirmação)
 
 ---
 
@@ -74,10 +74,10 @@ Um estudante escreveu: *"Nietzsche disse que Deus está morto porque era ateu e 
 
 Depois do colapso de 1889, Nietzsche perdeu a lucidez. Sua irmã Elisabeth organizou e publicou uma seleção de anotações sob o título *A Vontade de Poder*, e essa edição favoreceu apropriações posteriores.
 
-- a) A edição prova que Nietzsche defendia as posições que lhe foram atribuídas depois.
-- b) A edição é uma seleção feita por outra pessoa, e não equivale a uma obra do autor.
-- c) A edição invalida todo o pensamento dele, inclusive os livros que ele mesmo publicou.
-- d) A edição não tem importância alguma, porque apropriação posterior nunca é relevante.
+a) A edição prova que Nietzsche defendia as posições que lhe foram atribuídas depois.  
+b) A edição é uma seleção feita por outra pessoa, e não equivale a uma obra do autor.  
+c) A edição invalida todo o pensamento dele, inclusive os livros que ele mesmo publicou.  
+d) A edição não tem importância alguma, porque apropriação posterior nunca é relevante.
 
 **Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
 
@@ -89,10 +89,10 @@ Depois do colapso de 1889, Nietzsche perdeu a lucidez. Sua irmã Elisabeth organ
 
 O capítulo apresenta uma posição cristã que concorda com o diagnóstico de Nietzsche — a moral herdada perde autoridade quando o fundamento é abandonado — e discorda do remédio que ele propõe.
 
-- a) É coerente, porque acertar o diagnóstico não garante que a solução proposta esteja certa.
-- b) É coerente, porque Nietzsche perdeu a lucidez em 1889 e não pôde revisar o que escreveu.
-- c) Não é coerente, porque quem aceita o diagnóstico de um autor precisa aceitar a solução dele.
-- d) É coerente, porque o remédio que ele propõe ainda não foi testado por ninguém até hoje.
+a) É coerente, porque acertar o diagnóstico não garante que a solução proposta esteja certa.  
+b) É coerente, porque Nietzsche perdeu a lucidez em 1889 e não pôde revisar o que escreveu.  
+c) Não é coerente, porque quem aceita o diagnóstico de um autor precisa aceitar a solução dele.  
+d) É coerente, porque o remédio que ele propõe ainda não foi testado por ninguém até hoje.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

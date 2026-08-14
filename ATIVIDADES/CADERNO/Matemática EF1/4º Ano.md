@@ -9,9 +9,9 @@
 
 **1.** Calcule as frações equivalentes pedidas nos três blocos, na ordem.
 
-- a) Escreva três frações equivalentes a 1/2.
-- b) Descubra qual número falta: 2/3 é equivalente a 4/? e a ?/9.
-- c) Duas frações têm o mesmo valor. A primeira é 3/4. A segunda tem 20 no denominador. Qual é o numerador dela?
+a) Escreva três frações equivalentes a 1/2.  
+b) Descubra qual número falta: 2/3 é equivalente a 4/? e a ?/9.  
+c) Duas frações têm o mesmo valor. A primeira é 3/4. A segunda tem 20 no denominador. Qual é o numerador dela?
 
 **Confira você mesmo:** em cada resposta, multiplique o numerador e o denominador da fração original pelo mesmo número. Se você chegar à sua resposta, ela está certa; se não chegar, a fração que você escreveu não é equivalente à primeira.
 
@@ -19,8 +19,8 @@
 
 **2.** Calcule quem comeu mais em cada um dos dois problemas a seguir, que parecem iguais mas não são.
 
-- a) Ana comeu 2/5 de uma pizza. Bia comeu 2/8 de outra pizza do mesmo tamanho. Quem comeu mais?
-- b) Ana comeu 2/5 de uma pizza. Bia comeu 5/8 de outra pizza do mesmo tamanho. Quem comeu mais?
+a) Ana comeu 2/5 de uma pizza. Bia comeu 2/8 de outra pizza do mesmo tamanho. Quem comeu mais?  
+b) Ana comeu 2/5 de uma pizza. Bia comeu 5/8 de outra pizza do mesmo tamanho. Quem comeu mais?
 
 **Responda:** qual palavra ou número mudou de um problema para o outro, e por que essa mudança mudou a resposta?
 
@@ -74,9 +74,9 @@ O bilhete precisa trazer um exemplo.
 
 **8.** Assinale, entre as três barras, a única em que a parte pintada pode ser escrita como a fração 3/4, e escreva por que **uma** das outras duas não pode.
 
-- a) Uma barra dividida em 4 pedaços iguais, com 3 deles pintados.
-- b) Uma barra dividida em 4 pedaços de tamanhos diferentes, com 3 pintados.
-- c) Uma barra dividida em 3 pedaços iguais, com 1 deles pintado.
+a) Uma barra dividida em 4 pedaços iguais, com 3 deles pintados.  
+b) Uma barra dividida em 4 pedaços de tamanhos diferentes, com 3 pintados.  
+c) Uma barra dividida em 3 pedaços iguais, com 1 deles pintado.
 
 **Responda:** qual barra mostra 3/4? Escolha uma das outras duas e escreva por que ela não mostra.
 
@@ -88,9 +88,9 @@ O bilhete precisa trazer um exemplo.
 
 João comeu 1/2 de uma pizza pequena. Maria comeu 1/2 de uma pizza grande.
 
-- a) Os dois comeram a mesma quantidade, porque as duas frações são 1/2.
-- b) Maria comeu mais, porque a metade da pizza grande é maior que a da pequena.
-- c) João comeu mais, porque a pizza dele foi dividida em pedaços menores.
+a) Os dois comeram a mesma quantidade, porque as duas frações são 1/2.  
+b) Maria comeu mais, porque a metade da pizza grande é maior que a da pequena.  
+c) João comeu mais, porque a pizza dele foi dividida em pedaços menores.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -101,9 +101,9 @@ João comeu 1/2 de uma pizza pequena. Maria comeu 1/2 de uma pizza grande.
 
 **1.** Calcule os três itens na ordem — o resultado de cada um é o começo do próximo.
 
-- a) Um bolo foi cortado em 8 pedaços iguais. João comeu 2/8 e Maria comeu 3/8. Quanto do bolo os dois comeram juntos?
-- b) Quanto do bolo sobrou?
-- c) No dia seguinte, alguém comeu mais 1/8 do bolo. Quanto do bolo inteiro restou agora?
+a) Um bolo foi cortado em 8 pedaços iguais. João comeu 2/8 e Maria comeu 3/8. Quanto do bolo os dois comeram juntos?  
+b) Quanto do bolo sobrou?  
+c) No dia seguinte, alguém comeu mais 1/8 do bolo. Quanto do bolo inteiro restou agora?
 
 **Confira você mesmo:** o resultado do item c tem de ser menor que o do item b. Se ele der maior, o erro não está no item c: está em um dos itens anteriores.
 
@@ -111,8 +111,8 @@ João comeu 1/2 de uma pizza pequena. Maria comeu 1/2 de uma pizza grande.
 
 **2.** Calcule com quanto Carla ficou em cada um dos dois problemas a seguir, em que uma palavra muda tudo.
 
-- a) Carla tinha 5/6 de uma barra de chocolate e deu 2/6 para a irmã. Com quanto ela ficou?
-- b) Carla tinha 5/6 de uma barra de chocolate e comeu 2/6 da barra. Com quanto ela ficou?
+a) Carla tinha 5/6 de uma barra de chocolate e deu 2/6 para a irmã. Com quanto ela ficou?  
+b) Carla tinha 5/6 de uma barra de chocolate e comeu 2/6 da barra. Com quanto ela ficou?
 
 **Responda:** as duas respostas são iguais ou diferentes, e por quê?
 
@@ -162,9 +162,9 @@ Um copo está cheio até 3/4. Você bebe 1/4. Depois enche de novo até a marca 
 
 **8.** Assinale, entre as três frases sobre a fração 5/5, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-- a) 5/5 vale um inteiro, porque o número de cima e o de baixo são iguais.
-- b) 5/5 vale cinco inteiros, porque há cinco partes marcadas na figura.
-- c) 5/5 vale menos que um inteiro, porque toda fração é menor que 1.
+a) 5/5 vale um inteiro, porque o número de cima e o de baixo são iguais.  
+b) 5/5 vale cinco inteiros, porque há cinco partes marcadas na figura.  
+c) 5/5 vale menos que um inteiro, porque toda fração é menor que 1.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -174,9 +174,9 @@ Um copo está cheio até 3/4. Você bebe 1/4. Depois enche de novo até a marca 
 
 **9.** Assinale, entre as três maneiras de calcular 1 − 2/5, a única certa, e escreva por que **uma** das outras duas está errada.
 
-- a) Trocar o 1 por 5/5 e fazer 5/5 − 2/5, chegando a 3/5.
-- b) Tirar o 2 do 1 e escrever a resposta como 1/5.
-- c) Trocar o 1 por 5/5 e fazer 5/5 − 2/5, chegando a 3/10.
+a) Trocar o 1 por 5/5 e fazer 5/5 − 2/5, chegando a 3/5.  
+b) Tirar o 2 do 1 e escrever a resposta como 1/5.  
+c) Trocar o 1 por 5/5 e fazer 5/5 − 2/5, chegando a 3/10.
 
 **Responda:** qual maneira está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -187,9 +187,9 @@ Um copo está cheio até 3/4. Você bebe 1/4. Depois enche de novo até a marca 
 
 **1.** Calcule as passagens entre fração e número decimal nos três blocos, na ordem.
 
-- a) Escreva na forma decimal: 3/10, 7/10, 45/100.
-- b) Escreva na forma de fração: 0,9 · 0,25 · 0,08.
-- c) Um número tem 2 inteiros, 3 décimos e 5 centésimos. Escreva esse número.
+a) Escreva na forma decimal: 3/10, 7/10, 45/100.  
+b) Escreva na forma de fração: 0,9 · 0,25 · 0,08.  
+c) Um número tem 2 inteiros, 3 décimos e 5 centésimos. Escreva esse número.
 
 **Confira você mesmo:** leia em voz alta cada número do bloco b. Se a leitura tiver a palavra *centésimos*, o denominador da sua fração tem de ser 100; se for outro, a fração não corresponde ao decimal.
 
@@ -197,8 +197,8 @@ Um copo está cheio até 3/4. Você bebe 1/4. Depois enche de novo até a marca 
 
 **2.** Calcule qual é o número maior em cada um dos dois pares a seguir.
 
-- a) 0,7 ou 0,65
-- b) 0,7 ou 0,75
+a) 0,7 ou 0,65  
+b) 0,7 ou 0,75
 
 **Responda:** por que, no par a, o número com menos algarismos é o maior — e no par b, não é?
 
@@ -254,9 +254,9 @@ A lista tem três itens: R$ 12,05, R$ 3,50 e R$ 0,25. Some os três preços e es
 
 Um quadrado foi dividido em 100 quadradinhos iguais, e 25 deles foram pintados.
 
-- a) A parte pintada é 25/100, que também se escreve 0,25 e vale um quarto do quadrado.
-- b) A parte pintada é 25/100, que se escreve 0,25 e vale a metade do quadrado.
-- c) A parte pintada é 25/10, porque foram pintados 25 quadradinhos de 10 em 10.
+a) A parte pintada é 25/100, que também se escreve 0,25 e vale um quarto do quadrado.  
+b) A parte pintada é 25/100, que se escreve 0,25 e vale a metade do quadrado.  
+c) A parte pintada é 25/10, porque foram pintados 25 quadradinhos de 10 em 10.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -266,9 +266,9 @@ Um quadrado foi dividido em 100 quadradinhos iguais, e 25 deles foram pintados.
 
 **9.** Assinale, entre as três frases sobre frações decimais, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-- a) 3/4 é uma fração decimal, porque dá para escrevê-la como 0,75.
-- b) 3/10 é uma fração decimal, porque o número de baixo dela é 10.
-- c) 3/10 não é fração decimal, porque não aparece vírgula nela.
+a) 3/4 é uma fração decimal, porque dá para escrevê-la como 0,75.  
+b) 3/10 é uma fração decimal, porque o número de baixo dela é 10.  
+c) 3/10 não é fração decimal, porque não aparece vírgula nela.
 
 **Responda:** qual está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -279,9 +279,9 @@ Um quadrado foi dividido em 100 quadradinhos iguais, e 25 deles foram pintados.
 
 **1.** Calcule os três itens na ordem — o resultado de cada um entra no próximo.
 
-- a) Um retângulo tem lados de 8 cm e 5 cm. Escreva o perímetro dele em centímetros.
-- b) Escreva esse mesmo perímetro em milímetros.
-- c) Uma fita de 1 m dá uma volta completa no contorno desse retângulo. Escreva quantos centímetros de fita sobram.
+a) Um retângulo tem lados de 8 cm e 5 cm. Escreva o perímetro dele em centímetros.  
+b) Escreva esse mesmo perímetro em milímetros.  
+c) Uma fita de 1 m dá uma volta completa no contorno desse retângulo. Escreva quantos centímetros de fita sobram.
 
 **Confira você mesmo:** some os quatro lados outra vez para checar o item a. Se no item c você encontrou um número maior que 100, o erro está em um dos itens anteriores.
 
@@ -352,9 +352,9 @@ Conte quantos palmos realmente cabem e, em seguida, meça essa mesma largura com
 
 **8.** Assinale, entre as três medições, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
-- a) O lápis começa no 0 da régua e a outra ponta chega ao 14. O lápis mede 14 cm.
-- b) O lápis começa no 1 da régua e a outra ponta chega ao 14. O lápis mede 14 cm.
-- c) O lápis começa no 0 da régua e a outra ponta chega ao 14. O lápis mede 14 mm.
+a) O lápis começa no 0 da régua e a outra ponta chega ao 14. O lápis mede 14 cm.  
+b) O lápis começa no 1 da régua e a outra ponta chega ao 14. O lápis mede 14 cm.  
+c) O lápis começa no 0 da régua e a outra ponta chega ao 14. O lápis mede 14 mm.
 
 **Responda:** qual medição está certa? Escolha uma das outras duas e escreva por que ela está errada.
 
@@ -366,9 +366,9 @@ Conte quantos palmos realmente cabem e, em seguida, meça essa mesma largura com
 
 Um terreno retangular tem 6 m de um lado e 3 m do outro. O dono quer saber quantos metros de cerca precisa comprar para contornar o terreno inteiro.
 
-- a) Ele precisa de 18 m de cerca, porque a soma dos quatro lados é 6 + 3 + 6 + 3.
-- b) Ele precisa de 18 m de cerca, porque 6 × 3 = 18 dá o espaço de dentro do terreno.
-- c) Ele precisa de 9 m de cerca, porque basta somar os dois lados diferentes: 6 + 3.
+a) Ele precisa de 18 m de cerca, porque a soma dos quatro lados é 6 + 3 + 6 + 3.  
+b) Ele precisa de 18 m de cerca, porque 6 × 3 = 18 dá o espaço de dentro do terreno.  
+c) Ele precisa de 9 m de cerca, porque basta somar os dois lados diferentes: 6 + 3.
 
 **Responda:** qual explicação está certa? Escolha uma das outras duas e escreva por que ela está errada.
 

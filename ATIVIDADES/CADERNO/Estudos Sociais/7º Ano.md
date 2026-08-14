@@ -56,10 +56,10 @@ Um estudante escreveu: *"O Brasil é urbano porque a maior parte do território 
 
 **7.** Assinale, entre as quatro afirmações sobre conurbação e região metropolitana, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) Conurbação e região metropolitana são a mesma coisa, com dois nomes diferentes.
-- b) Conurbação é a união física das cidades; região metropolitana é criada por lei.
-- c) Conurbação só existe quando uma lei reconhece a união entre os municípios.
-- d) Região metropolitana é a mancha urbana contínua vista nas fotos de satélite.
+a) Conurbação e região metropolitana são a mesma coisa, com dois nomes diferentes.  
+b) Conurbação é a união física das cidades; região metropolitana é criada por lei.  
+c) Conurbação só existe quando uma lei reconhece a união entre os municípios.  
+d) Região metropolitana é a mancha urbana contínua vista nas fotos de satélite.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -71,10 +71,10 @@ Um estudante escreveu: *"O Brasil é urbano porque a maior parte do território 
 
 Entre 1950 e 1980, cerca de 40 milhões de pessoas deixaram o campo brasileiro. No mesmo período, a mecanização avançou na lavoura e as fábricas do Sudeste contratavam.
 
-- a) A migração foi causada só pela mecanização, que tirou o trabalho das pessoas no campo.
-- b) A migração combinou o que empurrava no campo e o que atraía nas cidades do Sudeste.
-- c) A migração foi causada só pelas fábricas, que ofereciam salário melhor que o da lavoura.
-- d) A migração não teve relação com a mecanização, porque a máquina aumenta a produção.
+a) A migração foi causada só pela mecanização, que tirou o trabalho das pessoas no campo.  
+b) A migração combinou o que empurrava no campo e o que atraía nas cidades do Sudeste.  
+c) A migração foi causada só pelas fábricas, que ofereciam salário melhor que o da lavoura.  
+d) A migração não teve relação com a mecanização, porque a máquina aumenta a produção.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -134,10 +134,10 @@ Uma prefeitura tem recursos para uma única obra: uma linha de ônibus ligando a
 
 **7.** Assinale, entre as quatro situações, a única que é um caso de especulação imobiliária, e nomeie o problema urbano de cada uma das outras três.
 
-- a) Um terreno vazio no centro é mantido fechado pelo dono à espera de valorização.
-- b) Uma família ocupa uma encosta porque não encontrou terreno que pudesse pagar.
-- c) Uma prefeitura constrói uma linha de ônibus ligando a periferia até o centro.
-- d) Um bairro afastado fica sem rede de esgoto enquanto o centro é atendido.
+a) Um terreno vazio no centro é mantido fechado pelo dono à espera de valorização.  
+b) Uma família ocupa uma encosta porque não encontrou terreno que pudesse pagar.  
+c) Uma prefeitura constrói uma linha de ônibus ligando a periferia até o centro.  
+d) Um bairro afastado fica sem rede de esgoto enquanto o centro é atendido.
 
 **Responda:** qual das quatro é especulação imobiliária, e que problema urbano é cada uma das outras três?
 
@@ -149,10 +149,10 @@ Uma prefeitura tem recursos para uma única obra: uma linha de ônibus ligando a
 
 Depois de uma chuva forte, uma rua alagou. A rua é asfaltada de ponta a ponta e os bueiros estavam entupidos.
 
-- a) O alagamento tem causa na ocupação da cidade, porque o asfalto impede a água de infiltrar.
-- b) O alagamento tem causa na ocupação da cidade, porque chuva forte é evento raro no Brasil.
-- c) O alagamento tem causa só na chuva, porque cidade nenhuma suporta chuva acima do normal.
-- d) O alagamento tem causa na ocupação da cidade, porque o asfalto atrai mais chuva para a rua.
+a) O alagamento tem causa na ocupação da cidade, porque o asfalto impede a água de infiltrar.  
+b) O alagamento tem causa na ocupação da cidade, porque chuva forte é evento raro no Brasil.  
+c) O alagamento tem causa só na chuva, porque cidade nenhuma suporta chuva acima do normal.  
+d) O alagamento tem causa na ocupação da cidade, porque o asfalto atrai mais chuva para a rua.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 
@@ -210,10 +210,10 @@ Um estudante escreveu: *"Hoje todo mundo tem internet, então a exclusão digita
 
 Uma empresa precisa levar 30 mil toneladas de minério de um porto do Sudeste até um porto do Nordeste. Não há pressa na entrega, e o objetivo é o menor custo possível.
 
-- a) O transporte aeroviário é o indicado, porque cobre a distância no menor tempo possível.
-- b) O transporte aquaviário por cabotagem é o indicado, entre portos do mesmo país.
-- c) O transporte dutoviário é o indicado, porque move grandes volumes de uma só vez.
-- d) O transporte rodoviário é o indicado, porque 61% das cargas brasileiras já vão por ele.
+a) O transporte aeroviário é o indicado, porque cobre a distância no menor tempo possível.  
+b) O transporte aquaviário por cabotagem é o indicado, entre portos do mesmo país.  
+c) O transporte dutoviário é o indicado, porque move grandes volumes de uma só vez.  
+d) O transporte rodoviário é o indicado, porque 61% das cargas brasileiras já vão por ele.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -223,10 +223,10 @@ Uma empresa precisa levar 30 mil toneladas de minério de um porto do Sudeste at
 
 **8.** Assinale, entre as quatro afirmações sobre o acesso à internet no Brasil, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) Quem tem um celular na mão tem acesso garantido à internet, em qualquer lugar.
-- b) O acesso depende de antenas, cabos, servidores e também do preço do plano contratado.
-- c) A exclusão digital atinge igualmente o campo e a cidade, em todas as faixas de renda.
-- d) A exclusão digital é apenas uma escolha de quem prefere não usar a internet.
+a) Quem tem um celular na mão tem acesso garantido à internet, em qualquer lugar.  
+b) O acesso depende de antenas, cabos, servidores e também do preço do plano contratado.  
+c) A exclusão digital atinge igualmente o campo e a cidade, em todas as faixas de renda.  
+d) A exclusão digital é apenas uma escolha de quem prefere não usar a internet.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 

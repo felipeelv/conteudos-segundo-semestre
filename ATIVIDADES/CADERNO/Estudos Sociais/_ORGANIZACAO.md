@@ -392,14 +392,16 @@ O `Antes de começar` novo é a `INV.c` do 7º Cap. 2 Q1, cuja grade cobra *cate
 **Adendo de 12/08 — leitura do `Registre:` fixada.** O §7.1 §4 dizia *"registro contínuo ou periódico"*, e por essa leitura estrita um bloco desta disciplina foi desfeito nesta rodada. A regra foi reescrita para *"várias observações"* — vale a repetição no tempo **e** a repetição em número, porque o que decide o bloco é separar dado bruto de conclusão, não o calendário. O bloco desfeito foi restaurado. A contagem de `Registre:` da disciplina sobe em 1 em relação ao que a seção anterior registrou.
 
 
-### Alternativas em lista Markdown — 14/08
+### Quebra dura de linha nas alternativas — 14/08
 
-As alternativas e os subitens estavam escritos como linhas soltas de prosa. Nesse formato o Markdown funde a lista inteira num parágrafo único — ao renderizar e, sobretudo, **ao colar a folha no Google Docs**, que é o caminho pelo qual ela chega ao papel. Convertidos **41 blocos** desta disciplina — **34** de alternativas de `OBJ` e **7** de subitens de especificação de outras questões —, somando **151** itens, agora em lista Markdown: uma linha por item, iniciada por `- `, com linha em branco antes do primeiro e nenhuma entre eles.
+As alternativas e os subitens estavam escritos como linhas soltas de prosa, e o Markdown funde linhas adjacentes num parágrafo único — ao renderizar e, sobretudo, **ao colar a folha no Google Docs**, que é o caminho pelo qual ela chega ao papel. Corrigidos **41 blocos** desta disciplina — **34** de alternativas de `OBJ` e **7** de subitens de especificação de outras questões —, somando **151** itens: cada item passa a ocupar **uma linha terminada em dois espaços**, a quebra dura do Markdown, em **110** deles — a última de cada bloco dispensa, porque a linha em branco seguinte já fecha o parágrafo.
 
-**Foram duas passadas no mesmo dia.** A primeira separou os itens por linha em branco: resolve a renderização, não resolve a colagem. A lista resolve as duas, porque item de lista ocupa linha própria tanto no texto cru quanto na pré-visualização renderizada — e é de um desses dois que sai a cópia.
+**Foram três passadas no mesmo dia, e as duas primeiras ficam registradas porque explicam a terceira.** A primeira separou os itens por linha em branco: resolve a renderização, não resolve a colagem, porque cada item virava parágrafo e o Google Docs os reagrupava. A segunda converteu tudo em lista Markdown `- `: resolve os dois, mas imprime `• a)` — marcador redundante numa alternativa que a letra já rotula. A terceira é a que ficou: quebra dura, que dá um item por linha **sem marcador e sem espaçamento de parágrafo**, que é como uma folha de questões se lê.
 
-**Nada além do formato foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou; a conferência comparou cada folha com a versão em `git HEAD` ignorando o prefixo `- ` e as linhas vazias, e não houve divergência de texto em nenhum arquivo.
+**Nada além do formato foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou: a conferência comparou cada folha com a versão em `9828c2f` — o commit anterior a esta sequência — ignorando espaço no fim da linha e linhas vazias, e não houve divergência de texto em nenhum arquivo do caderno.
 
 **Nenhuma linha da grade mudou.** A correção é de formato, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
 
-A regra consta em `06-PRODUCAO.md` §7.1 (subitens, com exemplo), no molde de `OBJ`, no exemplo calibrado da objetiva da rodovia e nas regras rígidas do prompt de produção (§9); em `00-LEIA-ME.md`, no índice do §7.1; e no `CLAUDE.md` §5, item 17.
+⚠️ **Os dois espaços são invisíveis e frágeis.** Editor configurado para apagar espaço no fim da linha ao salvar desfaz isso em silêncio — o arquivo parece igual e a folha volta a colar corrida. Quem reescrever qualquer enunciado destas folhas confere, depois, se as alternativas ainda terminam em dois espaços.
+
+A regra consta em `06-PRODUCAO.md` §7.1 (subitens, com exemplo e o aviso sobre o *trim*), no molde de `OBJ`, no exemplo calibrado da objetiva da rodovia e nas regras rígidas do prompt de produção (§9); em `00-LEIA-ME.md`, no índice do §7.1; e no `CLAUDE.md` §5, item 17.

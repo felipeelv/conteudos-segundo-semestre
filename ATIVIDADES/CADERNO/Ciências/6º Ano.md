@@ -66,10 +66,10 @@ Arranque duas folhas parecidas de uma mesma planta — de um vaso, de um jardim,
 
 **8.** Assinale, entre as quatro células descritas, a única que é procarionte, e justifique por que cada uma das outras três não é.
 
-- a) Uma bactéria do iogurte, com o material genético solto numa região do citoplasma.
-- b) Um protozoário que vive sozinho na água de uma poça e tem núcleo delimitado por membrana.
-- c) Uma hemácia madura, que perdeu o núcleo ao amadurecer e transporta oxigênio pelo corpo.
-- d) Uma célula de folha, com parede celular rígida por fora da membrana plasmática.
+a) Uma bactéria do iogurte, com o material genético solto numa região do citoplasma.  
+b) Um protozoário que vive sozinho na água de uma poça e tem núcleo delimitado por membrana.  
+c) Uma hemácia madura, que perdeu o núcleo ao amadurecer e transporta oxigênio pelo corpo.  
+d) Uma célula de folha, com parede celular rígida por fora da membrana plasmática.
 
 **Responda:** qual das quatro é procarionte, e por que cada uma das outras três não é?
 
@@ -79,10 +79,10 @@ Arranque duas folhas parecidas de uma mesma planta — de um vaso, de um jardim,
 
 **9.** Assinale, entre as quatro afirmações sobre a teoria celular, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) A teoria celular diz que todo ser vivo tem células e que toda célula vem de outra.
-- b) A teoria celular ficou pronta em 1665, quando Hooke observou a cortiça e nomeou as células.
-- c) A teoria celular vale para os seres vivos que enxergamos, mas não para os microscópicos.
-- d) A teoria celular diz que a célula é a unidade da vida, exceto nos organismos unicelulares.
+a) A teoria celular diz que todo ser vivo tem células e que toda célula vem de outra.  
+b) A teoria celular ficou pronta em 1665, quando Hooke observou a cortiça e nomeou as células.  
+c) A teoria celular vale para os seres vivos que enxergamos, mas não para os microscópicos.  
+d) A teoria celular diz que a célula é a unidade da vida, exceto nos organismos unicelulares.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -136,10 +136,10 @@ As fontes podem ser um livro, uma revista, o acervo da biblioteca da escola ou a
 
 Num laboratório, células musculares humanas são mantidas vivas dentro de um recipiente com nutrientes. Ali dentro elas se contraem, consomem nutrientes e originam novas células.
 
-- a) O conteúdo do recipiente é um organismo, porque as células realizam as funções vitais.
-- b) O conteúdo do recipiente não é um organismo: falta a organização em tecidos e sistemas.
-- c) As células ali dentro deixaram de ser células vivas, porque estão fora de um corpo.
-- d) O conteúdo é um organismo unicelular, porque cada célula vive por conta própria ali.
+a) O conteúdo do recipiente é um organismo, porque as células realizam as funções vitais.  
+b) O conteúdo do recipiente não é um organismo: falta a organização em tecidos e sistemas.  
+c) As células ali dentro deixaram de ser células vivas, porque estão fora de um corpo.  
+d) O conteúdo é um organismo unicelular, porque cada célula vive por conta própria ali.
 
 **Responda:** qual é a leitura correta, e por que cada uma das outras três está errada?
 
@@ -151,10 +151,10 @@ Num laboratório, células musculares humanas são mantidas vivas dentro de um r
 
 O estômago movimenta o alimento, produz substâncias digestivas e protege a própria parede.
 
-- a) O estômago é um órgão, porque reúne tecidos diferentes que cooperam numa mesma função.
-- b) O estômago é um órgão, porque é grande o bastante para ser visto sem microscópio.
-- c) O estômago é um tecido, porque é formado por células que trabalham todas juntas.
-- d) O estômago é um órgão, porque faz parte do sistema digestório junto com outros órgãos.
+a) O estômago é um órgão, porque reúne tecidos diferentes que cooperam numa mesma função.  
+b) O estômago é um órgão, porque é grande o bastante para ser visto sem microscópio.  
+c) O estômago é um tecido, porque é formado por células que trabalham todas juntas.  
+d) O estômago é um órgão, porque faz parte do sistema digestório junto com outros órgãos.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

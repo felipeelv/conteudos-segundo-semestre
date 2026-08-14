@@ -51,10 +51,10 @@ Estime então o comprimento de um trecho reto que você possa percorrer a pé �
 
 **4.** Redija um verbete de até cinco linhas para cada elemento a seguir, destinado a quem precisa identificá-los num desenho sem legenda. Cada verbete tem de empregar os termos *centro*, *extremidade* e *distância*, e terminar com o teste que distingue aquele elemento dos outros três:
 
-- a) raio
-- b) corda
-- c) diâmetro
-- d) arco
+a) raio  
+b) corda  
+c) diâmetro  
+d) arco
 
 ---
 
@@ -76,10 +76,10 @@ Um canteiro circular de 3 m de raio será cercado, e o portão de acesso terá 1
 
 **7.** Assinale, entre as quatro afirmações sobre o número π, a única correta, e justifique por que cada uma das outras três está errada.
 
-- a) O número π é exatamente 3,14, e por isso os cálculos com ele são exatos.
-- b) O número π é irracional: sua escrita decimal não termina nem se repete periodicamente.
-- c) O número π muda conforme o tamanho da circunferência que está sendo medida.
-- d) O número π é a razão entre o comprimento da circunferência e o seu raio.
+a) O número π é exatamente 3,14, e por isso os cálculos com ele são exatos.  
+b) O número π é irracional: sua escrita decimal não termina nem se repete periodicamente.  
+c) O número π muda conforme o tamanho da circunferência que está sendo medida.  
+d) O número π é a razão entre o comprimento da circunferência e o seu raio.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
@@ -91,10 +91,10 @@ Um canteiro circular de 3 m de raio será cercado, e o portão de acesso terá 1
 
 Um canteiro circular tem raio de 6 m. A distância perpendicular do centro do canteiro até uma calçada reta é de 4 m.
 
-- a) A calçada é secante, porque a distância do centro até ela é menor que o raio.
-- b) A calçada é secante, porque toda calçada reta atravessa qualquer canteiro circular.
-- c) A calçada é tangente, porque encosta no canteiro em um único ponto de contato.
-- d) A calçada é secante, porque 4 m e 6 m são duas medidas diferentes entre si.
+a) A calçada é secante, porque a distância do centro até ela é menor que o raio.  
+b) A calçada é secante, porque toda calçada reta atravessa qualquer canteiro circular.  
+c) A calçada é tangente, porque encosta no canteiro em um único ponto de contato.  
+d) A calçada é secante, porque 4 m e 6 m são duas medidas diferentes entre si.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
 

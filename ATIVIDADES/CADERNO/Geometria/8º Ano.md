@@ -71,10 +71,10 @@ Trace as quatro letras no caderno — a régua nos traços retos, o compasso na 
 
 **7.** Assinale, entre as quatro descrições, a única que corresponde a uma **translação**, e diga o que é cada uma das outras três.
 
-- a) Cada ponto percorre o mesmo vetor, de mesma direção, sentido e módulo.
-- b) Cada ponto gira em torno de um centro fixo, por um mesmo ângulo.
-- c) Cada ponto vai para o outro lado de uma reta, à mesma distância dela.
-- d) A figura é ampliada, e cada lado fica com o dobro do comprimento.
+a) Cada ponto percorre o mesmo vetor, de mesma direção, sentido e módulo.  
+b) Cada ponto gira em torno de um centro fixo, por um mesmo ângulo.  
+c) Cada ponto vai para o outro lado de uma reta, à mesma distância dela.  
+d) A figura é ampliada, e cada lado fica com o dobro do comprimento.
 
 **Responda:** qual das quatro é a translação, e o que é cada uma das outras três?
 
@@ -86,10 +86,10 @@ Trace as quatro letras no caderno — a régua nos traços retos, o compasso na 
 
 Um estudante quer cobrir uma página com um único polígono regular repetido, sem falhas nem sobreposições. Ele testa o triângulo equilátero (60°), o quadrado (90°), o pentágono regular (108°) e o hexágono regular (120°).
 
-- a) O pentágono pavimenta sozinho, porque todo polígono regular se encaixa com cópias iguais.
-- b) O pentágono não pavimenta sozinho, porque 108° não divide 360° um número inteiro de vezes.
-- c) O pentágono não pavimenta sozinho, porque os seus lados têm comprimentos diferentes.
-- d) Nenhum dos quatro pavimenta sozinho, porque toda tesselação exige duas formas diferentes.
+a) O pentágono pavimenta sozinho, porque todo polígono regular se encaixa com cópias iguais.  
+b) O pentágono não pavimenta sozinho, porque 108° não divide 360° um número inteiro de vezes.  
+c) O pentágono não pavimenta sozinho, porque os seus lados têm comprimentos diferentes.  
+d) Nenhum dos quatro pavimenta sozinho, porque toda tesselação exige duas formas diferentes.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
 
