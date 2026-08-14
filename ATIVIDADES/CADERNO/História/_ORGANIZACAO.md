@@ -229,3 +229,14 @@ As duas folhas já estavam no molde. Refino: **10 das 30 questões**. Contagem i
 **Marcador de caso (b): 3 questões.** As duas `TAB` de comparação em dois momentos (1ª Cap. 2 Q4, o pequeno proprietário antes e depois das Guerras Púnicas; 2ª Cap. 1 Q4, as duas regiões cafeeiras) e a `TAB` do contraste Brasil × Paraguai. Em todas, o terceiro critério — o que a rubrica mais pesa — vinha por último, encadeado depois de *"Além de X e de Y"*.
 
 **Uma execução saiu do parágrafo do caso:** 2ª Cap. 1 Q6, *"Cite como critério de custo dois dos quatro componentes do colonato"*, colada ao dilema do fazendeiro.
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **12 blocos** desta disciplina — **8** de alternativas de `OBJ` e **4** de subitens de especificação de outras questões —, somando **48** linhas `a)`–`d)`: **36 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

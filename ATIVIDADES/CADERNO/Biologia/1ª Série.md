@@ -32,8 +32,11 @@ Encerre com uma linha que registre o que os dois casos têm em comum.
 **3.** Redija, para quem faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das estruturas celulares a seguir, indicando a função que desempenha e em que tipo de célula ocorre. Os termos *permeabilidade seletiva*, *procarionte* e *eucarionte* precisam aparecer no conjunto dos quatro verbetes:
 
 a) glicocálix
+
 b) membrana plasmática
+
 c) nucleoide
+
 d) mitocôndria
 
 ---
@@ -77,8 +80,11 @@ Um estudante registrou em seu relatório: *"Deixei a batata submersa em água co
 **9.** Assinale, entre as quatro afirmações sobre o transporte pela membrana, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) Todo transporte que depende de uma proteína da membrana consome ATP para acontecer.
+
 b) O transporte ativo desloca a substância contra o gradiente de concentração e consome ATP.
+
 c) Na osmose, a água se desloca do meio mais concentrado em solutos para o menos concentrado.
+
 d) A difusão facilitada consome menos ATP que o transporte ativo, porque a proteína reduz o gasto.
 
 **Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
@@ -90,8 +96,11 @@ d) A difusão facilitada consome menos ATP que o transporte ativo, porque a prot
 **10.** Assinale, entre as quatro descrições de célula, a única que corresponde a uma célula procarionte, e justifique por que cada uma das outras três não corresponde, nomeando o critério que ela aplica indevidamente.
 
 a) Célula de 2 µm com o DNA solto numa região do citoplasma, sem organelas delimitadas por membrana.
+
 b) Célula de 3 µm com o material genético guardado dentro de um envoltório de membrana próprio.
+
 c) Célula de 20 µm cujas mitocôndrias têm DNA circular próprio, herdado de bactérias ancestrais.
+
 d) Célula de 30 µm sem cloroplastos e sem parede celular, com núcleo e diversas organelas.
 
 **Responda:** qual das quatro é procarionte, e que critério cada uma das outras três aplica indevidamente?
@@ -121,8 +130,11 @@ A tabela precisa trazer, para cada um dos dois retículos:
 **3.** Redija, para quem faltou às três aulas deste capítulo, um verbete de até cinco linhas sobre cada uma das organelas a seguir, indicando o que ela processa e o que aconteceria com a célula na ausência dela. Os termos *compartimentação*, *vesícula* e *enzima* precisam aparecer no conjunto dos quatro verbetes:
 
 a) complexo golgiense
+
 b) lisossomo
+
 c) peroxissomo
+
 d) mitocôndria
 
 ---
@@ -168,8 +180,11 @@ Procure em fonte impressa, digital ou do acervo da escola.
 Numa célula, o complexo golgiense para de funcionar. O retículo endoplasmático rugoso e os ribossomos permanecem íntegros.
 
 a) A célula deixa de produzir proteínas, porque é o golgiense que as monta a partir dos aminoácidos.
+
 b) A célula segue produzindo proteínas, mas elas deixam de ser modificadas, empacotadas e endereçadas.
+
 c) A célula continua funcionando por inteiro, porque o retículo já entrega a proteína pronta ao destino.
+
 d) A célula segue formando lisossomos normalmente, porque quem os produz é o retículo endoplasmático liso.
 
 **Responda:** qual é a leitura correta, e o que cada uma das outras três atribui à estrutura errada?
@@ -183,8 +198,11 @@ d) A célula segue formando lisossomos normalmente, porque quem os produz é o r
 Uma célula do fígado precisa neutralizar o peróxido de hidrogênio produzido pelas suas próprias reações.
 
 a) O peroxissomo faz esse trabalho, porque tem enzimas oxidativas e a catalase elimina o peróxido.
+
 b) O peroxissomo faz esse trabalho, porque é ele que digere as organelas gastas e as devolve à célula.
+
 c) O lisossomo faz esse trabalho, porque suas enzimas quebram qualquer substância tóxica da célula.
+
 d) O peroxissomo faz esse trabalho, porque nele o peróxido fica isolado até ser expulso da célula.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?

@@ -340,3 +340,14 @@ O caso é instrutivo porque `CONS.c` **não é `INV`**, e o §7.1 reserva o bloc
 **Blocos ao final:** `Responda:` **34** (era 33) · `Antes de começar:` **6** (era 5) · `Confira você mesmo:` **18** · `Registre:` **0**. Os dois aumentos são os descritos acima; nenhum bloco foi inventado. Checagem 2: **36 de 36**. Comando corrido: **0**.
 
 **Nenhuma linha da grade mudou.** As 36 foram confrontadas com a seção 2 depois da reescrita, com atenção às medidas que os critérios citam — 68 cm = 0,68 m, PT² = 84, 30 m e 44,7 m de cabo, 7,2 m de rampa, cosseno 0,6, a soma de 360° no vértice da tesselação: todas continuam pedidas na folha.
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **13 blocos** desta disciplina — **12** de alternativas de `OBJ` e **1** de subitens de especificação de outras questões —, somando **52** linhas `a)`–`d)`: **39 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

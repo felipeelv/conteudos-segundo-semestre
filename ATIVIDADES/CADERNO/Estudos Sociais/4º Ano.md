@@ -46,8 +46,11 @@ O mapa precisa ter:
 Diga, em cada texto, de onde o grupo veio e como chegou ao Brasil:
 
 a) povos indígenas
+
 b) portugueses
+
 c) africanos
+
 d) imigrantes europeus
 
 ---
@@ -63,7 +66,9 @@ Um estudante escreveu: *"Os africanos vieram para o Brasil procurar trabalho, ig
 **7.** Assinale, entre as três frases sobre a chegada dos portugueses, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) Os portugueses descobriram o Brasil em 1500, porque antes ninguém vivia nestas terras.
+
 b) Os portugueses chegaram ao Brasil em 1500, e aqui já viviam povos com aldeias e roças.
+
 c) Os portugueses chegaram ao Brasil em 1500 e logo começaram a ocupar o território.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
@@ -75,7 +80,9 @@ c) Os portugueses chegaram ao Brasil em 1500 e logo começaram a ocupar o territ
 **8.** Assinale, entre as três frases sobre os povos indígenas, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) Os povos indígenas eram todos iguais, com a mesma língua e os mesmos costumes.
+
 b) Existiam muitos povos indígenas diferentes, e eles continuam existindo no Brasil hoje.
+
 c) Existiam muitos povos indígenas diferentes, mas todos desapareceram há muito tempo.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
@@ -121,7 +128,9 @@ Ao lado de cada uma, escreva o que ela significa.
 Dê, em cada texto, um exemplo da herança que exista hoje:
 
 a) herança indígena
+
 b) herança africana
+
 c) herança portuguesa
 
 ---
@@ -137,7 +146,9 @@ Seu texto precisa dizer de qual herança o costume vem e precisa conter três in
 A pizza chegou ao Brasil com os imigrantes italianos. Hoje existem no Brasil sabores de pizza que não existem na Itália.
 
 a) A pizza brasileira deixou de ser herança italiana, porque mudou de sabor aqui.
+
 b) A pizza continua sendo herança italiana, e o que mudou foi o modo de fazê-la aqui.
+
 c) A pizza sempre foi brasileira, porque foi aqui que ela ganhou mais sabores.
 
 **Responda:** qual explicação está certa? Escolha uma das outras duas e escreva por que ela está errada.
@@ -149,7 +160,9 @@ c) A pizza sempre foi brasileira, porque foi aqui que ela ganhou mais sabores.
 **8.** Assinale, entre as três frases sobre as heranças do Brasil, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) A herança portuguesa vale mais que as outras, porque dela veio a língua que falamos.
+
 b) As heranças indígena, africana, portuguesa e dos imigrantes formaram juntas o Brasil.
+
 c) Só a herança indígena é brasileira de verdade, porque os indígenas chegaram primeiro.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.

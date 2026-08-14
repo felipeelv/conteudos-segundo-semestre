@@ -240,3 +240,14 @@ Contagem final dos blocos, contada nos arquivos: `Responda:` **17** (era 16 — 
 **Onde o marcador NÃO entrou, e por quê.** O critério aplicado foi: marcador de caso (b) só quando o produto tem **três ou mais requisitos paralelos** hoje encadeados numa mesma frase. Ficaram em prosa, deliberadamente: a `TAB.a` de 2ª 1·2 (dois requisitos por linha, mais um critério avulso); as seis `ESC.b` de verbete, que já têm a lista `a) b) c) d)` e ganhariam uma segunda lista aninhada; e as quatro `ESC.c` de redação, em que a lista quebra o texto corrido que a tarefa pede. Transformar tudo em lista é o efeito checklist que o próprio §7.1 veta.
 
 **Uma linha da grade acompanhou a folha.** `1ª Série · Cap. 1 · Q1` dizia *"o fator do clima apontado abaixo dos gráficos"*. Com o segundo tempo aberto, a folha passou a pedir também **qual é a maior diferença**, e R10 não teria o que medir nela. O critério passa a nomear as duas entregas. `VIS.d` · R10 preservados; nenhuma outra linha da seção 2 mudou, porque nenhuma outra questão alterou o que entrega.
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **12 blocos** desta disciplina — **8** de alternativas de `OBJ` e **4** de subitens de especificação de outras questões —, somando **48** linhas `a)`–`d)`: **36 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

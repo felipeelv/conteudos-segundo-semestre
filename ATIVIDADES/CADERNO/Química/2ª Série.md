@@ -33,8 +33,11 @@ Os equilíbrios são a formação de trióxido de enxofre, 2 SO₂(g) + O₂(g) 
 **3.** Redija, para cada conceito a seguir, um verbete de até cinco linhas dirigido a quem faltou à aula, indicando o que esse conceito informa que os outros três não informam:
 
 a) constante de equilíbrio Kc
+
 b) quociente de reação Q
+
 c) grau de equilíbrio
+
 d) princípio de Le Chatelier
 
 ---
@@ -68,8 +71,11 @@ Um estudante escreveu: *"Comprimir o sistema N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g) 
 **7.** Assinale, entre as quatro perturbações do sistema N₂(g) + 3H₂(g) ⇌ 2NH₃(g), a única que **não** desloca o equilíbrio, e diga para que lado cada uma das outras três o desloca.
 
 a) Adicionar N₂ ao recipiente fechado, mantendo a temperatura.
+
 b) Introduzir um catalisador à base de ferro no mesmo recipiente.
+
 c) Reduzir o volume do recipiente, mantendo a temperatura constante.
+
 d) Aumentar a temperatura, sabendo que o sentido direto é exotérmico.
 
 **Responda:** qual perturbação não desloca o equilíbrio, e para que lado cada uma das outras três o desloca?
@@ -83,8 +89,11 @@ d) Aumentar a temperatura, sabendo que o sentido direto é exotérmico.
 Num recipiente fechado, a cor da mistura NO₂/N₂O₄ para de mudar, e as concentrações das duas espécies permanecem constantes.
 
 a) A reação parou nos dois sentidos, porque nada mais muda dentro do recipiente.
+
 b) As duas reações continuam, e as velocidades direta e inversa ficaram iguais.
+
 c) As concentrações de NO₂ e de N₂O₄ ficaram iguais entre si nesse momento.
+
 d) O recipiente precisa estar aberto para que o equilíbrio possa se estabelecer.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?

@@ -166,3 +166,14 @@ Blocos ao final, contados nos arquivos: `Responda:` **11** (6 na 1ª Série, 5 n
 **Marcador de caso (b): entrou uma vez só**, na `TAB.a` da 2ª Série. As quatro `ESC.b` de verbete já trazem a lista `a) b) c) d)` e ganhariam uma segunda lista aninhada; as duas `ESC.c` são redação corrida; as duas `ESQ` têm dois requisitos, não três. Critério aplicado: marcador só com **três ou mais requisitos paralelos** hoje encadeados numa mesma frase.
 
 **Nenhuma linha da grade mudou.** Conferidas as 16 contra a seção 2 depois da reescrita: nenhuma questão alterou o que entrega, só como pede. A pendência de R7 registrada na seção anterior — *finalidade* medida pela rubrica e não cobrada em nenhuma das quatro `FON` — **continua aberta**, e esta passada não a tocou: fechá-la é decisão de coordenação sobre o critério, não de formulação.
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **6 blocos** desta disciplina — **4** de alternativas de `OBJ` e **2** de subitens de especificação de outras questões —, somando **24** linhas `a)`–`d)`: **18 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

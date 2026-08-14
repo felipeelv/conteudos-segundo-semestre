@@ -68,8 +68,11 @@ Uma rampa de acessibilidade precisa vencer um desnível de 60 cm, e a norma exig
 **7.** Assinale, entre as quatro afirmações sobre o triângulo retângulo, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O cateto oposto é sempre o mais comprido dos dois catetos do triângulo.
+
 b) Ao trocar o ângulo agudo de referência, oposto e adjacente trocam de papel.
+
 c) A hipotenusa muda de lugar quando se troca o ângulo agudo de referência.
+
 d) O seno de um ângulo agudo pode passar de 1 quando os catetos são grandes.
 
 **Responda:** qual é a afirmação correta, e por que cada uma das outras três está errada?
@@ -83,8 +86,11 @@ d) O seno de um ângulo agudo pode passar de 1 quando os catetos são grandes.
 Um teodolito é colocado a 50 m da base de um prédio e mede 30° a partir da horizontal até o topo.
 
 a) A altura sai da tangente, porque 30° é o ângulo entre a horizontal e a linha até o topo.
+
 b) A altura sai da tangente, porque 30° é o ângulo entre a vertical do prédio e a linha do topo.
+
 c) A altura sai do seno, porque os 50 m são a hipotenusa do triângulo formado pela visada.
+
 d) A altura sai da tangente, porque a tangente serve para qualquer ângulo, em qualquer caso.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?

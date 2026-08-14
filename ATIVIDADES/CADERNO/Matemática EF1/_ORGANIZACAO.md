@@ -316,3 +316,14 @@ Contagem inalterada: **2 arquivos-ano · 8 capítulos · 56 questões**. Verific
 |---|---|
 | **Estrita** — `Registre:` só com repetição **no tempo** (dias, semanas) | desfazer os cinco desta disciplina; sobram os de Ciências (germinação, três dias de resíduo) e de Estatística |
 | **Ampla** — `Registre:` para qualquer coleta de dado bruto separada da conclusão | refazer os dois desfeitos em Ciências e Estudos Sociais; o §7.1 §4 passa a dizer *"registro de várias observações"* em vez de *"contínuo ou periódico"* |
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **29 blocos** desta disciplina — **16** de alternativas de `OBJ` e **13** de subitens de especificação de outras questões —, somando **82** linhas `a)`–`d)`: **53 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

@@ -10,8 +10,11 @@
 **1.** Classifique cada pronome destacado abaixo quanto à classe.
 
 a) **Meu** caderno sumiu.
+
 b) **Este** livro é interessante.
+
 c) **Vossa Excelência** foi convidada.
+
 d) **Nos** encontramos ontem.
 
 **Responda:** a que classe pertence cada um dos quatro pronomes destacados?
@@ -55,7 +58,9 @@ Um estudante escreveu: *"Vossa Excelência é muito gentil, e você merece nosso
 **6.** Redija, para cada classe a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando o que o pronome localiza ou indica:
 
 a) possessivo
+
 b) demonstrativo
+
 c) de tratamento
 
 ---
@@ -63,8 +68,11 @@ c) de tratamento
 **7.** Assinale, entre os quatro pronomes destacados, o único que é **possessivo**, e diga a que classe pertence cada um dos outros três.
 
 a) João encontrou Pedro perto de **seu** carro.
+
 b) Bia **me** chamou pela manhã no pátio.
+
 c) **Vossa Excelência** recebeu o documento.
+
 d) Quero dizer **isto**: você é importante.
 
 **Responda:** qual dos quatro é possessivo, e a que classe pertence cada um dos outros três?
@@ -78,8 +86,11 @@ d) Quero dizer **isto**: você é importante.
 Num requerimento, um estudante escreveu: *"Vossa Excelência recebestes o documento?"*
 
 a) Está certo, porque *Vossa Excelência* se dirige à pessoa com quem se fala.
+
 b) Está errado: o pronome de tratamento pede o verbo na 3ª pessoa — *recebeu*.
+
 c) Está errado, porque o certo seria *Vossa Excelência recebemos o documento*.
+
 d) Está certo, porque o verbo concorda com *Excelência*, que é palavra feminina.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
@@ -112,7 +123,9 @@ Cada linha precisa registrar:
 - se a retomada é anafórica ou catafórica.
 
 a) *O diretor chegou. **Ele** pediu silêncio.*
+
 b) *Só peço **isto**: que ninguém saia antes do fim.*
+
 c) *Quando **a** encontrei, Marina já sabia da notícia.*
 
 ---
@@ -142,8 +155,11 @@ Nenhum nome pode aparecer mais de duas vezes, e não pode restar dúvida sobre q
 **7.** Assinale, entre as quatro afirmações sobre coesão, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Em *Estudei muito. Isso me cansou*, há catáfora, porque *isso* aponta adiante.
+
 b) Em *Estudei muito. Isso me cansou*, há anáfora, porque *isso* retoma o que veio antes.
+
 c) Um pronome só cria coesão quando repete exatamente a mesma palavra do antecedente.
+
 d) Anáfora e catáfora são a mesma coisa, porque as duas usam pronomes para ligar trechos.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
@@ -157,8 +173,11 @@ d) Anáfora e catáfora são a mesma coisa, porque as duas usam pronomes para li
 *Pedro encontrou João e disse que ele estava feliz.*
 
 a) A frase é ambígua, porque *ele* pode retomar Pedro ou João, e nada na frase decide.
+
 b) A frase é ambígua, porque *ele* está no singular e havia duas pessoas na cena descrita.
+
 c) A frase não é ambígua, porque o pronome sempre retoma o nome mais próximo dele.
+
 d) A frase é ambígua, porque usar pronome em vez de nome sempre gera ambiguidade.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
@@ -171,8 +190,11 @@ d) A frase é ambígua, porque usar pronome em vez de nome sempre gera ambiguida
 **1.** Analise a estrutura de cada forma verbal abaixo, separando radical, vogal temática e desinências.
 
 a) cantávamos
+
 b) venderias
+
 c) partiram
+
 d) falássemos
 
 **Responda:** quais são o radical, a vogal temática e as desinências de cada uma das quatro formas?
@@ -186,6 +208,7 @@ d) falássemos
 Conjugue-as na mesma pessoa e no mesmo tempo.
 
 a) cantar
+
 b) vender
 
 **Responda:** a que conjugação cada uma pertence, como você identificou, e o que a conjugação lado a lado revela?
@@ -221,8 +244,11 @@ Um estudante escreveu: *"O radical de 'partir' é 'parti', porque é o que sobra
 **6.** Redija, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando o que ele informa:
 
 a) radical
+
 b) vogal temática
+
 c) desinência número-pessoal
+
 d) desinência modo-temporal
 
 ---
@@ -230,8 +256,11 @@ d) desinência modo-temporal
 **7.** Assinale, entre as quatro formas verbais, a única que está na **1ª pessoa do plural**, e diga em que pessoa e número está cada uma das outras três.
 
 a) canto
+
 b) cantamos
+
 c) cantam
+
 d) cantas
 
 **Responda:** qual das quatro está na 1ª pessoa do plural, e em que pessoa e número está cada uma das outras três?
@@ -245,8 +274,11 @@ d) cantas
 Uma frase diz apenas: *"Cantamos no coral da escola."* Nenhum pronome aparece escrito antes do verbo.
 
 a) A frase não tem sujeito, porque nenhum pronome aparece escrito nela.
+
 b) O sujeito é *nós*, e a terminação *-mos* do verbo é o que permite identificá-lo.
+
 c) O sujeito é *coral*, porque é o substantivo que aparece logo depois do verbo.
+
 d) O sujeito pode ser *eu* ou *nós*, porque a forma verbal serve para os dois casos.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
@@ -259,8 +291,11 @@ d) O sujeito pode ser *eu* ou *nós*, porque a forma verbal serve para os dois c
 **1.** Classifique o tempo do indicativo de cada forma verbal destacada abaixo.
 
 a) Amanhã eu **conversarei** com o professor.
+
 b) Todas as noites ela **lê** um capítulo.
+
 c) Nós **chegamos** cedo ontem.
+
 d) Eu **estudaria** mais, se o dia fosse maior.
 
 **Responda:** em que tempo do indicativo está cada uma das quatro formas destacadas?
@@ -274,6 +309,7 @@ d) Eu **estudaria** mais, se o dia fosse maior.
 As duas frases abaixo falam do mesmo dia. Depois de compará-las, retire *amanhã* das duas e leia-as de novo.
 
 a) Amanhã eu **viajo**.
+
 b) Amanhã eu **viajarei**.
 
 **Responda:** em que tempo está o verbo de cada uma, como a primeira consegue falar do futuro usando o presente, e qual delas continua falando do futuro depois que *amanhã* sai?
@@ -327,8 +363,11 @@ Use um exemplo de cada tempo e mostre os dois dentro de uma mesma frase.
 **8.** Assinale, entre as quatro afirmações sobre o modo indicativo, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) O presente do indicativo só pode indicar o instante exato em que se fala.
+
 b) O presente também expressa hábito e verdade geral, como em *a Terra gira*.
+
 c) O pretérito imperfeito faz a história avançar, e o perfeito é o pano de fundo.
+
 d) O futuro do pretérito indica um fato certo, que vai acontecer amanhã.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
@@ -342,8 +381,11 @@ d) O futuro do pretérito indica um fato certo, que vai acontecer amanhã.
 Uma manchete de jornal diz: *"Equipe brasileira vence campeonato."* A final aconteceu no dia anterior.
 
 a) O verbo está no presente, usado para aproximar do leitor um fato já ocorrido.
+
 b) O verbo está no presente, porque a manchete descreve algo que acontece agora.
+
 c) O verbo está no pretérito perfeito, porque a final já aconteceu no dia anterior.
+
 d) O verbo está no presente, porque manchete de jornal nunca usa outro tempo verbal.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?

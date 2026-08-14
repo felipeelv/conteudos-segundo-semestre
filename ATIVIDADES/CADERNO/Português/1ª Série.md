@@ -10,8 +10,11 @@
 **1.** Classifique os pronomes destacados abaixo.
 
 a) O livro **que** comprei é ótimo.
+
 b) **Alguém** deixou isto aqui.
+
 c) **Cujo** autor é desconhecido.
+
 d) **Quantos** vieram?
 
 **Responda:** a que classe pertence cada um dos quatro pronomes destacados?
@@ -61,8 +64,11 @@ Procure o texto impresso, digital ou no acervo da escola, e registre a fonte.
 **7.** Assinale, entre os quatro empregos de pronome relativo, o único correto, e diga que erro há em cada um dos outros três.
 
 a) A cidade **onde** nasci fica no interior do estado.
+
 b) A situação **onde** me encontro é bastante delicada.
+
 c) O autor **cujo** a obra li ontem é português.
+
 d) A autora **que** falei ontem escreveu o prefácio.
 
 **Responda:** qual emprego está correto, e que erro há em cada um dos outros três?
@@ -76,8 +82,11 @@ d) A autora **que** falei ontem escreveu o prefácio.
 Num artigo, o autor comenta um livro que está em suas mãos naquele momento e outro que o leitor havia mencionado na carta.
 
 a) Deve usar *este* para o livro que está com ele e *esse* para o que o leitor mencionou.
+
 b) Deve usar *esse* para o livro que está com ele e *este* para o que o leitor mencionou.
+
 c) Deve usar *aquele* nos dois casos, porque os dois livros estão fora do texto escrito.
+
 d) Tanto faz qual demonstrativo usar, porque os três indicam exatamente a mesma distância.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
@@ -90,8 +99,11 @@ d) Tanto faz qual demonstrativo usar, porque os três indicam exatamente a mesma
 **1.** Classifique cada verbo abaixo quanto à regularidade.
 
 a) cantar
+
 b) caber
+
 c) precaver-se
+
 d) chover
 
 **Responda:** como se classifica cada um dos quatro verbos?
@@ -105,6 +117,7 @@ d) chover
 As duas usam o mesmo verbo em vozes diferentes.
 
 a) A empresa demitiu cem funcionários.
+
 b) Cem funcionários foram demitidos.
 
 **Responda:** o que a segunda construção apaga, e em que situação um texto escolheria cada uma das duas?
@@ -142,8 +155,11 @@ Um estudante escreveu: *"Verbo defectivo é o mesmo que verbo irregular."*
 **6.** Redija, para cada classificação a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando um verbo exemplar em cada:
 
 a) regular
+
 b) irregular
+
 c) anômalo
+
 d) abundante
 
 ---
@@ -151,8 +167,11 @@ d) abundante
 **7.** Assinale, entre as quatro afirmações sobre classificação verbal, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) *Ser* e *ir* são irregulares comuns, porque apenas algumas terminações mudam.
+
 b) *Ser* e *ir* são anômalos: apresentam radicais diferentes ao longo da conjugação.
+
 c) Verbo defectivo é o que tem dois particípios, como *aceito* e *aceitado*.
+
 d) Verbo abundante é o que não apresenta todas as formas usuais, como *falir*.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
@@ -166,8 +185,11 @@ d) Verbo abundante é o que não apresenta todas as formas usuais, como *falir*.
 *É importante os alunos estudarem para a prova.*
 
 a) A forma *estudarem* está correta, porque o infinitivo tem sujeito próprio: *os alunos*.
+
 b) A forma *estudarem* está correta, porque o verbo *ser* aparece no singular na frase.
+
 c) A forma correta seria *estudar*, porque o infinitivo nunca recebe marca de pessoa.
+
 d) A forma *estudarem* está correta, porque *alunos* é uma palavra que está no plural.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
@@ -180,8 +202,11 @@ d) A forma *estudarem* está correta, porque *alunos* é uma palavra que está n
 **1.** Classifique cada palavra destacada abaixo como advérbio ou como palavra denotativa.
 
 a) **Apenas** dois alunos faltaram.
+
 b) Ele chegou **cedo**.
+
 c) **Inclusive** o diretor compareceu.
+
 d) Falou **muito** bem.
 
 **Responda:** qual das duas classificações cabe a cada uma das quatro palavras destacadas?
@@ -195,6 +220,7 @@ d) Falou **muito** bem.
 Os dois anúncios trazem o mesmo preço.
 
 a) R$ 99,90
+
 b) Apenas R$ 99,90
 
 **Responda:** que efeito a segunda produz, e por qual mecanismo linguístico ela o produz?
@@ -232,8 +258,11 @@ Um estudante escreveu: *"Palavras denotativas são advérbios, só que com outro
 **7.** Assinale, entre as quatro palavras destacadas, a única que é palavra denotativa de **exclusão**, e diga o que é cada uma das outras três.
 
 a) **Até** ele veio à reunião de sábado.
+
 b) **Apenas** dois estudantes faltaram hoje.
+
 c) **Aliás**, o prazo já havia terminado.
+
 d) **Certamente** o prazo já terminou.
 
 **Responda:** qual das quatro é denotativa de exclusão, e o que é cada uma das outras três?
@@ -247,8 +276,11 @@ d) **Certamente** o prazo já terminou.
 Uma peça publicitária anuncia *"Apenas R$ 99,90"* em vez de escrever somente *"R$ 99,90"*.
 
 a) A palavra *apenas* não muda nada, porque o preço continua exatamente o mesmo.
+
 b) *Apenas* apresenta o preço como pequeno, ainda que o valor não tenha mudado.
+
 c) *Apenas* é advérbio de intensidade e reduz o valor efetivamente cobrado.
+
 d) *Apenas* é advérbio de tempo e indica que a oferta vale por pouco tempo.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?

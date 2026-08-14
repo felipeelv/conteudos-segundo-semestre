@@ -358,3 +358,16 @@ Contagem inalterada: **6 arquivos-ano · 6 capítulos · 36 questões**. Verific
 **Blocos ao final:** `Responda:` **25** · `Antes de começar, responda por escrito:` **4** · `Confira você mesmo:` **6** · `Registre:` **0** — todos idênticos aos de antes da passada. Checagem 2: **36 de 36**. Comando corrido: **0**.
 
 **Nenhuma linha da grade mudou.** As 36 foram confrontadas com a seção 2 depois da reescrita, com atenção aos valores que os critérios citam — a soma 2.000 das quatro células, as contagens 6 e 1 das somas 7 e 2, os R$ 4.140,00 da média deslocada, a coluna de desvios que tem de dar zero: todos continuam pedidos na folha.
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **20 blocos** desta disciplina — **12** de alternativas de `OBJ` e **8** de subitens de especificação de outras questões —, somando **74** linhas `a)`–`d)`: **55 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+**Um caso a mais nesta disciplina.** Em `1ª Série · Cap. 1 · Q3`, o subitem `b)` não estava colado só nos irmãos: vinha grudado no parágrafo *"Apresente o resultado com duas casas decimais"*, que fecha o `a)`. Era o único caso do caderno inteiro em que uma alternativa se fundia ao texto anterior, e foi corrigido pela mesma regra.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

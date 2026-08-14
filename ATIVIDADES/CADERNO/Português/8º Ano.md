@@ -10,8 +10,11 @@
 **1.** Classifique o sujeito de cada oração abaixo.
 
 a) Choveu muito ontem.
+
 b) Disseram que vai melhorar.
+
 c) Havia muitas pessoas na fila.
+
 d) Faz dois anos que ele partiu.
 
 **Responda:** de que tipo é o sujeito de cada uma das quatro orações?
@@ -23,6 +26,7 @@ d) Faz dois anos que ele partiu.
 **2.** Classifique as duas frases abaixo, uma de sujeito indeterminado e outra sem sujeito, e explique a diferença entre os dois casos.
 
 a) Precisa-se de funcionários.
+
 b) Trata-se de um engano.
 
 **Responda:** qual é qual, e qual é a diferença entre não identificar o sujeito e não haver sujeito?
@@ -38,6 +42,7 @@ Além da definição, inclua uma coluna com o teste que identifica cada um.
 **4.** Reescreva as frases abaixo transformando o sujeito determinado em indeterminado, sem mudar o sentido.
 
 a) Os moradores reclamaram do barulho.
+
 b) Alguém deixou a porta aberta.
 
 ---
@@ -61,8 +66,11 @@ Procure o texto em livro, revista, jornal, página da internet ou no acervo da e
 **7.** Assinale, entre as quatro orações, a única de **sujeito composto**, e classifique o sujeito de cada uma das outras três.
 
 a) A equipe de robótica apresentou o projeto na feira.
+
 b) O roteiro da apresentação e as imagens ficaram prontos.
+
 c) Há vagas no curso de robótica da escola.
+
 d) Disseram isso no corredor, durante o intervalo.
 
 **Responda:** qual das quatro tem sujeito composto, e como se classifica o sujeito de cada uma das outras três?
@@ -76,8 +84,11 @@ d) Disseram isso no corredor, durante o intervalo.
 Um estudante escreveu: *"Haviam muitos livros na estante."*
 
 a) Está certo, porque *livros* está no plural e o verbo acompanhou essa palavra.
+
 b) Está errado: *haver* com sentido de existir é impessoal e fica no singular — *havia*.
+
 c) Está errado, porque o certo seria *havia muito livros na estante*, sem o plural.
+
 d) Está errado, porque *haver* não pode ser usado nesse sentido; só cabe *existiam*.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
@@ -90,8 +101,11 @@ d) Está errado, porque *haver* não pode ser usado nesse sentido; só cabe *exi
 **1.** Classifique o predicado de cada oração abaixo e localize o predicativo, quando houver.
 
 a) O juiz considerou o réu culpado.
+
 b) A criança chegou feliz.
+
 c) O time venceu a partida.
+
 d) Ela permaneceu calada.
 
 **Responda:** de que tipo é o predicado de cada uma das quatro orações, e onde está o predicativo em cada uma que o tiver?
@@ -105,6 +119,7 @@ d) Ela permaneceu calada.
 As duas têm o mesmo verbo.
 
 a) Ele ficou em casa.
+
 b) Ele ficou nervoso.
 
 **Responda:** em qual das duas o verbo é de ligação, e qual critério decide? E que terceiro exemplo, de sua autoria, traz o mesmo verbo nas duas funções?
@@ -138,8 +153,11 @@ Um estudante escreveu: *"Predicativo do objeto não existe, porque predicativo �
 **6.** Redija, para cada elemento a seguir, um verbete de até quatro linhas que outro estudante possa consultar, indicando a que termo ele se refere:
 
 a) predicativo do sujeito
+
 b) predicativo do objeto
+
 c) verbo de ligação
+
 d) núcleo do predicado
 
 ---
@@ -147,8 +165,11 @@ d) núcleo do predicado
 **7.** Assinale, entre as quatro afirmações sobre o predicado, a única correta, e justifique por que cada uma das outras três está errada.
 
 a) Em *Chegaram os convidados*, o sujeito é *chegaram*, porque vem primeiro na oração.
+
 b) Em *Chegaram os convidados*, o predicado vem antes do sujeito, que é *os convidados*.
+
 c) O predicado é sempre o pedaço final da oração, tudo aquilo que vem depois do sujeito.
+
 d) Uma oração com verbo de ligação tem predicado verbal, porque nela existe um verbo.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
@@ -162,8 +183,11 @@ d) Uma oração com verbo de ligação tem predicado verbal, porque nela existe 
 *A menina ficou feliz com o resultado.*
 
 a) O predicado é nominal, porque *ficou* liga o sujeito a uma característica dele.
+
 b) O predicado é nominal, porque a palavra *feliz* aparece no fim da oração.
+
 c) O predicado é verbal, porque *ficou* indica uma ação praticada pela menina.
+
 d) O predicado é nominal, porque toda oração com adjetivo tem predicado nominal.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?
@@ -224,8 +248,11 @@ Procure a manchete em jornal impresso, em página da internet ou no acervo da es
 **7.** Assinale, entre as quatro orações, a única de **sujeito indeterminado**, e classifique o sujeito de cada uma das outras três.
 
 a) Roubaram o computador da sala de aula ontem à noite.
+
 b) Marina entrou na sala e sentou perto da janela.
+
 c) Faz dois meses que a obra da quadra começou.
+
 d) O laboratório foi inaugurado pela direção da escola.
 
 **Responda:** qual das quatro tem sujeito indeterminado, e como se classifica o sujeito de cada uma das outras três?
@@ -239,8 +266,11 @@ d) O laboratório foi inaugurado pela direção da escola.
 Duas manchetes possíveis: *"A escola inaugurou o laboratório"* e *"O laboratório foi inaugurado"*.
 
 a) As duas relatam o mesmo fato, e a segunda deixa de nomear quem inaugurou.
+
 b) As duas relatam o mesmo fato, e a segunda tem sujeito indeterminado.
+
 c) A segunda não tem sujeito, porque não informa quem praticou a ação.
+
 d) As duas têm o mesmo sujeito, porque as duas falam do mesmo laboratório.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?

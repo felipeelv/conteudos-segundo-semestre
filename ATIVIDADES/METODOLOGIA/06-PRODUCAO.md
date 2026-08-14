@@ -389,7 +389,7 @@ Estrutura, nesta ordem — os blocos 2, 4 e 6 só existem quando o item os tem:
 **Confira você mesmo:** <a verificação, e o que o erro significa>
 ```
 
-Subitens `a) b) c)` continuam valendo quando a mesma tarefa se repete sobre vários objetos.
+Subitens `a) b) c)` continuam valendo quando a mesma tarefa se repete sobre vários objetos. **Cada subitem vai em parágrafo próprio, separado do anterior por linha em branco** — sem ela o Markdown junta todos num bloco único de prosa, e o aluno recebe a lista colada. A mesma regra vale para o primeiro subitem em relação ao texto que o antecede.
 
 Exemplo calibrado — a questão de transformações do 8º ano de Geometria:
 
@@ -431,7 +431,7 @@ A objetiva usa o mesmo esqueleto, com um bloco a mais e uma restrição a mais. 
 
 1. **Enunciado-síntese** com `assinale`, dizendo o que se procura entre as alternativas **e** anunciando a eliminação. As duas metades são obrigatórias.
 2. **Execução** — só em `OBJ.b`, e é o caso descrito em um parágrafo. Em `OBJ.a`, `OBJ.c` e `OBJ.d` não há execução: as alternativas vêm logo depois da síntese.
-3. **As alternativas**, em `a) b) c) d)`. São os subitens que §7.1 já admite, não marcadores — a regra dos dois casos de marcador não se aplica a elas.
+3. **As alternativas**, em `a) b) c) d)`, **uma por parágrafo, separadas por linha em branco** (§7.1). São os subitens que §7.1 já admite, não marcadores — a regra dos dois casos de marcador não se aplica a elas.
 4. **`Responda:`** com as duas entregas na mesma pergunta: qual é a alternativa e por que cada uma das outras está errada.
 5. **`Confira você mesmo:`** sempre presente — os quatro itens de `OBJ` são ✓conf. Ele **não revela a letra**: aponta a estrutura das eliminações, para o aluno auditar o próprio raciocínio.
 
@@ -450,8 +450,11 @@ Exemplo calibrado de `OBJ` — 7º ano de Ciências, item `OBJ.b`:
 > Uma rodovia foi aberta no meio de uma área de mata e a dividiu em dois fragmentos. Nenhum animal foi retirado nem caçado, e a mata dos dois lados continuou de pé. Alguns anos depois, a população da espécie que vivia ali havia diminuído nos dois fragmentos.
 >
 > a) A rodovia não pode ser a causa, porque nenhum animal foi retirado da mata quando ela foi aberta.
+>
 > b) Os dois grupos, agora separados, encontram menos parceiros e resistem menos a doenças e a eventos locais.
+>
 > c) Os dois grupos viraram espécies diferentes no momento em que a rodovia os separou.
+>
 > d) O que reduziu a população foi a perda de vegetação provocada pela obra.
 >
 > **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?
@@ -656,6 +659,9 @@ REGRAS RÍGIDAS:
     grade do _ORGANIZACAO.md, nunca para o arquivo-ano.
   - OBJ: distrator plausível, motivo de eliminação próprio para cada um,
     alternativas de comprimento parecido, e nada de "todas as anteriores" (§8.4).
+  - Subitens e alternativas a) b) c) d): um por parágrafo, separados por LINHA EM
+    BRANCO — inclusive o primeiro em relação ao texto acima dele. Sem ela o
+    Markdown funde a lista inteira num parágrafo e o aluno recebe tudo colado.
   - Ao final da disciplina, imprima a tabela de checagem em lote (§8).
 ```
 

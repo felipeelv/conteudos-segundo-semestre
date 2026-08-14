@@ -240,3 +240,14 @@ As outras duas são a `ESQ` do trajeto de oxigênio e glicose (1ª Série Cap. 1
 **Blocos ao final:** `Responda:` **21** · `Antes de começar:`, `Registre:` e `Confira você mesmo:` **0** — o pool da disciplina não tem `INV` nem item com conferência embutida, como a seção 3 registra. Checagem 2: **40 de 40**. Comando corrido: **0**.
 
 **Nenhuma linha da grade mudou.**
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **15 blocos** desta disciplina — **10** de alternativas de `OBJ` e **5** de subitens de especificação de outras questões —, somando **60** linhas `a)`–`d)`: **45 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

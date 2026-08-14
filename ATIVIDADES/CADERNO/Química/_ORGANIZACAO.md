@@ -197,3 +197,14 @@ As três folhas já estavam no molde. Refino: **6 das 22 questões**. Contagem i
 **Um `Registre:` novo, pela regra revista.** `9º Ano Q1` é `INV` com previsão escrita antes e observação de **oito materiais** depois. As oito observações estavam na mesma frase da instrução de segurança (*não prove, não cheire de perto, não misture*). Separadas: a restrição fica na execução, e as oito leituras no bloco. É exatamente o caso que a nova redação do §7.1 §4 — *"várias observações"*, repetidas no tempo **ou** em número — passou a cobrir.
 
 **Duas execuções saíram do parágrafo do caso:** `2ª Série Q4` (*"Calcule o quociente de reação e compare-o com o valor de Kc"*, colado aos dados do reator).
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **9 blocos** desta disciplina — **6** de alternativas de `OBJ` e **3** de subitens de especificação de outras questões —, somando **36** linhas `a)`–`d)`: **27 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

@@ -373,3 +373,14 @@ Nenhum bloco foi inventado. Os dois `Antes de começar` novos são as `INV.a` e 
 **Pendência que continua aberta.** As `ESC.b` de verbete da disciplina não nomeiam destinatário, o que a checagem 3 pede — e a grade também não o cobra, então folha e grade seguem de acordo. Não foi tocada: acrescentar destinatário é mudar o que a questão pede, não como pede.
 
 **Adendo de 12/08 — leitura do `Registre:` fixada.** O §7.1 §4 dizia *"registro contínuo ou periódico"*, e por essa leitura estrita um bloco desta disciplina foi desfeito nesta rodada. A regra foi reescrita para *"várias observações"* — vale a repetição no tempo **e** a repetição em número, porque o que decide o bloco é separar dado bruto de conclusão, não o calendário. O bloco desfeito foi restaurado. A contagem de `Registre:` da disciplina sobe em 1 em relação ao que a seção anterior registrou.
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **20 blocos** desta disciplina, todos de alternativas de `OBJ` (nenhuma outra questão usa subitem `a) b) c)`), somando **72** linhas `a)`–`d)`: **52 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

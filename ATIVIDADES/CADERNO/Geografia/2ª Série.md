@@ -20,8 +20,11 @@ Escolha pelo menos seis marcos datados. Entre cada par de marcos vizinhos, escre
 **3.** Redija, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada conceito a seguir. Cada verbete precisa dizer o que o conceito nomeia, o que o distingue dos outros três da lista e um caso concreto em que ele se aplica:
 
 a) limite
+
 b) fronteira
+
 c) território
+
 d) soberania
 
 ---
@@ -68,8 +71,11 @@ Dois estudantes definiram terrorismo. O primeiro escreveu: *"Terrorismo é a vio
 **9.** Assinale, entre as quatro situações, a única que descreve uma **nação sem Estado**, e diga o que é cada uma das outras três.
 
 a) Um povo com identidade e projeto político comuns, repartido entre Estados, sem soberania própria.
+
 b) Um Estado reconhecido que ocupa assento permanente no Conselho de Segurança da ONU.
+
 c) Um bloco de 27 países com mercado integrado e instituições comuns entre eles.
+
 d) Uma zona de contato ao redor de uma linha jurídica entre duas soberanias distintas.
 
 **Responda:** qual das quatro é uma nação sem Estado, e o que é cada uma das outras três?
@@ -83,8 +89,11 @@ d) Uma zona de contato ao redor de uma linha jurídica entre duas soberanias dis
 Entre 1884 e 1885, a Conferência de Berlim repartiu o continente africano entre potências europeias, sem participação das sociedades africanas. Os Estados que se tornaram independentes no século XX herdaram esses limites.
 
 a) As fronteiras coloniais são a causa única dos conflitos africanos atuais.
+
 b) As fronteiras coloniais condicionam os conflitos atuais, sem causá-los sozinhas.
+
 c) As fronteiras coloniais não têm efeito, porque foram traçadas há mais de um século.
+
 d) As fronteiras coloniais foram aceitas porque coincidiam com as redes africanas.
 
 **Responda:** qual é a leitura correta, e que erro cada uma das outras três comete?
@@ -128,8 +137,11 @@ O capítulo informa que o cobalto está concentrado no Congo e que as terras rar
 **4.** Redija, para o glossário do seu caderno, um verbete de até cinco linhas sobre cada forma de poder a seguir. Cada verbete precisa dizer em que consiste essa forma de poder, um instrumento pelo qual ela se exerce e um exemplo tratado no capítulo:
 
 a) poder militar
+
 b) poder econômico
+
 c) poder tecnológico
+
 d) poder cultural
 
 ---
@@ -167,8 +179,11 @@ Defina três categorias fechadas para classificar os objetos e escreva a defini�
 **9.** Assinale, entre as quatro afirmações sobre o BRICS, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) O BRICS é uma aliança militar que obriga os seus membros à defesa mútua.
+
 b) O BRICS decide por consenso e não é aliança militar nem mercado comum.
+
 c) O BRICS é um mercado comum, com moeda única e livre circulação interna.
+
 d) O BRICS tinha cinco membros em 2026, os mesmos que lhe deram o nome.
 
 **Responda:** qual é a afirmação correta, e que erro cada uma das outras três comete?
@@ -182,8 +197,11 @@ d) O BRICS tinha cinco membros em 2026, os mesmos que lhe deram o nome.
 Um país do Sul Global detém grandes reservas de um mineral estratégico, mas exporta o minério bruto e não controla o refino, a tecnologia nem os preços.
 
 a) Ter a reserva não basta, porque poder exige também conhecimento, capital, logística e controle político.
+
 b) Ter a reserva não basta, porque minerais estratégicos perdem valor assim que são extraídos do solo.
+
 c) Ter a reserva basta, porque quem detém o recurso decide sozinho quanto ele vale no mercado.
+
 d) Ter a reserva não basta, porque o país não pertence a nenhum bloco econômico internacional.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?

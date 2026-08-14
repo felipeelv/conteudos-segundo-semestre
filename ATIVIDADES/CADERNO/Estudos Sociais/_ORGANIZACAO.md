@@ -390,3 +390,14 @@ O `Antes de começar` novo é a `INV.c` do 7º Cap. 2 Q1, cuja grade cobra *cate
 **Uma observação nova, para a coordenação.** Cinco `ESC.b` de EF1 e EF2 mandam escrever verbete *"destinado ao glossário da sua turma"* (4º Cap. 1 Q5 e Cap. 2 Q5, 5º Cap. 1 Q5 e Cap. 2 Q6, 6º Cap. 3 Q5, 8º Cap. 2 Q5). O destinatário não exige ação de outra pessoa, então não viola o §8.3, mas as outras onze disciplinas usam *"o glossário do seu caderno"*. **Não foi alterado**: mudar o destinatário é mexer no que R5 mede, não em como a questão pede.
 
 **Adendo de 12/08 — leitura do `Registre:` fixada.** O §7.1 §4 dizia *"registro contínuo ou periódico"*, e por essa leitura estrita um bloco desta disciplina foi desfeito nesta rodada. A regra foi reescrita para *"várias observações"* — vale a repetição no tempo **e** a repetição em número, porque o que decide o bloco é separar dado bruto de conclusão, não o calendário. O bloco desfeito foi restaurado. A contagem de `Registre:` da disciplina sobe em 1 em relação ao que a seção anterior registrou.
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **41 blocos** desta disciplina — **34** de alternativas de `OBJ` e **7** de subitens de especificação de outras questões —, somando **151** linhas `a)`–`d)`: **110 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.

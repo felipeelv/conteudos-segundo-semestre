@@ -26,8 +26,11 @@ Registre em cada célula a soma dos pontos das duas faces.
 **3.** Redija, para quem faltou à aula, um verbete de cinco linhas sobre cada conceito a seguir. Em cada verbete use obrigatoriamente os termos "resultado favorável", "total de resultados possíveis" e "ao mesmo tempo", e dê um exemplo tirado do lançamento de dois dados:
 
 a) espaço amostral
+
 b) evento simples
+
 c) eventos mutuamente exclusivos
+
 d) eventos complementares
 
 ---
@@ -61,8 +64,11 @@ Em um jogo, você pode escolher entre ganhar se sair 6 em um dado, ou ganhar se 
 **7.** Assinale, entre os quatro pares de eventos do lançamento de um dado, o único formado por eventos **complementares**, e justifique por que cada um dos outros três não é.
 
 a) "Sair 6" e "não sair 6".
+
 b) "Sair 1" e "sair 2".
+
 c) "Sair número par" e "sair número maior que 3".
+
 d) "Sair número par" e "sair 2".
 
 **Responda:** qual é o par de eventos complementares, e por que cada um dos outros três não é?
@@ -76,8 +82,11 @@ d) "Sair número par" e "sair 2".
 No lançamento de dois dados, o espaço amostral tem 36 pares. A soma 7 aparece em 6 desses pares, e a soma 2 aparece em apenas 1.
 
 a) As duas somas têm a mesma chance, porque qualquer soma pode sair num lançamento.
+
 b) A soma 7 é seis vezes mais provável que a soma 2, porque tem seis caminhos contra um.
+
 c) A soma 2 é mais provável, porque exige o menor número possível nos dois dados.
+
 d) A chance da soma 7 é 7/36, porque o número da soma dá o número de caminhos.
 
 **Responda:** qual é a alternativa correta, e por que cada uma das outras três está errada?

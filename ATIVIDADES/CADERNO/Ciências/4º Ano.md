@@ -62,7 +62,9 @@ Antes de sair, escreva as três categorias em que vai separar o que encontrar: s
 **7.** Assinale, entre as três frases, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) A água do lago não é um ser vivo, mas sem ela os peixes não sobrevivem ali.
+
 b) A água do lago é um ser vivo, porque ela se mexe e os peixes precisam dela.
+
 c) A água do lago não é um ser vivo, então ela não faz falta nenhuma ao lago.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
@@ -74,7 +76,9 @@ c) A água do lago não é um ser vivo, então ela não faz falta nenhuma ao lag
 **8.** Assinale, entre as três frases sobre o sapo, a única que está certa, e escreva por que **uma** das outras duas está errada.
 
 a) O sapo é só predador, porque ele caça insetos para comer.
+
 b) O sapo é predador do inseto e presa da cobra ao mesmo tempo.
+
 c) O sapo é só presa, porque a cobra é maior e mais forte que ele.
 
 **Responda:** qual frase está certa? Escolha uma das outras duas e escreva por que ela está errada.
@@ -134,7 +138,9 @@ Uma prefeitura tem dinheiro para uma só coisa: criar um parque protegido longe 
 Um saco de lixo é deixado na calçada, longe de qualquer rio. Dias depois, aparece um plástico igual boiando no rio da cidade.
 
 a) O plástico chegou ao rio porque a chuva levou o lixo da rua até o bueiro.
+
 b) O plástico não pode ser o mesmo, porque a calçada fica longe do rio.
+
 c) O plástico só chegaria ao rio se alguém o jogasse dentro da água.
 
 **Responda:** qual explicação está certa? Escolha uma das outras duas e escreva por que ela está errada.
@@ -146,7 +152,9 @@ c) O plástico só chegaria ao rio se alguém o jogasse dentro da água.
 **8.** Assinale, entre os três barrancos, o único em que a chuva vai levar mais terra embora, e escreva por que **um** dos outros dois perde menos terra.
 
 a) Um barranco coberto de capim, com as raízes segurando o chão.
+
 b) Um barranco onde a vegetação foi retirada e o chão ficou descoberto.
+
 c) Um barranco embaixo de árvores, coberto de folhas caídas no chão.
 
 **Responda:** em qual barranco a chuva leva mais terra? Escolha um dos outros dois e escreva por que ele perde menos.

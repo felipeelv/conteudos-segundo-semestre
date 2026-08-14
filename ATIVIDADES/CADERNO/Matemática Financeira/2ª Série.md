@@ -26,8 +26,11 @@ Numa população hipotética de 2.000 casos, o grupo menor reúne 5% do total. U
 **3.** Redija, para quem faltou às três aulas, um verbete de cinco linhas sobre cada conceito a seguir. Em cada verbete apresente a fórmula, use obrigatoriamente os termos "interseção", "universo" e "condição", e feche com uma situação em que aplicar o conceito errado produziria um valor maior que o verdadeiro:
 
 a) regra da união
+
 b) probabilidade condicional
+
 c) probabilidade total
+
 d) teorema de Bayes
 
 ---
@@ -63,8 +66,11 @@ Apresente o cálculo para uma caixa com 100 spams e 900 mensagens legítimas.
 **7.** Assinale, entre as quatro afirmações, a única correta, e justifique por que cada uma das outras três está errada, nomeando o tipo de erro que ela comete.
 
 a) Para dois eventos quaisquer, P(A ∪ B) = P(A) + P(B), sem nenhum outro termo.
+
 b) Para dois eventos quaisquer, P(A ∪ B) = P(A) + P(B) − P(A ∩ B).
+
 c) Dois eventos exclusivos e não vazios são sempre independentes entre si.
+
 d) Combinação e arranjo dão o mesmo número, porque contam os mesmos grupos.
 
 **Responda:** qual é a alternativa correta, e que erro cada uma das outras três comete?
@@ -78,8 +84,11 @@ d) Combinação e arranjo dão o mesmo número, porque contam os mesmos grupos.
 Um filtro sinaliza 90% das mensagens de spam e 5% das legítimas. Numa amostra de 1.000 mensagens, 100 são spam. Entre as mensagens sinalizadas, cerca de 67% são realmente spam.
 
 a) 67% é menor que 90% porque as 900 legítimas produzem 45 falsos alarmes contra 90 acertos.
+
 b) 67% é menor que 90% porque o filtro deixa de sinalizar 10% dos spams que deveria pegar.
+
 c) A resposta certa seria 90%, porque essa é a taxa de acerto anunciada pelo próprio filtro.
+
 d) 67% é menor que 90% porque 90% e 5% devem ser somados e o total dividido por dois.
 
 **Responda:** qual das quatro se sustenta por inteiro, e o que há de errado em cada uma das outras três?

@@ -173,3 +173,14 @@ As duas folhas já estavam no molde. Refino: **4 das 16 questões**. Contagem in
 **Marcador de caso (b): 3 questões.** Os três casos a classificar como trabalho ou emprego (1ª Q1, que vinham em frase corrida) e os dois `ESQ` de percurso — a divisão técnica do trabalho (1ª Q3) e o percurso de uma reivindicação até virar política pública (2ª Q2) —, ambos com quatro requisitos encadeados, entre eles o ponto a assinalar, que é o que a rubrica R4 mais pesa.
 
 **Um `Registre:` novo, pela regra revista.** `1ª Série Q2` abre em *"Registre, em um levantamento…"*, tem previsão escrita antes e conta ocupações por categoria ao longo de um caminho — mas a contagem estava na mesma frase da restrição de privacidade (*não registre nomes de pessoas*). Separadas. É o mesmo caso do 7º ano de Estudos Sociais, e agora as duas disciplinas o tratam igual.
+
+
+### Quebra de linha nas alternativas — 14/08
+
+As alternativas e os subitens vinham em linhas consecutivas, sem linha em branco entre elas. O Markdown funde linhas adjacentes num parágrafo único, e no papel o aluno recebia a lista inteira corrida, como se fosse prosa. Corrigidos **6 blocos** desta disciplina — **4** de alternativas de `OBJ` e **2** de subitens de especificação de outras questões —, somando **24** linhas `a)`–`d)`: **18 linhas em branco inseridas**.
+
+**Nada além de linha em branco foi tocado.** Nenhum enunciado, alternativa, distrator, tipo, item ou rubrica mudou — o diff da disciplina só acrescenta linhas vazias, e a contagem de questões e de alternativas é a mesma de antes.
+
+**Nenhuma linha da grade mudou.** A correção é de renderização, não de conteúdo: o que a folha pede e o que o critério mede continuam idênticos, então a seção 2 não tinha o que acompanhar.
+
+A regra passou a constar em `06-PRODUCAO.md` §7.1 (subitens) e no molde de `OBJ`, na lista de regras rígidas do prompt de produção (§9) e no `CLAUDE.md` §5, item 17 — sem ela, a próxima produção volta a gerar colado.
